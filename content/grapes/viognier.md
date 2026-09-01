@@ -83,8 +83,9 @@ soft acidity permit all of these forms; they do not dictate sweetness.
 
 Co-fermentation means that grapes share alcoholic fermentation, rather than
 finished red and white wines being blended afterward. Under the current
-Côte-Rôtie rules, Syrah is the principal grape and must account for at least 80
-percent of both an estate's plantings and the blend. Viognier is optional,
+Côte-Rôtie rules, [Syrah](syrah.md) is the principal grape and must account for
+at least 80 percent of both an estate's plantings and the blend. Viognier is
+optional,
 including as mixed vines within Syrah parcels up to 20 percent, and when both
 are used the grapes must be vinified together in the same proportion.[^5] Many
 Côte-Rôtie wines use less Viognier or none, so the legal ceiling is not a

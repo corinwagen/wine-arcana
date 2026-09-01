@@ -7,9 +7,10 @@ aliases:
 
 # Baga
 
-Baga is a dark-skinned Portuguese grape most closely associated with Bairrada,
-on the Atlantic side of central Portugal. It is also grown in Dão and is known
-regionally as Tinta Bairrada and Poeirinho. The variety is best understood
+Baga is a dark-skinned Portuguese grape most closely associated with
+[Bairrada](../regions/bairrada.md), on the Atlantic side of central Portugal. It
+is also grown in Dão and is known regionally as Tinta Bairrada and Poeirinho.
+The variety is best understood
 through a tension in its growing season: it ripens late and can retain firm
 acidity and tannin, yet its compact bunches are vulnerable to rot before the
 fruit is fully mature.
@@ -55,8 +56,9 @@ need for disease management.
 ## Wine character and cellar choices
 
 Acidity and tannin are often the structural constants in Baga, but their
-balance depends on ripeness and extraction. A comparison with Nebbiolo is
-useful in this limited sense: both can combine conspicuous acidity and tannin
+balance depends on ripeness and extraction. A comparison with
+[Nebbiolo](nebbiolo.md) is useful in this limited sense: both can combine
+conspicuous acidity and tannin
 without those properties predicting body, color, or aroma. Baga is not a
 Portuguese equivalent of Nebbiolo, and the comparison says little about the
 different places and cellar traditions behind the wines.
@@ -82,7 +84,8 @@ setting. Its vineyards are generally higher, often on low-fertility granite,
 and mountain barriers shelter them from much of the Atlantic moisture;
 summers can be hot and dry. Baga is recognized there, but it shares the red
 grape landscape with varieties including Touriga Nacional, Alfrocheiro, Jaen,
-and Tinta Roriz rather than defining the region as it does Bairrada. These
+and [Tinta Roriz](tempranillo.md) rather than defining the region as it does
+Bairrada. These
 regional conditions alter the pressures on ripening, but do not guarantee a
 single Dão or Bairrada style.
 

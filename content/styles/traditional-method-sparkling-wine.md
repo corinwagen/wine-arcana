@@ -31,10 +31,11 @@ Pressing and first fermentation establish much of the wine's identity. Rapid,
 gentle pressing can produce pale juice from dark-skinned grapes such as [Pinot
 Noir](../grapes/pinot-noir.md), while longer skin contact can make rosé. A
 producer may keep parcels and varieties separate, ferment in steel or wood,
-allow or prevent malolactic fermentation, and blend across vineyards, grapes,
-or vintages. Reserve wines from earlier years can change maturity and
-consistency. The base wine is therefore not a neutral carrier waiting for
-bubbles.
+allow or prevent [malolactic
+fermentation](../concepts/malolactic-fermentation.md), and blend across
+vineyards, grapes, or vintages. Reserve wines from earlier years can change
+maturity and consistency. The base wine is therefore not a neutral carrier
+waiting for bubbles.
 
 At *tirage*, the base wine or blend is bottled with yeast and a *liqueur de
 tirage* containing fermentable sugar; nutrients and a riddling aid may also be
@@ -81,10 +82,10 @@ The grape material sets the range within which the method works.
 [Chardonnay](../grapes/chardonnay.md) and Pinot Noir can be blended or bottled
 separately; [Chenin Blanc](../grapes/chenin-blanc.md) brings a different acid
 and aroma profile; Cava commonly draws on Macabeo, Xarel·lo, and Parellada; and
-[Bairrada](../regions/bairrada.md) can use Baga and several white or red
-varieties. White, rosé, and, in some regions, red sparkling wines can all
-follow bottle fermentation. The method creates effervescence and lees contact,
-not a grape flavour of its own.
+[Bairrada](../regions/bairrada.md) can use [Baga](../grapes/baga.md) and several
+white or red varieties. White, rosé, and, in some regions, red sparkling wines
+can all follow bottle fermentation. The method creates effervescence and lees
+contact, not a grape flavour of its own.
 
 Base-wine choices can be at least as consequential as time in bottle. Earlier
 picking usually preserves acidity but may limit ripeness; later picking can add

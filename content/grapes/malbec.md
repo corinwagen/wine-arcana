@@ -51,10 +51,10 @@ Bordeaux, but its historical role was much larger than its present one.[^2]
 Cahors followed a different course. There Malbec, traditionally Auxerrois or
 Cot, remained the defining variety despite phylloxera and the 1956 frost. The
 appellation recognized in 1971 now requires Cot to account for at least 70% of
-both vineyard plantings and a Cahors blend; Merlot and Tannat are the accessory
-varieties. This rule sets composition, not style: Cahors may be entirely Malbec
-or a blend, and extraction and maturation can make either form more or less
-firm.[^3]
+both vineyard plantings and a Cahors blend; [Merlot](merlot.md) and Tannat are
+the accessory varieties. This rule sets composition, not style: Cahors may be
+entirely Malbec or a blend, and extraction and maturation can make either form
+more or less firm.[^3]
 
 ## From France to Argentina
 
@@ -136,8 +136,9 @@ above sea level cannot be read without latitude and regional climate.
 
 Fermentation completes the distinction. Time and temperature on the skins, cap
 management, pressing, and any stem inclusion determine how much pigment and
-tannin enter the wine. Blending with Cabernet Sauvignon, Merlot, or other
-varieties can change its structure; maturation in new oak can add aroma and
+tannin enter the wine. Blending with [Cabernet
+Sauvignon](cabernet-sauvignon.md), Merlot, or other varieties can change its
+structure; maturation in new oak can add aroma and
 oxygen exposure, while older wood, concrete, and tank reshape the wine in
 different ways. Neither a powerful oak-matured wine nor a fresh, lightly
 extracted one is the variety's necessary form.

@@ -86,7 +86,8 @@ property of the grape.
 For dry still wine, the juice is fermented until little grape sugar remains.
 Harvesting somewhat later can provide more potential alcohol and ripeness, but
 the result also depends on pressing, fermentation vessel and temperature, lees
-contact, malolactic fermentation, and maturation. Stainless steel can preserve
+contact, [malolactic fermentation](../concepts/malolactic-fermentation.md), and
+maturation. Stainless steel can preserve
 a more direct expression; wood and lees can add breadth or oxygen exposure.
 Neither route defines Chenin, and cellar technique cannot restore balance to
 fruit picked without enough acidity or in poor condition.

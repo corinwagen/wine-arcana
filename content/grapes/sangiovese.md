@@ -113,8 +113,9 @@ aroma list.
 
 Maceration controls how much skin and seed material enters the wine. Longer or
 more forceful extraction can reinforce tannin, while a shorter, gentler
-maceration can make a more immediate red. Malolactic fermentation converts
-sharper malic acid to softer lactic acid, changing the acid profile without
+maceration can make a more immediate red. [Malolactic
+fermentation](../concepts/malolactic-fermentation.md) converts sharper malic acid
+to softer lactic acid, changing the acid profile without
 removing Sangiovese's underlying freshness. Large older casks, small new
 barriques, concrete, and stainless steel offer different paths for oxygen and
 wood influence. Bottle age can integrate tannin and develop more earthy or

@@ -9,7 +9,8 @@ aliases:
 # Nebbiolo
 
 Nebbiolo is a dark-skinned *Vitis vinifera* variety from northwestern Italy,
-most closely associated with Piedmont and the wines of Barolo and Barbaresco.
+most closely associated with Piedmont and the wines of
+[Barolo](../regions/barolo.md) and Barbaresco.
 Its defining structural contrast is easy to misread: the wine can be pale and
 quickly develop a garnet hue while retaining substantial tannin and acidity.
 Colour, tannin, and acid come from different compounds and parts of the berry,

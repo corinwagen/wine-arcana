@@ -32,7 +32,8 @@ Bordeaux are genuine regional names, not separate varieties.
 
 Its role as a parent is much clearer. Microsatellite analysis identified
 Cabernet Franc and [Sauvignon Blanc](sauvignon-blanc.md) as the parents of
-Cabernet Sauvignon. Separate work established Cabernet Franc and Magdeleine
+[Cabernet Sauvignon](cabernet-sauvignon.md). Separate work established Cabernet
+Franc and Magdeleine
 Noire des Charentes as the parents of [Merlot](merlot.md), and proposed
 Cabernet Franc and Gros Cabernet as those of Carménère. The Carménère analysis
 contained discrepancies at three genetic markers, so it is less secure than

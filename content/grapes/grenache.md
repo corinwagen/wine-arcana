@@ -83,8 +83,9 @@ regions, but varietal wines are equally established. Rosé limits extraction fro
 the skins, while fortification can stop fermentation and retain grape sugar. In
 one controlled trial, riper Grenache produced more anthocyanin and
 proanthocyanidin; including stems generally increased tannin but also raised pH
-and could reduce colour. Whole-cluster fermentation is therefore a stylistic and
-structural choice, not an automatic route to greater freshness or depth.
+and could reduce colour. [Whole-cluster
+fermentation](../concepts/whole-cluster-fermentation.md) is therefore a stylistic
+and structural choice, not an automatic route to greater freshness or depth.
 
 ## Where it is grown
 
@@ -106,8 +107,9 @@ protected wine tradition. The Cannonau di Sardegna specification encompasses
 red, rosé, dried-grape *passito*, and fortified *liquoroso* wines. In Australia,
 Grenache was historically important in fortified wine and remains concentrated
 in warm regions such as Barossa Valley and McLaren Vale; current dry wines range
-from varietal bottlings to blends, often with Shiraz and Mataro. These traditions
-share a cultivar, not a single model of what its wine should be.
+from varietal bottlings to blends, often with [Shiraz](syrah.md) and
+[Mataro](mourvedre.md). These traditions share a cultivar, not a single model of
+what its wine should be.
 
 [^1]: Federico De Mattia et al., “Genetic relationships between Sardinian and
     Spanish viticulture: the case of ‘Cannonau’ and ‘Garnacha’,” *The Journal of

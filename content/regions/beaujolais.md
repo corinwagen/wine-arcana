@@ -117,8 +117,9 @@ candidates, not recognized premiers crus.[^6]
 ## Production choices and Nouveau
 
 Traditional Beaujolais vinification is usually semi-carbonic rather than a
-pure application of carbonic maceration. Whole bunches fill the vat; berries
-near the bottom break and begin an ordinary yeast fermentation, whose carbon
+pure application of [carbonic
+maceration](../concepts/carbonic-maceration.md). Whole bunches fill the vat;
+berries near the bottom break and begin an ordinary yeast fermentation, whose carbon
 dioxide creates anaerobic conditions for intact berries above. Intracellular
 metabolism and yeast fermentation thus proceed together. The proportion of
 whole fruit, temperature, vatting time, pumping over, cap management, pressing,

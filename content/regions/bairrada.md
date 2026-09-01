@@ -24,7 +24,7 @@ temperatures, substantial rainfall, and west or northwest winds that temper
 summer heat. These conditions often slow the loss of grape acidity, which is
 useful for both still and sparkling wines. They can also complicate ripening:
 humidity and rain near harvest increase disease pressure, especially for a
-late-ripening, rot-susceptible variety such as Baga.
+late-ripening, rot-susceptible variety such as [Baga](../grapes/baga.md).
 
 Bairrada is not defined by one uniform soil. Official descriptions emphasize
 clay and clay-limestone alongside sandy and sandy-loam ground. The DO rules
@@ -52,7 +52,7 @@ notes both its high acidity and its aptitude for sparkling base wine. Picking
 date matters: an early-ripening grape can be useful in a damp region, but Bical
 can lose acidity if left too long. Still whites and sparkling blends may also
 draw on permitted grapes such as [Chardonnay](../grapes/chardonnay.md), Pinot
-Blanc, Sauvignon Blanc, and Sercialinho.
+Blanc, [Sauvignon Blanc](../grapes/sauvignon-blanc.md), and Sercialinho.
 
 ## Wine and the sparkling tradition
 

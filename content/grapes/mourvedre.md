@@ -88,8 +88,9 @@ seeds have matured can give an especially hard texture; later harvest may
 soften that impression but also bring more sugar and less acidity. Longer or
 more forceful skin contact can extract more tannin, while rosé production limits
 it. Blending can place Mourvèdre's structure around the broader fruit and softer
-texture of Grenache or alongside Syrah's color and aroma, but varietal reds can
-show the same range through site, harvest date, and cellar practice alone.
+texture of [Grenache](grenache.md) or alongside [Syrah](syrah.md)'s color and
+aroma, but varietal reds can show the same range through site, harvest date, and
+cellar practice alone.
 
 ## Mediterranean Spain and Bandol
 

@@ -19,8 +19,9 @@ in bottle.
 
 ## History and identity
 
-DNA parentage analysis identified Cabernet Franc and Magdeleine Noire des
-Charentes as Merlot's parents; a later phased assembly of the Merlot genome used
+DNA parentage analysis identified [Cabernet Franc](cabernet-franc.md) and
+Magdeleine Noire des Charentes as Merlot's parents; a later phased assembly of
+the Merlot genome used
 the genomes of both parents to separate the two inherited lineages.[^1] The
 evidence establishes the relationship, but not the date or exact place of the
 original seedling. Merlot is documented in French literature only from the late
@@ -35,8 +36,9 @@ regional styles rather than one international Merlot formula.
 ## Viticulture and ripening
 
 “Early” is relative: Merlot is not among the first wine grapes to mature, but it
-normally reaches harvest before Cabernet Sauvignon in the same region. French
-catalogue benchmarks place the two in the same broad mid-season ripening group,
+normally reaches harvest before [Cabernet Sauvignon](cabernet-sauvignon.md) in
+the same region. French catalogue benchmarks place the two in the same broad
+mid-season ripening group,
 with Merlot ahead; multi-year Bordeaux observations likewise found a shorter
 ripening period and earlier harvest for Merlot.[^2] This can help it reach
 adequate maturity in Bordeaux before autumn rain becomes pressing and gives a

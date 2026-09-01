@@ -19,8 +19,9 @@ range.
 
 ## History and parentage
 
-Microsatellite DNA analysis identified Cabernet Franc and Sauvignon Blanc as
-Cabernet Sauvignon's parents in 1997. A 2025 study using phased genome assemblies
+Microsatellite DNA analysis identified [Cabernet Franc](cabernet-franc.md) and
+[Sauvignon Blanc](sauvignon-blanc.md) as Cabernet Sauvignon's parents in 1997. A
+2025 study using phased genome assemblies
 again separated Cabernet Sauvignon's chromosomes into lineages inherited from
 those two varieties.[^1] This establishes parentage more securely than the older
 similarities of name and appearance did, but it does not date or locate the
@@ -40,8 +41,9 @@ yield, bunch form, and ripening behaviour.
 ## Viticulture and ripening
 
 Cabernet Sauvignon begins growth relatively late in spring, which can reduce its
-exposure to an early frost. It also ripens after Merlot and Cabernet Franc in
-Bordeaux, so that initial advantage becomes an autumn risk. If warmth and light
+exposure to an early frost. It also ripens after [Merlot](merlot.md) and
+Cabernet Franc in Bordeaux, so that initial advantage becomes an autumn risk.
+If warmth and light
 run short, growers must choose between waiting for further skin and seed
 development and harvesting before rain or disease damages the crop. Its small
 bunches and relatively low susceptibility to grey rot help, but they do not

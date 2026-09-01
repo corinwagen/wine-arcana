@@ -118,11 +118,13 @@ describe a complete method: selected berries infused into a base wine are not
 equivalent to directly pressing fruit gathered through successive selections.
 
 Germany's Beerenauslese and Trockenbeerenauslese traditions commonly rely on
-overripe, noble-rotted berries, especially Riesling, whereas Eiswein concentrates
-juice by freezing and is a separate process. In Alsace, *Sélection de Grains
+overripe, noble-rotted berries, especially [Riesling](../grapes/riesling.md),
+whereas Eiswein concentrates juice by freezing and is a separate process. In
+Alsace, *Sélection de Grains
 Nobles* denotes hand-picked noble-rotted berries from Riesling, Muscat, Pinot
-Gris, or Gewürztraminer. The Loire also makes botrytized Chenin Blanc, but its
-sweet wines may derive from noble rot, on-vine dehydration, or both. Regional
+Gris, or Gewürztraminer. The Loire also makes botrytized [Chenin
+Blanc](../grapes/chenin-blanc.md), but its sweet wines may derive from noble rot,
+on-vine dehydration, or both. Regional
 names should therefore be read as particular rules and practices rather than as
 interchangeable labels for any sweet wine made from shrivelled grapes.
 

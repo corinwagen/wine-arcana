@@ -34,9 +34,9 @@ and more berries split as the process continues. Yeasts ferment the released
 juice, while intact berries elsewhere in the same vessel continue their own
 anaerobic metabolism. Eventually the fruit is drained and pressed. The juice
 still contains substantial sugar, so yeast fermentation must then finish the
-wine, commonly away from the skins. Malolactic fermentation may follow; it is
-a separate microbial conversion from the malic-acid breakdown that occurred
-inside the grapes.
+wine, commonly away from the skins. [Malolactic
+fermentation](malolactic-fermentation.md) may follow; it is a separate microbial
+conversion from the malic-acid breakdown that occurred inside the grapes.
 
 ## Full and semi-carbonic practice
 
@@ -57,9 +57,9 @@ usage is useful but not universal: the International Organisation of Vine and
 Wine defines carbonic maceration broadly enough for the gas to come from an
 external source, crushed berries, grape respiration, or a combination.[^1]
 
-Whole-bunch fermentation is not automatically carbonic maceration. An open or
-actively worked vat may contain intact berries without maintaining the
-necessary atmosphere, while destemmed but unbroken berries can undergo
+[Whole-bunch fermentation](whole-cluster-fermentation.md) is not automatically
+carbonic maceration. An open or actively worked vat may contain intact berries
+without the necessary atmosphere, while destemmed but unbroken berries can undergo
 intracellular fermentation if oxygen is excluded. Stems and carbonic
 conditions are thus separate variables, even though traditional whole-bunch
 practice often combines them.
@@ -75,8 +75,9 @@ solids can all increase extraction. Pressing regime and the decision to blend
 free-run and press fractions further shape the result. Retaining stems can add
 another source of phenolic material and aroma.
 
-The free-run and press fractions also differ. In a controlled Tempranillo
-trial, wine drawn from the vat resembled the conventionally fermented wine in
+The free-run and press fractions also differ. In a controlled
+[Tempranillo](../grapes/tempranillo.md) trial, wine drawn from the vat resembled
+the conventionally fermented wine in
 several phenolic measures, whereas the fraction pressed from grapes that had
 remained whole longer contained less tannin and anthocyanin but more of some
 fermentation-derived aroma compounds. The fractions are usually blended, so
@@ -96,8 +97,9 @@ the winemaker; it does not impose a sensory identity.
 
 ## Beaujolais without a shortcut
 
-Beaujolais provides the best-known example but also shows the danger of
-reducing the technique to a style label. Traditional Beaujolais vinification
+[Beaujolais](../regions/beaujolais.md) provides the best-known example but also
+shows the danger of reducing the technique to a style label. Traditional
+Beaujolais vinification
 is semi-carbonic: whole [Gamay](../grapes/gamay.md) bunches are loaded into a
 vat, yeast fermentation begins in the juice below, and intact berries above
 undergo intracellular fermentation. Regional accounts also describe pumping

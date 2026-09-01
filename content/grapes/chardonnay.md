@@ -8,14 +8,15 @@ Chardonnay is a white *Vitis vinifera* variety historically associated with
 Burgundy and Champagne and now grown across much of the wine-producing world.
 Compared with strongly aromatic grapes, it has a relatively low concentration
 of free monoterpenes—the compounds that supply much of the overt perfume of
-Muscat and help distinguish Riesling. In this limited sense Chardonnay is a
-“neutral” variety. It is not aromatically empty: grape-derived precursors,
+Muscat and help distinguish [Riesling](riesling.md). In this limited sense,
+Chardonnay is a “neutral” variety. It is not aromatically empty: grape-derived precursors,
 ripeness and fermentation all contribute, but no single varietal perfume
 consistently overrides place and production method.[^1]
 
 This relative neutrality helps make site and cellar choices unusually legible.
 Chardonnay can become a taut, minimally oaked still wine, a broader wine shaped
-by malolactic fermentation, lees and barrels, or a base for sparkling wine.
+by [malolactic fermentation](../concepts/malolactic-fermentation.md), lees and
+barrels, or a base for sparkling wine.
 These are not fixed subtypes of the grape, and familiar impressions such as
 butter, cream, vanilla and toast have different causes.
 

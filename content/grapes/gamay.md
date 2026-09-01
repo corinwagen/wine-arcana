@@ -5,7 +5,8 @@ title: Gamay
 # Gamay
 
 Gamay is a dark-skinned *Vitis vinifera* variety whose strongest association
-is with Beaujolais, between Lyon and Mâcon. Its reputation was built partly on
+is with [Beaujolais](../regions/beaujolais.md), between Lyon and Mâcon. Its
+reputation was built partly on
 Beaujolais Nouveau: often pale, supple wine released within weeks of harvest.
 That familiar style shows what short whole-bunch maceration can do, not the
 limit of the grape. Longer extraction, more selective sites, and maturation can
@@ -64,8 +65,9 @@ rock into wine.
 
 ## Carbonic and semi-carbonic traditions
 
-True carbonic maceration begins with intact bunches in a sealed vessel from
-which oxygen has been displaced by added carbon dioxide. Inside the unbroken
+True [carbonic maceration](../concepts/carbonic-maceration.md) begins with intact
+bunches in a sealed vessel from which oxygen has been displaced by added carbon
+dioxide. Inside the unbroken
 berries, grape enzymes metabolize some sugar and malic acid without yeast.
 After this intracellular phase, the fruit is pressed and yeast completes the
 alcoholic fermentation. Because the initial berries remain whole, extraction

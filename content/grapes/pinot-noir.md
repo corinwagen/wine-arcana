@@ -30,8 +30,8 @@ antiquity are not securely documented. A historical study places the earliest
 known use of *pinot* as a grape name near Auxerre in 1366; other late
 fourteenth-century records connect Pinot wine with Burgundy and its trade. The
 often repeated claim that Philip the Bold's 1395 ordinance explicitly required
-Pinot is too neat: the surviving text attacks and orders the removal of Gamay
-but does not name the preferred replacement.[^1]
+Pinot is too neat: the surviving text attacks and orders the removal of
+[Gamay](gamay.md) but does not name the preferred replacement.[^1]
 
 Genetics extends the history without resolving the birthplace. A 2026 study of
 ancient DNA matched a grape pip from fifteenth-century Valenciennes to modern
@@ -52,8 +52,9 @@ berry size, ripening, and phenolic potential, and its performance still depends
 on site and season.[^2]
 
 The conspicuous colour variants show how far somatic mutation can go. Genetic
-work indicates that Pinot Blanc and Pinot Gris arose independently from Pinot
-Noir through different mutations affecting berry colour. They are maintained
+work indicates that Pinot Blanc and [Pinot Gris](pinot-gris.md) arose
+independently from Pinot Noir through different mutations affecting berry
+colour. They are maintained
 as distinct cultivated forms, not synonyms for the dark-skinned grape.
 Spätburgunder, Blauburgunder, and Pinot Nero, by contrast, are regional names
 for Pinot Noir itself.[^2]
@@ -71,8 +72,9 @@ longer, more gradual season, not a guarantee of balanced grapes.
 Thin skins are only part of the disease problem. The small berries commonly
 form tight clusters in which damaged fruit, trapped moisture, and limited air
 movement favor grey rot. Microscopy of Champagne fruit found thinner skin cell
-walls in Pinot Noir than in Chardonnay, while other work emphasizes that skin
-structure, cuticle, cluster compactness, maturity, and weather interact in
+walls in Pinot Noir than in [Chardonnay](chardonnay.md), while other work
+emphasizes that skin structure, cuticle, cluster compactness, maturity, and
+weather interact in
 disease susceptibility. Looser-clustered clones, canopy management, crop
 level, and an open, well-drained site can reduce some pressure; none makes the
 variety generally resistant.

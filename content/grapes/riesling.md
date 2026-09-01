@@ -50,8 +50,9 @@ health and selection especially important when harvest is delayed.
 
 Its acid structure is partly genetic, not simply the effect of growing in cool
 places. A three-year comparison at matched stages of ripening found more
-tartaric acid in Riesling berries than in Gewürztraminer and, during later
-sampling, more malic acid as well.[^2] The distinction matters because the two
+tartaric acid in Riesling berries than in
+[Gewürztraminer](gewurztraminer.md) and, during later sampling, more malic acid
+as well.[^2] The distinction matters because the two
 principal grape acids behave differently. After *véraison*, the onset of
 ripening, tartaric acid content per berry is comparatively stable and its
 concentration falls mainly as the berry expands. Malic acid is both diluted and
@@ -122,8 +123,9 @@ Most still Riesling is pressed without prolonged skin fermentation and matured
 in stainless steel or relatively neutral vessels, choices that keep oak aroma
 from dominating its grape-derived character. Large old casks remain important
 in parts of Germany and Alsace, while some producers use skin contact, lees, or
-smaller wood for texture. Malolactic fermentation is often limited when the aim
-is to retain malic acidity, but none of these practices defines the variety.
+smaller wood for texture. [Malolactic
+fermentation](../concepts/malolactic-fermentation.md) is often limited when the
+aim is to retain malic acidity, but none of these practices defines the variety.
 
 ## Regional traditions
 
