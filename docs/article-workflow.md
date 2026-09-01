@@ -99,6 +99,13 @@ Codex CLI run without executing it:
 npm run article:next -- --dry-run
 ```
 
+To work within one article type while preserving the overall queue order, add
+`--kind grape`, `--kind region`, `--kind style`, or `--kind concept`:
+
+```sh
+npm run article:next -- --kind region --dry-run
+```
+
 After the repository baseline is committed and the worktree is clean, launch
 one queued article run with:
 
@@ -109,6 +116,8 @@ npm run article:next
 The runner:
 
 - selects the first queued article whose file does not yet exist;
+- optionally selects only entries of one requested article kind;
+- chooses the matching template from the article path;
 - requires a clean worktree;
 - starts a fresh ephemeral `codex exec` with live web search and a
   workspace-write sandbox;

@@ -11,6 +11,18 @@ const execFileAsync = promisify(execFile);
 const repositoryRoot = path.resolve(fileURLToPath(new URL("..", import.meta.url)));
 const queuePath = path.join(repositoryRoot, "tasks", "article-queue.json");
 const articlePathPattern = /^content\/(grapes|regions|styles|concepts)\/[a-z0-9]+(?:-[a-z0-9]+)*\.md$/;
+const articleTypes = {
+  grapes: { kind: "grape", template: "templates/grape.md" },
+  regions: { kind: "region", template: "templates/region.md" },
+  styles: { kind: "style", template: "templates/style.md" },
+  concepts: { kind: "concept", template: "templates/concept.md" },
+};
+const kinds = new Set(Object.values(articleTypes).map(({ kind }) => kind));
+
+function articleType(articlePath) {
+  const directory = articlePath.split("/")[1];
+  return articleTypes[directory];
+}
 
 export function validateQueue(value) {
   if (!Array.isArray(value)) {
@@ -44,10 +56,12 @@ export function validateQueue(value) {
 }
 
 export function formatPrompt(entry) {
+  const type = articleType(entry.path);
   return `Create ${entry.path} as this run's only primary article.
 
-Follow AGENTS.md, CONTRIBUTING.md, the grape template, and every repository
-editorial guide. The specific pilot goal is: ${entry.brief}
+Follow AGENTS.md, CONTRIBUTING.md, ${type.template}, and every repository
+editorial guide. Treat this as a ${type.kind} article. The specific pilot goal
+is: ${entry.brief}
 
 Research authoritative sources directly using live web search. Prefer primary
 scientific, official, and regulatory material where appropriate, supported by
@@ -55,9 +69,9 @@ high-quality specialist reference works. Never cite a search result, snippet,
 or AI summary as evidence. List only sources actually consulted.
 
 Write a concise explanatory article for an interested non-expert that remains
-useful to knowledgeable readers. Qualify disputed history and variable wine
-character. Avoid promotional language, false precision, rigid qualitative
-rankings, and tasting-note lists.
+useful to knowledgeable readers. Qualify disputed history, legal or regulatory
+claims, and variable wine character where relevant. Avoid promotional language,
+false precision, rigid qualitative rankings, and tasting-note lists.
 
 Do not create or edit any other article, the shared bibliography, project
 guides, templates, queue, validator, or configuration. Link only to canonical
@@ -78,11 +92,35 @@ async function pathExists(relativePath) {
   }
 }
 
-async function nextEntry(queue) {
+async function nextEntry(queue, kind = null) {
   for (const entry of queue) {
+    if (kind !== null && articleType(entry.path).kind !== kind) continue;
     if (!(await pathExists(entry.path))) return entry;
   }
   return null;
+}
+
+function parseArguments(arguments_) {
+  let dryRun = false;
+  let kind = null;
+
+  for (let index = 0; index < arguments_.length; index += 1) {
+    const argument = arguments_[index];
+    if (argument === "--dry-run") {
+      dryRun = true;
+    } else if (argument === "--kind") {
+      kind = arguments_[index + 1];
+      if (kind === undefined) throw new Error("--kind requires a value.");
+      if (!kinds.has(kind)) {
+        throw new Error(`Unknown article kind: ${kind}. Use grape, region, style, or concept.`);
+      }
+      index += 1;
+    } else {
+      throw new Error(`Unknown argument: ${argument}`);
+    }
+  }
+
+  return { dryRun, kind };
 }
 
 async function readQueue() {
@@ -130,16 +168,12 @@ async function run(command, args, options = {}) {
 }
 
 async function main() {
-  const dryRun = process.argv.includes("--dry-run");
-  const unknownArguments = process.argv.slice(2).filter((argument) => argument !== "--dry-run");
-  if (unknownArguments.length > 0) {
-    throw new Error(`Unknown argument: ${unknownArguments[0]}`);
-  }
+  const { dryRun, kind } = parseArguments(process.argv.slice(2));
 
   const queue = await readQueue();
-  const entry = await nextEntry(queue);
+  const entry = await nextEntry(queue, kind);
   if (entry === null) {
-    console.log("Article queue is complete.");
+    console.log(kind === null ? "Article queue is complete." : `No incomplete ${kind} articles in queue.`);
     return;
   }
 
@@ -208,4 +242,3 @@ if (fileURLToPath(import.meta.url) === invokedPath) {
     process.exitCode = 1;
   }
 }
-

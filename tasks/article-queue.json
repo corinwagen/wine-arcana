@@ -773,5 +773,20 @@
     "path": "content/grapes/traminette.md",
     "title": "Traminette",
     "brief": "Explain its Gewürztraminer parentage, hybrid disease resistance, aromatic profile, and importance in eastern and Midwestern U.S. wine regions."
+  },
+  {
+    "path": "content/regions/bairrada.md",
+    "title": "Bairrada",
+    "brief": "Explain its Atlantic Portuguese setting, varied soils, Baga's historical role, important white grapes, sparkling-wine tradition, and how appellation rules relate to the broader region."
+  },
+  {
+    "path": "content/concepts/carbonic-maceration.md",
+    "title": "Carbonic maceration",
+    "brief": "Explain intracellular fermentation in intact grapes, distinguish full carbonic from semi-carbonic practice, and connect technique to extraction, aroma, structure, and the range of Beaujolais styles without reducing the method to a flavor recipe."
+  },
+  {
+    "path": "content/styles/traditional-method-sparkling-wine.md",
+    "title": "Traditional-method sparkling wine",
+    "brief": "Explain second fermentation in bottle, lees ageing, riddling, disgorgement, dosage, and how grapes, base wine, time, and regional rules create substantial variation within the style."
   }
 ]
