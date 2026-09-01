@@ -803,5 +803,20 @@
     "path": "content/styles/botrytized-sweet-wine.md",
     "title": "Botrytized sweet wine",
     "brief": "Explain how noble rot can concentrate and transform grapes for sweet wine, distinguish beneficial infection from destructive grey rot, and connect vineyard conditions, selective harvest, fermentation, grape variety, regional tradition, and ageing to substantial stylistic variation."
+  },
+  {
+    "path": "content/regions/beaujolais.md",
+    "title": "Beaujolais",
+    "brief": "Explain Beaujolais as a geographically and geologically varied region rather than a synonym for Nouveau or carbonic maceration, connecting Gamay, the regional and village appellations, the ten crus, production choices, and current legal distinctions without imposing a simple quality ladder."
+  },
+  {
+    "path": "content/concepts/whole-cluster-fermentation.md",
+    "title": "Whole-cluster fermentation",
+    "brief": "Explain fermenting intact grape bunches with stems, separating whole-cluster practice from carbonic maceration and whole-berry fermentation, and connect stem maturity, vessel conditions, extraction, aroma, microbial behavior, grape variety, and producer intent to variable outcomes."
+  },
+  {
+    "path": "content/styles/skin-contact-white-wine.md",
+    "title": "Skin-contact white wine",
+    "brief": "Explain white grapes fermented or macerated with their skins, clarify the relationship among skin-contact white, orange, and amber wine, and connect duration, extraction, oxidation, vessels, grape variety, regional traditions, and ageing without treating colour as a fixed quality or method category."
   }
 ]
