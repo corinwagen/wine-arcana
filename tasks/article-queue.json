@@ -185,11 +185,6 @@
     "brief": "Explain its floral aromatics, Vinho Verde associations, high acidity, and increasing use in serious varietal wines, especially in the Lima subregion."
   },
   {
-    "path": "content/grapes/trajadura.md",
-    "title": "Trajadura",
-    "brief": "Explain its role in Vinho Verde blends, softer acidity and fuller body relative to Loureiro and Alvarinho, and its identity as Treixadura in Spain."
-  },
-  {
     "path": "content/grapes/godello.md",
     "title": "Godello",
     "brief": "Explain its revival in Galicia, especially Valdeorras, its texture and acidity, and how site and winemaking can produce both fresh and substantial whites."
@@ -202,7 +197,7 @@
   {
     "path": "content/grapes/treixadura.md",
     "title": "Treixadura",
-    "brief": "Explain its importance in Ribeiro, relationship to Portugal's Trajadura name, relatively full body, and role in aromatic multi-grape white blends."
+    "brief": "Treat Treixadura as canonical with Trajadura as its Portuguese alias, explaining its roles in Ribeiro and Vinho Verde, relatively full body and softer acidity, and use in aromatic multi-grape white blends."
   },
   {
     "path": "content/grapes/caino-tinto.md",
@@ -630,14 +625,9 @@
     "brief": "Explain that it is Welschriesling rather than Riesling, its broad Central European distribution, neutral-to-subtle profile, and importance around Lake Balaton."
   },
   {
-    "path": "content/grapes/kekfrankos.md",
-    "title": "Kékfrankos",
-    "brief": "Explain its identity with Blaufränkisch, Hungarian distribution, high acidity and spice, and central role in regions such as Sopron and Eger."
-  },
-  {
     "path": "content/grapes/blaufrankisch.md",
     "title": "Blaufränkisch",
-    "brief": "Explain its Central European distribution, Lemberger/Kékfrankos synonyms, high acidity and tannin, and sensitivity to site and ripeness."
+    "brief": "Treat Blaufränkisch as canonical with Kékfrankos and Lemberger as aliases, explaining its Central European distribution, high acidity and tannin, Hungarian roles in Sopron and Eger, and sensitivity to site and ripeness."
   },
   {
     "path": "content/grapes/zweigelt.md",
