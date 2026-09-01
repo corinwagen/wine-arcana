@@ -133,7 +133,11 @@ End with `## Related topics` when there are a few genuinely useful existing
 articles to link, followed by `## Sources`. Do not add a related topic merely
 to make the list longer.
 
-There is no fixed word count. Stop when the important explanatory work is done.
+Default to roughly 700–1,200 words. This is a soft depth budget, not a target or
+hard limit: a genuinely complex subject may need more, and a focused subject
+may need less. Prefer omitting secondary examples, marginal history, and
+fine-grained mechanism to making an article exhaustive. Stop when the central
+explanatory work is done.
 
 ## Mechanics
 

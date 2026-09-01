@@ -73,6 +73,11 @@ useful to knowledgeable readers. Qualify disputed history, legal or regulatory
 claims, and variable wine character where relevant. Avoid promotional language,
 false precision, rigid qualitative rankings, and tasting-note lists.
 
+Default to roughly 700–1,200 words and three to six principal sources. Treat
+these as soft depth budgets, not hard limits. Prefer synthesis and omission of
+secondary detail to exhaustive coverage; use isolated studies when they resolve
+a particular claim rather than as a citation target for every paragraph.
+
 Do not create or edit any other article, the shared bibliography, project
 guides, templates, queue, validator, or configuration. Link only to canonical
 articles that already exist. Mention desirable missing pages as unlinked prose

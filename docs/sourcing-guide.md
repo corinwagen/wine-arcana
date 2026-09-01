@@ -25,6 +25,14 @@ Search snippets, unattributed summaries, AI output, and copied citation lists
 are discovery aids, not sources. Consult the underlying material before citing
 it.
 
+The hierarchy is claim-specific, not a recipe for maximizing the number of
+studies in an article. A strong, current varietal database or authoritative
+reference work is often the best foundation for established identity,
+viticulture, and regional context. Use individual experiments when they test a
+mechanism, resolve a disputed claim, or reveal meaningful limits to a
+generalization; do not assemble isolated studies merely to give every paragraph
+the appearance of scientific rigor.
+
 ## Match the source to the claim
 
 Different questions need different evidence:
@@ -75,6 +83,13 @@ When sources disagree:
 
 Every finished article ends with `## Sources` and a Markdown list. Include only
 sources actually consulted while researching or verifying that article.
+
+Default to three to six principal sources that together support the article's
+important claims. This is a soft budget rather than a hard limit. Prefer a small
+set that permits confident synthesis to a long bibliography assembled through
+topic-by-topic accumulation. Add sources beyond it when distinct legal,
+historical, genetic, or scientific questions genuinely require different
+evidence.
 
 Give enough information for a reader to identify the source. As applicable,
 include author or institution, title, edition or publication, year, and a

@@ -41,6 +41,12 @@ Develop each section around an explanatory purpose. Do not fill a template
 heading with generic material simply because the heading exists. Remove
 instructions and unused optional sections before review.
 
+Use the editorial guide's soft depth budget as a prior toward selection. Build
+from a small set of principal sources, synthesize stable knowledge, and omit
+secondary details before expanding the article into a comprehensive literature
+review. Going beyond the usual word or source range should reflect the needs of
+the subject rather than the amount of research available.
+
 Add links only after confirming their targets. Add citations while the source
 of a consequential claim is still clear.
 
@@ -60,6 +66,17 @@ Review in this order:
 7. **Checks:** run repository validation when available.
 
 Do not merge a draft merely because it passes mechanical validation.
+
+## Periodic link enrichment
+
+After roughly 25–40 new articles, schedule an explicitly scoped maintenance
+pass over the existing corpus. Search older prose for unlinked titles or aliases
+that now resolve to canonical articles, then add only links that materially help
+navigation or understanding. Review each candidate in context; do not turn
+every name occurrence into a link or generate reciprocal links mechanically.
+
+This pass edits Markdown connections. Derived backlinks and graph indexes
+remain reproducible build artifacts and are not editorial authority.
 
 ## Handoff
 

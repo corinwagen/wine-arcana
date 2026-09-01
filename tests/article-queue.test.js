@@ -52,6 +52,9 @@ test("builds a one-file, no-commit article prompt", () => {
   assert.match(prompt, /templates\/grape\.md/);
   assert.match(prompt, /grape article/);
   assert.match(prompt, /Do not create or edit any other article/);
+  assert.match(prompt, /700–1,200 words/);
+  assert.match(prompt, /three to six principal sources/);
+  assert.match(prompt, /Prefer synthesis/);
   assert.match(prompt, /Run npm run check/);
   assert.match(prompt, /do not commit/);
 });
