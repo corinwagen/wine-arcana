@@ -788,5 +788,20 @@
     "path": "content/styles/traditional-method-sparkling-wine.md",
     "title": "Traditional-method sparkling wine",
     "brief": "Explain second fermentation in bottle, lees ageing, riddling, disgorgement, dosage, and how grapes, base wine, time, and regional rules create substantial variation within the style."
+  },
+  {
+    "path": "content/regions/barolo.md",
+    "title": "Barolo",
+    "brief": "Explain Barolo as a Nebbiolo appellation rather than a wine style shorthand, connecting its Langhe setting, commune and site variation, production rules, maturation, and documented historical development without turning named places into a quality ranking."
+  },
+  {
+    "path": "content/concepts/malolactic-fermentation.md",
+    "title": "Malolactic fermentation",
+    "brief": "Explain the microbial conversion of malic acid to lactic acid, its effects on acidity, aroma, texture, and stability, and why producers encourage, limit, delay, or prevent it in different wines without reducing the process to a buttery-flavor recipe."
+  },
+  {
+    "path": "content/styles/botrytized-sweet-wine.md",
+    "title": "Botrytized sweet wine",
+    "brief": "Explain how noble rot can concentrate and transform grapes for sweet wine, distinguish beneficial infection from destructive grey rot, and connect vineyard conditions, selective harvest, fermentation, grape variety, regional tradition, and ageing to substantial stylistic variation."
   }
 ]
