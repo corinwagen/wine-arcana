@@ -1,0 +1,21 @@
+{
+  "name": "wine-arcana",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20.19"
+  },
+  "scripts": {
+    "article:next": "node scripts/run-next-article.js",
+    "check": "npm run lint:markdown && npm run test && npm run validate",
+    "format:markdown": "rumdl fmt .",
+    "lint:markdown": "rumdl check .",
+    "test": "node --test",
+    "validate": "node scripts/validate-content.js"
+  },
+  "dependencies": {
+    "markdown-it": "^15.0.1",
+    "yaml": "^2.9.0"
+  }
+}

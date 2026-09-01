@@ -1,0 +1,8 @@
+# Local planning documents. Durable decisions belong in the repository guides.
+/spec.md
+/SPEC.md
+
+# Local and generated files.
+.DS_Store
+/node_modules/
+/.rumdl_cache/

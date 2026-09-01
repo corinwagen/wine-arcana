@@ -1,0 +1,7 @@
+[global]
+exclude = ["node_modules/**"]
+disable = ["MD025"]
+
+[per-file-ignores]
+"templates/*.md" = ["MD057"]
+

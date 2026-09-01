@@ -1,0 +1,18 @@
+[
+  {
+    "path": "content/grapes/baga.md",
+    "title": "Baga",
+    "brief": "Test regional specificity, useful comparison, and careful treatment of uncertain history."
+  },
+  {
+    "path": "content/grapes/grenache.md",
+    "title": "Grenache",
+    "brief": "Test canonicalization, regional synonyms, and variation across climates and traditions."
+  },
+  {
+    "path": "content/grapes/syrah.md",
+    "title": "Syrah",
+    "brief": "Test climate-dependent explanation and disciplined use of sensory language."
+  }
+]
+
