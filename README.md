@@ -28,6 +28,9 @@ content/
 docs/           Editorial and contribution guidance
 sources/        Shared bibliography
 templates/      Starting points for new articles
+site/           Source files used only by the static site
+scripts/        Validation, queue, and site-generation tools
+public/         Generated site output (ignored by Git)
 ```
 
 The directory identifies an article's type. Its filename is its stable,
@@ -74,6 +77,23 @@ To validate the corpus without rerunning the validator tests, use
 `npm run validate`. Use `npm run lint:markdown` for RUMDL alone, or
 `npm run format:markdown` to apply its safe Markdown fixes.
 
+## Static site
+
+Build the complete static site from the Markdown corpus with:
+
+```sh
+npm run build:site
+```
+
+The build writes disposable output to `public/`. It renders footnotes, rewrites
+relative article links to site routes, and fails if corpus validation finds an
+error. Editorial changes belong in `content/` or `site/`, never solely in the
+generated HTML.
+
+The GitHub Pages workflow runs the full repository check and deploys `public/`
+on pushes to `main`. The repository's Pages source must be set to **GitHub
+Actions** before the first deployment.
+
 ## Pilot article queue
 
 The review-gated pilot queue starts one fresh Codex CLI run at a time. Preview
@@ -86,9 +106,9 @@ for the safety and scope guarantees.
 
 ## Project status
 
-The repository is currently establishing its editorial system and content
-conventions. Rendering, search, and backlink generation will follow after the
-guides, templates, and validator have been exercised on a small pilot corpus.
+The editorial system, article queue, corpus validator, and minimal static site
+are in place. Search and backlink generation remain possible later additions;
+neither is required to read or navigate the corpus.
 
 ## License
 

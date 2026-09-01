@@ -5,4 +5,5 @@
 # Local and generated files.
 .DS_Store
 /node_modules/
+/public/
 /.rumdl_cache/

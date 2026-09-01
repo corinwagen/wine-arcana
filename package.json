@@ -8,7 +8,8 @@
   },
   "scripts": {
     "article:next": "node scripts/run-next-article.js",
-    "check": "npm run lint:markdown && npm run test && npm run validate",
+    "build:site": "node scripts/build-site.js",
+    "check": "npm run lint:markdown && npm run test && npm run validate && npm run build:site",
     "format:markdown": "rumdl fmt .",
     "lint:markdown": "rumdl check .",
     "test": "node --test",
@@ -16,6 +17,7 @@
   },
   "dependencies": {
     "markdown-it": "^15.0.1",
+    "markdown-it-footnote": "^4.0.0",
     "yaml": "^2.9.0"
   }
 }
