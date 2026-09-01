@@ -1,5 +1,55 @@
 [
   {
+    "path": "content/regions/champagne.md",
+    "title": "Champagne",
+    "brief": "Explain the delimited region through its cool climate, principal subregions and grapes, traditional-method production, reserve wines, blending, and ageing rules without treating Champagne as one uniform style."
+  },
+  {
+    "path": "content/regions/chablis.md",
+    "title": "Chablis",
+    "brief": "Explain Chablis as a cool northern Burgundy appellation centered on Chardonnay, connecting landscape, climate risk, vineyard hierarchy, fermentation and maturation choices, and stylistic variation without turning classifications into automatic quality rankings."
+  },
+  {
+    "path": "content/regions/sancerre.md",
+    "title": "Sancerre",
+    "brief": "Explain Sancerre's Loire setting, varied soils, Sauvignon Blanc and Pinot Noir, production choices, and current appellation rules while qualifying simplistic claims that one soil type produces one fixed flavor."
+  },
+  {
+    "path": "content/regions/cote-rotie.md",
+    "title": "Côte-Rôtie",
+    "brief": "Explain the steep northern Rhône appellation through its climate, exposures and terraces, Syrah and permitted Viognier co-fermentation, maturation choices, and documented history without reducing its sectors to a fixed quality or flavor hierarchy."
+  },
+  {
+    "path": "content/regions/rioja.md",
+    "title": "Rioja",
+    "brief": "Explain Rioja through its three zones, principal grapes, Atlantic and Mediterranean influences, maturation categories, newer geographic indications, and the difference between legal ageing terms and a single house style."
+  },
+  {
+    "path": "content/regions/mosel.md",
+    "title": "Mosel",
+    "brief": "Explain the Mosel region through its river valleys, steep sites, Riesling, climate and ripening constraints, sweetness and Prädikat terminology, and substantial variation among sites and production choices."
+  },
+  {
+    "path": "content/regions/tokaj.md",
+    "title": "Tokaj",
+    "brief": "Explain the Hungarian Tokaj region through its volcanic landscape, principal grapes, conditions for noble rot, Aszú production and legal categories, dry wines, and the distinction between a region and the broader idea of botrytized sweet wine."
+  },
+  {
+    "path": "content/concepts/lees-aging.md",
+    "title": "Lees aging",
+    "brief": "Explain what gross and fine lees are, how contact time and stirring affect texture, aroma, oxygen exposure and stability, and why lees aging behaves differently in still and traditional-method sparkling wines."
+  },
+  {
+    "path": "content/concepts/oak-maturation.md",
+    "title": "Oak maturation",
+    "brief": "Explain how vessel size, oak species, seasoning, toast, age, oxygen transfer and time affect wine, separating maturation effects from fermentation in wood and avoiding a simple new-oak flavor checklist."
+  },
+  {
+    "path": "content/concepts/canopy-management.md",
+    "title": "Canopy management",
+    "brief": "Explain how shoot positioning, leaf removal, hedging and related choices change light, temperature, airflow, disease pressure and ripening, emphasizing that useful practice depends on climate, site, variety and season."
+  },
+  {
     "path": "content/grapes/baga.md",
     "title": "Baga",
     "brief": "Test regional specificity, useful comparison, and careful treatment of uncertain history."
