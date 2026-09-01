@@ -13,6 +13,765 @@
     "path": "content/grapes/syrah.md",
     "title": "Syrah",
     "brief": "Test climate-dependent explanation and disciplined use of sensory language."
+  },
+  {
+    "path": "content/grapes/mourvedre.md",
+    "title": "Mourvèdre",
+    "brief": "Explain Monastrell/Mataro synonymy, late ripening, drought tolerance, and the grape's contrasting Mediterranean and Bandol expressions."
+  },
+  {
+    "path": "content/grapes/chenin-blanc.md",
+    "title": "Chenin Blanc",
+    "brief": "Explain how high natural acidity, harvest timing, botrytis, and production method support styles from dry sparkling wine to long-lived sweet wine."
+  },
+  {
+    "path": "content/grapes/nebbiolo.md",
+    "title": "Nebbiolo",
+    "brief": "Explain its pale color, high tannin and acidity, late ripening, site sensitivity, and the relationship among its major Piedmontese expressions."
+  },
+  {
+    "path": "content/grapes/pinot-noir.md",
+    "title": "Pinot Noir",
+    "brief": "Explain its ancient history, clonal diversity, thin skins, site sensitivity, and the enormous stylistic range produced across cool-climate regions."
+  },
+  {
+    "path": "content/grapes/cabernet-sauvignon.md",
+    "title": "Cabernet Sauvignon",
+    "brief": "Explain its parentage, late ripening, small berries, structural traits, and adaptation across Bordeaux and warmer New World regions."
+  },
+  {
+    "path": "content/grapes/chardonnay.md",
+    "title": "Chardonnay",
+    "brief": "Explain its relatively neutral varietal character and how site, malolactic fermentation, lees, oak, and sparkling-wine production shape its expression."
+  },
+  {
+    "path": "content/grapes/riesling.md",
+    "title": "Riesling",
+    "brief": "Explain its high acidity, aromatic development, ripening behavior, sweetness spectrum, and differing traditions in Germany, Alsace, Austria, and beyond."
+  },
+  {
+    "path": "content/grapes/sauvignon-blanc.md",
+    "title": "Sauvignon Blanc",
+    "brief": "Explain its aromatic chemistry, climate sensitivity, canopy effects, and contrasting Loire, Bordeaux, Marlborough, and warm-climate styles."
+  },
+  {
+    "path": "content/grapes/tempranillo.md",
+    "title": "Tempranillo",
+    "brief": "Explain its many Iberian synonyms, early ripening, structural profile, and how Rioja, Ribera del Duero, Toro, and Portugal produce distinct expressions."
+  },
+  {
+    "path": "content/grapes/sangiovese.md",
+    "title": "Sangiovese",
+    "brief": "Explain its clonal and biotypic diversity, high acidity, regional synonyms, and the differences among Tuscany's major Sangiovese traditions."
+  },
+  {
+    "path": "content/grapes/merlot.md",
+    "title": "Merlot",
+    "brief": "Explain its earlier ripening relative to Cabernet Sauvignon, supple texture, susceptibility to vineyard conditions, and roles in Bordeaux and varietal wines."
+  },
+  {
+    "path": "content/grapes/cabernet-franc.md",
+    "title": "Cabernet Franc",
+    "brief": "Explain its parentage, aromatic character, earlier ripening, and distinct roles in the Loire, Bordeaux, northeastern Italy, and New World regions."
+  },
+  {
+    "path": "content/grapes/gamay.md",
+    "title": "Gamay",
+    "brief": "Explain its association with Beaujolais, granite soils, carbonic and semi-carbonic traditions, and the difference between simple nouveau and cru expressions."
+  },
+  {
+    "path": "content/grapes/malbec.md",
+    "title": "Malbec",
+    "brief": "Explain its southwestern French origins, historical Bordeaux role, migration to Argentina, and the effects of altitude and climate on modern styles."
+  },
+  {
+    "path": "content/grapes/zinfandel.md",
+    "title": "Zinfandel",
+    "brief": "Explain its identity with Primitivo and Crljenak Kaštelanski, Croatian origins, California history, uneven ripening, and stylistic range."
+  },
+  {
+    "path": "content/grapes/pinot-gris.md",
+    "title": "Pinot Gris",
+    "brief": "Explain its relationship to Pinot Noir, gray-pink skins, and the major stylistic split between richer Alsatian Pinot Gris and lighter Pinot Grigio."
+  },
+  {
+    "path": "content/grapes/viognier.md",
+    "title": "Viognier",
+    "brief": "Explain its aromatic intensity, low-to-moderate acidity, narrow harvest window, Rhône history, and use both alone and in co-fermentation with Syrah."
+  },
+  {
+    "path": "content/grapes/gewurztraminer.md",
+    "title": "Gewürztraminer",
+    "brief": "Explain its aromatic profile, pink skins, relatively low acidity, Traminer relationships, and major Alsatian, Alpine, and Central European traditions."
+  },
+  {
+    "path": "content/grapes/albarino.md",
+    "title": "Albariño",
+    "brief": "Explain its Atlantic Iberian context, thick skins, acidity, aromatic character, and identity across Rías Baixas and Portugal as Alvarinho."
+  },
+  {
+    "path": "content/grapes/gruner-veltliner.md",
+    "title": "Grüner Veltliner",
+    "brief": "Explain its Austrian importance, peppery and savory character, acidity, ripening behavior, and range from light wines to concentrated Wachau styles."
+  },
+  {
+    "path": "content/grapes/pinot-meunier.md",
+    "title": "Pinot Meunier",
+    "brief": "Explain its relationship to Pinot Noir, later budbreak and earlier ripening, and its substantial but historically understated role in Champagne."
+  },
+  {
+    "path": "content/grapes/semillon.md",
+    "title": "Sémillon",
+    "brief": "Explain its waxy texture, susceptibility to noble rot, blending role with Sauvignon Blanc, and contrasting expressions in Bordeaux and Hunter Valley."
+  },
+  {
+    "path": "content/grapes/muscat-blanc-a-petits-grains.md",
+    "title": "Muscat Blanc à Petits Grains",
+    "brief": "Explain the Muscat family's complexity, this variety's ancient history, strongly aromatic character, and use in dry, sweet, sparkling, and fortified wines."
+  },
+  {
+    "path": "content/grapes/barbera.md",
+    "title": "Barbera",
+    "brief": "Explain its naturally high acidity, relatively modest tannin, historical role in Piedmont, and evolution from everyday wine to ambitious single-site bottlings."
+  },
+  {
+    "path": "content/grapes/dolcetto.md",
+    "title": "Dolcetto",
+    "brief": "Explain its low acidity relative to other Piedmont grapes, firm tannin, early ripening, and traditional role alongside Nebbiolo and Barbera."
+  },
+  {
+    "path": "content/grapes/corvina.md",
+    "title": "Corvina",
+    "brief": "Explain its role in Valpolicella and Amarone, suitability for appassimento, moderate color and tannin, and relationship with Corvinone and Rondinella."
+  },
+  {
+    "path": "content/grapes/touriga-nacional.md",
+    "title": "Touriga Nacional",
+    "brief": "Explain its small berries, aromatic intensity, tannin, role in Port and dry Portuguese reds, and growing importance outside the Douro."
+  },
+  {
+    "path": "content/grapes/touriga-franca.md",
+    "title": "Touriga Franca",
+    "brief": "Explain its major role in Douro blends, floral character, heat tolerance, and why it is distinct from Touriga Nacional despite the similar name."
+  },
+  {
+    "path": "content/grapes/trincadeira.md",
+    "title": "Trincadeira",
+    "brief": "Explain its Portuguese synonyms, drought tolerance, disease sensitivity, spicy character, and importance in Alentejo and other warm regions."
+  },
+  {
+    "path": "content/grapes/bical.md",
+    "title": "Bical",
+    "brief": "Explain its Bairrada and Dão associations, relatively early ripening, acidity, and role in both still and traditional-method sparkling wines."
+  },
+  {
+    "path": "content/grapes/encruzado.md",
+    "title": "Encruzado",
+    "brief": "Explain its close association with Dão, texture and acidity, affinity for lees and oak, and emergence as one of Portugal's notable white grapes."
+  },
+  {
+    "path": "content/grapes/arinto.md",
+    "title": "Arinto",
+    "brief": "Explain its high acidity, broad Portuguese distribution, synonym complications, and importance in warm regions and age-worthy white blends."
+  },
+  {
+    "path": "content/grapes/fernao-pires.md",
+    "title": "Fernão Pires",
+    "brief": "Explain its Maria Gomes synonym, aromatic character, early ripening, broad Portuguese cultivation, and tendency toward softer acidity in warm conditions."
+  },
+  {
+    "path": "content/grapes/loureiro.md",
+    "title": "Loureiro",
+    "brief": "Explain its floral aromatics, Vinho Verde associations, high acidity, and increasing use in serious varietal wines, especially in the Lima subregion."
+  },
+  {
+    "path": "content/grapes/trajadura.md",
+    "title": "Trajadura",
+    "brief": "Explain its role in Vinho Verde blends, softer acidity and fuller body relative to Loureiro and Alvarinho, and its identity as Treixadura in Spain."
+  },
+  {
+    "path": "content/grapes/godello.md",
+    "title": "Godello",
+    "brief": "Explain its revival in Galicia, especially Valdeorras, its texture and acidity, and how site and winemaking can produce both fresh and substantial whites."
+  },
+  {
+    "path": "content/grapes/mencia.md",
+    "title": "Mencía",
+    "brief": "Explain its northwestern Iberian distribution, identity relationships once confused with Cabernet Franc, aromatic red-fruit profile, and sensitivity to site and extraction."
+  },
+  {
+    "path": "content/grapes/treixadura.md",
+    "title": "Treixadura",
+    "brief": "Explain its importance in Ribeiro, relationship to Portugal's Trajadura name, relatively full body, and role in aromatic multi-grape white blends."
+  },
+  {
+    "path": "content/grapes/caino-tinto.md",
+    "title": "Caíño Tinto",
+    "brief": "Explain its Atlantic Galician and northern Portuguese context, high acidity, late ripening, low yields, and frequent role in blends."
+  },
+  {
+    "path": "content/grapes/brancellao.md",
+    "title": "Brancellao",
+    "brief": "Explain its Galician history, regional synonyms, relatively delicate aromatic style, and revival in Ribeira Sacra and neighboring regions."
+  },
+  {
+    "path": "content/grapes/souson.md",
+    "title": "Sousón",
+    "brief": "Explain its deep color, high acidity, Galician and Portuguese identities, and use as a blending grape in Atlantic Iberian reds."
+  },
+  {
+    "path": "content/grapes/listan-negro.md",
+    "title": "Listán Negro",
+    "brief": "Explain its Canary Islands importance, volcanic growing environments, relation to Mission/Pais lineage where appropriate, and common use in fresh volcanic reds."
+  },
+  {
+    "path": "content/grapes/palomino-fino.md",
+    "title": "Palomino Fino",
+    "brief": "Explain its low acidity and neutral character, central role in Sherry, biological aging context, and identity under other regional names."
+  },
+  {
+    "path": "content/grapes/pedro-ximenez.md",
+    "title": "Pedro Ximénez",
+    "brief": "Explain its use in intensely sweet dried-grape wines, principal Andalusian regions, and distinction from similarly named grapes."
+  },
+  {
+    "path": "content/grapes/moscatel-de-alejandria.md",
+    "title": "Muscat of Alexandria",
+    "brief": "Explain its ancient Muscat-family identity, dual wine/table-grape use, warm-climate suitability, and importance in Mediterranean sweet and fortified wines."
+  },
+  {
+    "path": "content/grapes/xarel-lo.md",
+    "title": "Xarel·lo",
+    "brief": "Explain its central role in Cava, high acidity and phenolic structure, Catalan identity, and increasing use in serious still wines."
+  },
+  {
+    "path": "content/grapes/parellada.md",
+    "title": "Parellada",
+    "brief": "Explain its late ripening, high-elevation Catalan suitability, delicate profile, and traditional role in Cava blends."
+  },
+  {
+    "path": "content/grapes/macabeo.md",
+    "title": "Macabeo",
+    "brief": "Explain its Viura synonym, broad Spanish and southern French distribution, Cava role, and capacity for both neutral young wines and oxidative long-aged styles."
+  },
+  {
+    "path": "content/grapes/verdejo.md",
+    "title": "Verdejo",
+    "brief": "Explain its Rueda history, aromatic and bitter-edged character, oxidation sensitivity, and transformation through modern protective winemaking."
+  },
+  {
+    "path": "content/grapes/grenache-blanc.md",
+    "title": "Grenache Blanc",
+    "brief": "Explain its relationship to Grenache, warm-climate adaptation, texture, moderate acidity, and importance in Rhône, Catalan, and Spanish white blends."
+  },
+  {
+    "path": "content/grapes/alicante-bouschet.md",
+    "title": "Alicante Bouschet",
+    "brief": "Explain its teinturier character, parentage, Garnacha Tintorera synonym, deep pigmentation, and historical importance as a blending grape."
+  },
+  {
+    "path": "content/grapes/carignan.md",
+    "title": "Carignan",
+    "brief": "Explain its Cariñena/Mazuelo identities, high yields and historical reputation, old-vine potential, acidity, tannin, and Mediterranean revival."
+  },
+  {
+    "path": "content/grapes/cinsault.md",
+    "title": "Cinsault",
+    "brief": "Explain its heat tolerance, large berries, relatively soft structure, roles in southern Rhône and Provence blends, and importance in South African wine history."
+  },
+  {
+    "path": "content/grapes/counoise.md",
+    "title": "Counoise",
+    "brief": "Explain its minor but distinctive role in southern Rhône blends, late ripening, moderate color and tannin, and renewed interest in California."
+  },
+  {
+    "path": "content/grapes/picpoul-blanc.md",
+    "title": "Picpoul Blanc",
+    "brief": "Explain its high acidity, Mediterranean adaptation, Piquepoul naming, Picpoul de Pinet association, and role in southern Rhône blends."
+  },
+  {
+    "path": "content/grapes/clairette-blanche.md",
+    "title": "Clairette Blanche",
+    "brief": "Explain its low acidity, susceptibility to oxidation, historical importance in southern France, and continued role in Rhône and sparkling traditions."
+  },
+  {
+    "path": "content/grapes/roussanne.md",
+    "title": "Roussanne",
+    "brief": "Explain its aromatic and textural qualities, good acidity but difficult viticulture, and roles in northern and southern Rhône white wines."
+  },
+  {
+    "path": "content/grapes/marsanne.md",
+    "title": "Marsanne",
+    "brief": "Explain its low-to-moderate acidity, body and age development, northern Rhône importance, and frequent partnership with Roussanne."
+  },
+  {
+    "path": "content/grapes/bourboulenc.md",
+    "title": "Bourboulenc",
+    "brief": "Explain its late ripening, acidity, southern French distribution, and understated role in Mediterranean white blends."
+  },
+  {
+    "path": "content/grapes/vermentino.md",
+    "title": "Vermentino",
+    "brief": "Explain its Rolle and Pigato synonym questions, Mediterranean distribution, saline/herbal character, and adaptation to warm coastal climates."
+  },
+  {
+    "path": "content/grapes/picardan.md",
+    "title": "Picardan",
+    "brief": "Explain its rarity, permitted role in Châteauneuf-du-Pape, historical decline, and what is known versus uncertain about its character."
+  },
+  {
+    "path": "content/grapes/terret-noir.md",
+    "title": "Terret Noir",
+    "brief": "Explain its membership in the Terret family, historical southern French role, pale color, acidity, and present-day rarity."
+  },
+  {
+    "path": "content/grapes/vaccarese.md",
+    "title": "Vaccarèse",
+    "brief": "Explain its minor southern Rhône status, Brun Argenté synonym, recent revival, and why claims about its sensory contribution should remain cautious."
+  },
+  {
+    "path": "content/grapes/muscardin.md",
+    "title": "Muscardin",
+    "brief": "Explain its rarity in the southern Rhône, pale color and aromatic reputation, and carefully distinguish documented facts from repeated appellation lore."
+  },
+  {
+    "path": "content/grapes/pinot-blanc.md",
+    "title": "Pinot Blanc",
+    "brief": "Explain its Pinot-family origin, relationship to Pinot Gris and Chardonnay confusion, and differing Alsatian, German, Italian, and sparkling-wine uses."
+  },
+  {
+    "path": "content/grapes/auxerrois-blanc.md",
+    "title": "Auxerrois Blanc",
+    "brief": "Explain its close association with Alsace, softer acidity and fuller texture than Pinot Blanc, and the labeling ambiguity created by Alsatian Pinot Blanc blends."
+  },
+  {
+    "path": "content/grapes/savagnin.md",
+    "title": "Savagnin",
+    "brief": "Explain its ancient Traminer relationship, Jura importance, high acidity, late ripening, and central role in both topped-up wines and vin jaune."
+  },
+  {
+    "path": "content/grapes/poulsard.md",
+    "title": "Poulsard",
+    "brief": "Explain its very pale pigmentation, delicate tannin, Jura identity, Poulsard/Ploussard naming, and sensitivity to oxidation and site."
+  },
+  {
+    "path": "content/grapes/trousseau.md",
+    "title": "Trousseau",
+    "brief": "Explain its Jura origins, Bastardo synonym in Portugal, need for warm sites, deeper color than Poulsard, and international migration."
+  },
+  {
+    "path": "content/grapes/melon-de-bourgogne.md",
+    "title": "Melon de Bourgogne",
+    "brief": "Explain its near-total association with Muscadet, historical expulsion from Burgundy, neutral character, high acidity, and interaction with lees aging."
+  },
+  {
+    "path": "content/grapes/aligote.md",
+    "title": "Aligoté",
+    "brief": "Explain its long Burgundian history, high acidity, Bouzeron significance, historical reputation, and renewed attention to old vines and distinctive sites."
+  },
+  {
+    "path": "content/grapes/romorantin.md",
+    "title": "Romorantin",
+    "brief": "Explain its extreme concentration in Cour-Cheverny, parentage, high acidity, age-worthiness, and survival as a Loire rarity."
+  },
+  {
+    "path": "content/grapes/pineau-daunis.md",
+    "title": "Pineau d'Aunis",
+    "brief": "Explain its Loire history, pale color, peppery aromatic reputation, high acidity, and modern revival in light reds and rosés."
+  },
+  {
+    "path": "content/grapes/grolleau-noir.md",
+    "title": "Grolleau Noir",
+    "brief": "Explain its Loire distribution, historical rosé role, high yields, light color, and renewed interest among producers of lighter red wines."
+  },
+  {
+    "path": "content/grapes/tannat.md",
+    "title": "Tannat",
+    "brief": "Explain its southwestern French origin, exceptionally high tannin, Madiran tradition, adoption in Uruguay, and changing extraction and élevage practices."
+  },
+  {
+    "path": "content/grapes/negrette.md",
+    "title": "Négrette",
+    "brief": "Explain its Fronton association, aromatic character, relatively soft structure, and the uncertainty surrounding older origin stories."
+  },
+  {
+    "path": "content/grapes/fer-servadou.md",
+    "title": "Fer Servadou",
+    "brief": "Explain its southwestern French synonyms, especially Braucol and Mansois, firm structure, herbal character, and regional distribution."
+  },
+  {
+    "path": "content/grapes/manseng-noir.md",
+    "title": "Manseng Noir",
+    "brief": "Explain its southwestern French history, near-disappearance and revival, genetic relationships where established, and limited modern commercial footprint."
+  },
+  {
+    "path": "content/grapes/petit-manseng.md",
+    "title": "Petit Manseng",
+    "brief": "Explain its thick skins, high sugar accumulation while retaining acidity, Jurançon importance, and suitability for both dry and sweet wines."
+  },
+  {
+    "path": "content/grapes/gros-manseng.md",
+    "title": "Gros Manseng",
+    "brief": "Explain how it differs from Petit Manseng, its higher yields and dry-wine importance, and its role across southwestern France."
+  },
+  {
+    "path": "content/grapes/colombard.md",
+    "title": "Colombard",
+    "brief": "Explain its Cognac-family origins, high acidity, historical distillation role, spread to warm New World regions, and modern fresh white-wine styles."
+  },
+  {
+    "path": "content/grapes/folle-blanche.md",
+    "title": "Folle Blanche",
+    "brief": "Explain its historic dominance in Cognac before phylloxera, high acidity, disease susceptibility, and continuing importance in Armagnac and Muscadet-related contexts."
+  },
+  {
+    "path": "content/grapes/ugni-blanc.md",
+    "title": "Ugni Blanc",
+    "brief": "Explain its identity as Trebbiano Toscano, high acidity and neutral profile, and extraordinary importance in Cognac and Armagnac distillation."
+  },
+  {
+    "path": "content/grapes/muscadelle.md",
+    "title": "Muscadelle",
+    "brief": "Explain that it is unrelated to Muscat despite the name, its floral aroma, Bordeaux blending role, and susceptibility to botrytis."
+  },
+  {
+    "path": "content/grapes/carmenere.md",
+    "title": "Carménère",
+    "brief": "Explain its Bordeaux origins, long confusion with Merlot in Chile, late ripening, methoxypyrazine risk, and modern Chilean identity."
+  },
+  {
+    "path": "content/grapes/petit-verdot.md",
+    "title": "Petit Verdot",
+    "brief": "Explain its very late ripening, deep color and tannin, historical minor Bordeaux role, and increasing success as a varietal wine in warmer regions."
+  },
+  {
+    "path": "content/grapes/durif.md",
+    "title": "Durif",
+    "brief": "Treat Durif as the canonical biological identity behind much Petite Sirah, while explaining why U.S. labeling and mixed historic plantings complicate the synonym relationship."
+  },
+  {
+    "path": "content/grapes/pinotage.md",
+    "title": "Pinotage",
+    "brief": "Explain its Pinot Noir × Cinsault parentage, South African history, viticultural behavior, stylistic evolution, and the origins of its distinctive reputation."
+  },
+  {
+    "path": "content/grapes/assyrtiko.md",
+    "title": "Assyrtiko",
+    "brief": "Explain its Santorini identity, ability to retain acidity in hot dry conditions, traditional basket training, saline reputation, and expansion onto mainland Greece."
+  },
+  {
+    "path": "content/grapes/xinomavro.md",
+    "title": "Xinomavro",
+    "brief": "Explain its high acidity and tannin, pale color, late ripening, Naoussa and Amyndeon traditions, and why comparisons with Nebbiolo are useful but limited."
+  },
+  {
+    "path": "content/grapes/agiorgitiko.md",
+    "title": "Agiorgitiko",
+    "brief": "Explain its Nemea association, deep color, softer acidity than Xinomavro, broad stylistic range, and sensitivity to altitude and harvest timing."
+  },
+  {
+    "path": "content/grapes/moschofilero.md",
+    "title": "Moschofilero",
+    "brief": "Explain its pink-gray skins, aromatic character, Mantinia association, high acidity, and use in still and sparkling wines."
+  },
+  {
+    "path": "content/grapes/malagousia.md",
+    "title": "Malagousia",
+    "brief": "Explain its near-extinction and revival, aromatic profile, modern Greek importance, and the need to separate documented history from promotional retellings."
+  },
+  {
+    "path": "content/grapes/roditis.md",
+    "title": "Roditis",
+    "brief": "Explain its pink skins, broad Greek distribution, high yields, Patras importance, and capacity for fresher styles when grown at elevation or with restrained yields."
+  },
+  {
+    "path": "content/grapes/savvatiano.md",
+    "title": "Savvatiano",
+    "brief": "Explain its long history around Attica, drought tolerance, role in retsina, and increasing use in serious dry wines from old vines."
+  },
+  {
+    "path": "content/grapes/limnio.md",
+    "title": "Limnio",
+    "brief": "Explain its association with Lemnos, ancient literary references without overstating continuity, moderate color and tannin, and role in northern Greek blends."
+  },
+  {
+    "path": "content/grapes/mavrodaphne.md",
+    "title": "Mavrodaphne",
+    "brief": "Explain its traditional fortified-wine use around Patras and Cephalonia, increasing dry-red use, and identity distinctions from similarly named Greek grapes."
+  },
+  {
+    "path": "content/grapes/robola.md",
+    "title": "Robola",
+    "brief": "Explain its Cephalonia concentration, high acidity, limestone-soil associations, and the disputed relationship to similarly named Italian varieties."
+  },
+  {
+    "path": "content/grapes/vidiano.md",
+    "title": "Vidiano",
+    "brief": "Explain its Cretan revival, textural whites, stone-fruit and herbal tendencies, and how modern plantings are expanding beyond its formerly tiny base."
+  },
+  {
+    "path": "content/grapes/kotsifali.md",
+    "title": "Kotsifali",
+    "brief": "Explain its Cretan importance, pale color and soft structure, and traditional blending with darker, firmer Mandilaria."
+  },
+  {
+    "path": "content/grapes/mandilaria.md",
+    "title": "Mandilaria",
+    "brief": "Explain its Aegean distribution, deep color, high tannin and acidity, multiple island synonyms, and frequent use as a structural blending partner."
+  },
+  {
+    "path": "content/grapes/fokiano.md",
+    "title": "Fokiano",
+    "brief": "Explain its Aegean and especially Ikaria associations, red-wine and sweet-wine uses, and the sparse evidence around some historical claims."
+  },
+  {
+    "path": "content/grapes/saperavi.md",
+    "title": "Saperavi",
+    "brief": "Explain its teinturier character, Georgian origin, high acidity and tannin, qvevri and conventional styles, and spread across Eastern Europe and beyond."
+  },
+  {
+    "path": "content/grapes/rkatsiteli.md",
+    "title": "Rkatsiteli",
+    "brief": "Explain its ancient Georgian importance, high acidity, broad Eurasian distribution, qvevri use, and differing styles from neutral to deeply phenolic."
+  },
+  {
+    "path": "content/grapes/mtsvane-kakhuri.md",
+    "title": "Mtsvane Kakhuri",
+    "brief": "Explain its Kakheti association, aromatic character, common blending with Rkatsiteli, qvevri traditions, and distinction from other grapes called Mtsvane."
+  },
+  {
+    "path": "content/grapes/kisi.md",
+    "title": "Kisi",
+    "brief": "Explain its Kakhetian revival, aromatic and textural character, suitability for amber qvevri wine, and limited but growing commercial presence."
+  },
+  {
+    "path": "content/grapes/khikhvi.md",
+    "title": "Khikhvi",
+    "brief": "Explain its Georgian rarity, Kakheti association, use in dry and sweet wines, and what is reliably known about its viticultural and sensory traits."
+  },
+  {
+    "path": "content/grapes/chinuri.md",
+    "title": "Chinuri",
+    "brief": "Explain its Kartli association, high acidity, suitability for sparkling wine and qvevri styles, and regional importance in blends."
+  },
+  {
+    "path": "content/grapes/goruli-mtsvane.md",
+    "title": "Goruli Mtsvane",
+    "brief": "Explain its Kartli identity, freshness and aromatic character, use in still and sparkling wines, and distinction from Mtsvane Kakhuri."
+  },
+  {
+    "path": "content/grapes/tsolikouri.md",
+    "title": "Tsolikouri",
+    "brief": "Explain its major western Georgian role, relatively high acidity, use in dry and naturally sweet wines, and contrasting Imeretian cellar traditions."
+  },
+  {
+    "path": "content/grapes/tsitska.md",
+    "title": "Tsitska",
+    "brief": "Explain its western Georgian distribution, high acidity, blending role with Tsolikouri, and importance in both still and sparkling production."
+  },
+  {
+    "path": "content/grapes/krakhuna.md",
+    "title": "Krakhuna",
+    "brief": "Explain its Imeretian identity, fuller body and ripeness, qvevri suitability, and modern revival from relatively limited plantings."
+  },
+  {
+    "path": "content/grapes/ojaleshi.md",
+    "title": "Ojaleshi",
+    "brief": "Explain its western Georgian distribution, especially Samegrelo, late ripening, aromatic red wines, and confusion among historically similar names."
+  },
+  {
+    "path": "content/grapes/alexandrouli.md",
+    "title": "Aleksandrouli",
+    "brief": "Explain its role in Khvanchkara with Mujuretuli, Racha origin, aromatic red-fruit profile, and relatively limited geographic distribution."
+  },
+  {
+    "path": "content/grapes/mujuretuli.md",
+    "title": "Mujuretuli",
+    "brief": "Explain its close association with Aleksandrouli in Racha and Khvanchkara, limited plantings, and what can and cannot be said confidently about its distinct character."
+  },
+  {
+    "path": "content/grapes/shavkapito.md",
+    "title": "Shavkapito",
+    "brief": "Explain its Kartli origin, late Soviet-era decline and modern revival, pale-to-moderate color, and emerging dry red styles."
+  },
+  {
+    "path": "content/grapes/areni.md",
+    "title": "Areni",
+    "brief": "Explain its Armenian identity, especially Vayots Dzor, high-elevation viticulture, ancient archaeological context without conflating it with modern cultivar continuity, and elegant red-wine styles."
+  },
+  {
+    "path": "content/grapes/voskehat.md",
+    "title": "Voskehat",
+    "brief": "Explain its Armenian history, high-elevation cultivation, thick skins, aromatic and textural white-wine potential, and renewed modern interest."
+  },
+  {
+    "path": "content/grapes/kangun.md",
+    "title": "Kangun",
+    "brief": "Explain its Soviet-era Armenian breeding history, productive viticulture, use in still and brandy production, and distinction from indigenous ancient cultivars."
+  },
+  {
+    "path": "content/grapes/furmint.md",
+    "title": "Furmint",
+    "brief": "Explain its very high acidity, susceptibility to botrytis, Tokaj importance, dry and sweet styles, and increasingly precise vineyard expressions."
+  },
+  {
+    "path": "content/grapes/harslevelu.md",
+    "title": "Hárslevelű",
+    "brief": "Explain its aromatic character, relationship to Furmint in Tokaj and Somló blends, softer texture, and ability to produce distinctive varietal wines."
+  },
+  {
+    "path": "content/grapes/juhfark.md",
+    "title": "Juhfark",
+    "brief": "Explain its concentration on Somló, high acidity, restrained aromatics, volcanic-site associations, and the folklore surrounding the name without presenting it as fact."
+  },
+  {
+    "path": "content/grapes/olaszrizling.md",
+    "title": "Olaszrizling",
+    "brief": "Explain that it is Welschriesling rather than Riesling, its broad Central European distribution, neutral-to-subtle profile, and importance around Lake Balaton."
+  },
+  {
+    "path": "content/grapes/kekfrankos.md",
+    "title": "Kékfrankos",
+    "brief": "Explain its identity with Blaufränkisch, Hungarian distribution, high acidity and spice, and central role in regions such as Sopron and Eger."
+  },
+  {
+    "path": "content/grapes/blaufrankisch.md",
+    "title": "Blaufränkisch",
+    "brief": "Explain its Central European distribution, Lemberger/Kékfrankos synonyms, high acidity and tannin, and sensitivity to site and ripeness."
+  },
+  {
+    "path": "content/grapes/zweigelt.md",
+    "title": "Zweigelt",
+    "brief": "Explain its Blaufränkisch × St. Laurent parentage, Austrian history, early ripening, popularity, stylistic range, and the historical context of its name."
+  },
+  {
+    "path": "content/grapes/st-laurent.md",
+    "title": "St. Laurent",
+    "brief": "Explain its Austrian and Central European distribution, Pinot-like associations without overstating genetic relationships, early ripening, and dark-fruited character."
+  },
+  {
+    "path": "content/grapes/neuburger.md",
+    "title": "Neuburger",
+    "brief": "Explain its Austrian origins and parentage, relatively low acidity, nutty-textural style, and decline in plantings."
+  },
+  {
+    "path": "content/grapes/rotgipfler.md",
+    "title": "Rotgipfler",
+    "brief": "Explain its Thermenregion concentration, parentage, full-bodied white-wine potential, and traditional blending with Zierfandler."
+  },
+  {
+    "path": "content/grapes/zierfandler.md",
+    "title": "Zierfandler",
+    "brief": "Explain its Thermenregion identity, Spätrot synonym, high acidity, age-worthiness, and traditional partnership with Rotgipfler."
+  },
+  {
+    "path": "content/grapes/scheurebe.md",
+    "title": "Scheurebe",
+    "brief": "Explain its German breeding history, actual parentage, aromatic intensity, acid retention, and styles ranging from dry to botrytized sweet wine."
+  },
+  {
+    "path": "content/grapes/silvaner.md",
+    "title": "Silvaner",
+    "brief": "Explain its Central European history, genetic parentage, restrained aromatics, site transparency, and importance in Franconia and Alsace."
+  },
+  {
+    "path": "content/grapes/muller-thurgau.md",
+    "title": "Müller-Thurgau",
+    "brief": "Explain its breeding history and true parentage, early ripening and high yields, historical expansion, quality limitations, and modern old-vine exceptions."
+  },
+  {
+    "path": "content/grapes/kerner.md",
+    "title": "Kerner",
+    "brief": "Explain its Trollinger × Riesling parentage, German breeding history, aromatic profile, cold tolerance, and notable success in Alpine regions."
+  },
+  {
+    "path": "content/grapes/bacchus.md",
+    "title": "Bacchus",
+    "brief": "Explain its German breeding history, aromatic character, lower acid requirements, and unusual prominence in modern English still wine."
+  },
+  {
+    "path": "content/grapes/regent.md",
+    "title": "Regent",
+    "brief": "Explain its disease-resistant breeding background, red-wine role in Germany and northern Europe, and why it belongs to a different viticultural category from classic vinifera."
+  },
+  {
+    "path": "content/grapes/solaris.md",
+    "title": "Solaris",
+    "brief": "Explain its disease-resistant breeding history, very early ripening, high sugar accumulation, and importance in cool-climate regions including Scandinavia."
+  },
+  {
+    "path": "content/grapes/johanniter.md",
+    "title": "Johanniter",
+    "brief": "Explain its disease-resistant breeding background, Riesling lineage, cool-climate suitability, and growing role in low-spray European viticulture."
+  },
+  {
+    "path": "content/grapes/souvignier-gris.md",
+    "title": "Souvignier Gris",
+    "brief": "Explain its modern PIWI breeding background, pink skins, disease resistance, and expanding use in European and cool-climate vineyards."
+  },
+  {
+    "path": "content/grapes/vidal-blanc.md",
+    "title": "Vidal Blanc",
+    "brief": "Explain its hybrid parentage, winter hardiness, thick skins, major role in Canadian icewine, and cultivation in the eastern United States."
+  },
+  {
+    "path": "content/grapes/seyval-blanc.md",
+    "title": "Seyval Blanc",
+    "brief": "Explain its French-hybrid background, cool-climate productivity, use in Britain and eastern North America, and suitability for still and sparkling wines."
+  },
+  {
+    "path": "content/grapes/chambourcin.md",
+    "title": "Chambourcin",
+    "brief": "Explain its French-American hybrid background, disease resistance, late ripening, deep color, and importance in humid eastern U.S. regions."
+  },
+  {
+    "path": "content/grapes/norton.md",
+    "title": "Norton",
+    "brief": "Explain its American Vitis aestivalis background, identity questions involving Cynthiana, disease resistance, historical Missouri and Virginia importance, and distinctive wine structure."
+  },
+  {
+    "path": "content/grapes/concord.md",
+    "title": "Concord",
+    "brief": "Explain its Vitis labrusca background, foxiness, table/juice dominance, historical wine use, and why its sensory profile differs fundamentally from vinifera."
+  },
+  {
+    "path": "content/grapes/niagara.md",
+    "title": "Niagara",
+    "brief": "Explain its Concord × Cassady parentage, strongly labrusca-derived aroma, cold-climate use, and importance in juice and some regional American wines."
+  },
+  {
+    "path": "content/grapes/catawba.md",
+    "title": "Catawba",
+    "brief": "Explain its early American wine history, probable hybrid ancestry, sparkling-wine importance in the nineteenth century, and continued regional cultivation."
+  },
+  {
+    "path": "content/grapes/frontenac.md",
+    "title": "Frontenac",
+    "brief": "Explain its University of Minnesota breeding, extreme cold hardiness, high acidity, dark-fruited character, and role in northern U.S. viticulture."
+  },
+  {
+    "path": "content/grapes/marquette.md",
+    "title": "Marquette",
+    "brief": "Explain its University of Minnesota breeding, Pinot Noir ancestry, cold hardiness, disease resistance, and growing importance for serious northern red wine."
+  },
+  {
+    "path": "content/grapes/la-crescent.md",
+    "title": "La Crescent",
+    "brief": "Explain its cold-hardy breeding background, highly aromatic profile, high acidity, and importance in northern U.S. white-wine production."
+  },
+  {
+    "path": "content/grapes/itasca.md",
+    "title": "Itasca",
+    "brief": "Explain its University of Minnesota breeding, very high cold hardiness, lower acidity relative to some earlier hybrids, and emerging use in northern vineyards."
+  },
+  {
+    "path": "content/grapes/petite-pearl.md",
+    "title": "Petite Pearl",
+    "brief": "Explain its cold-climate breeding background, winter hardiness, lower acidity than many northern hybrids, and growing use in Midwestern red wines."
+  },
+  {
+    "path": "content/grapes/traminette.md",
+    "title": "Traminette",
+    "brief": "Explain its Gewürztraminer parentage, hybrid disease resistance, aromatic profile, and importance in eastern and Midwestern U.S. wine regions."
   }
 ]
-
