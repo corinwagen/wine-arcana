@@ -9,26 +9,24 @@ aliases:
 # Chenin Blanc
 
 Chenin Blanc is a white *Vitis vinifera* variety with historic roots in the
-Loire Valley and a second major home in South Africa. Its most useful defining
-trait is not a particular aroma but the capacity to retain substantial natural
-acidity as the grapes accumulate sugar. That gives growers and winemakers room
-to make markedly different choices: fruit can be picked for dry sparkling wine,
-allowed to ripen for dry or off-dry still wine, or left to concentrate for sweet
-wine.
+Loire Valley and a second major home in South Africa. Its capacity to retain
+substantial natural acidity as the grapes accumulate sugar gives growers and
+winemakers room to make markedly different choices. Growers can pick fruit for
+dry sparkling wine, allow it to ripen for dry or off-dry still wine, or leave it
+to concentrate for sweet wine.
 
-The range is not automatic. Harvest date changes the balance among sugar,
-acidity, flavour development, and fruit health, while fermentation determines
-how much grape sugar remains in the wine. In suitable autumn weather,
-*Botrytis cinerea* can add another route to concentration and alter the grape's
-composition. In persistently wet conditions, the same fungus is destructive.
+Harvest date changes the balance among sugar, acidity, flavour development, and
+fruit health, while fermentation determines how much grape sugar remains in the
+wine. In suitable autumn weather, *Botrytis cinerea* can add another route to
+concentration and alter the grape's composition. In persistently wet conditions,
+the same fungus is destructive.
 
 ## History and names
 
 France's Plantgrape catalogue places Chenin's origin in the Loire Valley and
-only tentatively in Anjou. This identifies its strongest historical association,
-not the site or date at which the original seedling arose. Pineau de la Loire is
-a traditional regional name. Steen, long used in South Africa, denotes the same
-variety rather than a distinct Cape form.
+tentatively in Anjou. The original seedling's site and date remain unknown.
+Pineau de la Loire is a traditional regional name. Steen, long used in South
+Africa, denotes the same variety rather than a distinct Cape form.
 
 ## Viticulture and harvest decisions
 
@@ -38,39 +36,36 @@ secondary buds carry little fruit after frost damage. The variety reaches
 maturity in the middle part of the season in the French reference collection,
 but an appellation, site, or year can shift the practical harvest window.
 
-Its acidity potential is naturally substantial, but acidity alone does not
-select a style. Grapes for sparkling base wine are commonly picked while sugar
-is relatively low and acidity remains pronounced. Waiting can bring more sugar
-and a different flavour and texture balance, supporting fuller dry wines or
-leaving enough sugar for an off-dry or sweet wine. It also extends exposure to
-rain, birds, and rot. Vouvray's rules make the differing objectives unusually
-clear: they set a lower minimum grape-sugar level for sparkling and lightly
-sparkling base wines than for still wine.[^1] These legal thresholds illustrate
-a harvest decision; they are not universal ripeness targets for Chenin.
+Grapes for sparkling base wine are commonly picked while sugar is relatively
+low and acidity remains pronounced. Waiting can bring more sugar and a
+different flavour and texture balance, supporting fuller dry wines or leaving
+enough sugar for an off-dry or sweet wine. It also extends exposure to rain,
+birds, and rot. Vouvray's rules make the differing objectives unusually clear:
+they set a lower minimum grape-sugar level for sparkling and lightly sparkling
+base wines than for still wine.[^1] These legal thresholds illustrate a harvest
+decision; they are not universal ripeness targets for Chenin.
 
 Ripeness is also uneven within a vineyard and even within a bunch. Successive
 passes allow pickers to separate sound, moderately ripe fruit from later,
-shrivelled, or botrytised berries rather than forcing all of it into one style.
-The method is slow and weather-dependent, but it can turn harvest from a single
-date into a sequence of selections.
+shrivelled, or botrytised berries. The method is slow and weather-dependent, but
+it can turn harvest from a single date into a sequence of selections.
 
 Chenin is susceptible to grey rot, as well as powdery mildew and grapevine wood
-diseases. That susceptibility is not itself an advantage. Noble rot occurs when
-*B. cinerea* develops slowly on ripe or overripe berries under particular
-conditions, often involving periods of moisture followed by drying. The fungus
-alters berry metabolism, and cracks in the skin promote water loss, concentrating
-the remaining juice. Continued humidity instead favours bunch rot, which can
-damage the fruit and complicate fermentation. The outcome also varies with
-cultivar, berry condition, vineyard practice, and the berry's wider microbial
-community.[^2]
+diseases. Noble rot occurs when *B. cinerea* develops slowly on ripe or overripe
+berries under particular conditions, often involving periods of moisture
+followed by drying. The fungus alters berry metabolism, and cracks in the skin
+promote water loss, concentrating the remaining juice. Continued humidity
+favours bunch rot, which can damage the fruit and complicate fermentation. The
+outcome also varies with cultivar, berry condition, vineyard practice, and the
+berry's wider microbial community.[^2]
 
 Sweet Chenin therefore need not be botrytised, and botrytised Chenin need not
 come from uniformly affected bunches. The current Coteaux du Layon rules require
 overripe Chenin harvested by successive hand selections; natural concentration
 on the vine may occur with or without noble rot. Only the more specific
 *sélection de grains nobles* category requires concentration by noble rot.[^3]
-This distinction matters: simple dehydration concentrates what is already in
-the berry, whereas *Botrytis* also changes its chemistry.
+Simple dehydration concentrates what is already in the berry, whereas
+*Botrytis* also changes its chemistry.
 
 ## Wine styles and cellar choices
 
@@ -80,17 +75,15 @@ still wine; a second fermentation creates carbon dioxide. In Vouvray that second
 fermentation must occur in bottle, and the wine must mature for at least 12
 months from tirage. Time on the spent yeast can broaden texture and add
 fermentation-derived character, while dosage after disgorgement helps determine
-the final sweetness. The bubbles come from method, not from an intrinsic
-property of the grape.
+the final sweetness.
 
 For dry still wine, the juice is fermented until little grape sugar remains.
 Harvesting somewhat later can provide more potential alcohol and ripeness, but
 the result also depends on pressing, fermentation vessel and temperature, lees
 contact, [malolactic fermentation](../concepts/malolactic-fermentation.md), and
-maturation. Stainless steel can preserve
-a more direct expression; wood and lees can add breadth or oxygen exposure.
-Neither route defines Chenin, and cellar technique cannot restore balance to
-fruit picked without enough acidity or in poor condition.
+maturation. Stainless steel can preserve a more direct expression; wood and
+lees can add breadth or oxygen exposure. Fruit condition and acidity set the
+limits of these cellar choices.
 
 Off-dry and sweet wines retain unfermented grape sugar. A winemaker may stop and
 stabilise fermentation, or fermentation may slow in a highly concentrated must;
@@ -104,9 +97,8 @@ That combination of acidity, concentrated fruit, and residual sugar can support
 prolonged bottle development in carefully made sweet wines. Coteaux du Layon's
 official specification describes such wines as suited to extended ageing and
 relates their evolution to the balance among acidity, alcohol, and texture.
-Longevity is still conditional on healthy fruit, sound fermentation,
-stabilisation, oxygen management, closure, and storage. A sweet label or the
-presence of *Botrytis* is not a guarantee, and dry Chenin can also age when its
+Longevity also depends on healthy fruit, sound fermentation, stabilisation,
+oxygen management, closure, and storage. Dry Chenin can also age when its
 structure and production support it.
 
 ## Where it is grown
@@ -122,16 +114,14 @@ South Africa is the variety's other principal centre, where it was long known as
 Steen. Across the Western Cape, Chenin is used for dry still wines of very
 different weight and maturation, sparkling wine, sweet wine, blends, and
 distillation. Warm inland sites, cooler maritime influence, water availability,
-vine age, yields, and harvest date prevent a single South African profile. The
+vine age, yields, and harvest date produce widely varying profiles. The
 International Organisation of Vine and Wine's 2017 survey, based largely on
 country data from around 2015, recorded Chenin as South Africa's most planted
-variety at that time; the dated figure should not be treated as a current area
-estimate.
+variety at that time; the figure is not a current area estimate.
 
-Chenin is also grown beyond these two centres. In each case, the useful question
-is not whether the grape is inherently “sparkling,” “dry,” or “sweet,” but how
-site, harvest condition, and production method divide its acidity and sugar
-among those possibilities.
+Chenin is also grown beyond these two centres. In each place, site, harvest
+condition, and production method shape the balance of acidity and sugar in
+sparkling, dry, and sweet wines.
 
 [^1]: Ministère de l'Agriculture et de la Souveraineté alimentaire, *Cahier des
     charges de l'appellation d'origine contrôlée “Vouvray”*, homologated 29
