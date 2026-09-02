@@ -64,6 +64,8 @@ test("builds article, category, homepage, about, and fallback pages", async (t) 
   for (const relativePath of [
     "index.html",
     "404.html",
+    "robots.txt",
+    "sitemap.xml",
     "style.css",
     ...SITE_ASSETS,
     ".nojekyll",
@@ -80,16 +82,37 @@ test("builds article, category, homepage, about, and fallback pages", async (t) 
 
   const homepage = await fs.readFile(path.join(outputDir, "index.html"), "utf8");
   const baga = await fs.readFile(path.join(outputDir, "grapes", "baga", "index.html"), "utf8");
+  const notFound = await fs.readFile(path.join(outputDir, "404.html"), "utf8");
+  const robots = await fs.readFile(path.join(outputDir, "robots.txt"), "utf8");
+  const sitemap = await fs.readFile(path.join(outputDir, "sitemap.xml"), "utf8");
   assert.match(homepage, /Baga/);
   assert.match(homepage, /Tinta Bairrada/);
   assert.match(homepage, /href="favicon\.ico"/);
   assert.match(homepage, /href="site\.webmanifest"/);
+  assert.match(homepage, /rel="canonical" href="https:\/\/winearcana\.com\/"/);
+  assert.match(homepage, /"@type":"WebSite"/);
   assert.match(baga, /Also known as/);
+  assert.match(
+    baga,
+    /meta name="description" content="Baga is associated with Bairrada\."/
+  );
+  assert.match(
+    baga,
+    /rel="canonical" href="https:\/\/winearcana\.com\/grapes\/baga\/"/
+  );
   assert.match(baga, /href="\.\.\/\.\.\/favicon\.ico"/);
   assert.match(baga, /href="\.\.\/\.\.\/regions\/bairrada\/"/);
   assert.match(baga, /class="footnote-ref"/);
   assert.match(baga, /class="footnotes/);
   assert.doesNotMatch(baga, /href="(?:\.\.?\/|\/)[^"]+\.md(?:#|\")/);
+  assert.match(notFound, /meta name="robots" content="noindex"/);
+  assert.doesNotMatch(notFound, /rel="canonical"/);
+  assert.equal(
+    robots,
+    "User-agent: *\nAllow: /\n\nSitemap: https://winearcana.com/sitemap.xml\n"
+  );
+  assert.match(sitemap, /<loc>https:\/\/winearcana\.com\/grapes\/baga\/<\/loc>/);
+  assert.doesNotMatch(sitemap, /404\.html/);
 });
 
 test("emits only internal links that resolve in the generated tree", async (t) => {

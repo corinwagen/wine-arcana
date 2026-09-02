@@ -27,6 +27,7 @@ const SITE_ASSETS = [
   "site.webmanifest",
 ];
 const REPOSITORY_URL = "https://github.com/corinwagen/wine-arcana";
+const SITE_URL = "https://winearcana.com";
 const collator = new Intl.Collator("en", { numeric: true, sensitivity: "base" });
 
 function toPosix(value) {
@@ -55,6 +56,24 @@ function routeHref(outputPath, targetRoute) {
 function fileHref(outputPath, targetPath) {
   const relative = path.posix.relative(path.posix.dirname(outputPath), targetPath);
   return relative || path.posix.basename(targetPath);
+}
+
+function absolutePageUrl(siteUrl, outputPath) {
+  const root = siteUrl.replace(/\/+$/, "");
+  if (outputPath === "index.html") return `${root}/`;
+  if (outputPath.endsWith("/index.html")) {
+    return `${root}/${outputPath.slice(0, -"index.html".length)}`;
+  }
+  return `${root}/${outputPath}`;
+}
+
+function escapeXml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&apos;");
 }
 
 function slugifyHeading(value) {
@@ -147,6 +166,36 @@ function renderMarkdown(markdown, body, environment) {
   return markdown.renderer.render(tokens, markdown.options, environment);
 }
 
+function descriptionFromArticle(markdown, article, maximumLength = 180) {
+  const tokens = markdown.parse(article.body, { article });
+  const paragraphIndex = tokens.findIndex((token) => token.type === "paragraph_open");
+  const paragraph = paragraphIndex >= 0 ? tokens[paragraphIndex + 1] : undefined;
+  const text = (paragraph?.children ?? [])
+    .filter((token) => token.type !== "footnote_ref")
+    .map((token) => {
+      if (token.type === "softbreak" || token.type === "hardbreak") return " ";
+      return token.content;
+    })
+    .join("")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (!text) return `${article.title}, from Wine Arcana, a small encyclopedia of wine.`;
+  if (text.length <= maximumLength) return text;
+
+  const sentenceEnd = Math.max(
+    text.lastIndexOf(". ", maximumLength - 1),
+    text.lastIndexOf("? ", maximumLength - 1),
+    text.lastIndexOf("! ", maximumLength - 1)
+  );
+  if (sentenceEnd >= Math.floor(maximumLength / 2)) {
+    return text.slice(0, sentenceEnd + 1);
+  }
+
+  const wordEnd = text.lastIndexOf(" ", maximumLength - 1);
+  return `${text.slice(0, wordEnd > 0 ? wordEnd : maximumLength - 1).trimEnd()}…`;
+}
+
 function navigation(outputPath, currentSection = "") {
   const links = ENTITY_TYPES.map(({ directory, label }) => {
     const current = currentSection === directory ? ' aria-current="page"' : "";
@@ -161,16 +210,38 @@ function navigation(outputPath, currentSection = "") {
 </header>`;
 }
 
-function pageTemplate({ body, currentSection = "", description, outputPath, title }) {
+function pageTemplate({
+  body,
+  canonical = true,
+  currentSection = "",
+  description,
+  outputPath,
+  robots = "",
+  siteUrl,
+  structuredData,
+  title,
+}) {
   const documentTitle = title === "Wine Arcana" ? title : `${title} · Wine Arcana`;
+  const canonicalMarkup = canonical
+    ? `\n  <link rel="canonical" href="${escapeHtml(absolutePageUrl(siteUrl, outputPath))}">`
+    : "";
+  const robotsMarkup = robots
+    ? `\n  <meta name="robots" content="${escapeHtml(robots)}">`
+    : "";
+  const structuredDataMarkup = structuredData
+    ? `\n  <script type="application/ld+json">${JSON.stringify(structuredData).replaceAll(
+        "<",
+        "\\u003c"
+      )}</script>`
+    : "";
   return `<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="${escapeHtml(description)}">
+  <meta name="description" content="${escapeHtml(description)}">${robotsMarkup}
   <meta name="theme-color" content="#faf9f6">
-  <title>${escapeHtml(documentTitle)}</title>
+  <title>${escapeHtml(documentTitle)}</title>${canonicalMarkup}${structuredDataMarkup}
   <link rel="icon" href="${fileHref(outputPath, "favicon.ico")}" sizes="any">
   <link rel="icon" type="image/png" sizes="32x32" href="${fileHref(outputPath, "favicon-32x32.png")}">
   <link rel="icon" type="image/png" sizes="16x16" href="${fileHref(outputPath, "favicon-16x16.png")}">
@@ -220,7 +291,7 @@ ${group
     .join("\n");
 }
 
-function renderArticlePage(article, markdown, repositoryUrl) {
+function renderArticlePage(article, markdown, repositoryUrl, siteUrl) {
   let rendered = renderMarkdown(markdown, article.body, { article });
   if (article.aliases.length > 0) {
     const aliasMarkup = `<p class="aliases"><span>Also known as</span> ${escapeHtml(
@@ -242,10 +313,22 @@ ${rendered}
   return pageTemplate({
     body,
     currentSection: article.entity,
-    description: `${article.title}, from Wine Arcana, a small encyclopedia of wine.`,
+    description: descriptionFromArticle(markdown, article),
     outputPath: article.outputPath,
+    siteUrl,
     title: article.title,
   });
+}
+
+function renderSitemap(siteUrl, outputPaths) {
+  const urls = outputPaths
+    .map((outputPath) => `  <url><loc>${escapeXml(absolutePageUrl(siteUrl, outputPath))}</loc></url>`)
+    .join("\n");
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls}
+</urlset>
+`;
 }
 
 async function readArticles(rootDir) {
@@ -290,6 +373,7 @@ export async function buildSite({
   rootDir = process.cwd(),
   outputDir = path.join(rootDir, "public"),
   repositoryUrl = REPOSITORY_URL,
+  siteUrl = SITE_URL,
 } = {}) {
   rootDir = path.resolve(rootDir);
   outputDir = path.resolve(outputDir);
@@ -322,7 +406,7 @@ export async function buildSite({
   written.push(await writeOutput(rootDir, outputDir, ".nojekyll", ""));
 
   for (const article of articles) {
-    const html = renderArticlePage(article, markdown, repositoryUrl);
+    const html = renderArticlePage(article, markdown, repositoryUrl, siteUrl);
     written.push(await writeOutput(rootDir, outputDir, article.outputPath, html));
   }
 
@@ -340,6 +424,7 @@ ${articleIndex(matching, outputPath)}`;
       currentSection: type.directory,
       description: `${type.label} in Wine Arcana.`,
       outputPath,
+      siteUrl,
       title: type.label,
     });
     written.push(await writeOutput(rootDir, outputDir, outputPath, html));
@@ -361,6 +446,13 @@ ${articleIndex(matching, homepageOutputPath)}
 ${homepageSections}`,
     description: "Wine Arcana is a small encyclopedia of wine.",
     outputPath: homepageOutputPath,
+    siteUrl,
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      name: "Wine Arcana",
+      url: absolutePageUrl(siteUrl, homepageOutputPath),
+    },
     title: "Wine Arcana",
   });
   written.push(await writeOutput(rootDir, outputDir, homepageOutputPath, homepage));
@@ -375,6 +467,7 @@ ${homepageSections}`,
     currentSection: "about",
     description: "About Wine Arcana and its editorial approach.",
     outputPath: aboutOutputPath,
+    siteUrl,
     title: "About",
   });
   written.push(await writeOutput(rootDir, outputDir, aboutOutputPath, aboutHtml));
@@ -388,11 +481,32 @@ ${homepageSections}`,
     ""
   )}">article index</a>.</p>
 </article>`,
+    canonical: false,
     description: "Page not found.",
     outputPath: notFoundOutputPath,
+    robots: "noindex",
+    siteUrl,
     title: "Page not found",
   });
   written.push(await writeOutput(rootDir, outputDir, notFoundOutputPath, notFound));
+
+  const sitemapOutputPaths = [
+    homepageOutputPath,
+    ...ENTITY_TYPES.map((type) => path.posix.join(type.directory, "index.html")),
+    aboutOutputPath,
+    ...articles.map((article) => article.outputPath),
+  ];
+  written.push(
+    await writeOutput(rootDir, outputDir, "sitemap.xml", renderSitemap(siteUrl, sitemapOutputPaths))
+  );
+  written.push(
+    await writeOutput(
+      rootDir,
+      outputDir,
+      "robots.txt",
+      `User-agent: *\nAllow: /\n\nSitemap: ${absolutePageUrl(siteUrl, "sitemap.xml")}\n`
+    )
+  );
 
   return { articleCount: articles.length, outputDir, written: written.sort() };
 }
