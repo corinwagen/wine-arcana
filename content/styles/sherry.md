@@ -4,11 +4,11 @@ title: Sherry
 
 # Sherry
 
-Sherry is the English protected name within the Jerez-Xérès-Sherry protected
-designation of origin (PDO) in southern Spain. It covers a family rather than
-one wine: dry wines shaped by biological ageing under yeast, dry wines aged
-with oxygen, naturally sweet wines, and blends of dry and sweet material. The
-related Manzanilla-Sanlúcar de Barrameda PDO is often discussed alongside
+Sherry is the English protected name of the Jerez-Xérès-Sherry protected
+designation of origin (PDO) in southern Spain. The family includes dry wines
+shaped by biological ageing under yeast, dry wines aged with oxygen, naturally
+sweet wines, and blends of dry and sweet material. The related
+Manzanilla-Sanlúcar de Barrameda PDO is often discussed alongside
 Sherry, but it is legally separate.
 
 Fortification is central to how Sherry developed and remains normal practice,
@@ -23,8 +23,8 @@ fortified wine.
 
 Most dry Sherry begins with a fairly neutral white base wine from Palomino,
 although the rules authorize several white varieties. The must ferments dry,
-leaving the base wine's acidity, alcohol, pressing fraction, and clarity to
-influence how it will age. Pedro Ximénez and Moscatel de Alejandría are more
+and the base wine's acidity, alcohol, pressing fraction, and clarity influence
+how it will age. Pedro Ximénez and Moscatel de Alejandría are more
 closely associated with the sweet styles. Grape and vineyard conditions matter,
 but cellar decisions transform the base wine so extensively that Sherry is
 best understood through its ageing path as well as its origin in
@@ -59,11 +59,10 @@ which both shields and actively transforms the wine.
 
 Oxidative ageing takes place without a persistent veil. Direct oxygen exposure,
 evaporation through the cask, and reactions among wine constituents gradually
-deepen colour and concentrate or reshape the wine. The two paths are not simple
-opposites. Flor can weaken or disappear, sending a wine from biological into
-oxidative development, while cask condition, headspace, temperature, humidity,
-and transfers alter either course. The seasoned oak *bota* is primarily an
-ageing vessel rather than a source of conspicuous new-oak flavour; see
+deepen colour and concentrate or reshape the wine. A wine can pass from
+biological to oxidative development when flor weakens or disappears. Cask
+condition, headspace, temperature, humidity, and transfers alter either course.
+The seasoned oak *bota* provides the vessel and headspace for either path; see
 [oak maturation](../concepts/oak-maturation.md).
 
 ## Criaderas y solera
@@ -74,14 +73,14 @@ scale, the *solera*, for bottling or blending. It is replaced by a *rocío* from
 the next-younger scale, which is replenished in turn until young wine enters
 the youngest *criadera*. Repeated fractional blending moderates vintage
 differences and supplies biologically ageing wine with younger material that
-can help sustain flor. It creates continuity, not a cask filled entirely with
-wine as old as the solera's founding date.
+can help sustain flor. Each cask therefore holds wines of different ages,
+regardless of the solera's founding date.
 
 This system is customary, but Sherry law also permits static *añada* ageing, in
 which harvests remain separate. Both methods use oak casks and protected wines
 normally require at least two years of average ageing. Solera ageing and
-biological ageing should therefore not be treated as synonyms or as two
-requirements that every Sherry shares.[^1]
+biological ageing are independent features, and neither applies to every
+Sherry.[^1]
 
 ## Principal categories
 
@@ -108,9 +107,8 @@ That later blending creates the *vinos generosos de licor*: **Pale Dry**,
 aged wine with naturally sweet wine or other permitted grape-derived
 sweetening material, within category-specific sugar ranges. Pale styles retain
 a biologically aged base; Medium and Cream generally move toward the colour and
-character of oxidatively aged material. The names describe regulated style
-families, not a ladder of quality, and producer choices within each family
-still leave substantial room for variation.
+character of oxidatively aged material. The names define regulated style
+families with substantial variation among producers.
 
 [^1]: Junta de Andalucía, current Jerez-Xérès-Sherry product specification,
     sections B.1 and C.1–C.3; European Union, notice C/2026/4549. The latter
