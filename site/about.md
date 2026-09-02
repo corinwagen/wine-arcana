@@ -20,4 +20,4 @@ oenophiles to experience the uniquely human joys of wine.
 
 We work to ensure that all information is correct, but we are imperfect. To
 report factual errors or for general inquiries, please contact
-editor@winearcana.com.
+<editor@winearcana.com>.
