@@ -48,7 +48,7 @@ test("builds article, category, homepage, about, and fallback pages", async (t) 
   const rootDir = await makeProject(t, {
     "content/grapes/baga.md": article(
       "Baga",
-      "Baga is associated with [Bairrada](../regions/bairrada.md).[^1]\n\n[^1]: Source note.",
+      "Baga is associated with [Bairrada](../regions/bairrada.md).[^1]\n\nThe same source applies again.[^1]\n\n[^1]: Source note.",
       ["Tinta Bairrada"]
     ),
     "content/regions/bairrada.md": article(
@@ -109,6 +109,7 @@ test("builds article, category, homepage, about, and fallback pages", async (t) 
   assert.match(baga, /href="\.\.\/\.\.\/regions\/bairrada\/"/);
   assert.match(baga, /class="sidenote-number"/);
   assert.match(baga, /class="sidenote" role="note"/);
+  assert.match(baga, /class="sidenote sidenote-repeat" role="note"/);
   assert.match(baga, /Source note\./);
   assert.doesNotMatch(baga, /class="footnotes/);
   assert.doesNotMatch(baga, /github/i);

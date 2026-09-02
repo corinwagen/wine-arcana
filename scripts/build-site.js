@@ -166,8 +166,10 @@ function makeMarkdown(articleBySourcePath) {
   markdown.renderer.rules.footnote_ref = (tokens, index, options, environment, renderer) => {
     const token = tokens[index];
     const number = Number(token.meta.id + 1).toString();
-    const suffix = token.meta.subId > 0 ? `-${token.meta.subId}` : "";
+    const repeated = token.meta.subId > 0;
+    const suffix = repeated ? `-${token.meta.subId}` : "";
     const controlId = `sidenote-${number}${suffix}`;
+    const sidenoteClass = repeated ? "sidenote sidenote-repeat" : "sidenote";
     const note = (environment.sidenotes?.get(token.meta.id) ?? [])
       .map((children) => renderer.renderInline(children, options, environment))
       .join("<br>");
@@ -175,7 +177,7 @@ function makeMarkdown(articleBySourcePath) {
     return [
       `<input type="checkbox" id="${controlId}" class="margin-toggle" aria-label="Toggle footnote ${number}">`,
       `<label for="${controlId}" class="sidenote-number" aria-hidden="true">${number}</label>`,
-      `<span class="sidenote" role="note"><span class="sidenote-label">${number}.</span> ${note}</span>`,
+      `<span class="${sidenoteClass}" role="note"><span class="sidenote-label">${number}.</span> ${note}</span>`,
     ].join("");
   };
 

@@ -305,6 +305,10 @@ sub {
     margin: 0.15rem -15rem 0.8rem 2rem;
     text-indent: 0;
   }
+
+  .sidenote-repeat {
+    display: none;
+  }
 }
 
 @media (max-width: 1199px) {
