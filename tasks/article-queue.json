@@ -1,5 +1,55 @@
 [
   {
+    "path": "content/regions/douro.md",
+    "title": "Douro",
+    "brief": "Explain the Douro through its river-valley geography, schistous slopes, three subregions, heat and water constraints, field blends and principal grapes, and the relationship between unfortified wine and Port without reducing the region to one style."
+  },
+  {
+    "path": "content/styles/port.md",
+    "title": "Port",
+    "brief": "Explain Port as a protected fortified wine of the Douro, including interruption of fermentation with grape spirit, blending and maturation, the principal ruby, tawny, vintage, late-bottled vintage, white and rosé categories, and why legal categories do not guarantee one sensory profile."
+  },
+  {
+    "path": "content/regions/jerez.md",
+    "title": "Jerez",
+    "brief": "Explain the Jerez production region through its Atlantic-influenced climate, albariza and other soils, principal grapes, vineyard and ageing geography, and the regulatory relationship among Jerez-Xérès-Sherry, Manzanilla and local production without treating the historic triangle as the whole modern region."
+  },
+  {
+    "path": "content/styles/sherry.md",
+    "title": "Sherry",
+    "brief": "Explain Sherry as a family of protected fortified and naturally sweet wines, connecting base wine, fortification, flor, biological and oxidative ageing, criaderas y solera, and the principal dry and sweet categories while distinguishing common practice from legal requirements."
+  },
+  {
+    "path": "content/regions/vinho-verde.md",
+    "title": "Vinho Verde",
+    "brief": "Explain the Vinho Verde region through its Atlantic-to-inland variation, nine subregions, high-rainfall viticulture, principal white and red grapes, and still and sparkling styles, correcting the idea that the name simply means a young, lightly fizzy wine."
+  },
+  {
+    "path": "content/regions/rias-baixas.md",
+    "title": "Rías Baixas",
+    "brief": "Explain Rías Baixas through its five subzones, wet Atlantic climate, granite and other soils, Albariño's central role, vine training and disease pressure, and variation in blending, lees work and maturation without assigning fixed flavors or quality levels to subzones."
+  },
+  {
+    "path": "content/regions/ribeira-sacra.md",
+    "title": "Ribeira Sacra",
+    "brief": "Explain Ribeira Sacra through the Sil and Miño river canyons, steep terraced vineyards, five subzones, Mencía and mixed local varieties, climatic transitions, and the modern denomination's relationship to older monastic and farming history without romanticizing difficult viticulture."
+  },
+  {
+    "path": "content/regions/dao.md",
+    "title": "Dão",
+    "brief": "Explain Dão through its granite uplands and enclosing mountains, climatic variation, mixed vineyards and principal grapes, the historical role of cooperatives and regulation, and the present range of red, white and sparkling wines without imposing one regional house style."
+  },
+  {
+    "path": "content/regions/valpolicella.md",
+    "title": "Valpolicella",
+    "brief": "Explain Valpolicella through its Veneto setting, Classica and eastern valleys, Corvina-led blends, fresh red wine and appassimento traditions, and the legal relationships among Valpolicella, Ripasso, Recioto and Amarone without collapsing the region into its most concentrated style."
+  },
+  {
+    "path": "content/styles/amarone-della-valpolicella.md",
+    "title": "Amarone della Valpolicella",
+    "brief": "Explain Amarone della Valpolicella as a dry appassimento wine, including permitted grapes, drying, fermentation, maturation and current legal requirements, and distinguish it causally from Recioto and Ripasso while describing variation rather than equating concentration with quality."
+  },
+  {
     "path": "content/regions/champagne.md",
     "title": "Champagne",
     "brief": "Explain the delimited region through its cool climate, principal subregions and grapes, traditional-method production, reserve wines, blending, and ageing rules without treating Champagne as one uniform style."
