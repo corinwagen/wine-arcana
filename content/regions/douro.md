@@ -4,12 +4,11 @@ title: Douro
 
 # Douro
 
-Douro is a wine region in northeastern Portugal, following the Douro River and
-its tributaries upstream toward the Spanish border. The Douro Demarcated Region
-contains two protected designations: Douro for a broad range of wines and Porto,
-or Port, for fortified wine.[^1] They draw on the same difficult landscape and
-many of the same grapes, but one is not simply an unfortified or fortified
-version of the other.
+Douro is a wine region in northeastern Portugal that follows the Douro River
+and its tributaries upstream toward the Spanish border. The Douro Demarcated
+Region contains two protected designations: Douro for a broad range of wines and
+Porto, or Port, for fortified wine.[^1] Both draw on the same difficult landscape
+and many of the same grapes, but their differences extend beyond fortification.
 
 The region is best understood as a network of river valleys rather than a
 uniform strip of vineyard. Elevation, slope, aspect, soil depth, and distance
@@ -26,22 +25,22 @@ occupy slopes facing many directions and ranging from the warmer valley floor to
 substantially cooler elevations. A sunny, sheltered parcel near the river may
 ripen very differently from a high or north-facing site nearby. Terraces and
 narrow planted platforms make cultivation possible on some steep slopes, but
-they also embody choices about erosion, water movement, vine density, and access
-for machinery.
+also reflect choices about erosion, water movement, vine density, and machinery
+access.
 
 Most vineyard land near the river system is schistous, with granite more common
-around parts of the region's margins. Many vineyard soils are human-made in a
-literal sense: growers broke and rearranged the layered rock when forming
-terraces and preparing ground for vines. The resulting soils are commonly
-stony, acidic, and low in organic matter. Fractures can admit roots and water,
-but this does not make the sites immune to drought; soil depth and water-holding
-capacity remain highly variable. Schist influences rooting, drainage, heat
-absorption, and the work required to establish a vineyard. It should not be
-treated as a mineral flavour transferred directly into wine.
+around parts of the region's margins. Growers made many vineyard soils by
+breaking and rearranging the layered rock as they formed terraces and prepared
+ground for vines. The resulting soils are commonly stony, acidic, and low in
+organic matter. Fractures can admit roots and water, but soil depth and
+water-holding capacity remain highly variable, leaving some sites vulnerable
+to drought. Schist influences rooting, drainage, heat absorption, and the work
+required to establish a vineyard. It does not transfer mineral flavour directly
+into wine.
 
 ## Three subregions and a water gradient
 
-The official division into Baixo Corgo, Cima Corgo, and Douro Superior follows
+The official division into Baixo Corgo, Cima Corgo, and Douro Superior reflects
 a broad west-to-east climatic and historical progression. Baixo Corgo, in the
 west, generally receives the most rainfall and has the strongest Atlantic
 influence. That can support more regular vine growth, but wetter conditions can
@@ -53,65 +52,64 @@ tributary valleys rather than a single intermediate climate.
 Douro Superior extends east from the former river obstacle at Cachão da Valeira
 to Spain. It is generally the hottest and driest subregion, with more continental
 conditions and larger expanses of lightly planted land. The Instituto dos Vinhos
-do Douro e do Porto (IVDP) records a large regional rainfall range, declining
-from roughly 1,200 millimetres a year at a wet western station to about 380 at
-Barca d'Alva in the east.[^2] These figures describe locations, not guaranteed
-conditions across each subregion. Altitude, aspect, tributary valley, soil, and
-vintage can complicate the west-to-east pattern.
+do Douro e do Porto (IVDP) records roughly 1,200 millimetres of annual rainfall
+at a wet western station and about 380 at Barca d'Alva in the east.[^2] These
+figures describe locations, not guaranteed conditions across each subregion.
+Altitude, aspect, tributary valley, soil, and vintage can complicate the
+west-to-east pattern.
 
 Summer heat and low rainfall create a basic tension. Enough warmth can ripen
 late grapes and reduce rot pressure, while excessive exposure can dehydrate
 berries, damage leaves and fruit, or slow photosynthesis through severe water
 stress. Deep rooting, drought-adapted rootstocks and varieties, canopy shade,
-soil management, and carefully limited irrigation where used are possible
-responses; none removes the constraint. In a three-vintage Douro Superior trial
-on Touriga Nacional, deficit irrigation partly relieved extreme water stress and
-improved yield under the study conditions, but applying more water did not
-consistently give additional protection or alter key harvest measurements.[^3]
-Site and season therefore matter more than a simple rule that either dry farming
-or irrigation necessarily produces better fruit.
+soil management, and carefully limited irrigation where used can help, but none
+removes the constraint. In a three-vintage Douro Superior trial on Touriga
+Nacional, deficit irrigation partly relieved extreme water stress and improved
+yield under the study conditions, but more water did not consistently provide
+additional protection or alter key harvest measurements.[^3] Site and season
+therefore matter more than any rule that either dry farming or irrigation always
+produces better fruit.
 
 ## Grapes and field blends
 
-The Douro has a large authorized grape population, although a smaller group
-dominates modern plantings. Official 2023 data put
+Douro rules authorize many grape varieties, although a smaller group dominates
+modern plantings. Official 2023 data put
 [Touriga Franca](../grapes/touriga-franca.md) first, followed by
 [Tinta Roriz](../grapes/tempranillo.md), Touriga Nacional, and Tinta Barroca;
 together they occupied well over half the vineyard area.[^4]
 [Touriga Nacional](../grapes/touriga-nacional.md) can contribute concentrated
 skin material and marked aroma, but its reputation should not obscure the
-greater area of Touriga Franca or the practical importance of the other grapes.
+greater area planted to Touriga Franca or the importance of the other grapes.
 Tinto Cão, Sousão, and [Tinta Amarela](../grapes/trincadeira.md), among many
 others, can change acidity, colour, tannin, ripening time, or performance in a
 particular site.
 
 Older vineyards may be field blends: different varieties are interplanted, then
-often harvested and fermented together. Their value is not merely the number of
-grapes on a list. Staggered ripening and different responses to heat, drought,
-and disease can create both resilience and difficult harvest compromises. A
-genetic survey of old mixed vineyards in Douro and neighbouring Trás-os-Montes
-found dozens of known varieties as well as unmatched genotypes, illustrating how
-much diversity the familiar principal grapes leave out.[^5] By contrast, modern
-planting decisions often concentrate on a reduced set of named varieties, which
+often harvested and fermented together. Staggered ripening and varied responses
+to heat, drought, and disease can add resilience but also force difficult harvest
+compromises. A genetic survey of old mixed vineyards in Douro and neighbouring
+Trás-os-Montes found dozens of known varieties as well as unmatched genotypes,
+illustrating the diversity obscured by a focus on the principal grapes.[^5]
+Modern planting, by contrast, often concentrates on fewer named varieties that
 can be harvested separately and blended later.
 
-White grapes are part of the same regional logic. Rabigato, Malvasia Fina,
-Síria, Moscatel Galego Branco, Viosinho, and Gouveio are among the important
-names. Higher or less exposed sites can help retain acidity, while grape choice,
-harvest date, skin contact, fermentation vessel, and maturation distinguish
-fresh early-drinking whites from more structured wines. No red variety or Port
-tradition accounts for the whole region.
+White grapes also vary with site and production choices. Rabigato, Malvasia
+Fina, Síria, Moscatel Galego Branco, Viosinho, and Gouveio are among the
+important names. Higher or less exposed sites can help retain acidity, while
+grape choice, harvest date, skin contact, fermentation vessel, and maturation
+distinguish fresh early-drinking whites from more structured wines. No red
+variety or Port tradition accounts for the whole region.
 
 ## Douro wine and Port
 
-Port and unfortified Douro wine begin with overlapping vineyards and grapes but
-diverge decisively during fermentation. For Port, grape spirit is added before
-all the sugar has fermented. This stops fermentation, raises the alcohol, and
-usually leaves appreciable residual sugar. Because red Port has only a short
-fermentation before fortification, colour and tannin must be extracted quickly,
-whether by foot treading in a traditional *lagar* or by modern equipment. Later
-blending and maturation can lead toward youthful ruby styles, long wood-aged
-tawny styles, vintage-dated wines, or white and rosé Port; sweetness also varies.
+Port and unfortified Douro wine share many vineyards and grapes but diverge
+during fermentation. For Port, grape spirit is added before all the sugar has
+fermented. This stops fermentation, raises the alcohol, and usually leaves
+appreciable residual sugar. Because red Port has only a short fermentation
+before fortification, colour and tannin must be extracted quickly, whether by
+foot treading in a traditional *lagar* or by modern equipment. Blending and
+maturation can then produce youthful ruby styles, long wood-aged tawny styles,
+vintage-dated wines, or white and rosé Port. Sweetness also varies.
 
 For an unfortified wine, fermentation normally continues to dryness, so alcohol,
 extraction, and tannin develop on a different timetable. A producer may
@@ -119,17 +117,17 @@ co-ferment a field blend, assemble separately harvested parcels, emphasize one
 grape, or make a varietal wine. Dry reds can range from lightly extracted and
 early-drinking to firmly structured wines shaped by
 [oak maturation](../concepts/oak-maturation.md). Whites, rosés, sparkling wines,
-and Moscatel do Douro widen the picture further. The warmest fruit is not
-automatically best for either designation: material suited to a concentrated
+and Moscatel do Douro extend the region's range. Each designation can favour a
+different balance of ripeness and acidity. Material suited to a concentrated
 Port may be too alcoholic or low in acidity for the dry wine a producer wants,
 while a cooler parcel may be especially useful in an unfortified blend.
 
-The Douro's historic demarcation dates to 1756, when regulation sought to control
+The Douro's historic demarcation dates to 1756, when regulators sought to control
 the origin, quantity, and quality of wine entering the Port trade.[^6] That
-history explains Port's institutional importance, but the modern region is not
-only a Port landscape. Its continuity lies in river-valley geography, demanding
-vineyard conditions, and blending knowledge; its diversity comes from the many
-ways growers and winemakers now use them.
+history explains Port's institutional importance, while unfortified wines now
+give the region a broader identity. Its continuity lies in river-valley
+geography, demanding vineyard conditions, and blending knowledge. Its diversity
+comes from the many ways growers and winemakers now use them.
 
 [^1]: Instituto dos Vinhos do Douro e do Porto, “The Wines,” current
     designations of origin, accessed 1 September 2026.
