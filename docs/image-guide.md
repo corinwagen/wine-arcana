@@ -44,7 +44,7 @@ Then:
    what is visible; the quoted title supplies the visible caption:
 
    ```md
-   ![Rows of vines cross a steep slope above a stone wall.](../../media/images/regions/mosel-vineyard.jpg "A steep Mosel vineyard.")
+   ![Steep vineyard.](../../media/images/regions/mosel.jpg "Mosel vineyard.")
    ```
 
 7. Run `npm run check` and inspect the rendered page at desktop and mobile
