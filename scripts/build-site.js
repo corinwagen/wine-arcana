@@ -447,7 +447,6 @@ export async function buildSite({
     const outputPath = path.posix.join(type.directory, "index.html");
     const matching = articles.filter((article) => article.entity === type.directory);
     const body = `<header class="page-introduction">
-  <p class="section-label">Wine Arcana</p>
   <h1>${type.label}</h1>
   <p>${matching.length} ${matching.length === 1 ? type.singular.toLowerCase() : type.label.toLowerCase()}.</p>
 </header>

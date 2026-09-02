@@ -81,6 +81,7 @@ test("builds article, category, homepage, about, and fallback pages", async (t) 
   }
 
   const homepage = await fs.readFile(path.join(outputDir, "index.html"), "utf8");
+  const grapeIndex = await fs.readFile(path.join(outputDir, "grapes", "index.html"), "utf8");
   const baga = await fs.readFile(path.join(outputDir, "grapes", "baga", "index.html"), "utf8");
   const notFound = await fs.readFile(path.join(outputDir, "404.html"), "utf8");
   const robots = await fs.readFile(path.join(outputDir, "robots.txt"), "utf8");
@@ -93,6 +94,8 @@ test("builds article, category, homepage, about, and fallback pages", async (t) 
   assert.match(homepage, /A small encyclopædia of wine\./);
   assert.match(homepage, /rel="canonical" href="https:\/\/winearcana\.com\/"/);
   assert.match(homepage, /"@type":"WebSite"/);
+  assert.match(grapeIndex, /<h1>Grapes<\/h1>/);
+  assert.doesNotMatch(grapeIndex, /class="section-label">Wine Arcana/);
   assert.match(baga, /Also known as/);
   assert.match(
     baga,
