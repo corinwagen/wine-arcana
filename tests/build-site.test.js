@@ -7,6 +7,15 @@ import test from "node:test";
 import { buildSite } from "../scripts/build-site.js";
 
 const ENTITY_TYPES = ["grapes", "regions", "styles", "concepts"];
+const SITE_ASSETS = [
+  "android-chrome-192x192.png",
+  "android-chrome-512x512.png",
+  "apple-touch-icon.png",
+  "favicon-16x16.png",
+  "favicon-32x32.png",
+  "favicon.ico",
+  "site.webmanifest",
+];
 
 function article(title, body = "", aliases = []) {
   const aliasYaml = aliases.length
@@ -24,6 +33,9 @@ async function makeProject(t, files = {}) {
   await fs.mkdir(path.join(rootDir, "site"), { recursive: true });
   await fs.writeFile(path.join(rootDir, "site", "style.css"), "body { color: #222; }\n");
   await fs.writeFile(path.join(rootDir, "site", "about.md"), "# About\n\nA small encyclopedia.\n");
+  for (const filename of SITE_ASSETS) {
+    await fs.writeFile(path.join(rootDir, "site", filename), `${filename}\n`);
+  }
   for (const [relativePath, contents] of Object.entries(files)) {
     const absolutePath = path.join(rootDir, relativePath);
     await fs.mkdir(path.dirname(absolutePath), { recursive: true });
@@ -53,6 +65,7 @@ test("builds article, category, homepage, about, and fallback pages", async (t) 
     "index.html",
     "404.html",
     "style.css",
+    ...SITE_ASSETS,
     ".nojekyll",
     "about/index.html",
     "grapes/index.html",
@@ -69,7 +82,10 @@ test("builds article, category, homepage, about, and fallback pages", async (t) 
   const baga = await fs.readFile(path.join(outputDir, "grapes", "baga", "index.html"), "utf8");
   assert.match(homepage, /Baga/);
   assert.match(homepage, /Tinta Bairrada/);
+  assert.match(homepage, /href="favicon\.ico"/);
+  assert.match(homepage, /href="site\.webmanifest"/);
   assert.match(baga, /Also known as/);
+  assert.match(baga, /href="\.\.\/\.\.\/favicon\.ico"/);
   assert.match(baga, /href="\.\.\/\.\.\/regions\/bairrada\/"/);
   assert.match(baga, /class="footnote-ref"/);
   assert.match(baga, /class="footnotes/);

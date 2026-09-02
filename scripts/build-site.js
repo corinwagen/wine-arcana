@@ -17,6 +17,15 @@ const ENTITY_TYPES = [
   { directory: "styles", label: "Styles", singular: "Style" },
   { directory: "concepts", label: "Concepts", singular: "Concept" },
 ];
+const SITE_ASSETS = [
+  "android-chrome-192x192.png",
+  "android-chrome-512x512.png",
+  "apple-touch-icon.png",
+  "favicon-16x16.png",
+  "favicon-32x32.png",
+  "favicon.ico",
+  "site.webmanifest",
+];
 const REPOSITORY_URL = "https://github.com/corinwagen/wine-arcana";
 const collator = new Intl.Collator("en", { numeric: true, sensitivity: "base" });
 
@@ -160,7 +169,13 @@ function pageTemplate({ body, currentSection = "", description, outputPath, titl
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="${escapeHtml(description)}">
+  <meta name="theme-color" content="#faf9f6">
   <title>${escapeHtml(documentTitle)}</title>
+  <link rel="icon" href="${fileHref(outputPath, "favicon.ico")}" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="${fileHref(outputPath, "favicon-32x32.png")}">
+  <link rel="icon" type="image/png" sizes="16x16" href="${fileHref(outputPath, "favicon-16x16.png")}">
+  <link rel="apple-touch-icon" sizes="180x180" href="${fileHref(outputPath, "apple-touch-icon.png")}">
+  <link rel="manifest" href="${fileHref(outputPath, "site.webmanifest")}">
   <link rel="stylesheet" href="${fileHref(outputPath, "style.css")}">
 </head>
 <body>
@@ -300,6 +315,10 @@ export async function buildSite({
 
   const stylesheet = await fs.readFile(path.join(rootDir, "site", "style.css"), "utf8");
   written.push(await writeOutput(rootDir, outputDir, "style.css", stylesheet));
+  for (const filename of SITE_ASSETS) {
+    const contents = await fs.readFile(path.join(rootDir, "site", filename));
+    written.push(await writeOutput(rootDir, outputDir, filename, contents));
+  }
   written.push(await writeOutput(rootDir, outputDir, ".nojekyll", ""));
 
   for (const article of articles) {
