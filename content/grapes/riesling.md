@@ -11,113 +11,114 @@ aliases:
 Riesling is a white *Vitis vinifera* variety historically centred on the Rhine
 and its tributaries. It combines pronounced natural acidity with an aromatic
 identity that develops both during ripening and in the bottle. Those properties
-make possible an unusually broad range of wines, from fully dry to intensely
-sweet, without making any one sweetness level intrinsic to the grape.
+support an unusually broad range of wines, from fully dry to intensely sweet.
+Sweetness reflects harvest and fermentation.
 
-The range is best understood as a sequence of choices and conditions. Sugar
-accumulates while acids change at different rates; light and temperature affect
-aroma precursors as well as ripening; delaying harvest may bring greater
-concentration but also more exposure to rain and rot. Fermentation then
-determines how much grape sugar becomes alcohol and how much remains in the
-wine. Region, vintage, farming, and cellar practice can therefore matter as much
-as the name Riesling on the label.
+Sugar accumulates while acids change at different rates. Light and temperature
+affect aroma precursors as well as ripening. Delaying harvest may bring greater
+concentration and longer exposure to rain and rot. Fermentation determines how
+much grape sugar becomes alcohol and how much remains. Region, vintage, farming,
+and cellar practice can therefore matter as much as the name Riesling on the
+label.
 
 ## History and identity
 
-Plantgrape places Riesling's probable origin near the Rhine and describes it,
-on the evidence of published genetic analyses, as probably a descendant of
-Gouais blanc. Neither conclusion identifies the site or date of the original
-seedling, and the other side of its parentage remains less securely stated.[^1]
-A Rheingau document from 1435 is widely cited as an early record of the name;
-later fifteenth-century references show the variety spreading through western
+Plantgrape places Riesling's probable origin near the Rhine and, based on
+published genetic analyses, describes it as a probable descendant of Gouais
+blanc. The original seedling's site and date remain unknown, and the other side
+of its parentage is less securely established.[^1]
+A Rheingau document from 1435 is widely cited as an early record of the name.
+Later fifteenth-century references show the variety spreading through western
 German vineyards.
 
 White Riesling, Weißer Riesling, and Rhine Riesling denote this variety.
 Welschriesling, despite its name and its importance in Austria and central
-Europe, is a different grape. Schwarzriesling is the German name for Meunier,
-not a dark-skinned form of Riesling.
+Europe, is a different grape. Schwarzriesling is the German name for Meunier, a
+separate variety.
 
 ## Ripening and acidity
 
 Riesling ripens relatively late. In the French reference collection it reaches
 maturity about three weeks after Chasselas, while German observations likewise
-describe slow ripening into autumn. Calendar dates differ with latitude,
-elevation, aspect, season, crop, and canopy, so “late” is a comparison rather
-than a fixed harvest month. A long season can allow sugar and aroma development
-to continue in a cool district, but it also leaves the small berries and bunches
-exposed to autumn rain. The variety is susceptible to grey rot, making fruit
-health and selection especially important when harvest is delayed.
+describe slow ripening into autumn. Here, “late” describes maturity relative to
+other grapes. Calendar dates vary with latitude, elevation, aspect, season,
+crop, and canopy. A long season can extend sugar and aroma development in a cool
+district while leaving the small berries and bunches exposed to autumn rain.
+Riesling's susceptibility to grey rot makes fruit health and selection
+especially important when harvest is delayed.
 
-Its acid structure is partly genetic, not simply the effect of growing in cool
-places. A three-year comparison at matched stages of ripening found more
+Genetics influence its acid structure alongside growing conditions. A
+three-year comparison at matched stages of ripening found more
 tartaric acid in Riesling berries than in
 [Gewürztraminer](gewurztraminer.md) and, during later sampling, more malic acid
-as well.[^2] The distinction matters because the two
-principal grape acids behave differently. After *véraison*, the onset of
+as well.[^2] The two principal grape acids behave differently. After
+*véraison*, the onset of
 ripening, tartaric acid content per berry is comparatively stable and its
 concentration falls mainly as the berry expands. Malic acid is both diluted and
-consumed in berry metabolism; warmer conditions generally accelerate that
-loss. Riesling's substantial tartaric-acid potential helps explain why useful
-acidity can remain after sugar has accumulated, but it does not prevent warm
-sites or late harvest from producing softer acid profiles.
+consumed in berry metabolism. Warmer conditions generally accelerate that loss.
+Riesling's substantial tartaric-acid potential helps it retain useful
+acidity after sugar has accumulated, while warm sites and late harvest can still
+produce softer acid profiles.
 
-Harvest is consequently a compromise rather than the moment when every form of
-ripeness peaks together. Picking earlier usually preserves more acid and gives
-less potential alcohol. Waiting may bring more sugar, different aroma
-development, and the possibility of shrivelling or noble rot, while increasing
-the risks of acid loss and unhealthy rot. Cool nights can slow malic-acid loss,
-but latitude alone does not predict the result: exposure, water status, crop,
-and the weather of the particular year all alter the balance.
+Harvest is consequently a compromise among forms of ripeness that peak at
+different times. Picking earlier usually preserves more acid and gives less
+potential alcohol. Waiting may bring more sugar, different aroma development,
+and the possibility of shrivelling or noble rot, while increasing the risks of
+acid loss and unhealthy rot. Cool nights can slow malic-acid loss. Exposure,
+water status, crop, and the year's weather also shape the balance alongside
+latitude.
 
 ## Aroma and bottle development
 
-Riesling is an aromatic variety, though not in the same way or to the same
-degree as Muscat. Monoterpenes such as linalool, geraniol, and nerol contribute
-to its young perfume; some occur freely in the berry and others are stored in
-non-volatile bound forms that can later release aroma. This chemistry helps
-distinguish Riesling from relatively neutral [Chardonnay](chardonnay.md), but it
-does not prescribe a list of fruit or flower smells. Clone, sunlight, harvest
-date, fermentation, and bottle age change which compounds become perceptible.
+Riesling's aromatic expression differs in kind and degree from Muscat's.
+Monoterpenes such as linalool, geraniol, and nerol contribute to its young
+perfume. Some occur freely in the berry and others are stored in non-volatile
+bound forms that can later release aroma. This chemistry helps distinguish
+Riesling from relatively neutral [Chardonnay](chardonnay.md). Clone, sunlight,
+harvest date, fermentation, and bottle age determine which compounds become
+perceptible and which fruit or flower impressions they evoke.
 
-Sugar concentration is not a complete proxy for aromatic maturity. In a
-controlled Riesling study, excluding light reduced free monoterpenoids, whereas
-an experimental reduction in sugar import did not reduce their total free and
-bound concentration in the same way.[^3] Vineyard light can therefore advance
-parts of aroma development on a different path from sugar accumulation. More
-exposure is not automatically better: intense sunlight and heat can also raise
-the supply of precursors for later-aged aromas and increase the risk of
-sunburn.
+Sugar and aromatic maturity can diverge. In a controlled Riesling study,
+excluding light reduced free monoterpenoids, whereas an experimental reduction
+in sugar import did not produce the same decline in their total free and bound
+concentration.[^3]
+Vineyard light can therefore advance parts of aroma development on a different
+path from sugar accumulation. Greater exposure brings tradeoffs: intense
+sunlight and heat can raise the supply of precursors for later-aged aromas and
+increase the risk of sunburn.
 
 The best-known aged note is associated with
 1,1,6-trimethyl-1,2-dihydronaphthalene (TDN), often described as petrol or
 kerosene. TDN develops from non-volatile, carotenoid-derived precursors through
-reactions during wine storage; research has isolated several such precursors
+reactions during wine storage. Research has isolated several such precursors
 from Riesling wine.[^4] Greater bunch exposure and warmth can increase the
 potential for its formation, while bottle age and storage temperature affect
-how much is released. TDN is therefore neither proof of age by itself nor a
-required mark of Riesling. At different concentrations and in different
-drinking cultures it may be regarded as part of mature character or as an
-obtrusive fault.
+how much is released. TDN alone cannot establish a wine's age, and Riesling can
+mature without it. At different concentrations and in different drinking
+cultures, it may be regarded as part of mature character or as an obtrusive
+fault.
 
 ## Sweetness and cellar choices
 
-Riesling's sweetness spectrum comes from harvest and fermentation, not from
-acid somehow creating sugar. A dry wine results when yeast ferments nearly all
-available grape sugar. Cooling, filtration, sulfur dioxide management, or a
+Harvest concentration sets the amount of grape sugar available for
+fermentation. A dry wine results when yeast ferments nearly all available grape
+sugar. Cooling, filtration, sulfur dioxide management, or a
 combination of measures can arrest fermentation and preserve residual sugar;
 very concentrated must may also become difficult to ferment completely. Grapes
 affected by noble rot or dehydration begin with less water and more concentrated
 solutes, making intensely sweet wine possible even after some sugar has become
 alcohol.
 
-Acidity changes the perception of that residual sugar but does not cancel it.
+Acidity changes the perception of residual sugar while leaving its amount
+unchanged.
 The same analytical sugar can seem more or less prominent depending on acidity,
 alcohol, extract, temperature, and carbonation. This is why a lightly sweet,
 acid-driven Riesling may taste less overtly sweet than its sugar figure suggests,
-and why “balanced” is an interpretation rather than a measurable ratio.
+and why “balanced” is an interpretation, not a measurable ratio.
 Riesling's ability to retain acid gives winemakers more room than many varieties
 to stop fermentation at different points, much as natural acidity underpins the
-range of [Chenin Blanc](chenin-blanc.md), but neither grape guarantees balance.
+range of [Chenin Blanc](chenin-blanc.md). For both grapes, actual balance still
+depends on the fruit and winemaking.
 
 Most still Riesling is pressed without prolonged skin fermentation and matured
 in stainless steel or relatively neutral vessels, choices that keep oak aroma
@@ -125,15 +126,16 @@ from dominating its grape-derived character. Large old casks remain important
 in parts of Germany and Alsace, while some producers use skin contact, lees, or
 smaller wood for texture. [Malolactic
 fermentation](../concepts/malolactic-fermentation.md) is often limited when the
-aim is to retain malic acidity, but none of these practices defines the variety.
+aim is to retain malic acidity. These practices remain stylistic choices.
 
 ## Regional traditions
 
 Germany displays the sweetness range most explicitly. Mosel, Rheingau, Nahe,
 Rheinhessen, and Pfalz all produce dry Riesling as well as wines with residual
-sugar; the relative emphasis varies by district and producer. The Prädikat terms
+sugar. The relative emphasis varies by district and producer. The Prädikat terms
 Kabinett, Spätlese, and Auslese refer primarily to grape maturity and minimum
-must weight, not to final sweetness, so examples can be dry or sweet.
+must weight; finished sweetness is a separate measure, so examples can be dry or
+sweet.
 Beerenauslese, Trockenbeerenauslese, and Eiswein involve different specialised
 harvest conditions and are ordinarily sweet. Terms such as
 *trocken* describe the finished wine's sugar, while *feinherb* is commonly used
@@ -141,33 +143,31 @@ but not legally defined.[^5]
 
 Alsace has a more strongly dry convention for ordinary varietal Riesling. Its
 current appellation rules cap fermentable sugar after fermentation for wine
-labelled Riesling, with allowances tied to total acidity; geographically
+labelled Riesling, with allowances tied to total acidity. Geographically
 specific wines are exceptions. The same rules provide separate *vendanges
-tardives* and *sélection de grains nobles* paths for Riesling from hand-harvested,
-more sugar-rich grapes, without turning every late-picked wine into the same
-style.[^6] Alsace Riesling can consequently be dry and relatively full in
-alcohol, or sweet and concentrated, but the dry baseline differs from the
-familiar German practice of using noticeable residual sugar in some lighter
-wines.
+tardives* and *sélection de grains nobles* paths for Riesling from
+hand-harvested, more sugar-rich grapes. Each path has specific harvest
+conditions, so late picking alone does not define the style.[^6] Alsace Riesling
+can consequently be dry and relatively full in alcohol, or sweet and
+concentrated. Its dry baseline differs from the familiar German practice of
+using noticeable residual sugar in some lighter wines.
 
 In Austria, Riesling is concentrated particularly in the Danube regions of
 Lower Austria, including Wachau, Kremstal, and Kamptal. The mainstream tradition
-is dry, often with ripeness expressed as greater body and alcohol rather than
-retained sugar. Regulation reinforces, but does not wholly standardise, that
-pattern: Kremstal DAC Riesling must meet the legal definition of *trocken*, while
-current Kamptal DAC rules require residual sugar not to exceed titratable
-acidity.[^7] Sweet Austrian Prädikat wines also exist, so “Austrian Riesling” is
-not itself a sweetness statement.
+is dry, with greater ripeness often bringing more body and alcohol while the
+wine ferments dry. Rules reinforce part of that pattern: Kremstal DAC Riesling
+must meet the legal definition of *trocken*, while current Kamptal DAC rules
+require residual sugar not to exceed titratable acidity.[^7] Sweet Austrian
+Prädikat wines also exist; Austrian Riesling includes both dry and sweet wines.
 
 Beyond these European centres, producers have adapted both the dry and sweet
-traditions. Clare Valley and Eden Valley are Australia's principal references;
+traditions. Clare Valley and Eden Valley are Australia's principal references.
 Australian Riesling has usually been fermented dry in neutral vessels, although
 off-dry and late-harvest forms are also made. New Zealand, especially the South
 Island, spans dry, off-dry, late-harvest, and sweet wines. Riesling is also
 important in cooler parts of North America and is grown more widely elsewhere.
-These regions do not reproduce a single German or Alsatian model: their autumn
-weather, sunlight, and market traditions change the practical balance among
-acid retention, aroma development, residual sugar, and TDN formation.
+Their autumn weather, sunlight, and market traditions create distinct balances
+among acid retention, aroma development, residual sugar, and TDN formation.
 
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro
     Montpellier, “Riesling B,” Plantgrape, edited 19 August 2026.
