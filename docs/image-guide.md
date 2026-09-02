@@ -7,16 +7,19 @@ every page.
 ## License boundary
 
 Only works explicitly released under
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) may be added.
-Public-domain marks, other Creative Commons licenses, stock-site labels, and
-claims repeated by aggregators do not satisfy this rule.
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), or files that an
+authoritative source explicitly identifies as public domain, may be added. The
+public-domain path is principally for historical works whose copyright has
+expired and faithful reproductions of those works. Other Creative Commons
+licenses, stock-site labels, vague public-domain claims, and claims repeated by
+aggregators do not satisfy this rule.
 
 [Openverse](https://openverse.org/) is a discovery tool, not licensing
 evidence. Before downloading a candidate, open its original landing page and
 confirm both that the source identifies the depicted subject and that the
-individual file is marked CC0. Prefer established repositories such as
-Wikimedia Commons, but still verify the file page: repositories do not warrant
-every uploader's claims.
+individual file is marked CC0 or public domain. Prefer established repositories
+such as Wikimedia Commons, but still verify the file page: repositories do not
+warrant every uploader's claims.
 
 Avoid images whose usefulness depends on identifying an unverified cultivar,
 person, producer, or technique. A generic grape bunch must not be captioned as
@@ -39,7 +42,7 @@ file page remains the authority in either route.
 Then:
 
 1. Inspect the image at useful size and open the original source page.
-2. Confirm its identity and CC0 status on that page.
+2. Confirm its identity and CC0 or public-domain status on that page.
 3. Download a local copy below `media/images/<article-type>/`.
 4. Resize oversized photographs to no more than 1,600 pixels on the long edge
    and record any resizing, cropping, colour adjustment, or recompression.
@@ -57,7 +60,7 @@ Then:
    widths.
 
 The build copies local images into the static site and generates consistent
-creator, source, CC0, and modification credits from the catalog. Do not
+creator, source, rights-status, and modification credits from the catalog. Do not
 hotlink remote images or type licensing credits into article prose.
 
 ## Selection
@@ -67,6 +70,6 @@ geography, viticultural structures, cellar equipment, and observable
 processes. Reject search-engine near-matches, heavily branded scenes, weak
 compositions, and images that add no information beyond the prose.
 
-CC0 does not legally require attribution, but Wine Arcana credits creators and
-source repositories as an editorial practice. Preserve that credit even if an
-asset is later replaced or transformed.
+Wine Arcana credits creators and source repositories as an editorial practice,
+including when the selected rights status does not require attribution.
+Preserve that credit even if an asset is later replaced or transformed.

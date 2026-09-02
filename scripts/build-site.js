@@ -11,6 +11,7 @@ import { parseDocument } from "yaml";
 
 import {
   formatImageDiagnostic,
+  imageLicenseLabel,
   resolveImagePath,
   validateImageCatalog,
 } from "./image-catalog.js";
@@ -192,7 +193,7 @@ function makeMarkdown(articleBySourcePath, imageByPath) {
       ? `; ${escapeHtml(record.changes.replace(/\.$/, ""))}`
       : "";
     return `${imageHtml}
-<figcaption><span class="image-caption">${escapeHtml(caption)}</span> <span class="image-credit">Photograph by <a href="${escapeHtml(record.creator_url)}">${escapeHtml(record.creator)}</a>, via <a href="${escapeHtml(record.source_url)}">${escapeHtml(record.source)}</a>; <a href="${escapeHtml(record.license_url)}">CC0 1.0</a>${changes}.</span></figcaption>`;
+<figcaption><span class="image-caption">${escapeHtml(caption)}</span> <span class="image-credit">By <a href="${escapeHtml(record.creator_url)}">${escapeHtml(record.creator)}</a>, via <a href="${escapeHtml(record.source_url)}">${escapeHtml(record.source)}</a>; <a href="${escapeHtml(record.license_url)}">${escapeHtml(imageLicenseLabel(record))}</a>${changes}.</span></figcaption>`;
   };
 
   markdown.core.ruler.after("footnote_tail", "sidenote_tail", (state) => {

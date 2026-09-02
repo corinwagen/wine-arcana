@@ -203,6 +203,10 @@ sub {
   text-align: center;
 }
 
+.about .article-image {
+  width: 55%;
+}
+
 .sources-heading {
   padding-top: 0.75rem;
   border-top: 1px solid var(--border);
@@ -348,6 +352,10 @@ sub {
   body {
     margin-top: 0.75em;
     padding: 0 0.75em 3em;
+  }
+
+  .about .article-image {
+    width: 75%;
   }
 
   .site-header {

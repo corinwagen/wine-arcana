@@ -7,8 +7,22 @@ import { parseDocument } from "yaml";
 
 const CATALOG_PATH = "media/images.yml";
 const IMAGE_ROOT = "media/images";
-const LICENSE = "CC0-1.0";
-const LICENSE_URL = "https://creativecommons.org/publicdomain/zero/1.0/";
+const LICENSES = new Map([
+  [
+    "CC0-1.0",
+    {
+      label: "CC0 1.0",
+      url: "https://creativecommons.org/publicdomain/zero/1.0/",
+    },
+  ],
+  [
+    "Public-Domain",
+    {
+      label: "Public domain",
+      url: "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    },
+  ],
+]);
 const REQUIRED_FIELDS = [
   "path",
   "title",
@@ -136,9 +150,13 @@ function validateRecord(record, index, diagnostics) {
       diagnostics.push(diagnostic(CATALOG_PATH, `${label}.${field} must be a positive integer.`));
     }
   }
-  if (record.license !== LICENSE || record.license_url !== LICENSE_URL) {
+  const license = LICENSES.get(record.license);
+  if (!license || record.license_url !== license.url) {
     diagnostics.push(
-      diagnostic(CATALOG_PATH, `${label} must use ${LICENSE} at ${LICENSE_URL}.`)
+      diagnostic(
+        CATALOG_PATH,
+        `${label} must use an approved license identifier and its canonical URL.`
+      )
     );
   }
   if (typeof record.path === "string") {
@@ -173,6 +191,8 @@ function validateRecord(record, index, diagnostics) {
 async function collectMarkdownImages(rootDir) {
   const contentRoot = path.join(rootDir, "content");
   const files = (await walk(contentRoot)).filter((filename) => filename.endsWith(".md"));
+  const aboutPath = path.join(rootDir, "site", "about.md");
+  if (await pathExists(aboutPath)) files.push(aboutPath);
   const images = [];
 
   for (const absolutePath of files) {
@@ -197,6 +217,10 @@ async function collectMarkdownImages(rootDir) {
 
 export function resolveImagePath(sourcePath, src) {
   return path.posix.normalize(path.posix.join(path.posix.dirname(sourcePath), src));
+}
+
+export function imageLicenseLabel(record) {
+  return LICENSES.get(record.license)?.label ?? record.license;
 }
 
 export function formatImageDiagnostic(item) {
@@ -240,7 +264,7 @@ export async function validateImageCatalog({ rootDir = process.cwd() } = {}) {
   for (const image of await collectMarkdownImages(rootDir)) {
     const location = `${image.sourcePath}:${image.line}`;
     if (!image.src || image.src.startsWith("/") || /^[a-z][a-z\d+.-]*:/i.test(image.src)) {
-      diagnostics.push(diagnostic(location, "Article images must use relative local paths."));
+      diagnostics.push(diagnostic(location, "Markdown images must use relative local paths."));
       continue;
     }
     const resolved = resolveImagePath(image.sourcePath, image.src);
@@ -255,7 +279,7 @@ export async function validateImageCatalog({ rootDir = process.cwd() } = {}) {
 
   for (const record of records) {
     if (record?.path && !referenced.has(record.path)) {
-      diagnostics.push(diagnostic(CATALOG_PATH, `Cataloged image "${record.path}" is not used by an article.`));
+      diagnostics.push(diagnostic(CATALOG_PATH, `Cataloged image "${record.path}" is not used by a page.`));
     }
   }
   const actualImages = await walk(path.join(rootDir, IMAGE_ROOT));

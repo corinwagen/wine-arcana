@@ -49,9 +49,9 @@ Before adding or replacing an image, read `docs/image-guide.md`.
   consequential claim needs direct attribution.
 - Link only to canonical articles that already exist. A missing destination is
   follow-up work, not permission to leave a broken link.
-- Add only locally stored, source-verified CC0 images cataloged in
-  `media/images.yml`. Do not infer a cultivar, person, place, or process from a
-  search result alone.
+- Add only locally stored, source-verified CC0 or public-domain images cataloged
+  in `media/images.yml`. Do not infer a cultivar, person, place, or process from
+  a search result alone.
 
 ## Completion
 

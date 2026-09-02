@@ -1,5 +1,7 @@
 # About
 
+![Grape harvesters work below the Château de Saumur in a medieval manuscript illumination.](../media/images/site/history-of-wine-september.jpg "The September grape harvest, from Les Très Riches Heures du duc de Berry.")
+
 Wine Arcana is a small encyclopædia of global wine. It aims to explain concepts
 from viticulture and winemaking through concise, data-driven articles that
 aggregate the best current knowledge on a topic.

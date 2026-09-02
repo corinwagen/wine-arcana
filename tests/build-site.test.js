@@ -201,10 +201,47 @@ test("copies cataloged CC0 images and renders generated credits", async (t) => {
   assert.match(html, /src="\.\.\/\.\.\/media\/images\/regions\/mosel\.jpg"/);
   assert.match(html, /width="1600" height="1000" loading="lazy" decoding="async"/);
   assert.match(html, /<span class="image-caption">A Mosel vineyard\.<\/span>/);
-  assert.match(html, /Photograph by <a href="https:\/\/example\.com\/creator">Example Photographer<\/a>/);
+  assert.match(html, /By <a href="https:\/\/example\.com\/creator">Example Photographer<\/a>/);
   assert.match(html, />CC0 1\.0<\/a>; Resized as JPEG\.<\/span>/);
   assert.equal(
     await fs.readFile(path.join(outputDir, "media", "images", "regions", "mosel.jpg"), "utf8"),
+    imageContents
+  );
+});
+
+test("accepts a source-verified public-domain image on the About page", async (t) => {
+  const imageContents = "fake public-domain jpeg contents\n";
+  const digest = crypto.createHash("sha256").update(imageContents).digest("hex");
+  const rootDir = await makeProject(t, {
+    "site/about.md":
+      '# About\n\n![Harvesters below a castle.](../media/images/site/harvest.jpg "September harvest.")\n\nA small encyclopedia.\n',
+    "media/images/site/harvest.jpg": imageContents,
+    "media/images.yml": `images:
+  - path: media/images/site/harvest.jpg
+    title: September harvest
+    creator: Example Artist
+    creator_url: https://example.com/artist
+    source: Wikimedia Commons
+    source_url: https://example.com/source
+    original_url: https://example.com/original.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 965
+    height: 1600
+    sha256: ${digest}
+    changes: Resized as JPEG.
+`,
+  });
+  const outputDir = path.join(rootDir, "public");
+  await buildSite({ rootDir, outputDir });
+
+  const html = await fs.readFile(path.join(outputDir, "about", "index.html"), "utf8");
+  assert.match(html, /<article class="article about">/);
+  assert.match(html, /<figure class="article-image">/);
+  assert.match(html, /src="\.\.\/media\/images\/site\/harvest\.jpg"/);
+  assert.match(html, />Public domain<\/a>; Resized as JPEG\.<\/span>/);
+  assert.equal(
+    await fs.readFile(path.join(outputDir, "media", "images", "site", "harvest.jpg"), "utf8"),
     imageContents
   );
 });

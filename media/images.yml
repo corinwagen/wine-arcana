@@ -116,3 +116,17 @@ images:
     height: 1107
     sha256: 29b5c7a1e839de046d894cbad809acbf83f8c47d5c1a29c5110818dcbbb204ad
     changes: Resized and recompressed as JPEG.
+
+  - path: media/images/site/history-of-wine-september.jpg
+    title: September, from Les Très Riches Heures du duc de Berry
+    creator: Limbourg brothers, Barthélemy d'Eyck, and Jean Colombe
+    creator_url: https://en.wikipedia.org/wiki/Tr%C3%A8s_Riches_Heures_du_Duc_de_Berry
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_septembre.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/7/72/Les_Tr%C3%A8s_Riches_Heures_du_duc_de_Berry_septembre.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 965
+    height: 1600
+    sha256: d58431d1a888ca833fbcf7cf40b5b79b8e5e60dcc9df3c28c3fe40f265e0a6e8
+    changes: Resized and recompressed as JPEG.
