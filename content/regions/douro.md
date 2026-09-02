@@ -17,6 +17,8 @@ help explain why Douro can produce dry red, white, and rosé wines, sparkling an
 sweet wines, and diverse styles of Port rather than one reliably heavy or ripe
 regional type.
 
+![Terraced vineyards rise beyond trees and the Douro River.](../../media/images/regions/douro-terraced-vineyards.jpg "Terraced vineyards along the Douro River.")
+
 ## River valleys, slopes, and schist
 
 Mountains separate the Douro from much of the humid Atlantic influence, while

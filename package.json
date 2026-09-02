@@ -9,11 +9,13 @@
   "scripts": {
     "article:next": "node scripts/run-next-article.js",
     "build:site": "node scripts/build-site.js",
-    "check": "npm run lint:markdown && npm run test && npm run validate && npm run build:site",
+    "check": "npm run lint:markdown && npm run test && npm run validate && npm run validate:images && npm run build:site",
     "format:markdown": "rumdl fmt .",
+    "images:search": "node scripts/search-images.js",
     "lint:markdown": "rumdl check .",
     "test": "node --test",
-    "validate": "node scripts/validate-content.js"
+    "validate": "node scripts/validate-content.js",
+    "validate:images": "node scripts/validate-images.js"
   },
   "dependencies": {
     "markdown-it": "^15.0.1",

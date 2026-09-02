@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import crypto from "node:crypto";
 import fs from "node:fs/promises";
 import os from "node:os";
 import path from "node:path";
@@ -164,6 +165,62 @@ test("refuses to replace output when corpus validation fails", async (t) => {
 
   await assert.rejects(buildSite({ rootDir, outputDir }), /content validation failed/);
   assert.equal(await fs.readFile(path.join(outputDir, "sentinel.txt"), "utf8"), "keep\n");
+});
+
+test("copies cataloged CC0 images and renders generated credits", async (t) => {
+  const imageContents = "fake jpeg contents\n";
+  const digest = crypto.createHash("sha256").update(imageContents).digest("hex");
+  const rootDir = await makeProject(t, {
+    "content/regions/mosel.md": article(
+      "Mosel",
+      'A river valley.\n\n![Vines on a steep slope.](../../media/images/regions/mosel.jpg "A Mosel vineyard.")'
+    ),
+    "media/images/regions/mosel.jpg": imageContents,
+    "media/images.yml": `images:
+  - path: media/images/regions/mosel.jpg
+    title: Vineyard by the Mosel
+    creator: Example Photographer
+    creator_url: https://example.com/creator
+    source: Wikimedia Commons
+    source_url: https://example.com/source
+    original_url: https://example.com/original.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    openverse_id: 00000000-0000-0000-0000-000000000000
+    width: 1600
+    height: 1000
+    sha256: ${digest}
+    changes: Resized as JPEG.
+`,
+  });
+  const outputDir = path.join(rootDir, "public");
+  await buildSite({ rootDir, outputDir });
+
+  const html = await fs.readFile(path.join(outputDir, "regions", "mosel", "index.html"), "utf8");
+  assert.match(html, /<figure class="article-image">/);
+  assert.match(html, /src="\.\.\/\.\.\/media\/images\/regions\/mosel\.jpg"/);
+  assert.match(html, /width="1600" height="1000" loading="lazy" decoding="async"/);
+  assert.match(html, /<span class="image-caption">A Mosel vineyard\.<\/span>/);
+  assert.match(html, /Photograph by <a href="https:\/\/example\.com\/creator">Example Photographer<\/a>/);
+  assert.match(html, />CC0 1\.0<\/a>; Resized as JPEG\.<\/span>/);
+  assert.equal(
+    await fs.readFile(path.join(outputDir, "media", "images", "regions", "mosel.jpg"), "utf8"),
+    imageContents
+  );
+});
+
+test("refuses to build an article image without catalog metadata", async (t) => {
+  const rootDir = await makeProject(t, {
+    "content/regions/mosel.md": article(
+      "Mosel",
+      '![Vines.](../../media/images/regions/mosel.jpg "A Mosel vineyard.")'
+    ),
+    "media/images/regions/mosel.jpg": "uncataloged\n",
+  });
+  await assert.rejects(
+    buildSite({ rootDir, outputDir: path.join(rootDir, "public") }),
+    /image validation failed/
+  );
 });
 
 test("requires output to remain below the project root", async (t) => {

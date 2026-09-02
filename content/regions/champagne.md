@@ -11,6 +11,8 @@ pressing, winemaking, ageing, and release are governed by the appellation's
 rules. Within that shared framework, Champagne can differ markedly with place,
 grape, harvest, blending, reserve wine, fermentation, lees ageing, and dosage.
 
+![Vine rows spread across a broad, pale-soiled slope beneath a blue sky.](../../media/images/regions/champagne-verzenay-vineyards.jpg "Vineyards at Verzenay in Champagne.")
+
 ## Geography and climate
 
 The appellation is a dispersed vineyard rather than a continuous block around

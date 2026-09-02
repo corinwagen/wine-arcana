@@ -15,6 +15,8 @@ Read all four guides before drafting or substantially editing an article:
 Also inspect the appropriate template and any existing articles directly
 related to the assigned subject.
 
+Before adding or replacing an image, read `docs/image-guide.md`.
+
 ## Default scope
 
 - Treat one article as one run's primary unit of work unless explicitly asked
@@ -47,6 +49,9 @@ related to the assigned subject.
   consequential claim needs direct attribution.
 - Link only to canonical articles that already exist. A missing destination is
   follow-up work, not permission to leave a broken link.
+- Add only locally stored, source-verified CC0 images cataloged in
+  `media/images.yml`. Do not infer a cultivar, person, place, or process from a
+  search result alone.
 
 ## Completion
 

@@ -19,6 +19,8 @@ are separate denominations with different ageing geographies. “Sherry” is
 therefore one of the protected names of the Jerez PDO, not a generic name for
 every wine made locally.
 
+![A bodega complex with tiled roofs, gardens, and a stone entrance stands beneath a clear blue sky.](../../media/images/regions/jerez-bodega.jpg "A bodega in Jerez de la Frontera.")
+
 ## Atlantic climate and varied soils
 
 The region is warm, bright, and exposed, with most rain falling outside the

@@ -9,6 +9,11 @@ import MarkdownIt from "markdown-it";
 import footnote from "markdown-it-footnote";
 import { parseDocument } from "yaml";
 
+import {
+  formatImageDiagnostic,
+  resolveImagePath,
+  validateImageCatalog,
+} from "./image-catalog.js";
 import { formatDiagnostic, validateCorpus } from "./validate-content.js";
 
 const ENTITY_TYPES = [
@@ -113,7 +118,7 @@ function extractFrontmatter(source, sourcePath) {
   };
 }
 
-function makeMarkdown(articleBySourcePath) {
+function makeMarkdown(articleBySourcePath, imageByPath) {
   const markdown = new MarkdownIt({ html: false, linkify: false, typographer: false }).use(footnote);
   const defaultLinkOpen =
     markdown.renderer.rules.link_open ??
@@ -140,6 +145,54 @@ function makeMarkdown(articleBySourcePath) {
       }
     }
     return defaultLinkOpen(tokens, index, options, environment, renderer);
+  };
+
+  const defaultImage =
+    markdown.renderer.rules.image ??
+    ((tokens, index, options, _environment, renderer) =>
+      renderer.renderToken(tokens, index, options));
+  const defaultParagraphOpen =
+    markdown.renderer.rules.paragraph_open ??
+    ((tokens, index, options, _environment, renderer) =>
+      renderer.renderToken(tokens, index, options));
+  const defaultParagraphClose =
+    markdown.renderer.rules.paragraph_close ??
+    ((tokens, index, options, _environment, renderer) =>
+      renderer.renderToken(tokens, index, options));
+  const isImageOnlyParagraph = (tokens, index, direction) => {
+    const inline = tokens[index + direction];
+    return inline?.type === "inline" && inline.children?.length === 1 && inline.children[0].type === "image";
+  };
+
+  markdown.renderer.rules.paragraph_open = (tokens, index, options, environment, renderer) => {
+    if (isImageOnlyParagraph(tokens, index, 1)) return '<figure class="article-image">';
+    return defaultParagraphOpen(tokens, index, options, environment, renderer);
+  };
+
+  markdown.renderer.rules.paragraph_close = (tokens, index, options, environment, renderer) => {
+    if (isImageOnlyParagraph(tokens, index, -1)) return "</figure>\n";
+    return defaultParagraphClose(tokens, index, options, environment, renderer);
+  };
+
+  markdown.renderer.rules.image = (tokens, index, options, environment, renderer) => {
+    const token = tokens[index];
+    const originalSrc = token.attrGet("src") ?? "";
+    const imagePath = resolveImagePath(environment.article.sourcePath, originalSrc);
+    const record = imageByPath.get(imagePath);
+    if (!record) return defaultImage(tokens, index, options, environment, renderer);
+
+    token.attrSet("src", fileHref(environment.article.outputPath, record.path));
+    token.attrSet("width", String(record.width));
+    token.attrSet("height", String(record.height));
+    token.attrSet("loading", "lazy");
+    token.attrSet("decoding", "async");
+    const imageHtml = defaultImage(tokens, index, options, environment, renderer);
+    const caption = token.attrGet("title") ?? record.title;
+    const changes = record.changes
+      ? `; ${escapeHtml(record.changes.replace(/\.$/, ""))}`
+      : "";
+    return `${imageHtml}
+<figcaption><span class="image-caption">${escapeHtml(caption)}</span> <span class="image-credit">Photograph by <a href="${escapeHtml(record.creator_url)}">${escapeHtml(record.creator)}</a>, via <a href="${escapeHtml(record.source_url)}">${escapeHtml(record.source)}</a>; <a href="${escapeHtml(record.license_url)}">CC0 1.0</a>${changes}.</span></figcaption>`;
   };
 
   markdown.core.ruler.after("footnote_tail", "sidenote_tail", (state) => {
@@ -424,9 +477,18 @@ export async function buildSite({
     );
   }
 
+  const imageValidation = await validateImageCatalog({ rootDir });
+  if (imageValidation.diagnostics.length > 0) {
+    throw new Error(
+      `Site build stopped because image validation failed:\n${imageValidation.diagnostics
+        .map(formatImageDiagnostic)
+        .join("\n")}`
+    );
+  }
+
   const articles = await readArticles(rootDir);
   const articleBySourcePath = new Map(articles.map((article) => [article.sourcePath, article]));
-  const markdown = makeMarkdown(articleBySourcePath);
+  const markdown = makeMarkdown(articleBySourcePath, imageValidation.byPath);
   const written = [];
 
   await fs.rm(outputDir, { force: true, recursive: true });
@@ -437,6 +499,10 @@ export async function buildSite({
   for (const filename of SITE_ASSETS) {
     const contents = await fs.readFile(path.join(rootDir, "site", filename));
     written.push(await writeOutput(rootDir, outputDir, filename, contents));
+  }
+  for (const record of imageValidation.records) {
+    const contents = await fs.readFile(path.join(rootDir, record.path));
+    written.push(await writeOutput(rootDir, outputDir, record.path, contents));
   }
   written.push(await writeOutput(rootDir, outputDir, ".nojekyll", ""));
 

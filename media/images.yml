@@ -1,0 +1,60 @@
+images:
+  - path: media/images/regions/champagne-verzenay-vineyards.jpg
+    title: Moët & Chandon vineyards in Verzenay, Champagne, France
+    creator: Mustang Joe
+    creator_url: https://www.flickr.com/people/63234672@N04
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Mo%C3%ABt_%26_Chandon_vineyards_in_Verzenay,_Champagne,_France_(13180177073).jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/2/27/Mo%C3%ABt_%26_Chandon_vineyards_in_Verzenay%2C_Champagne%2C_France_%2813180177073%29.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    openverse_id: e417d1c3-1938-48d8-b8a2-fd1d0ecf5a99
+    width: 1600
+    height: 900
+    sha256: 92ba6ed4a00bed65217f6fafa466341dbe1de4d3b29f8065e90e715d4aa05dfb
+    changes: Resized and recompressed as JPEG.
+
+  - path: media/images/regions/douro-terraced-vineyards.jpg
+    title: Terraced vineyards along the Douro River
+    creator: Yiwenli0203
+    creator_url: https://commons.wikimedia.org/wiki/Special:Contributions/Yiwenli0203
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Terraced_vineyards_along_the_Douro_river.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/c/cd/Terraced_vineyards_along_the_Douro_river.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    openverse_id: 34e93d79-5b5f-4a11-9310-244c37ac4ed8
+    width: 1600
+    height: 900
+    sha256: e505ee1f4d7e1c118e3c23523bf6b7a5b2f74875bcf9555cb8218e19f9eebe54
+    changes: Resized and recompressed as JPEG.
+
+  - path: media/images/regions/jerez-bodega.jpg
+    title: Bodegas González Byass in Jerez de la Frontera
+    creator: Zarateman
+    creator_url: https://commons.wikimedia.org/wiki/User:Zarateman
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Jerez_de_la_Frontera_-_Bodegas_Gonz%C3%A1lez_Byass_06.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/8/89/Jerez_de_la_Frontera_-_Bodegas_Gonz%C3%A1lez_Byass_06.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    openverse_id: 65c37781-46e1-4a06-a035-6a2c8966f4a3
+    width: 1600
+    height: 1068
+    sha256: 9e925f0152df1d277bb5dcd0dc932bc967f1e6b231ff5a87d8b8555f49d056a4
+    changes: Resized and recompressed as JPEG.
+
+  - path: media/images/regions/mosel-vineyard.jpg
+    title: Vineyard by the Mosel, June 2018
+    creator: Peulle
+    creator_url: https://commons.wikimedia.org/wiki/User:Peulle
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Vineyard_by_the_Mosel_jun_2018_(2).jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/d/db/Vineyard_by_the_Mosel_jun_2018_%282%29.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    openverse_id: 9a013fdd-eb18-4fb2-97d0-6fc0dea06d63
+    width: 1600
+    height: 1059
+    sha256: 410dddc3015bb3ccf3568433e28a1e0bab705b416aa475dad69baf38cdfb2c22
+    changes: Resized and recompressed as JPEG.

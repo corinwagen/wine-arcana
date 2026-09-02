@@ -17,6 +17,8 @@ valleys differ in elevation and shelter; and the broad, limestone-influenced
 Upper Mosel is unlike the slate gorges farther downstream. Harvest timing,
 fermentation, and the producer's aims widen those differences.
 
+![Rows of vines cross a steep slope above a stone retaining wall.](../../media/images/regions/mosel-vineyard.jpg "A steep vineyard in the Mosel valley.")
+
 ## River valleys, slopes, and climate
 
 South of Trier, the Upper Mosel crosses relatively soft sandstone, shell
