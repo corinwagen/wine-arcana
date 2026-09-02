@@ -189,11 +189,16 @@ sub {
   border-top: 1px solid var(--border);
 }
 
-.sources-heading ~ ul,
-.sidenote {
+.sources-heading ~ ul {
   color: #4f4a45;
   font-size: 11pt;
   line-height: 1.4;
+}
+
+.sidenote {
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.35;
 }
 
 .sidenote-number {
