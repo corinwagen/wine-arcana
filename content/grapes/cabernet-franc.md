@@ -8,110 +8,105 @@ aliases:
 # Cabernet Franc
 
 Cabernet Franc is a dark-skinned *Vitis vinifera* variety long established in
-southwestern France and the Loire Valley. It is often encountered indirectly,
-as a parent of better-known grapes or as part of a Bordeaux blend, yet in the
-central Loire, northeastern Italy, and several New World regions it also makes
-red and rosé wines under its own name.
+southwestern France and the Loire Valley. It is a parent of better-known grapes
+and a component of Bordeaux blends. In the central Loire, northeastern Italy,
+and several New World regions, it also makes red and rosé wines under its own
+name.
 
-The variety is especially useful for understanding the difference between an
-inherited tendency and a fixed style. It commonly combines red-fruit and floral
-aromas with a leafy or pepper-like accent, and it normally ripens before
-[Cabernet Sauvignon](cabernet-sauvignon.md). Climate, crop level, canopy,
-harvest date, extraction, and blending determine whether those traits produce a
-fresh, fragrant wine or one dominated by green aroma and firm texture.
+The variety shows how inherited tendencies interact with growing and winemaking
+decisions. It commonly combines red-fruit and floral aromas with a leafy or
+pepper-like accent, and it normally ripens before [Cabernet
+Sauvignon](cabernet-sauvignon.md). Climate, crop level, canopy, harvest date,
+extraction, and blending can shape those traits into a fresh, fragrant wine or
+one dominated by green aroma and firm texture.
 
 ## History and family
 
-Cabernet Franc's own origin is not settled. The French Plantgrape catalogue
+Cabernet Franc's origin remains unsettled. The French Plantgrape catalogue
 places it probably in southwestern France. DNA analysis has also found
 first-degree relationships with the old Basque variety Morenoa and an accession
-recorded as Txakoli, but the evidence does not establish the direction of either
-relationship and therefore does not prove a particular pair of parents or a
-precise birthplace.[^1] The names *Breton* in the Loire and *Bouchet* in
-Bordeaux are genuine regional names, not separate varieties.
+recorded as Txakoli. The direction of each relationship remains unresolved, so
+the evidence proves neither a particular pair of parents nor a precise
+birthplace.[^1] *Breton* in the Loire and *Bouchet* in Bordeaux are regional
+names for the same variety.
 
 Its role as a parent is much clearer. Microsatellite analysis identified
 Cabernet Franc and [Sauvignon Blanc](sauvignon-blanc.md) as the parents of
 [Cabernet Sauvignon](cabernet-sauvignon.md). Separate work established Cabernet
-Franc and Magdeleine
-Noire des Charentes as the parents of [Merlot](merlot.md), and proposed
-Cabernet Franc and Gros Cabernet as those of Carménère. The Carménère analysis
-contained discrepancies at three genetic markers, so it is less secure than
-the two other parentages.[^1] These relationships help explain shared family
-traits, including methoxypyrazine production, but they do not make the
-resulting grapes interchangeable: each inherited a different second half of
-its genome and has its own ripening and structural behaviour.
+Franc and Magdeleine Noire des Charentes as the parents of [Merlot](merlot.md)
+and proposed Cabernet Franc and Gros Cabernet as those of Carménère. The
+Carménère analysis contained discrepancies at three genetic markers, making it
+less secure than the other two parentages.[^1] These relationships help explain
+shared family traits, including methoxypyrazine production. Each grape also
+inherited half its genome from a different parent and has its own ripening and
+structural behaviour.
 
 ## Viticulture and ripening
 
-“Earlier” is comparative. In the French reference collection, Cabernet Franc
-reaches maturity roughly two and a half to three weeks after Chasselas, while
-Cabernet Sauvignon follows at about three to three and a half weeks. The ranges
-overlap, but Cabernet Franc generally provides the earlier harvest window.[^2]
-That difference can be decisive where autumn rain, cooling temperatures, or
-frost may end the season. It helps explain why Cabernet Franc can play a leading
-role in the Loire and in cool parts of North America while Cabernet Sauvignon
-is harder to ripen consistently.
+In the French reference collection, Cabernet Franc reaches maturity roughly two
+and a half to three weeks after Chasselas, compared with about three to three and
+a half weeks for Cabernet Sauvignon. The ranges overlap, but Cabernet Franc
+generally provides the earlier harvest window.[^2] That difference can be
+decisive where autumn rain, cooling temperatures, or frost may end the season.
+It helps explain why Cabernet Franc can play a leading role in the Loire and in
+cool parts of North America, where Cabernet Sauvignon is harder to ripen
+consistently.
 
-The advantage at harvest carries a spring risk. Cabernet Franc also breaks bud
-before Cabernet Sauvignon, so its young shoots can be more exposed to a late
-frost. The vine is fairly vigorous, with small berries in medium bunches.
+Cabernet Franc also breaks bud before Cabernet Sauvignon, leaving its young
+shoots more exposed to late frost. The vine is fairly vigorous and bears small
+berries in medium bunches.
 Unchecked growth can shade the fruit, while an excessive crop can prolong
 ripening; both can preserve green character even though the variety is earlier
 than Cabernet Sauvignon. Moderate resistance to grey rot is useful in humid
-autumns, but it is not immunity, and trunk diseases and leafhoppers are among
-its other concerns.
+autumns. Trunk diseases and leafhoppers are among its other concerns.
 
 Plantgrape associates good results with clay-limestone sites and with sandy
-soils where water stress is absent. That is not a universal soil recipe.
-Drainage, available water, exposure, and climate matter through their effects
-on vine growth and fruit development; the same soil can behave differently in
-a wet Loire season, maritime Bordeaux, or an irrigated dry region.
+soils without water stress. Drainage, available water, exposure, and climate
+shape vine growth and fruit development. The same soil can behave differently
+in a wet Loire season, maritime Bordeaux, or an irrigated dry region.
 
 ## Wine character and cellar choices
 
-Cabernet Franc often gives less deeply coloured and less densely tannic wine
+Cabernet Franc often produces less deeply coloured and less densely tannic wine
 than Cabernet Sauvignon, while retaining enough acidity and tannin to make
 structured wines. Red-cherry or raspberry-like fruit and floral impressions
-are common reference points, but the most useful causal marker is
+are common reference points. A key aroma compound is
 3-isobutyl-2-methoxypyrazine (IBMP). This potent grape-derived compound can
 contribute leafy, herbal, or green-pepper aromas.[^3]
 
 IBMP is produced early in berry development and generally declines during
-ripening. Its eventual sensory effect depends on the season and fruit-zone
-microclimate as well as concentration: warmth and well-judged exposure often
-reduce it, while shade, high vigour, and delayed fruit development can preserve
-more. Greater exposure is not automatically better in a hot site, where
-sunburn, water stress, and acid loss become competing risks. Nor is every herbal
-note evidence of unripe fruit; small amounts can sit within the variety's aroma,
-and other volatile compounds can suppress or amplify how green character is
-perceived.
+ripening. Its sensory effect depends on concentration, season, and fruit-zone
+microclimate. Warmth and well-judged exposure often reduce it, while shade, high
+vigour, and delayed fruit development can preserve more. In hot sites, greater
+exposure raises competing risks of sunburn, water stress, and acid loss. Small
+amounts of IBMP can sit within the variety's aroma, and other volatile compounds
+can suppress or amplify the perception of green character. Herbal aroma alone
+does not prove that the fruit was unripe.
 
 Winemaking changes the frame around that aroma. Shorter skin contact and gentle
 extraction can emphasize fragrance and freshness; longer or more forceful
 extraction can build colour and tannin when the fruit supports it. Blending can
 alter the perception of both IBMP and texture, while oak and bottle age add new
-aromas rather than revealing one inevitable mature Cabernet Franc style.
+aromas. Mature Cabernet Franc styles vary accordingly.
 
 ## Regional roles
 
 ### Loire Valley
 
-In the central Loire, Cabernet Franc is principally a standalone variety rather
-than a minor blending component. Chinon, Bourgueil, Saint-Nicolas-de-Bourgueil,
-Saumur-Champigny, and parts of Anjou and Touraine use it for dry reds, and some
-appellations also make rosé. The current Chinon specification names Cabernet
-Franc as the principal grape for red and rosé, limits Cabernet Sauvignon to 10
-percent of an estate's plantings, and requires Cabernet Franc to be the majority
-when the two are blended.[^4]
+In the central Loire, Cabernet Franc is principally used on its own.
+Chinon, Bourgueil, Saint-Nicolas-de-Bourgueil, Saumur-Champigny, and parts of
+Anjou and Touraine use it for dry reds, and some appellations also make rosé.
+The current Chinon specification names Cabernet Franc as the principal grape for
+red and rosé, limits Cabernet Sauvignon to 10 percent of an estate's plantings,
+and requires a Cabernet Franc majority when the two are blended.[^4]
 
 Its relative precocity makes red wine possible near the cool edge of its useful
-range, but “Loire Cabernet Franc” is not one weight or flavour. Warm, exposed
-sites and favourable years can support fuller ripeness and longer extraction;
-cooler sites, higher crops, or difficult seasons tend toward lighter structure
-and more obvious herbal character. Sand and gravel may warm and drain quickly,
-while limestone-derived and clay-rich sites regulate water differently, but
-soil names alone do not predict the finished wine.
+range. Its weight and flavour vary across the Loire. Warm, exposed sites and
+favourable years can support fuller ripeness and longer extraction; cooler
+sites, higher crops, or difficult seasons tend toward lighter structure and
+more obvious herbal character. Sand and gravel may warm and drain quickly,
+while limestone-derived and clay-rich sites regulate water differently. Their
+effects on the finished wine depend on the season and farming.
 
 ### Bordeaux
 
@@ -120,14 +115,13 @@ on the Right Bank, where Saint-Émilion's official description places it behind
 dominant Merlot but ahead of Cabernet Sauvignon. Relative to Merlot it can add a
 different aromatic lift, acidity, and tannic line; relative to Cabernet
 Sauvignon it offers an earlier harvest. The proportions change by site, estate,
-and vintage, and a few wines rely heavily on Cabernet Franc, so “supporting”
-describes the regional pattern rather than a rule for every property.
+and vintage, with a few wines relying heavily on Cabernet Franc within this
+broader regional pattern.
 
 On the Left Bank it is generally a smaller part of Cabernet Sauvignon-led
 blends. There its earlier maturity can diversify harvest risk and its aroma can
-modify a blend, but it usually does not provide the principal colour or tannic
-mass. These functions explain more than the vague claim that Cabernet Franc
-simply adds “complexity.”
+modify a blend, while Cabernet Sauvignon usually provides the principal colour
+and tannic mass.
 
 ### Northeastern Italy
 
@@ -137,8 +131,8 @@ Cabernet Franc when at least 85 percent comes from the variety; it also allows
 Cabernet Franc in *Rosso* and in a generic *Cabernet* that may combine Cabernet
 Franc, Cabernet Sauvignon, and Carménère. The Venezia denomination similarly
 provides for varietal Cabernet Franc, two-variety wines, and broader red
-blends.[^5] A label reading *Cabernet* therefore need not identify Cabernet
-Franc alone.
+blends.[^5] A label reading *Cabernet* may therefore identify either Cabernet
+Franc alone or a blend.
 
 Historical confusion with Carménère further complicates older accounts of
 plantings. One Italian selection imported to the University of California as
@@ -159,13 +153,13 @@ excessive vigour remain real limits. Ontario's appellation authority lists it
 among the common varieties in Niagara and among the popular grapes for Vintners
 Quality Alliance table wines.[^6]
 
-In drier regions, the problem often shifts from completing ripening to
+In drier regions, the challenge often shifts from completing ripening to
 preserving acidity and avoiding excessive heat or water stress. Argentina's
 official 2024 report recorded Cabernet Franc in 17 wine-producing provinces,
 with most of the area in Mendoza, and documented both varietal wine and blends.
 The category therefore spans cool lake-moderated vineyards, warm valleys, and
-high or coastal sites. A simple Old World/New World division says less than the
-local balance among season length, water, exposure, crop, and harvest timing.
+high or coastal sites. Local season length, water, exposure, crop, and harvest
+timing provide the useful basis for comparison.
 
 [^1]: Jean-Michel Boursiquot et al., “Parentage of Merlot and Related Winegrape
     Cultivars of Southwestern France: Discovery of the Missing Link,”
