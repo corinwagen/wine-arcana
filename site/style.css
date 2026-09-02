@@ -114,6 +114,12 @@ li + li {
   margin-top: 5px;
 }
 
+sup,
+sub {
+  line-height: 0;
+  font-size: 75%;
+}
+
 .section-label {
   margin: 0 0 0.55rem;
   color: var(--muted);
