@@ -8,78 +8,76 @@ Chardonnay is a white *Vitis vinifera* variety historically associated with
 Burgundy and Champagne and now grown across much of the wine-producing world.
 Compared with strongly aromatic grapes, it has a relatively low concentration
 of free monoterpenes—the compounds that supply much of the overt perfume of
-Muscat and help distinguish [Riesling](riesling.md). In this limited sense,
-Chardonnay is a “neutral” variety. It is not aromatically empty: grape-derived precursors,
-ripeness and fermentation all contribute, but no single varietal perfume
-consistently overrides place and production method.[^1]
+Muscat and help distinguish [Riesling](riesling.md). In this sense, Chardonnay
+is a “neutral” variety. Grape-derived precursors, ripeness and fermentation
+still contribute aroma, but no single varietal perfume consistently overrides
+place and production method.[^1]
 
 This relative neutrality helps make site and cellar choices unusually legible.
 Chardonnay can become a taut, minimally oaked still wine, a broader wine shaped
 by [malolactic fermentation](../concepts/malolactic-fermentation.md), lees and
 barrels, or a base for sparkling wine.
-These are not fixed subtypes of the grape, and familiar impressions such as
-butter, cream, vanilla and toast have different causes.
+Growing conditions and production choices create these styles. Familiar
+impressions such as butter, cream, vanilla and toast also have different causes.
 
 ## Origins and identity
 
 Genetic analysis indicates that Chardonnay is an offspring of Pinot and Gouais
 blanc. The study establishing this relationship found a parentage match across
-32 microsatellite markers and placed Chardonnay among a group of varieties long
-grown in northeastern France.[^2] That evidence establishes biological
-parentage, not the vineyard or date of the original seedling. Burgundy is the
-variety's strongest historical home, but a precise birthplace should not be
-inferred from the modern distribution of its parents. Pinot in the genetic
-study denotes the old Pinot lineage represented by [Pinot Noir](pinot-noir.md),
-not proof that a named modern clone was the parent.
+32 microsatellite markers and placed Chardonnay among varieties long grown in
+northeastern France.[^2] That evidence establishes biological parentage, but
+cannot locate or date the original seedling. Burgundy is the variety's
+strongest historical home. The modern distribution of its parents does not
+establish a precise birthplace. In the genetic study, Pinot denotes the old
+lineage represented by [Pinot Noir](pinot-noir.md), not a named modern clone.
 
 ## Viticulture and site
 
 Chardonnay buds and ripens early. Early budbreak makes spring frost a recurring
-risk; early maturity allows it to ripen in relatively cool districts but can
+risk. Early maturity allows it to ripen in relatively cool districts and can
 compress the harvest window in warm ones. Its small bunches and berries can
 reach substantial sugar while retaining useful acidity in suitable conditions.
 Powdery mildew is a concern, and vigorous vines with fruit still hanging late
 can suffer damaging grey rot. Clone, crop level, canopy and fruit health
-therefore condition any general statement about the variety.
+therefore shape the variety's performance.
 
-Site matters through several connected routes rather than through a simple soil
-flavour. Elevation, aspect, wind and surrounding topography alter heat and
-light; soil depth and drainage affect the vine's water supply; season and
-farming change all of these effects. Cooler or less exposed sites may slow sugar
-accumulation and preserve more malic acid. Greater heat can accelerate sugar
-accumulation and malic-acid loss, while severe water stress may instead restrict
-photosynthesis and ripening. Harvest date then selects from that moving balance
-of sugar, acid, aroma precursors and fruit condition.
+Site acts through several connected routes. Elevation, aspect, wind and
+surrounding topography alter heat and light; soil depth and drainage affect the
+vine's water supply; season and farming change all of these effects. Cooler or
+less exposed sites may slow sugar accumulation and preserve more malic acid.
+Greater heat can accelerate sugar accumulation and malic-acid loss, while
+severe water stress may restrict photosynthesis and ripening. Harvest date then
+selects from that moving balance of sugar, acid, aroma precursors and fruit
+condition.
 
-These relationships explain why Chardonnay is often described as transparent
-to site, but they do not make place the only variable in the glass. Comparing
-vineyards requires attention to clone, rootstock, crop, canopy, harvest date and
-winemaking as well as geology. Words such as “mineral” may record a useful
-sensory impression; they do not by themselves demonstrate that a rock flavour
-has passed directly from soil into wine.
+These relationships underlie Chardonnay's reputation for transparency to site.
+Vineyard comparisons must also account for clone, rootstock, crop, canopy,
+harvest date and winemaking alongside geology. Words such as “mineral” may
+record a useful sensory impression. By themselves, they offer no evidence that
+a rock flavour passed directly from soil into wine.
 
 ## Wine character and cellar choices
 
-Chardonnay's fruit expression changes with growing conditions and picking, but
-“neutral” should not be confused with flavourless. Research has found
-aroma-active thiols in Chardonnay, including in unoaked wines made under a
-standard protocol, while also showing that their sensory effect depends on
-concentration and interaction with the many other compounds in the wine.[^1]
+Chardonnay's fruit expression changes with growing conditions and picking.
+Research has found aroma-active thiols in the variety, including in unoaked
+wines made under a standard protocol, while also showing that their sensory
+effect depends on concentration and interaction with the wine's many other
+compounds.[^1]
 Yeast strain, fermentation temperature, juice solids, oxygen management and
-skin contact can further change fermentation-derived aroma. The variety's
-identity is consequently a pattern of restrained grape character and
-composition, not a mandatory list of fruit descriptors.
+skin contact can further change fermentation-derived aroma. Restrained grape
+character and composition give the variety its identity without prescribing a
+list of fruit descriptors.
 
 Malolactic fermentation is a bacterial conversion, usually after or alongside
 alcoholic fermentation, in which malic acid becomes lactic acid and carbon
 dioxide. The conversion lowers titratable acidity and can make the acid profile
 seem softer. The buttery-smelling compound diacetyl can also arise as bacteria
-metabolise citric acid, but butter is not an automatic sign or inevitable
-result of the conversion. Diacetyl depends on bacterial strain, oxygen, redox
-conditions, timing, sulfur dioxide and continued contact with active yeast or
-bacteria; it can also be reduced to less aromatic compounds.[^3] A producer may
-encourage, limit or prevent malolactic fermentation according to the acidity of
-the base wine and the intended style.
+metabolise citric acid. Its concentration depends on bacterial strain, oxygen,
+redox conditions, timing, sulfur dioxide and continued contact with active
+yeast or bacteria; it can also be reduced to less aromatic compounds.[^3]
+Malolactic fermentation can therefore produce much, little, or no perceptible
+butter. A producer may encourage, limit or prevent the conversion according to
+the base wine's acidity and the intended style.
 
 Lees are the yeast and other particles that settle after fermentation. Keeping
 wine on its fine lees allows yeast-cell material, including mannoproteins and
@@ -88,19 +86,18 @@ found greater polysaccharide content with lees ageing, though the result varies
 with the lees retained, yeast, time, temperature and whether the sediment is
 stirred.[^4] These compounds can influence texture, aroma interactions and
 colloidal stability. Stirring, known as *bâtonnage*, increases contact between
-wine and sediment and can also change oxygen exposure. Lees ageing may make a
-wine seem broader; it is not the source of malolactic fermentation's diacetyl
-and does not guarantee a “creamy” wine.
+wine and sediment and can also change oxygen exposure. Lees ageing may broaden
+the wine's texture. Its effects are separate from bacterial diacetyl
+production, and a “creamy” impression remains conditional.
 
-Oak is another separate choice. Fermentation or maturation in barrel can add
-oak lactones, vanillin, volatile phenols and compounds formed by toasting, while
-the vessel also changes oxygen exposure during maturation. The effect depends
-on oak species, seasoning and toast as well as barrel size, age and contact
-time. New barrels generally yield more extractable aroma than barrels already
-used for wine.[^5] Vanilla or toast therefore describes wood influence, not
-Chardonnay's intrinsic flavour. Oak, lees and malolactic fermentation are often
-combined because their effects can integrate, but any one can be used without
-the others.
+Fermentation or maturation in barrel can add oak lactones, vanillin, volatile
+phenols and compounds formed by toasting. The vessel also changes oxygen
+exposure during maturation. The effect depends on oak species, seasoning and
+toast as well as barrel size, age and contact time. New barrels generally yield
+more extractable aroma than barrels already used for wine.[^5] Vanilla and toast
+belong to the wood's influence. The effects of oak, lees and malolactic
+fermentation can integrate, so producers often combine them. They can also use
+any one without the others.
 
 ## Sparkling wine
 
@@ -117,9 +114,8 @@ Champagne demonstrates both blending and varietal expression. Chardonnay may
 be combined with Pinot Noir and Meunier or used alone for *blanc de blancs*.
 The appellation's production sequence requires the second fermentation in the
 bottle and subsequent maturation on its lees.[^6] Chardonnay is also used in
-traditional-method sparkling wines elsewhere. In every case, effervescence and
-lees-derived character come from the production method, not from an inherently
-sparkling property of the variety.
+traditional-method sparkling wines elsewhere. The production method supplies
+the effervescence and lees-derived character.
 
 ## Where it is grown
 
@@ -127,17 +123,17 @@ Burgundy and Champagne remain the clearest historical reference points.
 Chablis, the Côte de Beaune and the Mâconnais use Chardonnay for still wines
 that can differ markedly in ripeness, acidity, texture and oak expression.
 These differences reflect mesoclimate, vineyard position, season and production
-choices together; “Burgundian” is not one cellar recipe. In Champagne,
+choices together; “Burgundian” covers many cellar approaches. In Champagne,
 Chardonnay is especially associated with the Côte des Blancs, where it serves a
-sparkling-wine objective rather than Burgundy's still-wine one.
+sparkling-wine objective distinct from Burgundy's still-wine one.
 
 Beyond France, the variety is grown in Italy, California, Oregon, Australia,
 New Zealand, Chile, Argentina and South Africa, among many other places.
 Maritime influence, elevation and cool nights can extend the effective
-ripening season even at relatively warm latitudes, while colder regions do not
-automatically produce balanced fruit. Across this range, a regional name is
-most informative when read alongside vintage, harvest decisions and the use—or
-avoidance—of malolactic fermentation, lees and oak.
+ripening season even at relatively warm latitudes. Cold alone cannot ensure
+balanced fruit. Across this range, a regional name is most informative when
+read alongside vintage, harvest decisions and choices about malolactic
+fermentation, lees and oak.
 
 [^1]: Jerry Lin, Mélanie Massonnet & Dario Cantu, “The genetic basis of grape
     and wine aroma,” *Horticulture Research* 6 (2019), article 81,
