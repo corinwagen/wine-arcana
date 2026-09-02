@@ -34,9 +34,8 @@ breaking and rearranging the layered rock as they formed terraces and prepared
 ground for vines. The resulting soils are commonly stony, acidic, and low in
 organic matter. Fractures can admit roots and water, but soil depth and
 water-holding capacity remain highly variable, leaving some sites vulnerable
-to drought. Schist influences rooting, drainage, heat absorption, and the work
-required to establish a vineyard. It does not transfer mineral flavour directly
-into wine.
+to drought. For growers, schist affects how roots penetrate the soil, how water
+drains, how heat is absorbed, and how vineyards must be established.
 
 ## Three subregions and a water gradient
 
