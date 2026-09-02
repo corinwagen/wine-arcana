@@ -17,6 +17,8 @@ contrasting land rather than a single granitic terroir, and its appellation
 names identify different delimited origins and production rules rather than a
 dependable ladder of taste or quality.
 
+![Three vineyard workers harvest grapes by hand among low vines.](../../media/images/regions/beaujolais-harvest-1935.jpg "Grape harvest in Beaujolais, 1935.")
+
 ## Geography and a mosaic of soils
 
 The vineyard runs for about 55 kilometres along the slopes between the Monts

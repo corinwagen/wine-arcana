@@ -58,3 +58,61 @@ images:
     height: 1059
     sha256: 410dddc3015bb3ccf3568433e28a1e0bab705b416aa475dad69baf38cdfb2c22
     changes: Resized and recompressed as JPEG.
+
+  - path: media/images/regions/barolo-village-vineyards.jpg
+    title: Barolo Village
+    creator: Bruno Sulis
+    creator_url: https://500px.com/brunosls
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Barolo_Village_(163795471).jpeg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/8/87/Barolo_Village_%28163795471%29.jpeg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    width: 1600
+    height: 1064
+    sha256: a2f1093d5ed486f2d3a3792f09b13816ecfff80552b53434ed99a05512858a49
+    changes: Resized and recompressed as JPEG.
+
+  - path: media/images/regions/beaujolais-harvest-1935.jpg
+    title: Grape harvest in the vineyards of Beaujolais
+    creator: Willem van de Poll
+    creator_url: https://commons.wikimedia.org/wiki/Creator:Willem_van_de_Poll
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Druivenpluk_in_de_wijngaarden_van_de_Beaujolais,_Bestanddeelnr_191-0314.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/4/44/Druivenpluk_in_de_wijngaarden_van_de_Beaujolais%2C_Bestanddeelnr_191-0314.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    width: 1600
+    height: 1182
+    sha256: c2c6c84a17a6331bb87324c16fa1263622a675b278711b9b1e6e0f397bd480f8
+    changes: Resized and recompressed as JPEG.
+
+  - path: media/images/concepts/canopy-management-pruned-vines.jpg
+    title: Pruned vineyard rows
+    creator: Rafel Jesús
+    creator_url: https://wordpress.org/photos/author/rafeljb/
+    source: WordPress Photo Directory
+    source_url: https://wordpress.org/photos/photo/33862219e6/
+    original_url: https://pd.w.org/2022/03/33862219e64d89ac9.18353315.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    openverse_id: 0966253e-6daf-4014-85ec-9b3beb01189a
+    width: 1600
+    height: 1200
+    sha256: 56e5e741e418b49c9cef4d1cb4fa8af874b3ec99468f89b2b88a8c926922121f
+    changes: Resized and recompressed as JPEG.
+
+  - path: media/images/concepts/oak-maturation-cellar-casks.jpg
+    title: In the cellar
+    creator: Bernard Spragg. NZ
+    creator_url: https://www.flickr.com/people/88123769@N02
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:In_the_cellar._(15478396766).jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/b/b0/In_the_cellar._%2815478396766%29.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    openverse_id: fba8cd1e-45e7-4e04-8c7e-848fdaae3149
+    width: 1600
+    height: 1107
+    sha256: 29b5c7a1e839de046d894cbad809acbf83f8c47d5c1a29c5110818dcbbb204ad
+    changes: Resized and recompressed as JPEG.

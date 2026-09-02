@@ -19,12 +19,11 @@ const REQUIRED_FIELDS = [
   "original_url",
   "license",
   "license_url",
-  "openverse_id",
   "width",
   "height",
   "sha256",
 ];
-const OPTIONAL_FIELDS = new Set(["changes"]);
+const OPTIONAL_FIELDS = new Set(["changes", "openverse_id"]);
 const IMAGE_EXTENSIONS = new Set([".avif", ".jpeg", ".jpg", ".png", ".webp"]);
 const markdown = new MarkdownIt({ html: false, linkify: false, typographer: false });
 
@@ -121,7 +120,6 @@ function validateRecord(record, index, diagnostics) {
     "creator",
     "source",
     "license",
-    "openverse_id",
     "sha256",
   ]) {
     if (typeof record[field] !== "string" || record[field].trim() === "") {
@@ -160,6 +158,14 @@ function validateRecord(record, index, diagnostics) {
   }
   if (Object.hasOwn(record, "changes") && (typeof record.changes !== "string" || record.changes.trim() === "")) {
     diagnostics.push(diagnostic(CATALOG_PATH, `${label}.changes must be a nonempty string when present.`));
+  }
+  if (
+    Object.hasOwn(record, "openverse_id") &&
+    (typeof record.openverse_id !== "string" || record.openverse_id.trim() === "")
+  ) {
+    diagnostics.push(
+      diagnostic(CATALOG_PATH, `${label}.openverse_id must be a nonempty string when present.`)
+    );
   }
   return diagnostics.length === diagnosticCount;
 }
@@ -211,10 +217,12 @@ export async function validateImageCatalog({ rootDir = process.cwd() } = {}) {
     } else {
       byPath.set(record.path, record);
     }
-    if (openverseIds.has(record.openverse_id)) {
-      diagnostics.push(diagnostic(CATALOG_PATH, `Openverse ID "${record.openverse_id}" is duplicated.`));
+    if (record.openverse_id && openverseIds.has(record.openverse_id)) {
+      diagnostics.push(
+        diagnostic(CATALOG_PATH, `Openverse ID "${record.openverse_id}" is duplicated.`)
+      );
     }
-    openverseIds.add(record.openverse_id);
+    if (record.openverse_id) openverseIds.add(record.openverse_id);
 
     const absolutePath = path.join(rootDir, record.path);
     if (!(await pathExists(absolutePath))) {

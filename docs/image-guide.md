@@ -31,6 +31,11 @@ Search Openverse's CC0 results from the command line:
 npm run images:search -- "Mosel vineyard" --limit 12
 ```
 
+If an exact search is empty, search a trusted source repository such as
+Wikimedia Commons directly. Openverse does not index every suitable file, and
+absence from its results is not evidence about a work's license. The original
+file page remains the authority in either route.
+
 Then:
 
 1. Inspect the image at useful size and open the original source page.
@@ -39,7 +44,8 @@ Then:
 4. Resize oversized photographs to no more than 1,600 pixels on the long edge
    and record any resizing, cropping, colour adjustment, or recompression.
 5. Add a complete entry to `media/images.yml`, including the original and
-   source URLs, dimensions, Openverse ID, and SHA-256 checksum.
+   source URLs, dimensions, SHA-256 checksum, and Openverse ID when the image
+   was found there.
 6. Add the image to the article as ordinary Markdown. The alt text describes
    what is visible; the quoted title supplies the visible caption:
 

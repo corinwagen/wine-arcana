@@ -13,6 +13,8 @@ and specified production and maturation. Nebbiolo grown elsewhere is not
 Barolo, while Barolo itself varies substantially with site, season, farming,
 and cellar decisions.
 
+![Autumn vineyard rows descend toward a village surrounded by rolling hills.](../../media/images/regions/barolo-village-vineyards.jpg "The village of Barolo among its vineyard slopes.")
+
 ## Geography and growing conditions
 
 The zone occupies a set of ridges in the southwestern Langhe, within the

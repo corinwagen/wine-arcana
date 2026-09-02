@@ -21,6 +21,8 @@ mature in barrel, ferment in barrel and mature elsewhere, or remain in the same
 vessel for both stages. Malolactic conversion and lees contact may overlap with
 oak maturation, but each has its own causes and effects.
 
+![A row of large wooden casks recedes into a dark wine cellar.](../../media/images/concepts/oak-maturation-cellar-casks.jpg "Oak casks in a wine cellar.")
+
 ## Vessel size and oxygen
 
 A smaller barrel has more wood surface for each litre of wine than a larger

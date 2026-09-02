@@ -19,6 +19,8 @@ that leaves and bunches remain wet. In a cool, humid vineyard those changes may
 help fruit ripen and limit disease. In a hot, dry vineyard, retaining shade may
 instead protect berries from overheating, sunburn, and dehydration.
 
+![Dormant grapevines are pruned and trained in rows on either side of a vineyard track.](../../media/images/concepts/canopy-management-pruned-vines.jpg "Pruned and trained vines before the growing season.")
+
 ## The canopy as a microclimate
 
 Leaves intercept light for photosynthesis, but leaves layered on top of one
