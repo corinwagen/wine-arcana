@@ -1,16 +1,23 @@
 # About
 
-Wine Arcana is a small, version-controlled encyclopedia of wine. It aims to
-explain grapes, regions, styles, and winemaking concepts without flattening
-them into scores, fixed tasting descriptors, or universal rules.
+Wine Arcana is a small encyclopædia of global wine. It aims to explain concepts
+from viticulture and winemaking through concise, data-driven articles that
+aggregate the best current knowledge on a topic.
 
-The articles are written and reviewed as ordinary Markdown. That corpus—not
-this generated website—is the project's source of truth. Each page should
-remain useful when read in a text editor, a repository browser, or any other
-Markdown renderer.
+The text on Wine Arcana is generated almost exclusively by LLMs, with minimal
+but non-zero human oversight and editorial control. Some may feel that this
+devalues the project. We disagree. Many aspects of wine are inherently
+subjective and experiential—the aroma of a freshly opened bottle, the feel of
+swirling a glass of wine, and of course the taste and mouthfeel of one’s first
+sip—but some are scientific, and in these matters we can strive for objective
+truth.
 
-Claims are qualified where the evidence is uncertain or context-dependent.
-Sources are chosen for authority and relevance, with direct attribution when a
-specific consequential claim needs it. The editorial guides and article
-history are available in the
-[project repository](https://github.com/corinwagen/wine-arcana).
+Misinformation is rampant in wine, and the information that’s easily accessible
+to the public enthusiast is incomplete and often incorrect for all but the most
+popular topics. We envision that the tireless labors of LLMs can work to correct
+this and assemble a reference for easy human consumption, freeing human
+oenophiles to experience the uniquely human joys of wine.
+
+We work to ensure that all information is correct, but we are imperfect. To
+report factual errors or for general inquiries, please contact
+editor@winearcana.com.

@@ -89,6 +89,8 @@ test("builds article, category, homepage, about, and fallback pages", async (t) 
   assert.match(homepage, /Tinta Bairrada/);
   assert.match(homepage, /href="favicon\.ico"/);
   assert.match(homepage, /href="site\.webmanifest"/);
+  assert.match(homepage, /<h1 class="visually-hidden">Wine Arcana<\/h1>/);
+  assert.match(homepage, /A small encyclopædia of wine\./);
   assert.match(homepage, /rel="canonical" href="https:\/\/winearcana\.com\/"/);
   assert.match(homepage, /"@type":"WebSite"/);
   assert.match(baga, /Also known as/);
@@ -102,8 +104,11 @@ test("builds article, category, homepage, about, and fallback pages", async (t) 
   );
   assert.match(baga, /href="\.\.\/\.\.\/favicon\.ico"/);
   assert.match(baga, /href="\.\.\/\.\.\/regions\/bairrada\/"/);
-  assert.match(baga, /class="footnote-ref"/);
-  assert.match(baga, /class="footnotes/);
+  assert.match(baga, /class="sidenote-number"/);
+  assert.match(baga, /class="sidenote" role="note"/);
+  assert.match(baga, /Source note\./);
+  assert.doesNotMatch(baga, /class="footnotes/);
+  assert.doesNotMatch(baga, /github/i);
   assert.doesNotMatch(baga, /href="(?:\.\.?\/|\/)[^"]+\.md(?:#|\")/);
   assert.match(notFound, /meta name="robots" content="noindex"/);
   assert.doesNotMatch(notFound, /rel="canonical"/);

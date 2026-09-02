@@ -26,7 +26,6 @@ const SITE_ASSETS = [
   "favicon.ico",
   "site.webmanifest",
 ];
-const REPOSITORY_URL = "https://github.com/corinwagen/wine-arcana";
 const SITE_URL = "https://winearcana.com";
 const collator = new Intl.Collator("en", { numeric: true, sensitivity: "base" });
 
@@ -143,6 +142,43 @@ function makeMarkdown(articleBySourcePath) {
     return defaultLinkOpen(tokens, index, options, environment, renderer);
   };
 
+  markdown.core.ruler.after("footnote_tail", "sidenote_tail", (state) => {
+    const blockStart = state.tokens.findIndex((token) => token.type === "footnote_block_open");
+    if (blockStart === -1) return;
+
+    const sidenotes = new Map();
+    let currentId;
+    for (const token of state.tokens.slice(blockStart + 1)) {
+      if (token.type === "footnote_open") {
+        currentId = token.meta.id;
+        sidenotes.set(currentId, []);
+      } else if (token.type === "inline" && currentId !== undefined) {
+        sidenotes.get(currentId).push(token.children ?? []);
+      } else if (token.type === "footnote_close") {
+        currentId = undefined;
+      }
+    }
+
+    state.env.sidenotes = sidenotes;
+    state.tokens.splice(blockStart);
+  });
+
+  markdown.renderer.rules.footnote_ref = (tokens, index, options, environment, renderer) => {
+    const token = tokens[index];
+    const number = Number(token.meta.id + 1).toString();
+    const suffix = token.meta.subId > 0 ? `-${token.meta.subId}` : "";
+    const controlId = `sidenote-${number}${suffix}`;
+    const note = (environment.sidenotes?.get(token.meta.id) ?? [])
+      .map((children) => renderer.renderInline(children, options, environment))
+      .join("<br>");
+
+    return [
+      `<input type="checkbox" id="${controlId}" class="margin-toggle" aria-label="Toggle footnote ${number}">`,
+      `<label for="${controlId}" class="sidenote-number" aria-hidden="true">${number}</label>`,
+      `<span class="sidenote" role="note"><span class="sidenote-label">${number}.</span> ${note}</span>`,
+    ].join("");
+  };
+
   return markdown;
 }
 
@@ -180,7 +216,7 @@ function descriptionFromArticle(markdown, article, maximumLength = 180) {
     .replace(/\s+/g, " ")
     .trim();
 
-  if (!text) return `${article.title}, from Wine Arcana, a small encyclopedia of wine.`;
+  if (!text) return `${article.title}, from Wine Arcana, a small encyclopædia of wine.`;
   if (text.length <= maximumLength) return text;
 
   const sentenceEnd = Math.max(
@@ -291,7 +327,7 @@ ${group
     .join("\n");
 }
 
-function renderArticlePage(article, markdown, repositoryUrl, siteUrl) {
+function renderArticlePage(article, markdown, siteUrl) {
   let rendered = renderMarkdown(markdown, article.body, { article });
   if (article.aliases.length > 0) {
     const aliasMarkup = `<p class="aliases"><span>Also known as</span> ${escapeHtml(
@@ -300,14 +336,12 @@ function renderArticlePage(article, markdown, repositoryUrl, siteUrl) {
     rendered = rendered.replace("</h1>", `</h1>\n${aliasMarkup}`);
   }
 
-  const editUrl = `${repositoryUrl}/edit/main/${encodeURI(article.sourcePath)}`;
   const body = `<article class="article">
   <p class="section-label"><a href="${routeHref(article.outputPath, article.entity)}">${escapeHtml(article.type.singular)}</a></p>
 ${rendered}
 </article>
 <footer class="article-footer">
   <a href="${routeHref(article.outputPath, article.entity)}">← All ${article.type.label.toLowerCase()}</a>
-  <a href="${editUrl}">Edit this page on GitHub</a>
 </footer>`;
 
   return pageTemplate({
@@ -372,7 +406,6 @@ function assertSafeOutputDirectory(rootDir, outputDir) {
 export async function buildSite({
   rootDir = process.cwd(),
   outputDir = path.join(rootDir, "public"),
-  repositoryUrl = REPOSITORY_URL,
   siteUrl = SITE_URL,
 } = {}) {
   rootDir = path.resolve(rootDir);
@@ -406,7 +439,7 @@ export async function buildSite({
   written.push(await writeOutput(rootDir, outputDir, ".nojekyll", ""));
 
   for (const article of articles) {
-    const html = renderArticlePage(article, markdown, repositoryUrl, siteUrl);
+    const html = renderArticlePage(article, markdown, siteUrl);
     written.push(await writeOutput(rootDir, outputDir, article.outputPath, html));
   }
 
@@ -440,11 +473,11 @@ ${articleIndex(matching, homepageOutputPath)}
   }).join("\n");
   const homepage = pageTemplate({
     body: `<header class="page-introduction home-introduction">
-  <h1>Wine Arcana</h1>
-  <p>A small encyclopedia of wine.</p>
+  <h1 class="visually-hidden">Wine Arcana</h1>
+  <p>A small encyclopædia of wine.</p>
 </header>
 ${homepageSections}`,
-    description: "Wine Arcana is a small encyclopedia of wine.",
+    description: "Wine Arcana is a small encyclopædia of wine.",
     outputPath: homepageOutputPath,
     siteUrl,
     structuredData: {
