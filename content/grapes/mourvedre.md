@@ -12,29 +12,25 @@ aliases:
 Mourvèdre is a dark-skinned *Vitis vinifera* variety known as Monastrell in
 Spain and traditionally as Mataro or Mataró in Australia and California. The
 names identify the same grape, not three biological types or dependable style
-categories. They do, however, point toward different regional histories:
-Spanish Monastrell is often presented as a varietal wine, while French
-Mourvèdre and Australian Mataro often share a blend with
+categories. They reflect different regional histories. Spanish Monastrell is
+often presented as a varietal wine, while French Mourvèdre and Australian Mataro
+often share a blend with
 [Grenache](grenache.md) and [Syrah](syrah.md).
 
 The variety combines late ripening with an ability to remain productive in
-warm, dry country. That combination is more conditional than the phrase
-“drought-tolerant” suggests. Mourvèdre needs a long season and enough heat to
-ripen its skins and seeds, but it also benefits from access to a modest,
-continuing water supply. Soil depth, rootstock, vine material, crop level, and
-harvest timing therefore help explain why wines from semi-arid Mediterranean
-Spain can differ from those of maritime Bandol—and why neither region has only
-one expression.
+warm, dry country. Mourvèdre needs a long season and enough heat to ripen its
+skins and seeds, but it also benefits from a modest, continuing water supply.
+Soil depth, rootstock, vine material, crop level, and harvest timing help explain
+differences among wines from semi-arid Mediterranean Spain and maritime Bandol.
 
 ## History and identity
 
 Official catalogues align the principal names. France registers the variety as
-Mourvèdre and recognizes Monastrell and Mataro as European Union synonyms;
+Mourvèdre and recognizes Monastrell and Mataro as European Union synonyms.
 Spain registers Monastrell with Mourvedre as a synonym. In California, DNA
 analysis also confirmed that two selections long held as Mataró matched an
 authenticated French Mourvèdre sample.[^1] A regional name may still accompany
-distinct clones and local selections, but it does not make them separate
-varieties.
+distinct clones and local selections within that common varietal identity.
 
 Spain is the most likely country of origin, although the original seedling's
 place and date have not been documented. Mourvèdre is commonly connected with
@@ -52,27 +48,25 @@ and reaches maturity about four and a half weeks after it.[^2] These are
 comparative stages, not universal harvest dates, but they clarify the practical
 constraint: a site must supply sustained warmth, including warm nights late in
 the season. In a marginal site or cool year, sugar can lag and tannin remain
-severe; in a very hot site, waiting can instead raise potential alcohol while
+severe. In a very hot site, waiting can instead raise potential alcohol while
 acidity falls.
 
 Mourvèdre's upright growth suits short pruning and traditional bush-vine or
-cordon training. Its foliage is not especially abundant, so repeated trimming
-can leave too little leaf area to finish ripening a crop. Plantgrape accordingly
+cordon training. Its relatively sparse foliage means repeated trimming can
+leave too little leaf area to finish ripening a crop. Plantgrape accordingly
 describes it as demanding despite its association with heat, favoring
 well-exposed sites and limestone soils deep enough to provide limited but
 regular water.
 
 In southeastern Spain, deep, calcareous soils can store some of the region's
 irregular rain, and dry air reduces pressure from several fungal diseases. That
-setting helps explain the variety's reputation for drought adaptation; it does
-not make water stress harmless. A four-season field study of seven traditional
-Monastrell clones found substantial differences in water use, yield, and grape
-and wine composition even though all were grafted to the same rootstock. The
-most drought-tolerant clone was not the most productive or the one with the
-strongest composition for the researchers' wine objectives.[^3] Under severe
-stress, reduced leaf area, berry size, and yield can become the cost of survival.
-“Drought-tolerant” therefore describes a capacity with trade-offs, not immunity
-or a guarantee of concentration.
+setting helps explain the variety's reputation for drought adaptation. A
+four-season field study of seven traditional Monastrell clones found substantial
+differences in water use, yield, and grape and wine composition even though all
+were grafted to the same rootstock. The most drought-tolerant clone was not the
+most productive, nor did it produce the grape and wine composition that best
+matched the researchers' objectives.[^3] Under severe stress, reduced leaf area,
+berry size, and yield can become the cost of survival.
 
 ## Wine character and cellar choices
 
@@ -80,49 +74,44 @@ Mourvèdre can supply substantial tannin and color, but those traits vary with
 plant material and conditions. The French catalogue calls its color potential
 moderate and notes that acidity can be lacking, whereas Jumilla's specification
 describes its local Monastrell grapes as dark and thick-skinned and the region's
-reds as tannic. The difference is a useful warning against treating either
-description as a universal profile.
+reds as tannic.
 
-Ripeness and extraction shape the result. Fruit picked before the skins and
-seeds have matured can give an especially hard texture; later harvest may
-soften that impression but also bring more sugar and less acidity. Longer or
-more forceful skin contact can extract more tannin, while rosé production limits
-it. Blending can place Mourvèdre's structure around the broader fruit and softer
-texture of [Grenache](grenache.md) or alongside [Syrah](syrah.md)'s color and
-aroma, but varietal reds can show the same range through site, harvest date, and
-cellar practice alone.
+Fruit picked before the skins and seeds have matured can give an especially hard
+texture. Later harvest may soften that impression but also bring more sugar and
+less acidity. Longer or more forceful skin contact can extract more tannin,
+while rosé production limits it. Mourvèdre can add structure to blends with the
+broader fruit and softer texture of [Grenache](grenache.md) or complement
+[Syrah](syrah.md)'s color and aroma. Site, harvest date, and cellar practice also
+create wide variation among varietal reds.
 
 ## Mediterranean Spain and Bandol
 
 Monastrell's Spanish centre lies along the dry southeastern Mediterranean arc,
-especially in Jumilla, Yecla, Bullas, and Alicante. Jumilla is not a simple
-coastal climate: its elevated inland plateau has strong continental influence,
-very low and irregular rainfall, hot summers, and cold winters. Its vineyards
-also range widely in altitude. Warmth and dryness can favor complete ripening
-and healthy fruit, while elevation, exposure, stored soil water, crop load, and
-harvest date determine whether a wine feels broad and ripe or more restrained.
-The current rules permit dry red, rosé, sweet, fortified, and even white
-*blanc de noirs* expressions; a wine labelled Jumilla Monastrell must contain at
+especially in Jumilla, Yecla, Bullas, and Alicante. Jumilla's elevated inland
+plateau has strong continental influence, very low and irregular rainfall, hot
+summers, and cold winters. Its vineyards also range widely in altitude. Warmth
+and dryness can favor complete ripening and healthy fruit, while elevation,
+exposure, stored soil water, crop load, and harvest date determine whether a
+wine feels broad and ripe or more restrained. The current rules permit dry red,
+rosé, sweet, fortified, and white
+*blanc de noirs* expressions. A wine labelled Jumilla Monastrell must contain at
 least 85% of the variety.[^4]
 
-Bandol is also Mediterranean, but its growing conditions and legal model create
-a useful contrast. The appellation occupies stony slopes in a coastal
-amphitheatre open to the sea and sheltered from colder northern influence. The
-sea moderates summer heat and contributes some night humidity, extending a
-different balance of warmth and water through Mourvèdre's late ripening period.
-For red Bandol, Mourvèdre must make up 50–95% of the vineyard and the finished
-blend; Grenache and Cinsaut are the other principal red varieties. The wine must
-then mature at least 18 months in barrel or large wooden cask.[^4] Bandol's
-structured, age-oriented expression is thus not the grape acting alone: site,
-mandatory blending proportions, low permitted yields, and extended maturation
-all narrow the possibilities.
+Bandol occupies stony slopes in a coastal amphitheatre open to the sea and
+sheltered from colder northern influence. The sea moderates summer heat and
+contributes some night humidity, giving Mourvèdre a different balance of warmth
+and water during ripening. For red Bandol, Mourvèdre must make up 50–95% of the
+vineyard and the finished blend. Grenache and Cinsaut are the other principal
+red varieties. The rules also require at least 18 months of maturation in barrel
+or large wooden cask.[^4] Site, mandatory blending proportions, low permitted
+yields, and extended maturation all contribute to Bandol's structured,
+age-oriented expression.
 
 Elsewhere in southern France, Mourvèdre is more often a supporting component in
 Mediterranean blends. In Australia, Mataro appears both varietally and with
 Grenache and Shiraz, particularly in warm South Australian regions. California
 also preserves old plantings historically called Mataro, although Mourvèdre is
-now commoner on labels. Across these places, the synonym says which naming
-tradition a producer inherited; the vineyard and cellar say more about the wine.
+now commoner on labels.
 
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro
     Montpellier, “Mourvèdre N,” Plantgrape varietal record, edited 19 August
