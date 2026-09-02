@@ -31,6 +31,35 @@ Avoid promotional language such as *prestigious*, *world-class*, *hidden gem*,
 *noble*, *best*, and *must-try* unless the term itself is being discussed or a
 specific attributed judgment is relevant.
 
+## State the point directly
+
+Prefer a positive explanation to a running argument with an imagined reader.
+Drafts can fall into a repetitive corrective frame:
+
+> Schist influences rooting and drainage. It does not transfer mineral flavour
+> directly into wine.
+
+When the correction is secondary, omit it and state the useful mechanism:
+
+> For growers, schist affects how roots penetrate the soil, how water drains,
+> how heat is absorbed, and how vineyards must be established.
+
+Apply the same scrutiny to *not merely*, *not simply*, *not only*, and
+*rather than*. Do not preserve an unnecessary rebuttal by changing its
+connective. Keep a negative distinction when it prevents a consequential
+misunderstanding, such as confusing two legal categories, treating a protected
+name as generic, or misdescribing a technical process.
+
+Use concrete subjects and verbs when the actor or mechanism is known. Prefer
+“growers broke and rearranged the rock” to “the soils are human-made,” and
+“regulators sought to control the trade” to “regulation sought to control it.”
+Cut an abstract setup sentence when the following sentence can make the point
+itself.
+
+Within a section, state a conclusion once. If the mechanism, comparison, or
+example has already established the point, do not append a second sentence that
+restates the lesson in more general terms.
+
 ## Explain rather than classify
 
 Statements about structure or behavior should lead toward explanation.
