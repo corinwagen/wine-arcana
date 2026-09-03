@@ -20,6 +20,8 @@ Sauvignon](cabernet-sauvignon.md). Climate, crop level, canopy, harvest date,
 extraction, and blending can shape those traits into a fresh, fragrant wine or
 one dominated by green aroma and firm texture.
 
+![A dark Cabernet Franc grape cluster hangs below several green vine leaves.](../../media/images/grapes/cabernet-franc-ampelography.jpg "Cabernet Franc, illustrated for Viala and Vermorel's Ampélographie.")
+
 ## History and family
 
 Cabernet Franc's origin remains unsettled. The French Plantgrape catalogue

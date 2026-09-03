@@ -23,6 +23,8 @@ acidity, and phenolics. Those interactions help explain why Pinot Noir ranges
 from light, brisk wines to much deeper and firmer reds even within the broad
 category of cool-climate wine.
 
+![A compact dark Pinot Noir grape cluster hangs below a broad green vine leaf.](../../media/images/grapes/pinot-noir-ampelography.jpg "Pinot Noir, illustrated by Jules Troncy for Viala and Vermorel's Ampélographie.")
+
 ## History and clonal diversity
 
 Pinot Noir is clearly old, but its exact birthplace and its identity in

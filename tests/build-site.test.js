@@ -237,7 +237,7 @@ test("accepts a source-verified public-domain image on the About page", async (t
 
   const html = await fs.readFile(path.join(outputDir, "about", "index.html"), "utf8");
   assert.match(html, /<article class="article about">/);
-  assert.match(html, /<figure class="article-image">/);
+  assert.match(html, /<figure class="article-image article-image-portrait">/);
   assert.match(html, /src="\.\.\/media\/images\/site\/harvest\.jpg"/);
   assert.match(html, />Public domain<\/a>; Resized as JPEG\.<\/span>/);
   assert.equal(

@@ -21,6 +21,8 @@ much grape sugar becomes alcohol and how much remains. Region, vintage, farming,
 and cellar practice can therefore matter as much as the name Riesling on the
 label.
 
+![A pale Riesling grape cluster hangs before several green vine leaves.](../../media/images/grapes/riesling-ampelography.jpg "Riesling, illustrated by Jules Troncy for Viala and Vermorel's Ampélographie.")
+
 ## History and identity
 
 Plantgrape places Riesling's probable origin near the Rhine and, based on

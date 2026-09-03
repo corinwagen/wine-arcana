@@ -130,3 +130,69 @@ images:
     height: 1600
     sha256: d58431d1a888ca833fbcf7cf40b5b79b8e5e60dcc9df3c28c3fe40f265e0a6e8
     changes: Resized and recompressed as JPEG.
+
+  - path: media/images/grapes/riesling-ampelography.jpg
+    title: Riesling
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Riesling_-_Amp%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/3/37/Riesling_-_Amp%C3%A9lographie.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    width: 789
+    height: 1173
+    sha256: 4bac5f4e2e55bb12e8da2bb1055b5b2319023132dc88e0916a67f54ac0688680
+
+  - path: media/images/grapes/chardonnay-ampelography.jpg
+    title: Pinot blanc Chardonnay
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Pinot_blanc_Chardonnay_-_Amp%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/2/2b/Pinot_blanc_Chardonnay_-_Amp%C3%A9lographie.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    width: 787
+    height: 1179
+    sha256: eae1ac524833cf11209abb6317f1ad3720e7ef7e1a104a345750028bded45924
+
+  - path: media/images/grapes/cabernet-franc-ampelography.jpg
+    title: Cabernet Franc
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Cabernet-franc.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Cabernet-franc.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 1048
+    height: 1600
+    sha256: e3a64d0000b3ecc8e4cd5470f9ce2ae7669c4a3374d555dd2e8f21aa2829ac8d
+    changes: Resized and recompressed as JPEG.
+
+  - path: media/images/grapes/mourvedre-ampelography.jpg
+    title: Mourvèdre
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Mourv%C3%A8dre_-_Amp%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/0/08/Mourv%C3%A8dre_-_Amp%C3%A9lographie.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    width: 789
+    height: 1173
+    sha256: 7b54318eb2dc36dfdb049a8c3e301cd816b33e2cf8d775a7ff1c9e5bb86805f5
+
+  - path: media/images/grapes/pinot-noir-ampelography.jpg
+    title: Pinot Noir
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Pinot_Noir_(Viala_Vermorel).jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/4/47/Pinot_Noir_%28Viala_Vermorel%29.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 789
+    height: 1173
+    sha256: 355958f5ec8f3e2c45531d14cd18ec2fd2e61076ae0f9e5a439e0481464971e8

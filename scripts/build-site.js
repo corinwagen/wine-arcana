@@ -160,18 +160,28 @@ function makeMarkdown(articleBySourcePath, imageByPath) {
     markdown.renderer.rules.paragraph_close ??
     ((tokens, index, options, _environment, renderer) =>
       renderer.renderToken(tokens, index, options));
-  const isImageOnlyParagraph = (tokens, index, direction) => {
+  const imageOnlyToken = (tokens, index, direction) => {
     const inline = tokens[index + direction];
-    return inline?.type === "inline" && inline.children?.length === 1 && inline.children[0].type === "image";
+    if (inline?.type !== "inline" || inline.children?.length !== 1) return null;
+    return inline.children[0].type === "image" ? inline.children[0] : null;
   };
 
   markdown.renderer.rules.paragraph_open = (tokens, index, options, environment, renderer) => {
-    if (isImageOnlyParagraph(tokens, index, 1)) return '<figure class="article-image">';
+    const imageToken = imageOnlyToken(tokens, index, 1);
+    if (imageToken) {
+      const imagePath = resolveImagePath(
+        environment.article.sourcePath,
+        imageToken.attrGet("src") ?? ""
+      );
+      const record = imageByPath.get(imagePath);
+      const portraitClass = record && record.height > record.width ? " article-image-portrait" : "";
+      return `<figure class="article-image${portraitClass}">`;
+    }
     return defaultParagraphOpen(tokens, index, options, environment, renderer);
   };
 
   markdown.renderer.rules.paragraph_close = (tokens, index, options, environment, renderer) => {
-    if (isImageOnlyParagraph(tokens, index, -1)) return "</figure>\n";
+    if (imageOnlyToken(tokens, index, -1)) return "</figure>\n";
     return defaultParagraphClose(tokens, index, options, environment, renderer);
   };
 

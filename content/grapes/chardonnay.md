@@ -20,6 +20,8 @@ barrels, or a base for sparkling wine.
 Growing conditions and production choices create these styles. Familiar
 impressions such as butter, cream, vanilla and toast also have different causes.
 
+![A pale Chardonnay grape cluster hangs below a broad green vine leaf.](../../media/images/grapes/chardonnay-ampelography.jpg "Chardonnay, labelled ‘Pinot blanc Chardonnay’ in Viala and Vermorel's Ampélographie.")
+
 ## Origins and identity
 
 Genetic analysis indicates that Chardonnay is an offspring of Pinot and Gouais

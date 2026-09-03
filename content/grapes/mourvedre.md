@@ -23,6 +23,8 @@ skins and seeds, but it also benefits from a modest, continuing water supply.
 Soil depth, rootstock, vine material, crop level, and harvest timing help explain
 differences among wines from semi-arid Mediterranean Spain and maritime Bandol.
 
+![A dark Mourvèdre grape cluster hangs before two green vine leaves.](../../media/images/grapes/mourvedre-ampelography.jpg "Mourvèdre, illustrated by Jules Troncy for Viala and Vermorel's Ampélographie.")
+
 ## History and identity
 
 Official catalogues align the principal names. France registers the variety as

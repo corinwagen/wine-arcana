@@ -203,6 +203,10 @@ sub {
   text-align: center;
 }
 
+.article-image-portrait {
+  width: 60%;
+}
+
 .about .article-image {
   width: 55%;
 }
@@ -352,6 +356,10 @@ sub {
   body {
     margin-top: 0.75em;
     padding: 0 0.75em 3em;
+  }
+
+  .article-image-portrait {
+    width: 80%;
   }
 
   .about .article-image {
