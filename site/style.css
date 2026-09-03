@@ -204,7 +204,7 @@ sub {
 }
 
 .article-image-portrait {
-  width: 60%;
+  width: 48%;
 }
 
 .about .article-image {
@@ -359,7 +359,7 @@ sub {
   }
 
   .article-image-portrait {
-    width: 80%;
+    width: 70%;
   }
 
   .about .article-image {
