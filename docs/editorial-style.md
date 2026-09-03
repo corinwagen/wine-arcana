@@ -177,6 +177,13 @@ explanatory work is done.
 - Expand an unfamiliar abbreviation on first use.
 - Use Unicode accents and diacritics in prose and titles when they are part of
   the name; filenames remain simple stable identifiers.
+- Prefer the traditional ligatures `æ` and `œ` in established house forms,
+  including *encyclopædia*, *œnology*, and *œnophile*. Do not impose them on
+  quotations, proper names, source titles, URLs, filenames, or scientific
+  nomenclature.
+- Use a diaeresis when adjacent vowels are pronounced separately, in the manner
+  of *The New Yorker*: *coöperate*, *reëlect*, and *preëminent*. Do not add one
+  when it would merely decorate a word or change an established spelling.
 - Prefer paragraphs over tables unless a table materially clarifies repeated,
   comparable facts.
 - Do not embed application components, callouts that require a particular
