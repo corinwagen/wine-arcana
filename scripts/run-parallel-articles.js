@@ -125,9 +125,12 @@ Make surgical edits rather than regenerating the page wholesale.
 
 Add useful relative links where names in the older article now resolve to
 canonical pages that already exist. Link meaningful first mentions, not every
-occurrence. Do not create placeholders or broken links.
+occurrence. Do not repeat links from the prose in a Related topics list merely
+to enlarge that section. Do not create placeholders or broken links.
 
 Verify any factual claim you materially change using authoritative sources.
+Preserve the article's degree of evidentiary certainty; do not turn “suggests”
+or “indicates” into “establishes” without stronger underlying evidence.
 Do not manufacture research or churn sources merely to make the bibliography
 look newer. Preserve reliable sources that still support the article, and list
 only sources actually consulted.

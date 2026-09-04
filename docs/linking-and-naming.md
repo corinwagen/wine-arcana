@@ -87,6 +87,10 @@ or the passage where the relationship matters; do not link every repeated
 mention. Prefer links in prose to a large, indiscriminate `Related topics`
 list.
 
+Do not repeat a link under `Related topics` merely because it was added to the
+prose. Reserve that section for a small number of useful relationships that do
+not fit naturally into the article's explanation.
+
 Link only to an existing article. If the ideal destination does not exist,
 write readable unlinked prose and report the missing topic in the work handoff.
 Do not create placeholder pages or leave intentionally broken links.

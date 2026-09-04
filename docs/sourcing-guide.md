@@ -70,6 +70,9 @@ the appearance of rigor.
 
 Report what a source actually establishes. Distinguish among documented fact,
 scientific inference, oral tradition, and a repeated but unverified story.
+During copyediting, preserve the strength of the evidence: do not change
+*suggests*, *indicates*, or *describes as related* to *establishes* unless the
+underlying source warrants the stronger claim.
 
 When sources disagree:
 

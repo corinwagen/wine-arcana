@@ -100,6 +100,8 @@ test("builds a surgical, link-aware editorial prompt", () => {
   assert.match(prompt, /only primary article/);
   assert.match(prompt, /link-enrichment/);
   assert.match(prompt, /surgical edits/);
+  assert.match(prompt, /Do not repeat links from the prose/);
+  assert.match(prompt, /degree of evidentiary certainty/);
   assert.match(prompt, /Do not edit any file other than content\/grapes\/syrah\.md/);
   assert.match(prompt, /do not commit/);
 });
