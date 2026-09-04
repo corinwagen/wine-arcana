@@ -10,35 +10,34 @@ aliases:
 # Malbec
 
 Malbec is a dark-skinned *Vitis vinifera* variety from southwestern France,
-where it is more formally called Cot and is especially associated with Cahors.
+where its catalogue name is Cot and it is especially associated with Cahors.
 It also once had a substantial place in Bordeaux. Its modern centre, however,
 is Argentina: nineteenth-century cuttings became the basis of a large planting
 in the dry vineyards beside the Andes and, eventually, of wines commonly sold
 under the grape's own name.
 
-That journey did not replace one fixed French style with an Argentine one.
-Malbec can provide deep colour and substantial tannin, but climate, water,
-crop level, harvest date, extraction, and maturation alter the balance. In
-Argentina, elevation matters mainly through the conditions it changes—notably
-temperature and ultraviolet radiation—rather than by conferring a particular
-flavour or quality on its own.
+That journey produced no single Argentine style. Malbec can provide deep colour
+and substantial tannin, but climate, water, crop level, harvest date,
+extraction, and maturation alter the balance. In Argentina, elevation changes
+temperature and ultraviolet radiation; those conditions, rather than elevation
+alone, shape the wine.
 
 ## History and identity
 
 DNA parentage analysis identified Magdeleine Noire des Charentes and Prunelard
 as Malbec's parents. Both the genetic relationships and the historical
-distribution of related varieties support a southwestern French origin, but
-they do not locate the original seedling precisely. Cahors and the Lot valley
-are strong candidates; claims for a more exact birthplace go beyond what the
-genetic evidence establishes.[^1]
+distribution of related varieties support a southwestern French origin without
+locating the original seedling precisely. Cahors and the Lot valley are strong
+candidates; claims for a more exact birthplace go beyond what the genetic
+evidence establishes.[^1]
 
-Its many names reflect movement within France. Cot is the official French
-variety name, while Côt is also widely written; Auxerrois is traditional in
-Cahors and Pressac in parts of Bordeaux. The Cahors name should not be confused
-with the unrelated white variety also called Auxerrois. Malbec became the
-internationally dominant name, but accounts that derive it from a particular
-grower or introducer in Bordeaux remain historical tradition rather than a
-secure etymology.
+Its many names reflect movement within France. Cot is the French catalogue
+name, while Côt is also widely written; Auxerrois is traditional in Cahors and
+Pressac in parts of Bordeaux. The Cahors name should not be confused with the
+unrelated white variety also called Auxerrois. Malbec became the internationally
+dominant name, but accounts that derive it from a particular grower or
+introducer in Bordeaux remain historical tradition rather than a secure
+etymology.
 
 Malbec was widely planted and important in Bordeaux blends before the
 nineteenth century. Its susceptibility to *coulure*—poor fruit set after
@@ -51,10 +50,9 @@ Bordeaux, but its historical role was much larger than its present one.[^2]
 Cahors followed a different course. There Malbec, traditionally Auxerrois or
 Cot, remained the defining variety despite phylloxera and the 1956 frost. The
 appellation recognized in 1971 now requires Cot to account for at least 70% of
-both vineyard plantings and a Cahors blend; [Merlot](merlot.md) and Tannat are
-the accessory varieties. This rule sets composition, not style: Cahors may be
-entirely Malbec or a blend, and extraction and maturation can make either form
-more or less firm.[^3]
+vineyard plantings and blends; Merlot and Tannat are the accessory varieties.
+Cahors may be entirely Malbec or a blend, and extraction and
+maturation can make either form more or less firm.[^3]
 
 ## From France to Argentina
 
@@ -69,33 +67,33 @@ planted.[^4]
 
 Irrigation works, railway expansion, and European immigration helped Mendoza's
 wine industry grow later in the nineteenth century. Malbec became a major
-component of everyday Argentine wine, rather than arriving as a ready-made
-modern varietal brand. Its area peaked in the 1960s and then contracted sharply
-as growers replaced it with more productive material for generic wine. From the
-1990s, renewed selection, export-oriented winemaking, and varietal labelling
-reversed that decline. Argentina's Instituto Nacional de Vitivinicultura
-recorded 46,890 hectares at the end of 2025, making Malbec the country's most
-planted grape variety.[^4]
+component of everyday Argentine wine; its modern varietal identity came later.
+Its area peaked in the 1960s and then contracted sharply as growers replaced it
+with more productive material for generic wine. From the 1990s, renewed
+selection, export-oriented winemaking, and varietal labelling reversed that
+decline. Argentina's Instituto Nacional de Vitivinicultura recorded 46,890
+hectares at the end of 2025, making Malbec the country's most planted grape
+variety.[^4]
 
 ## Viticulture, altitude, and climate
 
 Malbec is vigorous and ripens around the middle of the season in French
-reference conditions. Managing growth and crop is important because a dense
-canopy can shade fruit, while excess crop can delay development. Its tendency
-to coulure historically made yields irregular, although clonal selection has
-reduced the problem. Young vines can be vulnerable to winter cold, and shoots
-from secondary buds after a spring frost are not very fruitful. These traits
-help explain losses in France and remain relevant even in a sunny climate.[^5]
+reference conditions. [Canopy management](../concepts/canopy-management.md) and
+crop control matter because a dense canopy can shade fruit and excess crop can
+delay development. Its tendency to coulure historically made yields irregular,
+although clonal selection has reduced the problem. Young vines can be vulnerable
+to winter cold, and shoots from secondary buds after a spring frost are not very
+fruitful. These traits help explain losses in France and remain relevant even in
+a sunny climate.[^5]
 
-Much of western Argentina is dry enough that irrigation is fundamental. This
-reduces some wet-season disease pressure but makes snowmelt, soil water holding,
-and irrigation decisions part of the climate response. Heat can advance sugar
-accumulation and lower acidity; severe heat can also slow photosynthesis,
+Much of western Argentina is dry enough that irrigation is fundamental.
+Snowmelt, soil water holding, and irrigation decisions therefore shape the
+vine's climate response. Heat can advance sugar accumulation and lower acidity;
+severe heat can also slow photosynthesis,
 scorch fruit, and impede colour development. A two-season Mendoza field trial
 that warmed Malbec and two other red varieties advanced their seasonal stages,
-raised soluble solids, and reduced acidity and yield. The result describes a
-specific experimental vineyard, not an inevitable outcome in every warm
-site.[^6]
+raised soluble solids, and reduced acidity and yield. Its results are specific
+to that experimental vineyard.[^6]
 
 Moving upslope in Mendoza generally brings cooler conditions while increasing
 exposure to ultraviolet-B (UV-B) radiation. Those effects can pull berry
@@ -103,45 +101,45 @@ composition in different directions. In one experiment at three elevations,
 Malbec skins exposed to ambient UV-B at 1,500 metres accumulated more
 anthocyanins and other measured phenolics than skins from which UV-B was
 filtered at the same site. A separate two-season field experiment found that
-warming reduced total skin anthocyanins in Malbec. Together, the studies help
-explain why cooler, high sites can retain acidity and colour despite intense
-sun, but they do not show that maximum exposure is always desirable.[^6]
+warming reduced total skin anthocyanins in Malbec. Together, the studies suggest
+why cooler, high sites can retain acidity and colour despite intense sun; they
+do not establish that maximum exposure is always desirable.[^6]
 
 Elevation is also entangled with aspect, wind, soil depth, water supply, canopy,
 and latitude. Hail and frost risks do not disappear at altitude, and excessive
 sun can damage exposed berries. In standardized trials across Mendoza, wines
 from different sites could be distinguished partly by phenolic and sensory
 profiles, yet vintage and environmental variation remained substantial.[^7]
-“High-altitude Malbec” therefore describes a set of growing conditions, not a
-single sensory category.
+“High-altitude Malbec” therefore describes a variable set of growing
+conditions, not a single sensory category.
 
 ## Wine character and cellar choices
 
 Malbec commonly supplies ample pigment and tannin, while acidity varies
-markedly with temperature and harvest timing. Moderate conditions can allow
-sugar to accumulate while acidity and skin pigment remain in useful balance.
+markedly with temperature and harvest timing. In moderate conditions, sugar can
+accumulate while acidity and skin pigment remain in useful balance.
 Cooler sites or seasons may preserve more acidity and fresh fruit or floral
 impressions, but insufficient development can leave herbal character and firm,
 sometimes bitter tannin. Warmer conditions can bring riper fruit and higher
 potential alcohol, yet delaying harvest does not guarantee more colour because
 anthocyanin accumulation can falter in heat.
 
-These tendencies help explain broad differences within modern Argentine wine.
-Warmer sites and seasons tend to move Malbec toward riper fruit, higher
-potential alcohol, and lower acidity, while cooler situations can extend
+In Argentina, warmer sites and seasons tend to move Malbec toward riper fruit,
+higher potential alcohol, and lower acidity, while cooler situations can extend
 ripening and preserve more acidity. There is substantial overlap: elevation
 alone cannot predict body, aroma, or ageing capacity. Salta's far northerly
-vineyards and Patagonia's cooler, more southerly ones further show why metres
-above sea level cannot be read without latitude and regional climate.
+vineyards and Patagonia's cooler, more southerly ones show why metres above sea
+level must be read with latitude and regional climate.
 
-Fermentation completes the distinction. Time and temperature on the skins, cap
-management, pressing, and any stem inclusion determine how much pigment and
-tannin enter the wine. Blending with [Cabernet
+Cellar choices add another layer. Time and temperature on the skins, cap
+management, pressing, and any stem inclusion in [whole-cluster
+fermentation](../concepts/whole-cluster-fermentation.md) determine how much
+pigment and tannin enter the wine. Blending with [Cabernet
 Sauvignon](cabernet-sauvignon.md), Merlot, or other varieties can change its
-structure; maturation in new oak can add aroma and
-oxygen exposure, while older wood, concrete, and tank reshape the wine in
-different ways. Neither a powerful oak-matured wine nor a fresh, lightly
-extracted one is the variety's necessary form.
+structure; [oak maturation](../concepts/oak-maturation.md) in new barrels can
+add aroma and oxygen exposure, while older wood, concrete, and tank reshape the
+wine in different ways. Both powerful oak-matured wines and fresh, lightly
+extracted examples fall within the variety's range.
 
 ## Where it is grown
 
@@ -154,9 +152,8 @@ range supports varietal wine as well as blends and rosé.
 In France, Cahors is the principal stronghold. Smaller plantings persist in
 Bordeaux and the Loire, where the grape is usually called Cot. Malbec is also
 grown in Chile, the United States, South Africa, Australia, and several other
-countries, but none of these names or places implies a fixed style: the useful
-questions remain how the season supplies heat and water, how the fruit is
-protected from extremes, and how the winemaker handles its colour and tannin.
+countries. Across them, style depends on the season's heat and water, protection
+of the fruit from extremes, and the winemaker's handling of colour and tannin.
 
 [^1]: Jean-Michel Boursiquot et al., “Parentage of Merlot and Related
     Winegrape Cultivars of Southwestern France: Discovery of the Missing

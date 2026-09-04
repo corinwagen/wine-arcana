@@ -5,10 +5,10 @@ title: Cabernet Sauvignon
 # Cabernet Sauvignon
 
 Cabernet Sauvignon is a dark-skinned *Vitis vinifera* variety associated with
-Bordeaux and now grown across much of the wine-producing world. Its reach is
-often credited simply to reputation, but the vine itself helps explain where it
-works: it buds relatively late, needs a long season to ripen, and carries small
-berries whose skins and seeds can provide substantial colour and tannin.
+Bordeaux and now grown across much of the wine-producing world. Its reach owes
+something to reputation, but the vine itself helps explain where it works: it
+buds relatively late, needs a long season to ripen, and carries small berries
+whose skins and seeds can provide substantial colour and tannin.
 
 Those traits create possibilities, not a fixed wine. A cool or wet finish to the
 season can leave the fruit herbaceous and the tannins especially firm; adequate
@@ -21,34 +21,31 @@ range.
 
 Microsatellite DNA analysis identified [Cabernet Franc](cabernet-franc.md) and
 [Sauvignon Blanc](sauvignon-blanc.md) as Cabernet Sauvignon's parents in 1997. A
-2025 study using phased genome assemblies
-again separated Cabernet Sauvignon's chromosomes into lineages inherited from
-those two varieties.[^1] This establishes parentage more securely than the older
-similarities of name and appearance did, but it does not date or locate the
-original seedling. Both parents were cultivated in southwestern France, and the
-French Plantgrape catalogue places Cabernet Sauvignon's origin in Bordeaux; a
-specific seventeenth-century crossing remains a plausible reconstruction rather
-than a documented event.
+2025 study using phased genome assemblies likewise separated Cabernet
+Sauvignon's chromosomes into lineages inherited from those two varieties.[^1]
+The genetic evidence establishes parentage, while the date and place of the
+original seedling remain unknown. Both parents were cultivated in southwestern
+France, and the French Plantgrape catalogue places Cabernet Sauvignon's origin
+in Bordeaux; a specific seventeenth-century crossing remains a plausible
+reconstruction rather than a documented event.
 
 The variety was established in the gravel-based vineyards of the Médoc and
 Graves by the eighteenth century. From Bordeaux it travelled widely, reaching
 California during the nineteenth century and becoming important in several
-warmer, seasonally dry regions during the twentieth. These movements propagated
-the same variety, but not completely uniform plant material: France maintains
-numerous certified clones, and older vineyard selections elsewhere can differ in
-yield, bunch form, and ripening behaviour.
+warmer, seasonally dry regions during the twentieth. The expansion also spread
+diverse plant material: France maintains numerous certified clones, and older
+vineyard selections elsewhere can differ in yield, bunch form, and ripening
+behaviour.
 
 ## Viticulture and ripening
 
 Cabernet Sauvignon begins growth relatively late in spring, which can reduce its
-exposure to an early frost. It also ripens after [Merlot](merlot.md) and
-Cabernet Franc in Bordeaux, so that initial advantage becomes an autumn risk.
-If warmth and light
-run short, growers must choose between waiting for further skin and seed
+exposure to early frost. It ripens after [Merlot](merlot.md) and Cabernet Franc
+in Bordeaux, so the advantage in spring becomes an autumn risk. If warmth and
+light run short, growers must choose between waiting for further skin and seed
 development and harvesting before rain or disease damages the crop. Its small
-bunches and relatively low susceptibility to grey rot help, but they do not
-remove that climatic limit. Powdery mildew and trunk diseases are separate
-concerns.
+bunches and relatively low susceptibility to grey rot offer some protection;
+powdery mildew and trunk diseases remain separate concerns.
 
 The berries and bunches are characteristically small. Small berries can contain
 more skin relative to their volume, but berry size alone is not a measure of
@@ -63,10 +60,10 @@ changing composition in other ways.
 In Bordeaux's maritime climate, well-exposed gravel rises and good drainage help
 the late variety complete ripening; this is one reason Cabernet Sauvignon is more
 prominent on the Left Bank than on the clay- and limestone-dominant Right Bank.
-Gravel is not a universal prescription, however. The practical requirements are
-a season long enough for the fruit, enough water to sustain the canopy, and a
-root zone that does not remain waterlogged. Different soils can meet those needs
-in different climates.
+Gravel answers Bordeaux's particular conditions. Elsewhere, the practical
+requirements are a season long enough for the fruit, enough water to sustain the
+canopy, and a root zone that does not remain waterlogged. Different soils can
+meet those needs in different climates.
 
 Warmer regions exchange Bordeaux's autumn uncertainty for other risks. More heat
 can advance sugar accumulation and reduce green character, but sugar, acids,
@@ -75,18 +72,18 @@ Australian climate gradient, Cabernet Sauvignon berries sampled at the same
 sugar level had less titratable acidity and fewer anthocyanins in warmer regions
 than in cooler ones.[^3] Severe heat and drought can also stop photosynthesis,
 shrink or scorch berries, and force an earlier harvest. Elevation, coastal air,
-canopy shade, irrigation, rootstock, and harvest timing are therefore tools for
-moderating warmth, not evidence that the variety thrives under unlimited heat.
+[canopy management](../concepts/canopy-management.md), irrigation, rootstock,
+and harvest timing can moderate those pressures in vineyards already within the
+variety's range.
 
 ## Wine character and cellar choices
 
 Cabernet Sauvignon can give deeply coloured wines with persistent acidity and
 substantial tannin. Much of the pigment lies in the skins, while both skins and
-seeds contribute tannin, so the berry's physical form creates structural
-potential. Ripeness changes the composition and extractability of those tissues;
-fermentation temperature, time on the skins, cap management, and pressing then
-determine how much enters the wine. A Cabernet Sauvignon fermented gently and
-pressed early need not resemble one given prolonged, forceful extraction.
+seeds contribute tannin. Ripeness changes the composition and extractability of
+those tissues; fermentation temperature, time on the skins, cap management, and
+pressing then determine how much enters the wine. Gentle extraction and early
+pressing can limit the amount.
 
 The most useful specific aroma marker is
 2-methoxy-3-isobutylpyrazine, often abbreviated IBMP, which can contribute
@@ -95,16 +92,16 @@ Sauvignon berries it accumulates before véraison—the onset of ripening—and 
 declines. A three-season experiment found that greater bunch shading before
 véraison increased IBMP at harvest, while warm growing conditions reduced it;
 light treatments applied only during ripening had little effect.[^4] Climate,
-canopy, and season therefore influence green character, but it is not a simple
-test of whether grapes were “ripe,” nor must every cooler-grown wine show it.
+canopy, and season therefore influence green character. IBMP is a poor proxy for
+ripeness, and cooler-grown wines do not invariably show it.
 
 Later harvest in a warm site can bring riper fruit character and more potential
 alcohol while acidity falls; in very hot conditions, colour development may lag
 behind sugar. In a cooler site or year, acidity may be more pronounced and
 tannins feel firmer. Blending, particularly with Merlot in Bordeaux, can change
-the balance of fruit, alcohol, acidity, and texture. Oak maturation and bottle
-age can further alter aroma and the perception of astringency, but neither is a
-requirement of the grape.
+the balance of fruit, alcohol, acidity, and texture. [Oak
+maturation](../concepts/oak-maturation.md) and bottle age can further alter
+aroma and the perception of astringency.
 
 ## Where it is grown
 
