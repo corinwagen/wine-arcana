@@ -1,7 +1,17 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { formatPrompt, validateQueue } from "../scripts/run-next-article.js";
+import {
+  DEFAULT_MODEL,
+  DEFAULT_REASONING_EFFORT,
+  formatPrompt,
+  validateQueue,
+} from "../scripts/run-next-article.js";
+import {
+  formatEditorialPrompt,
+  parseArguments,
+  selectIncompleteEntries,
+} from "../scripts/run-parallel-articles.js";
 
 test("accepts a focused article queue", () => {
   const queue = validateQueue([
@@ -71,4 +81,38 @@ test("selects the template and article kind from the queued path", () => {
     assert.match(prompt, new RegExp(template.replace(".", "\\.")));
     assert.match(prompt, new RegExp(kind));
   }
+});
+
+test("uses Terra with medium reasoning as the queue-runner default", () => {
+  assert.equal(DEFAULT_MODEL, "gpt-5.6-terra");
+  assert.equal(DEFAULT_REASONING_EFFORT, "medium");
+});
+
+test("configures a small parallel Terra batch by default", () => {
+  const options = parseArguments(["new"]);
+  assert.equal(options.count, 3);
+  assert.equal(options.model, "gpt-5.6-terra");
+  assert.equal(options.reasoningEffort, "medium");
+});
+
+test("builds a surgical, link-aware editorial prompt", () => {
+  const prompt = formatEditorialPrompt("content/grapes/syrah.md");
+  assert.match(prompt, /only primary article/);
+  assert.match(prompt, /link-enrichment/);
+  assert.match(prompt, /surgical edits/);
+  assert.match(prompt, /Do not edit any file other than content\/grapes\/syrah\.md/);
+  assert.match(prompt, /do not commit/);
+});
+
+test("selects only missing queued articles", async () => {
+  const queue = [
+    { path: "content/grapes/baga.md", title: "Baga", brief: "Existing." },
+    { path: "content/grapes/example-one.md", title: "One", brief: "Missing." },
+    { path: "content/regions/example-two.md", title: "Two", brief: "Missing." },
+  ];
+  const selected = await selectIncompleteEntries(queue, 2, null, process.cwd());
+  assert.deepEqual(
+    selected.map((entry) => entry.path),
+    ["content/grapes/example-one.md", "content/regions/example-two.md"]
+  );
 });

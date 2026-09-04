@@ -142,8 +142,30 @@ The runner:
 - runs the complete repository check; and
 - stops for human source review and a commit before the next article.
 
-The queue deliberately has no automatic batch mode. Early articles should not
-propagate an unreviewed voice, sourcing mistake, or prompt weakness through the
-rest of the pilot corpus. Once the pilot process is stable, concurrency should
-use separate Git worktrees and branches rather than multiple agents writing to
-one worktree.
+The single-article command remains the safest default. For a small, explicitly
+reviewed batch, launch three queued articles in isolated worktrees and branches:
+
+```sh
+npm run article:parallel -- --count 3
+```
+
+Limit the selection with `--kind`, or override the default model and reasoning
+effort with `--model` and `--reasoning`. The parallel runner defaults to
+`gpt-5.6-terra` with medium reasoning.
+
+Existing articles can receive isolated editorial and link-enrichment passes:
+
+```sh
+npm run editorial:parallel -- content/grapes/syrah.md \
+  content/grapes/sauvignon-blanc.md content/grapes/tempranillo.md
+```
+
+Each job still owns one article and gets a fresh Codex context, a dedicated
+branch, and a worktree under `.codex-runs/worktrees/`. Logs and the agent's final
+message are written under `.codex-runs/logs/`. These artifacts are ignored by
+Git.
+
+The runner never commits or merges. Review every article's prose, sources, and
+diff before integrating its branch; passing validation is necessary but not an
+editorial approval. Keep batches deliberately small so an unreviewed voice,
+sourcing mistake, or prompt weakness does not propagate through the corpus.

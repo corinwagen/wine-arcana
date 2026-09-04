@@ -8,10 +8,12 @@
   },
   "scripts": {
     "article:next": "node scripts/run-next-article.js",
+    "article:parallel": "node scripts/run-parallel-articles.js new",
     "build:site": "node scripts/build-site.js",
     "check": "npm run lint:markdown && npm run test && npm run validate && npm run validate:images && npm run build:site",
     "format:markdown": "rumdl fmt .",
     "images:search": "node scripts/search-images.js",
+    "editorial:parallel": "node scripts/run-parallel-articles.js editorial",
     "lint:markdown": "rumdl check . --no-cache",
     "test": "node --test",
     "validate": "node scripts/validate-content.js",

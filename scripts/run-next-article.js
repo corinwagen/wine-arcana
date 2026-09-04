@@ -18,6 +18,9 @@ const articleTypes = {
   concepts: { kind: "concept", template: "templates/concept.md" },
 };
 const kinds = new Set(Object.values(articleTypes).map(({ kind }) => kind));
+export const DEFAULT_MODEL = "gpt-5.6-terra";
+export const DEFAULT_REASONING_EFFORT = "medium";
+const reasoningEfforts = new Set(["none", "low", "medium", "high", "xhigh", "max"]);
 
 function articleType(articlePath) {
   const directory = articlePath.split("/")[1];
@@ -108,6 +111,8 @@ async function nextEntry(queue, kind = null) {
 function parseArguments(arguments_) {
   let dryRun = false;
   let kind = null;
+  let model = DEFAULT_MODEL;
+  let reasoningEffort = DEFAULT_REASONING_EFFORT;
 
   for (let index = 0; index < arguments_.length; index += 1) {
     const argument = arguments_[index];
@@ -120,12 +125,22 @@ function parseArguments(arguments_) {
         throw new Error(`Unknown article kind: ${kind}. Use grape, region, style, or concept.`);
       }
       index += 1;
+    } else if (argument === "--model") {
+      model = arguments_[index + 1];
+      if (!model) throw new Error("--model requires a value.");
+      index += 1;
+    } else if (argument === "--reasoning") {
+      reasoningEffort = arguments_[index + 1];
+      if (!reasoningEfforts.has(reasoningEffort)) {
+        throw new Error("--reasoning must be none, low, medium, high, xhigh, or max.");
+      }
+      index += 1;
     } else {
       throw new Error(`Unknown argument: ${argument}`);
     }
   }
 
-  return { dryRun, kind };
+  return { dryRun, kind, model, reasoningEffort };
 }
 
 async function readQueue() {
@@ -173,7 +188,7 @@ async function run(command, args, options = {}) {
 }
 
 async function main() {
-  const { dryRun, kind } = parseArguments(process.argv.slice(2));
+  const { dryRun, kind, model, reasoningEffort } = parseArguments(process.argv.slice(2));
 
   const queue = await readQueue();
   const entry = await nextEntry(queue, kind);
@@ -187,7 +202,7 @@ async function main() {
     console.log(`Next article: ${entry.title} (${entry.path})`);
     console.log("\nCommand:\n");
     console.log(
-      "codex --search --ask-for-approval never exec --ephemeral --sandbox workspace-write --cd <repository> -"
+      `codex --search --ask-for-approval never exec --model ${model} -c 'model_reasoning_effort="${reasoningEffort}"' --ephemeral --sandbox workspace-write --cd <repository> -`
     );
     console.log("\nPrompt:\n");
     console.log(prompt);
@@ -209,6 +224,10 @@ async function main() {
       "--ask-for-approval",
       "never",
       "exec",
+      "--model",
+      model,
+      "-c",
+      `model_reasoning_effort="${reasoningEffort}"`,
       "--ephemeral",
       "--sandbox",
       "workspace-write",
