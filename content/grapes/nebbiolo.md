@@ -15,26 +15,25 @@ Its wines can be pale and quickly develop a garnet hue while retaining
 substantial tannin and acidity. Colour, tannin, and acid derive from different
 compounds and berry tissues and can vary independently.
 
-The variety also has a long growing season. It begins growth early but ripens
-late, leaving it exposed both to spring frost and to autumn rain or cooling.
+The variety also has a long growing season. It buds early but ripens late,
+exposing it to spring frost and to autumn rain or cooling.
 Slope, exposure, altitude, water supply, crop level, and the season's weather
 can therefore change whether sugar, acidity, aroma precursors, and skin and seed
-maturity reach a useful balance. These factors explain Nebbiolo's reputation
-for site sensitivity: soil type is only one of several influences on the
-finished wine.
+maturity reach a useful balance. These interacting factors, together with soil,
+explain Nebbiolo's reputation for site sensitivity.
 
 ## History and identity
 
-The earliest securely identified reference found so far is to *Nibiol* near
-Rivoli in 1266. Further records from the late thirteenth and early fourteenth
+The earliest securely identified reference so far, dated 1266, is to *Nibiol*
+near Rivoli. Further records from the late thirteenth and early fourteenth
 centuries place it around Alba, Asti, Roero, and the Ossola Valley. Those records
 and modern genetic work support a long Piedmontese history. The original
 seedling's location and parents remain unknown, and proposals for a more precise
 birthplace within Piedmont are tentative.[^1]
 
 Spanna in northern Piedmont, Prunent in the Ossola Valley, and Chiavennasca in
-Lombardy's Valtellina denote Nebbiolo, not separate varieties. Lampia and Michet
-are names within its clonal variation. Genetic evidence indicates that Nebbiolo
+Lombardy's Valtellina are regional names for Nebbiolo. Lampia and Michet are
+names within its clonal variation. Genetic evidence indicates that Nebbiolo
 Rosé is a distinct, closely related variety rather than a pale clone of
 Nebbiolo.[^2]
 
@@ -55,13 +54,14 @@ one-season design cannot identify a universally preferred aspect, but the study
 shows that heat and light can advance sugar and colour along different paths.[^3]
 
 A two-season study of three clones across three Langhe vineyards found that
-ripening stage, vineyard, clone, and clone-by-environment effects each altered
-parts of berry metabolism. Longer-term observations in Valtellina likewise
-connected ripening time and total acidity with altitude, temperature, summer
-heat, and rainfall.[^3] These results trace Nebbiolo's site sensitivity to
-environmental changes that alter several linked processes. Canopy shade, soil
-depth and water holding, rootstock, crop load, and harvest date can complicate a
-simple comparison by aspect or soil name.
+ripening stage, vineyard, clone, and clone-by-environment effects each
+influenced parts of berry metabolism. Longer-term observations in Valtellina
+likewise connected ripening time and total acidity with altitude, temperature,
+summer heat, and rainfall.[^3] Together, these studies show how environmental
+change can alter several linked processes. [Canopy
+management](../concepts/canopy-management.md), soil depth and water holding,
+rootstock, crop load, and harvest date can complicate a simple comparison by
+aspect or soil name.
 
 ## Wine character and cellar choices
 
@@ -75,32 +75,32 @@ anthocyanin and the most tannin. The experiment illustrates the separation of
 the two properties, but its exact ratios do not rank Nebbiolo universally across
 vineyards and cellars.[^4]
 
-Nebbiolo often retains substantial acidity even after a long ripening period,
-but the amount varies. Acids fall and sugar rises during ripening at rates
-influenced by heat, water, altitude, crop, and vintage. Waiting can improve some
-aspects of skin and seed maturity while raising potential alcohol and reducing
-acidity; picking earlier can preserve acid while leaving tannin especially
-austere. Harvest timing therefore balances competing forms of maturity.
+Nebbiolo often retains substantial acidity even after a long ripening period.
+Acids fall and sugar rises during ripening at rates influenced by heat, water,
+altitude, crop, and vintage. Waiting can improve some aspects of skin and seed
+maturity while raising potential alcohol and reducing acidity; picking earlier
+can preserve acid while leaving tannin especially austere. Harvest timing
+therefore balances competing forms of maturity.
 
-Maceration and maturation then reshape what the grapes provide. Longer or more
-forceful skin contact can extract more tannin; gentler extraction can limit it,
-but cannot supply missing ripeness. Wood vessel size and age, oxygen exposure,
-and time affect aroma, tannin interactions, and the conversion of red pigments
-toward garnet and orange tones. Bottle age can make tannin feel less aggressive,
-although neither pale colour nor long ageing guarantees delicacy. Floral and red
-fruit impressions are common, with their expression shaped by site, vintage,
+Maceration and maturation reshape what the grapes provide. Longer or more
+forceful skin contact can extract more tannin. Gentler extraction can limit it
+but cannot compensate for unripe fruit. During [oak maturation](../concepts/oak-maturation.md),
+vessel size and age, oxygen exposure, and time affect aroma, tannin
+interactions, and the conversion of red pigments toward garnet and orange tones.
+Bottle age can make tannin feel less aggressive. Floral and red-fruit
+impressions are common, with their expression shaped by site, vintage,
 fermentation, wood, and bottle age.
 
 ## Piedmontese expressions
 
-Barolo and Barbaresco are neighbouring Langhe denominations, not different
-grapes or official quality grades. Both require vineyards planted exclusively
-to Nebbiolo, and both define smaller geographical mentions within their zones.
-Their rules prescribe different minimum maturation periods: the March 2026
-specifications require at least 38 months of ageing, including 18 in wood, for
-Barolo and 26 months, including nine in wood, for Barbaresco.[^5] Those minimums
-help shape release timing. Exposure, altitude, soils, vintage, extraction, and
-producer decisions make power and approachability vary within both zones.
+Barolo and Barbaresco are neighbouring Langhe denominations. Both require
+vineyards planted exclusively to Nebbiolo and define smaller geographical
+mentions within their zones. Their rules prescribe different minimum maturation
+periods: the March 2026 specifications require at least 38 months of ageing,
+including 18 in wood, for Barolo and 26 months, including nine in wood, for
+Barbaresco.[^5] Those minimums help shape release timing. Exposure, altitude,
+soils, vintage, extraction, and producer decisions make power and
+approachability vary within both zones.
 
 Roero lies across the Tanaro from much of the Langhe. Its red wine requires at
 least 95% Nebbiolo, so a small proportion of other permitted red grapes may be
@@ -115,11 +115,11 @@ Nebbiolo and permits limited Vespolina and Uva Rara; Ghemme permits those two
 varieties up to a combined 15%. Other northern Piedmont denominations include
 Carema, Boca, Bramaterra, Lessona, Fara, and Sizzano, with differing zones and
 blend rules.[^6] The cooler Alpine foothill setting, varied exposures, and local
-grapes distinguish this group from the Langhe, but “Alto Piemonte” is a useful
-regional umbrella, not one appellation or one wine style.
+grapes distinguish this group from the Langhe. “Alto Piemonte” is a regional
+umbrella for its denominations and diverse wines.
 
 Outside Piedmont, Chiavennasca anchors Valtellina's steep Alpine vineyards, and
-Nebbiolo also continues into the Aosta Valley under local names. Small plantings
+Nebbiolo is also grown in the Aosta Valley under local names. Small plantings
 exist elsewhere in Italy and abroad, but completing its long season while
 retaining balanced acidity, tannin, and aroma places unusually specific demands
 on site and farming.
