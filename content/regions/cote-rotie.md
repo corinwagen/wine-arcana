@@ -112,15 +112,6 @@ demi-muids and foudres, or shortening maturation, which underlines that there is
 no single traditional recipe.[^3] Bottle age can further integrate tannin and
 change aroma, but longevity varies with wine, vintage, and storage.
 
-Three established producers make those choices concrete. E. Guigal's La
-Mouline, La Landonne, and La Turque are site-specific wines matured for long
-periods in new barriques; La Turque currently spends 40 months in new oak.
-Domaine Jamet's principal Côte-Rôtie instead assembles twenty parcels, ferments
-mainly as whole bunches, and matures with a small proportion of new barrels.
-Domaine Rostaing offers a multi-site blend, Ampodium, alongside separate Côte
-Blonde and La Landonne bottlings. These are reference points for contrasting
-approaches, not a hierarchy of quality.[^4]
-
 ## History
 
 Archaeology at nearby Saint-Romain-en-Gal, including an early-third-century
@@ -137,7 +128,7 @@ the Côte-Rôtie name identified in the current specification. A 1781 account
 discussed the wines' grapes, exposure, and cultivation and named Sérine and
 Viognier in the wines around Vienne. These documents establish a recognised
 hillside wine and the historical presence of both varieties without showing
-that eighteenth-century blends or methods matched today's rules.[^5]
+that eighteenth-century blends or methods matched today's rules.[^4]
 
 Phylloxera, the First World War, and industrial employment in the Rhône valley
 then made labour-intensive slopes increasingly difficult to sustain. The
@@ -149,6 +140,21 @@ from the 1960s onward recovered much of the hillside, but the modern vineyard is
 a revival governed by contemporary boundaries, not an unchanged survival from
 antiquity.
 
+## Benchmark producers
+
+These established producers offer starting points for comparing production
+choices within Côte-Rôtie. Many important estates lie outside this short
+list.[^5]
+
+- **E. Guigal:** La Mouline, La Landonne, and La Turque represent the
+  site-specific, long-new-oak end of the appellation; La Turque currently spends
+  40 months in new barriques.
+- **Domaine Jamet:** the principal Côte-Rôtie assembles twenty parcels, ferments
+  mainly as whole bunches, and matures with a small proportion of new barrels.
+- **Domaine Rostaing:** the multi-site Ampodium sits alongside separate Côte
+  Blonde and La Landonne bottlings, showing how one estate can work with both
+  appellation blending and named sites.
+
 [^1]: Ministère de l'Agriculture et de la Souveraineté alimentaire, *Cahier
     des charges de l'appellation d'origine contrôlée “Côte Rôtie”*, homologated
     4 July 2024, sections IV–VI and IX.
@@ -158,13 +164,13 @@ antiquity.
     Research* 26 (2020), pp. 41–52.
 [^3]: Matt Walls, “Why you should snap up any 2016 Côte-Rôtie you see,”
     *Decanter*, 24 August 2026.
-[^4]: Stephen Brook, “Côte-Rôtie: King of the Rhone,” *Decanter*, updated 23
-    April 2020; current technical and portfolio pages from E. Guigal, Domaine
-    Jamet, and Domaine Rostaing, accessed 4 September 2026.
-[^5]: Ministère de l'Agriculture et de la Souveraineté alimentaire, *Cahier
+[^4]: Ministère de l'Agriculture et de la Souveraineté alimentaire, *Cahier
     des charges de l'appellation d'origine contrôlée “Côte Rôtie”*, homologated
     4 July 2024, section X; European Commission, *Official Journal of the
     European Union* C/2024/6290, 21 October 2024.
+[^5]: Stephen Brook, “Côte-Rôtie: King of the Rhone,” *Decanter*, updated 23
+    April 2020; current technical and portfolio pages from E. Guigal, Domaine
+    Jamet, and Domaine Rostaing, accessed 4 September 2026.
 
 ## Related topics
 

@@ -27,13 +27,13 @@ farming, production choices, and maturation.
 Historical developments needed to understand the region today. Separate
 documented history from repeated local accounts.
 
-## Producer reference points
+## Benchmark producers
 
 When useful, two to four documented examples that illuminate historical
 influence, regional practice, or a meaningful stylistic contrast. Explain why
-each belongs; do not rank producers or turn the section into buying advice.
-Remove this optional section when the choices would be arbitrary or fit more
-naturally into another section.
+each belongs in a one-sentence annotation; do not rank producers or turn the
+section into buying advice. Remove this optional section when the choices would
+be arbitrary or fit more naturally into another section.
 
 ## Related topics
 

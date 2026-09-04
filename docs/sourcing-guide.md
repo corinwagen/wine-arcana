@@ -49,7 +49,7 @@ A source can be generally reputable and still be wrong for a particular
 claim. Watch for references that repeat an older account without examining its
 evidence.
 
-## Sourcing producer reference points
+## Sourcing benchmark producers
 
 A producer's own material can establish its vineyards, methods, bottlings,
 ownership, and dates. It cannot by itself establish that the producer is
