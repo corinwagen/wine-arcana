@@ -102,7 +102,8 @@ elevation and exposure. Farther west, Ribeira Sacra places vineyards on steep
 valleys of the Sil and Miño, while Valdeorras and Monterrei extend the variety
 through warmer inland Galician landscapes. Mencía is a principal or preferred
 grape in several of these denominations, though it may share vineyards and
-blends with Garnacha Tintorera, Merenzao, Brancellao, Sousón, and other local
+blends with [Garnacha Tintorera](alicante-bouschet.md), Merenzao, Brancellao,
+Sousón, and other local
 varieties.
 
 In Portugal, Jaen is most strongly associated with Dão, where the mountain-

@@ -99,7 +99,8 @@ Tempranillo.
 The denomination extends about 100 kilometres along the Ebro and crosses cooler
 Atlantic-influenced western sectors and a generally warmer, drier eastern
 sector. Tempranillo dominates the red plantings but may be blended with
-[Garnacha](grenache.md), Graciano, Mazuelo, or Maturana Tinta. Young wines,
+[Garnacha](grenache.md), Graciano, [Mazuelo](carignan.md), or Maturana Tinta.
+Young wines,
 including wines made by carbonic maceration, coexist with reds shaped by
 mandatory barrel and bottle periods for the Crianza, Reserva, and Gran Reserva
 terms. Climate, blending, extraction, and maturation therefore explain more

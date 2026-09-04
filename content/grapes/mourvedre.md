@@ -103,7 +103,8 @@ Bandol occupies stony slopes in a coastal amphitheatre open to the sea and
 sheltered from colder northern influence. The sea moderates summer heat and
 contributes some night humidity, giving Mourvèdre a different balance of warmth
 and water during ripening. For red Bandol, Mourvèdre must make up 50–95% of the
-vineyard and the finished blend. Grenache and Cinsaut are the other principal
+vineyard and the finished blend. Grenache and [Cinsaut](cinsault.md) are the
+other principal
 red varieties. The rules also require at least 18 months of maturation in barrel
 or large wooden cask.[^4] Site, mandatory blending proportions, low permitted
 yields, and extended maturation all contribute to Bandol's structured,

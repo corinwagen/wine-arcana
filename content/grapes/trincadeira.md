@@ -83,7 +83,8 @@ none is fixed. Crop level and water status affect concentration, while skin
 contact controls how much pigment and tannin enter the wine. Its must and wine
 are also prone to oxidation, so sound fruit and careful handling matter. It can
 be bottled alone when ripeness and fruit health align, although blending is
-common; in Alentejo it often joins [Aragonez](tempranillo.md), Alicante Bouschet,
+common; in Alentejo it often joins [Aragonez](tempranillo.md), [Alicante
+Bouschet](alicante-bouschet.md),
 or other warm-region grapes.
 
 ## Where it is grown

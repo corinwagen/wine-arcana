@@ -50,7 +50,8 @@ relatively early. It can supply colour and tannin for long maturation, but its
 balance changes with heat, water, crop level, and harvest date. Garnacha is
 later-ripening and has a particularly strong association with warmer eastern
 sites, although it is grown elsewhere and may lead a wine rather than merely
-soften a blend. Graciano and Mazuelo—the Rioja name for Carignan—occupy much
+soften a blend. Graciano and [Mazuelo—the Rioja name for
+Carignan](../grapes/carignan.md)—occupy much
 less vineyard area but can contribute acidity, tannin, aroma, or colour.
 Mazuelo's later cycle may be useful in warm conditions, though that potential
 does not make it a simple replacement for Tempranillo.

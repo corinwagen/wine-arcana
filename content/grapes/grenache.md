@@ -18,7 +18,8 @@ in markedly different directions.
 This article concerns the dark-berried form often specified as Grenache Noir or
 Garnacha Tinta. The pale-berried [Grenache Blanc](grenache-blanc.md) and Grenache
 Gris are maintained as distinct cultivated forms, not alternative names for a
-red grape. Garnacha Tintorera is a different variety despite its name.
+red grape. [Garnacha Tintorera](alicante-bouschet.md) is a different variety
+despite its name.
 *Alicante* requires particular care: it is an official Italian synonym for
 Grenache, but elsewhere may refer to Alicante Bouschet.
 
