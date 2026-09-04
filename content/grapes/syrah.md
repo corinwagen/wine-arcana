@@ -13,13 +13,12 @@ The names identify the same grape, not two biological types. They sometimes
 signal a producer's stylistic intention, but they are not a dependable code for
 climate, ripeness, or winemaking.
 
-Temperature helps explain much of Syrah's range without reducing it to a
-cool-versus-warm formula. Relatively cool ripening conditions can preserve
-acidity and favor the compound responsible for a pepper aroma. Warmer conditions
-usually advance ripening and can bring more sugar and less acidity, giving the
-winemaker the potential for more alcohol and a broader texture. Water supply,
-sun exposure, crop level, harvest date, and cellar choices can reinforce or
-complicate each tendency.
+Temperature explains much of Syrah's range. Relatively cool ripening conditions
+can preserve acidity and favor the compound responsible for a pepper aroma.
+Warmer conditions usually advance ripening and can bring more sugar and less
+acidity, giving the winemaker the potential for more alcohol and a broader
+texture. Water supply, sun exposure, crop level, harvest date, and cellar
+choices can reinforce or complicate each tendency.
 
 ## History and identity
 
@@ -45,14 +44,13 @@ describe a rapid passage from véraison—the onset of ripening—to maturity. T
 can leave a short practical harvest window: sugar, acidity, berry condition, and
 skin development may not move at the same rate.
 
-Heat changes that balance rather than simply making the grape "riper." In a
-two-season Mendoza field experiment, an actively heated canopy advanced the
-season and produced grapes with more soluble solids and less acidity, while
-yield fell across the three varieties studied, including Syrah.[^2] The result
-does not provide a universal temperature threshold, but it illustrates why a
+Heat shifts the balance among sugar, acidity, and yield. In a two-season Mendoza
+field experiment, an actively heated canopy advanced the season and produced
+grapes with more soluble solids and less acidity, while yield fell across the
+three varieties studied, including Syrah.[^2] The experiment illustrates why a
 warmer site or season can move potential alcohol and freshness in opposite
-directions. At the cool edge, by contrast, a grower may need to wait for skins
-and seeds to mature while monitoring weather and fruit health.
+directions. At the cool edge, a grower may need to wait for skins and seeds to
+mature while monitoring weather and fruit health.
 
 Site and farming modify the temperature signal. Aspect, elevation, canopy
 shade, wind, soil water, and irrigation all change the conditions experienced
@@ -65,13 +63,12 @@ meaningful differences among clones.
 
 ## Wine character and cellar choices
 
-Syrah commonly provides substantial color and tannin, but neither property fixes
-the wine's weight or aroma. Grapes harvested with more sugar can yield more
-alcohol if fermented dry, while retained acidity can make a wine feel more taut.
-Extraction determines how much skin and seed material reaches the wine, and
-stem inclusion, fermentation temperature, and maturation can further reshape
-texture and aroma. Climate sets conditions for style; it does not dictate the
-finished result.
+Syrah commonly provides substantial color and tannin, but those properties alone
+reveal little about a wine's weight or aroma. Grapes harvested with more sugar
+can yield more alcohol if fermented dry, while retained acidity can make a wine
+feel more taut. Extraction determines how much skin and seed material reaches
+the wine, and stem inclusion, fermentation temperature, and maturation can
+further reshape texture and aroma.
 
 Pepper is the most useful specific sensory marker because it has a demonstrated
 chemical basis. Rotundone, found chiefly in Syrah's skins, can give black- or
@@ -79,9 +76,9 @@ white-pepper aromas at very low concentrations, although some people cannot
 perceive it even at much higher levels. At one Victorian vineyard studied over
 15 vintages, wine rotundone was highest in cool, wet seasons and was negatively
 associated with bunch-zone temperature and solar exposure.[^3] Other work has
-found that shaded bunches and later harvest can favor its accumulation. Thus a
-cool regional climate is only a starting point: the weather after véraison and
-the microclimate around the fruit can matter more than a broad climate label.
+found that shaded bunches and later harvest can favor its accumulation. The
+weather after véraison and the microclimate around the fruit can matter more
+than a broad climate label.
 
 A study of commercial Shiraz from six Australian regions found both regional
 patterns and considerable variation within each region. Black pepper was
@@ -93,21 +90,22 @@ support a restrained comparison: cooler examples often emphasize pepper,
 freshness, and savory character, whereas warmer examples can lean toward riper
 fruit and a broader palate, with many wines falling between those poles.
 
-Fermentation on the skins is important for extracting both phenolics and
-rotundone. Rosé made with limited skin contact therefore has much less of the
-pepper compound than a comparable red wine. For reds, extraction may be kept
-gentle or extended, whole clusters may be included or removed, and new oak may
-be conspicuous or absent. These decisions can obscure any simple distinction
-between a bottle labelled Syrah and one labelled Shiraz.
+Fermentation on the skins extracts both phenolics and rotundone. Rosé made with
+limited skin contact therefore has much less of the pepper compound than a
+comparable red wine. For reds, extraction may be kept gentle or extended,
+[whole clusters](../concepts/whole-cluster-fermentation.md) may be included or
+removed, and [new oak](../concepts/oak-maturation.md) may be conspicuous or
+absent. These choices make the name Syrah or Shiraz a weak predictor of style.
 
 ## Where it is grown
 
 The northern Rhône remains Syrah's historical reference point, notably in
-Hermitage, Côte-Rôtie, Cornas, Crozes-Hermitage, and Saint-Joseph. Farther south
-in France it is widely blended, including with [Grenache](grenache.md), as well
-as made varietally. The contrast is climatic as well as traditional: exposed
-northern sites need enough warmth to complete ripening, while Mediterranean
-vineyards more often manage rapid sugar accumulation, water stress, and heat.
+Hermitage, [Côte-Rôtie](../regions/cote-rotie.md), Cornas, Crozes-Hermitage, and
+Saint-Joseph. Farther south in France it is widely blended, including with
+[Grenache](grenache.md), as well as made varietally. The contrast is climatic
+as well as traditional: exposed northern sites need enough warmth to complete
+ripening, while Mediterranean vineyards more often manage rapid sugar
+accumulation, water stress, and heat.
 
 Australia established Shiraz as a national convention rather than a separate
 style. Warm regions such as Barossa Valley and McLaren Vale are prominent, but

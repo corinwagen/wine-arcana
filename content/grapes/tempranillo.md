@@ -15,18 +15,18 @@ aliases:
 # Tempranillo
 
 Tempranillo is a dark-skinned *Vitis vinifera* variety central to red wine in
-Spain and Portugal. Its many names can make one grape look like several:
-Tinto Fino and Tinta del País in Ribera del Duero, Tinta de Toro in Toro,
-Cencibel in much of central Spain, Ull de Llebre in Catalonia, and Araúxa in
-Galicia all denote Tempranillo. In Portugal, Tinta Roriz is usual in the Douro
-and Dão, while Aragonez is especially associated with the south.
+Spain and Portugal. Its regional names include Tinto Fino and Tinta del País in
+Ribera del Duero, Tinta de Toro in Toro, Cencibel in much of central Spain, Ull
+de Llebre in Catalonia, and Araúxa in Galicia. In Portugal, Tinta Roriz is usual
+in the [Douro](../regions/douro.md) and [Dão](../regions/dao.md), while Aragonez
+is especially associated with the south.
 
-These synonyms preserve regional naming traditions, not separate biological
-varieties. They still carry useful information because generations of local
-propagation have produced distinct clonal lineages, and because the same vine
-meets very different climates and cellar practices across Iberia. Tempranillo
-Blanco, a pale-berried somatic variant, requires separate treatment: it is not
-another name for the dark-berried grape discussed here.
+These synonyms preserve regional naming traditions rather than separate
+biological varieties. They also carry useful information: generations of local
+propagation have produced distinct clonal lineages, and the vine meets very
+different climates and cellar practices across Iberia. Tempranillo Blanco is a
+pale-berried somatic variant, not another name for the dark-berried grape
+discussed here.
 
 ## History and identity
 
@@ -49,14 +49,14 @@ one early-ripening vine.
 
 ## Viticulture and ripening
 
-Early maturity is the practical thread behind the name. In the French
-reference collection used by Plantgrape, Tempranillo ripens about two weeks
-after Chasselas, a mid-season benchmark there. That comparison is not a fixed
-Iberian harvest date, but it places Tempranillo well ahead of varieties that
-need a long autumn. It can therefore mature in relatively cool or elevated
-sites and may be harvested before equinoctial rain.
+Early maturity is the thread behind the name. In the French reference
+collection used by Plantgrape, Tempranillo ripens about two weeks after
+Chasselas, a mid-season benchmark there. That comparison is not a fixed Iberian
+harvest date, but it places Tempranillo well ahead of varieties that need a long
+autumn. It can therefore mature in relatively cool or elevated sites and may be
+harvested before equinoctial rain.
 
-The advantage becomes a constraint in hot conditions. Sugar accumulation,
+In hot conditions, that advantage can become a constraint. Sugar accumulation,
 acid loss, and skin development do not necessarily advance together. In a
 controlled experiment on five Tempranillo clones, higher temperature hastened
 ripening and sugar accumulation while accelerating the breakdown of malic
@@ -74,38 +74,37 @@ relative season, not an assurance of full or even ripeness in every vineyard.
 ## Wine character and cellar choices
 
 Tempranillo can give well-colored wines with enough tannin and body for extended
-maturation, but acidity is often the less secure part of the structure,
-especially in hot sites. This is not a fixed formula. Recent analyses of Rioja
-clones found significant variation in anthocyanins and flavanols, compounds
-relevant respectively to color and tannin, as well as a strong vintage effect.
-Yield and water alter grape composition further, while maceration determines
-how much color and tannin reaches the wine.
+maturation, but acidity is often less secure, especially in hot sites. Recent
+analyses of Rioja clones found significant variation in anthocyanins and
+flavanols, compounds relevant respectively to color and tannin, as well as a
+strong vintage effect. Yield and water alter grape composition further, while
+maceration determines how much color and tannin reaches the wine.
 
-Harvest timing therefore involves linked compromises. Picking earlier can
-preserve acidity and a fresher fruit impression but leave tannin less mature;
-waiting can deepen ripeness while raising alcohol and softening acidity. Short
-maceration or carbonic maceration can make supple, fruit-led wine, whereas
-longer extraction can reinforce tannin. Blending may supply acidity, aroma, or
-texture that Tempranillo alone does not provide.
+Harvest timing involves linked compromises. Picking earlier can preserve acidity
+and a fresher fruit impression but leave tannin less mature; waiting can deepen
+ripeness while raising alcohol and softening acidity. Short maceration or
+[carbonic maceration](../concepts/carbonic-maceration.md) can make supple,
+fruit-led wine, whereas longer extraction can reinforce tannin. Blending may
+supply acidity, aroma, or texture that Tempranillo alone does not provide.
 
-Oak is important to several regional traditions but is not an intrinsic grape
-character. Barrel size, age, origin, and time can add conspicuous aromas and
-change how tannin feels; bottle age then develops the wine further. A young,
-unoaked Tempranillo and a long-matured blend may consequently share a variety
-without sharing the familiar flavors often attributed to it.
+[Oak maturation](../concepts/oak-maturation.md) is important to several regional
+traditions. Barrel size, age, origin, and time can add conspicuous aromas and
+change how tannin feels; bottle age develops the wine further. Barrel and
+bottle age can therefore make mature examples quite unlike young, unoaked
+Tempranillo.
 
 ## Rioja, Ribera del Duero, Toro, and Portugal
 
-Rioja places Tempranillo in the broadest stylistic frame. The denomination
-extends about 100 kilometres along the Ebro and crosses cooler Atlantic-influenced
-western sectors and a generally warmer, drier eastern sector. Tempranillo
-dominates the red plantings but may be blended with [Garnacha](grenache.md),
-Graciano, Mazuelo, or Maturana Tinta. Young wines, including wines made by
-carbonic maceration, coexist with reds shaped by mandatory barrel and bottle
-periods for the Crianza, Reserva, and Gran Reserva terms. Climate, blending,
-extraction, and maturation therefore explain more than the word *Rioja* alone:
-its Tempranillo can be fresh and direct, structured for long ageing, or anywhere
-between those poles.
+[Rioja](../regions/rioja.md) shows Tempranillo across a broad stylistic range.
+The denomination extends about 100 kilometres along the Ebro and crosses cooler
+Atlantic-influenced western sectors and a generally warmer, drier eastern
+sector. Tempranillo dominates the red plantings but may be blended with
+[Garnacha](grenache.md), Graciano, Mazuelo, or Maturana Tinta. Young wines,
+including wines made by carbonic maceration, coexist with reds shaped by
+mandatory barrel and bottle periods for the Crianza, Reserva, and Gran Reserva
+terms. Climate, blending, extraction, and maturation therefore explain more
+than the word *Rioja* alone: its Tempranillo can be fresh and direct, structured
+for long ageing, or anywhere between those poles.
 
 Ribera del Duero calls the variety Tinta del País or Tinto Fino. Its vineyards
 occupy a high, dry continental plateau, mostly around 720 to 1,000 metres, with
@@ -122,20 +121,20 @@ old local material within Tempranillo while also finding a regional clonal
 lineage. Its vineyards span roughly 620 to 870 metres and have a semi-arid,
 strongly continental climate with intense sun and limited rainfall. Those
 conditions can push an early grape toward more sugar, body, color, and tannic
-weight, particularly at low yields. They do not make every Toro massive:
-altitude, soils, and water supply vary, and extraction remains a choice.
-Current rules also allow Garnacha-led red wine; a red labelled for Tinta de
-Toro must contain at least 85% of it.[^4]
+weight, particularly at low yields. Altitude, soils, water supply, and
+extraction create meaningful variation within Toro. Current rules also allow
+Garnacha-led red wine; a red labelled for Tinta de Toro must contain at least
+85% of it.[^4]
 
-Portugal is not a fourth uniform style. In the Douro, Tinta Roriz commonly
-joins Touriga Franca, Touriga Nacional, and other grapes in both dry red wine
-and Port rather than serving as the sole voice of a blend. The region's steep,
-highly varied sites change markedly in heat, exposure, and available water, so
-the grape may contribute alcohol and firm structure in one parcel and a less
-complete balance in another. In the mountain-sheltered Dão, where vineyards
-commonly lie on low-fertility granite at 400 to 500 metres or higher, Tinta
-Roriz can retain a firmer acid line and play a supporting role in restrained
-multivarietal reds.
+Portugal encompasses very different expressions. In the Douro, Tinta Roriz
+commonly joins [Touriga Franca](touriga-franca.md), [Touriga
+Nacional](touriga-nacional.md), and other grapes in dry red wine and
+[Port](../styles/port.md). The region's steep, highly varied sites differ
+markedly in heat, exposure, and available water, so the grape may contribute
+alcohol and firm structure in one parcel and a less complete balance in
+another. In the mountain-sheltered Dão, where vineyards commonly lie on
+low-fertility granite at 400 to 500 metres or higher, Tinta Roriz can retain
+firmer acidity and play a supporting role in restrained multivarietal reds.
 
 Aragonez in Alentejo meets high sunshine and Mediterranean and continental
 heat, conditions that often favor riper, broader expressions, though the high
@@ -143,9 +142,9 @@ vineyards of Portalegre are an important counterexample. A long-term
 Portuguese study covering Aragonez in Douro, Dão, and Alentejo found that
 warmer conditions were associated at maturity with less titratable acidity,
 anthocyanin, and total phenols, and with higher pH and potential alcohol.[^5]
-The regional names therefore mark different histories and blending cultures;
-the differences in the wines arise from vine material, site, season, and
-winemaking rather than synonym alone.
+The regional names carry different histories and blending traditions, while
+vine material, site, season, and winemaking produce the differences in the
+glass.
 
 [^1]: Javier Tello et al., “Genome resequencing and custom genotyping
     elucidates the origin and dissemination history of an emblematic grapevine

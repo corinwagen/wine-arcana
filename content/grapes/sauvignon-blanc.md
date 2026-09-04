@@ -7,13 +7,12 @@ aliases:
 # Sauvignon Blanc
 
 Sauvignon Blanc is a white *Vitis vinifera* variety historically established
-in both the Loire Valley and Bordeaux and now grown widely. It is especially
-useful for understanding how grape chemistry, vineyard conditions, and
-fermentation interact: some of its green aroma is already present in the
-berry, while several of its most recognizable fruit-associated compounds are
-released from largely non-aromatic precursors by yeast.
+in both the Loire Valley and Bordeaux and now grown widely. It shows clearly
+how grape chemistry, vineyard conditions, and fermentation interact: green
+aromas can originate in the berry, while yeast releases several recognizable
+fruit-associated compounds from largely non-aromatic precursors.
 
-That chemistry does not impose one style. Cool conditions can help retain
+The same chemistry supports varied styles. Cool conditions can help retain
 acidity and methoxypyrazines, but insufficient ripening may leave the balance
 especially sharp or herbal. Warmer conditions usually reduce green character
 and hasten acid loss, yet heat and water stress can also interrupt ripening.
@@ -24,10 +23,11 @@ move two sites in the same climate toward quite different wines.
 
 The variety's exact origin is unresolved. France's Plantgrape catalogue gives
 central France and southwestern France as the two possibilities and describes
-Sauvignon as closely related to Savagnin; that is evidence of relationship,
-not a demonstrated parent-offspring direction or a precise birthplace.
-Microsatellite analysis has, however, established Sauvignon Blanc and Cabernet
-Franc as the parents of [Cabernet Sauvignon](cabernet-sauvignon.md).[^1]
+Sauvignon as closely related to Savagnin. That indicates a relationship, but
+leaves both the parent-offspring direction and precise birthplace unresolved.
+Microsatellite analysis has established Sauvignon Blanc and [Cabernet
+Franc](cabernet-franc.md) as the parents of [Cabernet
+Sauvignon](cabernet-sauvignon.md).[^1]
 
 ## Aromatic chemistry
 
@@ -53,8 +53,8 @@ leafy, or capsicum-like impression. It generally becomes less prominent as
 berries ripen and is strongly affected by the light and temperature around the
 bunches. C6 aldehydes and alcohols can add cut-leaf or grassy character, while
 yeast-derived esters and many less conspicuous compounds modify how the thiols
-and pyrazines are perceived. “Herbal” and “tropical” are therefore interacting
-parts of a spectrum, not mutually exclusive Sauvignon Blanc types.
+and pyrazines are perceived. “Herbal” and “tropical” describe interacting
+elements along a spectrum.
 
 ## Viticulture, climate, and canopy
 
@@ -74,48 +74,49 @@ reduce retained methoxypyrazine. In cooler seasons or sites, acidity and green
 character may persist longer, but waiting for more flavour development
 increases exposure to autumn rain and rot. Under severe heat or water deficit,
 stomata close, photosynthesis slows, and exposed berries may shrivel or
-sunburn; a warm site is not simply a faster version of a cool one.
+sunburn.
 
-Canopy management adjusts that climate at the scale of a bunch. More open
-fruit zones admit light and air, which can reduce humidity and green character.
-In a South African comparison, shaded treatments retained more IBMP, whereas
-fruit in the more exposed control canopies accumulated more monoterpenes and
-norisoprenoids. A separate two-vintage experiment found that leaf and lateral
-shoot removal increased particular carotenoids and volatile terpenoids without
-materially changing sugars or organic acids in that site.[^3] These results do
-not make maximum exposure a universal goal. The timing and degree of leaf
-removal matter, and hot, sunny vineyards may need afternoon shade to protect
-fruit. Canopy work changes airflow, disease pressure, temperature, and multiple
-aroma pathways together.
+[Canopy management](../concepts/canopy-management.md) adjusts that climate at
+the scale of a bunch. More open fruit zones admit light and air, which can
+reduce humidity and green character. In a South African comparison, shaded
+treatments retained more IBMP, whereas fruit in the more exposed control
+canopies accumulated more monoterpenes and norisoprenoids. A separate
+two-vintage experiment found that leaf and lateral shoot removal increased
+particular carotenoids and volatile terpenoids without materially changing
+sugars or organic acids in that site.[^3] The useful degree of exposure depends
+on timing and site, and hot, sunny vineyards may need afternoon shade to
+protect fruit. Canopy work changes airflow, disease pressure, temperature, and
+multiple aroma pathways together.
 
 ## Regional expressions
 
 ### Loire Valley
 
 In the central Loire, Sauvignon Blanc is commonly presented as an unblended,
-dry wine. Sancerre's specification makes the distinction explicit: its white
-wine must come solely from Sauvignon, while Pinot Noir is reserved for its red
-and rosé wines. Pouilly-Fumé, Menetou-Salon, Quincy, Reuilly, and parts of
-Touraine provide other reference points. Moderated temperatures, slopes, and
+dry wine. [Sancerre](../regions/sancerre.md)'s specification makes the
+distinction explicit: its white wine must come solely from Sauvignon, while
+Pinot Noir is reserved for its red and rosé wines. Pouilly-Fumé, Menetou-Salon,
+Quincy, Reuilly, and parts of Touraine provide other reference points.
+Moderated temperatures, slopes, and
 harvest decisions can support firm acidity and a comparatively restrained
 balance of fruit and herbal character. Tank fermentation is common, but lees
-contact, older or new wood, and later release can produce broader examples;
-none is an intrinsic consequence of limestone or flint. “Mineral” or “smoky”
-may be meaningful sensory impressions, but they do not demonstrate that rock
-flavour passed directly into the wine.
+contact, older or new wood, and later release can produce broader examples.
+“Mineral” or “smoky” may be meaningful sensory impressions, but they do not
+demonstrate that rock flavour passed directly into the wine.
 
 ### Bordeaux
 
-Bordeaux usually treats Sauvignon Blanc as a blending component rather than a
-complete recipe. The current Pessac-Léognan specification permits Sauvignon
-Blanc, Sémillon, Sauvignon Gris, and Muscadelle in its dry whites and describes
-Sauvignon and Sémillon as the principal pair.[^4] Changing their proportions
-changes aroma, acidity, texture, and development in bottle. Cellar practice
-widens the range further: dry white Bordeaux may mature in tank, concrete,
-amphora, or barrel, with or without malolactic fermentation and lees stirring.
-Fresher, early-drinking Bordeaux and Entre-Deux-Mers therefore sit beside more
-textured, oak- or lees-shaped wines from Graves and Pessac-Léognan. The regional
-contrast with the Loire is as much about blending and maturation as climate.
+In Bordeaux, Sauvignon Blanc commonly forms part of a blend. The current
+Pessac-Léognan specification permits Sauvignon Blanc, [Sémillon](semillon.md),
+Sauvignon Gris, and Muscadelle in its dry whites and describes Sauvignon and
+Sémillon as the principal pair.[^4] Their proportions change aroma, acidity,
+texture, and development in bottle. Cellar practice widens the range further:
+dry white Bordeaux may mature in tank, concrete, amphora, or barrel, with or
+without [malolactic fermentation](../concepts/malolactic-fermentation.md) and
+[lees aging](../concepts/lees-aging.md). Fresher, early-drinking Bordeaux and
+Entre-Deux-Mers therefore sit beside more textured, oak- or lees-shaped wines
+from Graves and Pessac-Léognan. The regional contrast with the Loire is as much
+about blending and maturation as climate.
 
 ### Marlborough
 
@@ -148,9 +149,8 @@ The contrast should remain qualified. A three-region South African experiment
 found clearer cool- and warm-site aroma patterns in one season, but those
 regional differences were less pronounced in the following, warmer season.
 Warmth can favour thiol precursors or riper fruit expression in some
-conditions, yet the eventual aroma still depends on fermentation, and severe
-heat or drought can reduce rather than improve aromatic development. “Warm
-climate” describes a set of pressures, not a fixed tropical-fruit style.
+conditions, but severe heat or drought can reduce aromatic development.
+Fermentation then shapes how the resulting compounds are expressed.
 
 [^1]: John E. Bowers & Carole P. Meredith, “The Parentage of a Classic Wine
     Grape, Cabernet Sauvignon,” *Nature Genetics* 16 (1997), pp. 84–87,
