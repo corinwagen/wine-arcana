@@ -49,6 +49,19 @@ A source can be generally reputable and still be wrong for a particular
 claim. Watch for references that repeat an older account without examining its
 evidence.
 
+## Sourcing producer reference points
+
+A producer's own material can establish its vineyards, methods, bottlings,
+ownership, and dates. It cannot by itself establish that the producer is
+important, representative, or a quality benchmark. Support that editorial
+judgment with serious independent reporting, a strong reference work, or
+documented historical evidence, then state the specific reason for including
+the producer rather than invoking an undefined consensus.
+
+Prefer durable records and a sustained body of work to novelty or current
+hype. Verify that the producer and relevant wine remain active when the prose
+uses the present tense. The purpose is orientation, not buying advice.
+
 ## Claims that need special care
 
 Use direct inline attribution or a footnote when a claim is consequential,

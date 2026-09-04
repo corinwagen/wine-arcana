@@ -117,6 +117,21 @@ Do not assign numeric or ordinal scores to qualitative properties. There is no
 house scale for acidity, tannin, body, fruitiness, aroma, quality, ageability,
 or difficulty.
 
+## Producer reference points
+
+A few named producers can give readers a practical way into a region or grape
+when the article explains why each one is useful. Good reasons include
+historical influence, long continuity, a representative method, or a clear
+contrast in blending, farming, or maturation. Present two to four producers as
+reference points, not as a definitive list or a ranking of quality.
+
+Prefer a short paragraph within the relevant discussion to a bare list. On a
+grape page, keep producers attached to their regional context instead of
+assembling a worldwide roll call. Avoid scores, prices, availability claims,
+*best*, *must-buy*, and vague appeals to prestige. Verify names and current
+status, and omit producer examples when the evidence is weak or the selection
+would be arbitrary.
+
 ## Facts, interpretation, and uncertainty
 
 Separate what evidence establishes from what writers, growers, or drinkers

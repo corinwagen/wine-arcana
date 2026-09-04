@@ -29,7 +29,8 @@ winemaking, and age where relevant.
 ## Where it is grown
 
 Major regions and important secondary regions. Link only to existing canonical
-region articles.
+region articles. When useful, name documented producer reference points within
+their regional context; do not compile a global ranking or roll call.
 
 ## In the cellar
 
