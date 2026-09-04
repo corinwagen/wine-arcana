@@ -11,7 +11,7 @@ aliases:
 
 Xarel·lo is a white *Vitis vinifera* grape most closely identified with
 Catalonia, particularly Penedès. It is one of the three classic grapes of Cava,
-alongside Macabeo and [Parellada](parellada.md), and is also made as a still
+alongside [Macabeo](macabeo.md) and [Parellada](parellada.md), and is also made as a still
 white wine. Cava
 sources emphasize its structure and freshness. Site and harvest determine how
 much acidity remains, while pressing, skin contact, and maturation can make its

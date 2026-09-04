@@ -81,11 +81,11 @@ Nor is a lower dosage inherently a higher qualitative rank.
 The grape material sets the range within which the method works.
 [Chardonnay](../grapes/chardonnay.md) and Pinot Noir can be blended or bottled
 separately; [Chenin Blanc](../grapes/chenin-blanc.md) brings a different acid
-and aroma profile; Cava commonly draws on Macabeo, Xarel·lo, and Parellada; and
-[Bairrada](../regions/bairrada.md) can use [Baga](../grapes/baga.md) and several
-white or red varieties. White, rosé, and, in some regions, red sparkling wines
-can all follow bottle fermentation. The method creates effervescence and lees
-contact, not a grape flavour of its own.
+and aroma profile; Cava commonly draws on [Macabeo](../grapes/macabeo.md),
+Xarel·lo, and Parellada; and [Bairrada](../regions/bairrada.md) can use
+[Baga](../grapes/baga.md) and several white or red varieties. White, rosé, and,
+in some regions, red sparkling wines can all follow bottle fermentation. The
+method creates effervescence and lees contact, not a grape flavour of its own.
 
 Base-wine choices can be at least as consequential as time in bottle. Earlier
 picking usually preserves acidity but may limit ripeness; later picking can add

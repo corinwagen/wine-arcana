@@ -9,7 +9,7 @@ aliases:
 
 Parellada is a pale-skinned *Vitis vinifera* variety most closely associated
 with Catalonia, particularly the higher parts of Penedès. It is one of the
-three grapes in the traditional Cava blend, alongside Macabeo and
+three grapes in the traditional Cava blend, alongside [Macabeo](macabeo.md) and
 [Xarel·lo](xarel-lo.md).
 Its long, late season makes it especially useful in cooler, elevated sites,
 where it can make a light, restrained base wine for bottle-fermented sparkling

@@ -55,11 +55,12 @@ less vineyard area but can contribute acidity, tannin, aroma, or colour.
 Mazuelo's later cycle may be useful in warm conditions, though that potential
 does not make it a simple replacement for Tempranillo.
 
-Viura, also known as Macabeo, is the predominant white grape. Garnacha Blanca,
-Malvasía de Rioja, Tempranillo Blanco, and other authorized local and
-international varieties broaden the possible blends. The current rules name
-five red and nine white varieties; authorization does not imply equal regional
-importance or a fixed formula.[^2]
+[Viura, also known as Macabeo](../grapes/macabeo.md), is the predominant white
+grape. [Garnacha Blanca](../grapes/grenache-blanc.md), Malvasía de Rioja,
+Tempranillo Blanco, and other authorized local and international varieties
+broaden the possible blends. The current rules name five red and nine white
+varieties; authorization does not imply equal regional importance or a fixed
+formula.[^2]
 
 Variety and zone interact with cellar choices. A producer may blend grapes and
 origins to balance ripeness, acidity, and structure from one vintage to the
