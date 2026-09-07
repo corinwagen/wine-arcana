@@ -9,17 +9,15 @@ aliases:
 
 Baga is a dark-skinned Portuguese grape most closely associated with
 [Bairrada](../regions/bairrada.md), on the Atlantic side of central Portugal. It
-is also grown in Dão and is known regionally as Tinta Bairrada and Poeirinho.
-The variety is best understood
-through a tension in its growing season: it ripens late and can retain firm
-acidity and tannin, yet its compact bunches are vulnerable to rot before the
-fruit is fully mature.
+is also grown in [Dão](../regions/dao.md) and is known regionally as Tinta
+Bairrada and Poeirinho. The variety is best understood through a tension in its
+growing season: it ripens late and can retain firm acidity and tannin, yet its
+compact bunches are vulnerable to rot before the fruit is fully mature.
 
-That tension helps explain Baga's range. Early-picked or heavily cropped fruit
+This combination explains Baga's range. Early-picked or heavily cropped fruit
 can give lean, astringent wine, while healthy, mature grapes can produce more
 concentrated reds whose structure relaxes with bottle age. Harvest timing,
-site, extraction, and the condition of the fruit matter more than any fixed
-list of aromas.
+site, extraction, and fruit condition matter more than any fixed list of aromas.
 
 ## History and identity
 
@@ -28,20 +26,21 @@ Institute for Agrarian and Veterinary Research (INIAV) identifies an 1866
 account by António Augusto de Aguiar, describing Baga as predominant around
 Mealhada in Bairrada, as the earliest reference found so far. The Institute of
 Vine and Wine (IVV), however, notes that the variety may have originated in
-Dão. A first record of cultivation is not proof of origin, so the two regions'
-claims should not be collapsed into a definite history.
+Dão. That record places Baga in cultivation by 1866, but leaves its birthplace
+unresolved; the two regions' claims cannot yet be combined into a definite
+history.
 
 Genetic evidence resolves part of the family history but not the geographical
 question. INIAV, drawing on the Vitis International Variety Catalogue, reports
 Malvasia Fina as one parent of Baga; the other parent remains unidentified.
-This establishes a parent-offspring relationship, not where or when the
-crossing occurred.
+It identifies a parent-offspring relationship while leaving the place and date
+of the crossing unknown.
 
 ## Viticulture
 
 Baga buds in the middle of the season and ripens late. Its basal buds have
 moderate fertility, but longer pruning can make the vine very productive.
-Controlling crop load can therefore be important: too much fruit delays the
+Managing excessive crops can help the fruit ripen: too much fruit delays the
 already demanding ripening process.
 
 The bunches are compact and the berry skins are delicate enough that rain and
@@ -50,8 +49,8 @@ of a crop-adjustment technique on Baga reported lower yield, cluster weight,
 cluster compactness, and *Botrytis* incidence in treated vines, supporting the
 practical link between bunch architecture, yield, and disease. The IVV
 describes the variety as relatively little affected by downy and powdery mildew
-but highly susceptible to rot; that relative tolerance does not remove the
-need for disease management.
+but highly susceptible to rot. Disease management remains important, especially
+near harvest.
 
 ## Wine character and cellar choices
 
@@ -59,15 +58,16 @@ Acidity and tannin are often the structural constants in Baga, but their
 balance depends on ripeness and extraction. A comparison with
 [Nebbiolo](nebbiolo.md) is useful in this limited sense: both can combine
 conspicuous acidity and tannin
-without those properties predicting body, color, or aroma. Baga is not a
-Portuguese equivalent of Nebbiolo, and the comparison says little about the
-different places and cellar traditions behind the wines.
+while those properties alone say little about body, colour, or aroma. The
+comparison ends there; the places and cellar traditions behind the wines are
+different.
 
 Including stems or extending contact with skins can reinforce an already firm
 tannic structure; destemming and gentler extraction can make it less severe.
-Neither approach compensates for unripe or rotten fruit. Baga is also used for
-rosé and sparkling wine in Bairrada, where retained acidity can be useful
-rather than something that must be softened through long maturation.
+Both choices depend on sound fruit: unripe or rotten grapes limit the result.
+Baga is also used for rosé and [traditional-method sparkling
+wine](../styles/traditional-method-sparkling-wine.md) in Bairrada, where retained
+acidity contributes freshness.
 
 ## Where it is grown
 
@@ -79,19 +79,17 @@ specifically favors well-exposed, well-drained clay-limestone sites for Baga.
 The same maritime conditions that preserve acidity can make waiting for full
 ripeness risky in a wet autumn.
 
-Dão provides a useful contrast rather than a second version of the same
-setting. Its vineyards are generally higher, often on low-fertility granite,
-and mountain barriers shelter them from much of the Atlantic moisture;
-summers can be hot and dry. Baga is recognized there, but it shares the red
-grape landscape with varieties including Touriga Nacional, Alfrocheiro, Jaen,
-and [Tinta Roriz](tempranillo.md) rather than defining the region as it does
-Bairrada. These
-regional conditions alter the pressures on ripening, but do not guarantee a
-single Dão or Bairrada style.
+Dão offers a contrasting setting. Its vineyards are generally higher, often on
+low-fertility granite, and mountain barriers shelter them from much of the
+Atlantic moisture; summers can be hot and dry. Baga is recognized there, but it
+shares the red-grape landscape with varieties including [Touriga
+Nacional](touriga-nacional.md), Alfrocheiro, [Jaen](mencia.md), and [Tinta
+Roriz](tempranillo.md). These conditions change the pressures on ripening, while
+site and cellar choices still shape the wine.
 
 The IVV's 2025 mainland data recorded approximately 4,608 hectares of Baga,
-about 2.7% of the total vineyard area. That dated figure describes planting,
-not quality or regional importance.
+about 2.7% of the total vineyard area. The figure describes planting area, a
+measure distinct from quality or regional importance.
 
 ## Sources
 
