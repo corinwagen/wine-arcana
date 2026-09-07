@@ -22,7 +22,7 @@ be dry, off-dry, or sweet; its perfume does not disclose which.
 ## The Traminer relationship
 
 France's official catalogue describes Gewürztraminer as the pink, aromatic
-mutation of Savagnin blanc. It separately recognizes Savagnin rose as a pink,
+mutation of [Savagnin blanc](savagnin.md). It separately recognizes Savagnin rose as a pink,
 non-aromatic mutation. Vegetative propagation preserves these cultivated forms.
 The two pink forms share the catalogue's standard nine-locus genetic profile,
 although their aromatic character differs.[^1]

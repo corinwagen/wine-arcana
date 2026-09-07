@@ -8,8 +8,8 @@ aliases:
 
 Touriga Franca is a dark-skinned Portuguese grape whose importance is easiest
 to miss when attention settles on the more famous
-[Touriga Nacional](touriga-nacional.md). In the Douro it is the more widely
-planted of the two and a major component of both Port and dry red blends. Its
+[Touriga Nacional](touriga-nacional.md). In the [Douro](../regions/douro.md) it is the more widely
+planted of the two and a major component of both [Port](../styles/port.md) and dry red blends. Its
 value is practical as well as sensory: the vine crops more regularly than
 Touriga Nacional, its fruit copes well with the Douro's heat, and its wines can
 add colour, tannin, fruit, and a distinctly floral lift.

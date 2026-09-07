@@ -15,7 +15,8 @@ This sequence distinguishes the traditional method from tank fermentation and
 direct carbonation, but it does not define one flavour or level of quality.
 Grape variety, growing conditions, harvest date, base-wine production, blending,
 time on the lees, dosage, and post-disgorgement age can each remain apparent.
-Champagne, Cava, and other protected names add their own rules to the underlying
+[Champagne](../regions/champagne.md), Cava, and other protected names add their
+own rules to the underlying
 method; none is a synonym for every traditional-method wine.
 
 ## How it is made
@@ -82,7 +83,7 @@ The grape material sets the range within which the method works.
 [Chardonnay](../grapes/chardonnay.md) and Pinot Noir can be blended or bottled
 separately; [Chenin Blanc](../grapes/chenin-blanc.md) brings a different acid
 and aroma profile; Cava commonly draws on [Macabeo](../grapes/macabeo.md),
-Xarel·lo, and Parellada; and [Bairrada](../regions/bairrada.md) can use
+[Xarel·lo](../grapes/xarel-lo.md), and [Parellada](../grapes/parellada.md); and [Bairrada](../regions/bairrada.md) can use
 [Baga](../grapes/baga.md) and several white or red varieties. White, rosé, and,
 in some regions, red sparkling wines can all follow bottle fermentation. The
 method creates effervescence and lees contact, not a grape flavour of its own.

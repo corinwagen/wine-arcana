@@ -30,7 +30,7 @@ become more concentrated because there is less water, not because the fungus
 manufactures sugar.
 
 The fungus is doing more than perforating a container. A three-year study of
-naturally infected Sémillon found changes in sugars, sugar alcohols, organic
+naturally infected [Sémillon](../grapes/semillon.md) found changes in sugars, sugar alcohols, organic
 acids, phenolic pathways, terpenes, and aroma precursors; several of the altered
 compound classes remained distinguishable in the finished wines.[^1] Noble rot
 can therefore modify acidity, texture, colour, and aroma as it concentrates the
@@ -108,7 +108,7 @@ parcels separately, often using barrels, so grape mix, selection severity,
 vintage, and élevage prevent the appellation from representing one uniform
 style.
 
-Tokaj follows a different logic. Furmint and Hárslevelű are central among its
+[Tokaj](../regions/tokaj.md) follows a different logic. Furmint and Hárslevelű are central among its
 permitted varieties. A proposed Union amendment published in March 2026
 describes Aszú as individually selected botrytized berries macerated in must,
 fermenting must, or wine; Szamorodni instead processes bunches containing both

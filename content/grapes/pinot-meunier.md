@@ -95,7 +95,8 @@ Meunier base wines are often described as relatively supple, fruity, and quick
 to become approachable. Those tendencies helped produce the old assumption
 that the grape was useful mainly for wines intended to show well young. They do
 not set a universal ageing limit. Fruit maturity, yield, site, pressing,
-malolactic fermentation, oxygen exposure, reserve-wine use, vessel, and time on
+[malolactic fermentation](../concepts/malolactic-fermentation.md), oxygen
+exposure, reserve-wine use, vessel, and time on
 lees all change the result. Specialist accounts of long-aged and
 single-vineyard Meunier Champagnes have challenged the simple hierarchy in
 which Chardonnay and Pinot Noir provide seriousness while Meunier supplies only

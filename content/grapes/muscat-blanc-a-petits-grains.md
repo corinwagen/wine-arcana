@@ -20,7 +20,7 @@ It is also central to understanding why “Muscat” is a complicated name. Musc
 does not denote a single variety. It covers a large group of grapes associated
 with a muscat-like aroma, many of them related through centuries of crossing
 and selection, while similar aroma can also arise in more distant vines.
-Muscat Blanc à Petits Grains and the distinct Muscat of Alexandria sit at the
+Muscat Blanc à Petits Grains and the distinct [Muscat of Alexandria](moscatel-de-alejandria.md) sit at the
 centre of many reconstructed pedigrees. Muscat Ottonel and Muscat of Hamburg
 are separate varieties, not local names for this one.[^1]
 

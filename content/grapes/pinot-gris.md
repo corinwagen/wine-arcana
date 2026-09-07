@@ -31,7 +31,7 @@ cultivated form. Layer-specific genetic analysis found that Pinot Gris arose
 from ancestral Pinot Noir through a somatic mutation affecting berry colour.
 The mutation is present in one cell layer, making the vine a chimera: adjacent
 layers of its growing tissue have different genetic constitutions. The same
-research indicates that Pinot Blanc arose independently from Pinot Noir, not
+research indicates that [Pinot Blanc](pinot-blanc.md) arose independently from Pinot Noir, not
 through a simple sequence from Noir to Gris to Blanc.[^1]
 
 This evidence explains identity, not a precise place or date of origin. It

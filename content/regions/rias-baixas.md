@@ -9,8 +9,8 @@ northwestern Spain. Its vineyards do not form one continuous coastal block.
 They occupy five subzones around estuaries and the lower reaches of rivers from
 the Ulla in the north to the Miño on the Portuguese border. White wine from
 [Albariño](../grapes/albarino.md) overwhelmingly dominates production, but the
-region also permits other white grapes, reds, and traditional-method sparkling
-wine.
+region also permits other white grapes, reds, and [traditional-method sparkling
+wine](../styles/traditional-method-sparkling-wine.md).
 
 The five subzones are useful geographical names, not five fixed wine styles or
 quality levels. Distance from the ocean, shelter, slope, soil depth, season,
@@ -91,7 +91,7 @@ the denomination is not legally restricted to white wine.
 Most Rías Baixas is dry, still white wine. Cool fermentation in stainless steel
 is common because it permits temperature control and no flavor contribution
 from the vessel, but it is only a starting point. Some winemakers allow brief
-skin contact before pressing, carry out part or all of malolactic conversion,
+skin contact before pressing, carry out part or all of [malolactic conversion](../concepts/malolactic-fermentation.md),
 or blend separately fermented lots. Each choice changes the balance between
 aroma, acidity, phenolic texture, and body.
 

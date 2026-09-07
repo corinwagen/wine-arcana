@@ -47,7 +47,7 @@ impractical in an unfavourable year.
 
 ## Grapes and dry wine
 
-Six white varieties are permitted: Furmint, Hárslevelű, Sárgamuskotály,
+Six white varieties are permitted: Furmint, Hárslevelű, [Sárgamuskotály](../grapes/muscat-blanc-a-petits-grains.md),
 Kövérszőlő, Zéta, and Kabar. Furmint dominates current plantings. It can
 ripen late, retain pronounced acidity, and form useful aszú berries, making it
 suited to both dry wine and concentrated sweet wine. Hárslevelű, the principal

@@ -5,7 +5,7 @@ title: Jerez
 # Jerez
 
 The wine-producing region of Jerez extends beyond its namesake city and the
-three cities of the historic “Sherry triangle.” The wider *Marco de Jerez*
+three cities of the historic “[Sherry](../styles/sherry.md) triangle.” The wider *Marco de Jerez*
 reaches from the Guadalquivir estuary past the Bay of Cádiz and inland toward
 the Sierra de Cádiz. Its protected vineyard area now covers ten municipalities,
 nine in Cádiz province and Lebrija in Seville province.[^1]
@@ -51,11 +51,12 @@ level.
 
 ## Grapes and vineyard wine
 
-Palomino—especially the locally named Palomino Fino or Listán Blanco—is the
+Palomino—especially the locally named [Palomino Fino](../grapes/palomino-fino.md) or Listán Blanco—is the
 principal grape and supplies most dry base wine. Its importance lies partly in
 what happens after harvest: pressing choices, fermentation, fortification or
 its omission, the development of flor, and years of maturation can reshape a
-comparatively discreet young wine. Pedro Ximénez and Moscatel de Alejandría are
+comparatively discreet young wine. [Pedro Ximénez](../grapes/pedro-ximenez.md)
+and [Moscatel de Alejandría](../grapes/moscatel-de-alejandria.md) are
 the other established grapes, particularly for sweet wines made from ripe or
 sun-dried fruit. Moscatel has a strong association with the coastal sandy soils
 around Chipiona, while Pedro Ximénez is now a much smaller local planting than

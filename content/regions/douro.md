@@ -7,7 +7,8 @@ title: Douro
 Douro is a wine region in northeastern Portugal that follows the Douro River
 and its tributaries upstream toward the Spanish border. The Douro Demarcated
 Region contains two protected designations: Douro for a broad range of wines and
-Porto, or Port, for fortified wine.[^1] Both draw on the same difficult landscape
+[Porto](../styles/port.md), or Port, for fortified wine.[^1] Both draw on the
+same difficult landscape
 and many of the same grapes, but their differences extend beyond fortification.
 
 The region is best understood as a network of river valleys rather than a
@@ -81,7 +82,7 @@ together they occupied well over half the vineyard area.[^4]
 [Touriga Nacional](../grapes/touriga-nacional.md) can contribute concentrated
 skin material and marked aroma, but its reputation should not obscure the
 greater area planted to Touriga Franca or the importance of the other grapes.
-Tinto Cão, Sousão, and [Tinta Amarela](../grapes/trincadeira.md), among many
+Tinto Cão, [Sousão](../grapes/souson.md), and [Tinta Amarela](../grapes/trincadeira.md), among many
 others, can change acidity, colour, tannin, ripening time, or performance in a
 particular site.
 
@@ -95,7 +96,7 @@ Modern planting, by contrast, often concentrates on fewer named varieties that
 can be harvested separately and blended later.
 
 White grapes also vary with site and production choices. Rabigato, Malvasia
-Fina, Síria, Moscatel Galego Branco, Viosinho, and Gouveio are among the
+Fina, Síria, Moscatel Galego Branco, Viosinho, and [Gouveio](../grapes/godello.md) are among the
 important names. Higher or less exposed sites can help retain acidity, while
 grape choice, harvest date, skin contact, fermentation vessel, and maturation
 distinguish fresh early-drinking whites from more structured wines. No red

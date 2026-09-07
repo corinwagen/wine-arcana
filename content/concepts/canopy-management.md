@@ -35,7 +35,8 @@ the coverage of protective treatments.
 Light and heat must not be treated as the same effect. A sunlit berry can become
 substantially warmer than the surrounding air, with the difference shaped by
 wind, time of day, row direction, and which side of the canopy it occupies. In a
-two-season Washington experiment, east-exposed Merlot had more skin anthocyanin
+two-season Washington experiment, east-exposed [Merlot](../grapes/merlot.md) had
+more skin anthocyanin
 than shaded fruit, while the hotter west-exposed fruit had less than the eastern
 fruit. Cooling and heating treatments showed that light promoted some
 pigments, whereas excessive berry temperature worked against their

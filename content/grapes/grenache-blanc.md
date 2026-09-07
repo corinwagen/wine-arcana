@@ -52,7 +52,7 @@ grower or winemaker can use Grenache Blanc for weight and ripeness, then shape
 the final balance with varieties that bring a different acid, aromatic, or
 phenolic profile. Relative harvest dates, proportions, fermentation, and
 maturation all matter. Lees contact,
-malolactic fermentation, and wood can broaden a wine further; early picking,
+[malolactic fermentation](../concepts/malolactic-fermentation.md), and wood can broaden a wine further; early picking,
 protective handling, or a companion grape may put more emphasis on freshness.
 Consequently, a varietal Grenache Blanc and a Grenache Blanc-led blend may be
 recognisably related without having the same apparent weight or aroma.
@@ -60,7 +60,7 @@ recognisably related without having the same apparent weight or aroma.
 ## Rhône and Mediterranean France
 
 Grenache Blanc is one of the principal white varieties in the current Côtes du
-Rhône rules, alongside Bourboulenc, Clairette, Marsanne, Roussanne, and
+Rhône rules, alongside [Bourboulenc](bourboulenc.md), [Clairette](clairette-blanche.md), [Marsanne](marsanne.md), [Roussanne](roussanne.md), and
 [Viognier](viognier.md). The rules require white Côtes du Rhône to be made
 mostly from that group, without requiring any one of its members.[^2] It is an
 important component of the region's white-blend vocabulary.

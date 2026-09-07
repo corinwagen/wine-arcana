@@ -9,7 +9,8 @@ aliases:
 Albariño is a pale-skinned *Vitis vinifera* variety of Atlantic northwest
 Iberia. It is Albariño in Galicia and Alvarinho in Portugal: these are regional
 names for the same cultivar, not two grapes. Its principal reference points are
-Rías Baixas in Spain and the Vinho Verde region in Portugal, especially Monção
+[Rías Baixas](../regions/rias-baixas.md) in Spain and the [Vinho
+Verde](../regions/vinho-verde.md) region in Portugal, especially Monção
 e Melgaço on the south side of the Minho River.
 
 The variety combines relatively thick skins, marked aromatic potential, and an
@@ -26,7 +27,7 @@ coast of the Iberian Peninsula, while Portugal's Institute of Vine and Wine
 locates its origin more specifically in the Minho basin. Stories that medieval
 monks brought it from central Europe have not established a genetic or
 documentary chain. Molecular comparison has also shown Albariño to be distinct
-from Savagnin Blanc and Caíño Blanco, varieties with which it has sometimes
+from [Savagnin Blanc](savagnin.md) and Caíño Blanco, varieties with which it has sometimes
 been confused.
 
 Archaeobotanical evidence makes a long Galician history plausible without
@@ -73,8 +74,9 @@ ripeness, yeast, oxygen exposure, and temperature can shift the emphasis.
 Pressing immediately and fermenting cool in an inert vessel tends to preserve a
 direct fruit-led expression. Brief skin contact can extract more aroma
 precursors and phenolic material from the thick skins; extended contact can
-also change color and phenolic texture. Lees ageing, malolactic
-fermentation, or wood can broaden the wine and soften the impression of
+also change color and phenolic texture. Lees ageing, [malolactic
+fermentation](../concepts/malolactic-fermentation.md), or wood can broaden the
+wine and soften the impression of
 acidity. These are stylistic choices rather than requirements of the grape, and
 some structured examples develop in bottle rather than being intended only for
 early drinking.
@@ -89,8 +91,8 @@ differences in river influence, exposure, and soils. Albariño accounts for the
 overwhelming majority of the denomination's harvest, but other authorized
 white grapes remain meaningful in regional blends. Under the current rules,
 the specific label “Rías Baixas Albariño” requires 100% Albariño, whereas other
-Rías Baixas and subzone wines may contain varieties such as Loureira,
-Treixadura, and Caíño Blanco.[^3]
+Rías Baixas and subzone wines may contain varieties such as [Loureira](loureiro.md),
+[Treixadura](treixadura.md), and Caíño Blanco.[^3]
 
 Across the Minho, Alvarinho belongs to the much larger and more varied Vinho
 Verde denomination. The region as a whole opens westward to Atlantic air, but

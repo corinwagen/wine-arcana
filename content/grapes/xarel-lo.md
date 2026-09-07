@@ -62,7 +62,7 @@ itself.[^3]
 Phenolic compounds occur in grape pulp, skins, and seeds, and their extraction
 depends partly on pressing and skin contact. One limited study of 32
 production-stage samples from a single producer used measured phenolic profiles
-to distinguish Xarel·lo from Pinot Noir. The authors treated it as a proof of
+to distinguish Xarel·lo from [Pinot Noir](pinot-noir.md). The authors treated it as a proof of
 concept across two varieties and four internal quality classes, not a universal
 phenolic measure for either grape.[^4] Vineyard, harvest, pressing, and
 oxidation management all affect the finished result.

@@ -8,8 +8,9 @@ aliases:
 
 Mencía is a dark-skinned *Vitis vinifera* variety of northwestern Iberia. Its
 best-known Spanish settings are Bierzo, at the western edge of León, and the
-inland Galician regions of Ribeira Sacra, Valdeorras, and Monterrei. Across the
-border it is called Jaen and has a long association with Portugal's Dão. These
+inland Galician regions of [Ribeira Sacra](../regions/ribeira-sacra.md),
+Valdeorras, and Monterrei. Across the
+border it is called Jaen and has a long association with Portugal's [Dão](../regions/dao.md). These
 are regional names for the same cultivar, not two similar grapes.
 
 The variety is often described through its fragrance: young wines can suggest
@@ -102,14 +103,14 @@ elevation and exposure. Farther west, Ribeira Sacra places vineyards on steep
 valleys of the Sil and Miño, while Valdeorras and Monterrei extend the variety
 through warmer inland Galician landscapes. Mencía is a principal or preferred
 grape in several of these denominations, though it may share vineyards and
-blends with [Garnacha Tintorera](alicante-bouschet.md), Merenzao, Brancellao,
-Sousón, and other local
+blends with [Garnacha Tintorera](alicante-bouschet.md), [Merenzao](trousseau.md), [Brancellao](brancellao.md),
+[Sousón](souson.md), and other local
 varieties.
 
 In Portugal, Jaen is most strongly associated with Dão, where the mountain-
 enclosed landscape, generally dry summers, and many elevated sites provide a
 different context from humid Galicia. It also appears in Beira Interior and is
-permitted in the Douro. The name change at the border does not produce a
+permitted in the [Douro](../regions/douro.md). The name change at the border does not produce a
 separate style: differences among a fragrant Ribeira Sacra red, a riper Bierzo
 wine, and a structured Dão blend arise from site, season, companions, and
 cellar decisions acting on the same variety.

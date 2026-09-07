@@ -8,9 +8,10 @@ aliases:
 # Corvina
 
 Corvina is a dark-skinned *Vitis vinifera* variety associated above all with
-Verona in northeastern Italy. It is central to the red blends of Valpolicella,
-including both relatively direct wines made from fresh grapes and Amarone della
-Valpolicella, for which harvested grapes undergo *appassimento*—a prolonged
+Verona in northeastern Italy. It is central to the red blends of [Valpolicella](../regions/valpolicella.md),
+including both relatively direct wines made from fresh grapes and [Amarone della
+Valpolicella](../styles/amarone-della-valpolicella.md), for which harvested
+grapes undergo *appassimento*—a prolonged
 period of partial drying before fermentation.
 
 Fresh Corvina does not need deep pigment or massive tannin to play that role.

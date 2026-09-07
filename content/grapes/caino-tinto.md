@@ -31,7 +31,7 @@ interchangeability.
 
 The original seedling cannot be assigned confidently to either modern Spain
 or Portugal. Galicia's viticultural research station records the name
-*Cachiño* at Boiro in 1914 and notes that the first Rías Baixas regulations
+*Cachiño* at Boiro in 1914 and notes that the first [Rías Baixas](../regions/rias-baixas.md) regulations
 used *Caíño Tinto* in 1987. Portuguese and international records establish
 Borraçal as the same variety across the border. It is therefore more useful to
 understand Caíño Tinto as a grape of the Galician–northern Portuguese
@@ -39,7 +39,7 @@ borderland than to turn incomplete documentation into a precise birthplace.
 
 ## Viticulture in an Atlantic climate
 
-Galician records describe both budding and ripening as late; the Vinho Verde
+Galician records describe both budding and ripening as late; the [Vinho Verde](../regions/vinho-verde.md)
 commission rates Borraçal's maturity from middle to late. The difference is
 partly one of local comparison and observation. In either case, it needs a
 long season. A warm, well-exposed site can help sugar and tannins advance,
@@ -76,19 +76,19 @@ result is not invariably lean.
 The wines are generally ruby-coloured rather than opaque, with fresh fruit
 more useful as a broad reference than any fixed list of aromas. Tannin can feel
 firm when fruit is only just ripe or extraction is forceful. Harvest date,
-fermentation temperature, skin contact, and malolactic fermentation—which
+fermentation temperature, skin contact, and [malolactic fermentation](../concepts/malolactic-fermentation.md)—which
 converts sharper malic acid into softer lactic acid—can all change the balance.
 A varietal wine can consequently range from light and incisive to more
 structured, without ceasing to reflect the grape.
 
 Blending turns these apparent limitations into functions. In northern
 Portugal, the regional commission explicitly describes Borraçal as a red-blend
-grape that contributes vivacity. Vinhão, Espadeiro, Amaral, and other local
+grape that contributes vivacity. [Vinhão](souson.md), Espadeiro, Amaral, and other local
 varieties can alter colour, ripeness, tannin, and aroma according to the place
 and intended style. Ribeiro likewise has a long tradition of blending in
 proportions that are not legally fixed. Its current specification classifies
 Caíño Tinto among the principal red varieties, alongside grapes including
-[Mencía](mencia.md), Brancellao, Espadeiro, and Sousón.[^3] The point of such a
+[Mencía](mencia.md), [Brancellao](brancellao.md), Espadeiro, and Sousón.[^3] The point of such a
 blend is balance, not a recipe in which each grape always performs one role.
 
 ## Where it is grown
@@ -99,7 +99,7 @@ plantings in western Ourense. Rías Baixas authorizes it for red wine and sets a
 lower maximum crop for Caíño Tinto than for its other red varieties.[^4]
 Ribeiro, farther inland, is a transition zone: Atlantic influence remains, but
 warmer and drier conditions can make late ripening less precarious. The grape
-is also recognized in Ribeira Sacra and Valdeorras, though it is usually a
+is also recognized in [Ribeira Sacra](../regions/ribeira-sacra.md) and Valdeorras, though it is usually a
 minor component beside better-established reds.
 
 Across the Minho, Borraçal belongs to the Vinho Verde denomination. Current

@@ -9,9 +9,10 @@ aliases:
 
 # Touriga Nacional
 
-Touriga Nacional is a dark-skinned Portuguese grape central to both Port and
-dry red wine. It is strongly associated with the Douro, but its older connection
-with Dão and its present distribution across Portugal make it misleading to
+Touriga Nacional is a dark-skinned Portuguese grape central to both [Port](../styles/port.md) and
+dry red wine. It is strongly associated with the [Douro](../regions/douro.md),
+but its older connection
+with [Dão](../regions/dao.md) and its present distribution across Portugal make it misleading to
 treat it as a Douro variety alone. Small berries, relatively thick skins, and
 marked aromatic potential allow it to contribute colour, tannin, and perfume to
 a blend without necessarily providing most of the volume.
@@ -87,7 +88,7 @@ rather than a property of the grape.
 ## Port and dry Portuguese reds
 
 Touriga Nacional is one of the recommended varieties for Port, not a required
-single-variety formula. In the Douro it commonly joins Touriga Franca,
+single-variety formula. In the Douro it commonly joins [Touriga Franca](touriga-franca.md),
 [Tinta Roriz](tempranillo.md), Tinta Barroca, Tinto Cão, and other grapes. Its
 colour, tannin, and aroma are useful in that blend, while other components may
 bring more volume, acidity, or a different ripening pattern. The distinction

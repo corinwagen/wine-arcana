@@ -62,7 +62,8 @@ Once a sparkling-wine bottle is opened, its dissolved carbon dioxide is no
 longer in equilibrium with the surrounding air. Gas escapes during the pour,
 through bubbles, and directly across the wine's exposed surface. Lower
 temperature slows diffusion, raises viscosity, and helps the liquid retain more
-carbon dioxide. In experiments with Champagne served at 4, 12, and 18°C, warmer
+carbon dioxide. In experiments with [Champagne](../regions/champagne.md) served
+at 4, 12, and 18°C, warmer
 wine lost more dissolved gas during pouring.[^3]
 
 Temperature works together with the pour and vessel. Turbulence increases gas

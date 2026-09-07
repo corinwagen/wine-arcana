@@ -101,7 +101,7 @@ whole clusters, extraction, and harvest timing may redirect those tendencies.
 The appellation defines origin and production conditions, not one required set
 of aromas or textures.
 
-The rules require malolactic conversion to be substantially complete by
+The rules require [malolactic conversion](../concepts/malolactic-fermentation.md) to be substantially complete by
 bottling and prohibit oak chips, but they prescribe neither a minimum cask-ageing
 period nor a barrel size. Producers can mature wine in small barriques, larger
 demi-muids or foudres, or relatively neutral vessels, using different shares of

@@ -7,7 +7,7 @@ aliases:
 # Encruzado
 
 Encruzado is a pale-skinned Portuguese grape whose identity is closely bound
-to Dão. It can be blended with other local white varieties, but varietal
+to [Dão](../regions/dao.md). It can be blended with other local white varieties, but varietal
 bottlings have made it an increasingly visible name in its own right. The
 grape's particular interest lies less in an extravagant aroma than in its
 ability to combine weight, acidity, and a firm shape that can remain clear in
@@ -110,7 +110,8 @@ and blending a barrel component with tank wine can retain a fresher outline.
 Encruzado is among the white varieties authorized by the current Dão
 specification, but the rules do not require every white Dão to contain it or
 require varietal bottling.[^4] It continues to work alongside grapes
-such as Bical, Malvasia Fina, and Cerceal Branco. Small cultivation outside Dão
+such as [Bical](bical.md), Malvasia Fina, and Cerceal Branco. Small cultivation
+outside Dão
 does not undo the association: the region remains both its historical reference
 and the place where varietal bottling established its modern reputation.
 
@@ -140,7 +141,6 @@ than one formula.
 
 - [Lees aging](../concepts/lees-aging.md)
 - [Oak maturation](../concepts/oak-maturation.md)
-- [Bical](bical.md)
 
 ## Sources
 

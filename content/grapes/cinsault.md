@@ -33,7 +33,7 @@ northern Rhône is chiefly associated with [Syrah](syrah.md), not this grape.
 The South African Dictionary records Cinsaut as the industry name from 1973,
 while Hermitage remains useful when reading older Cape material.[^2]
 
-In 1925, A. I. Perold crossed Pinot Noir with the vine then known locally as
+In 1925, A. I. Perold crossed [Pinot Noir](pinot-noir.md) with the vine then known locally as
 Hermitage. The resulting variety was named Pinotage; later recognition that
 Hermitage was Cinsaut did not alter that name.[^3] Cinsault therefore belongs to
 South African wine history in two ways: as a long-established cultivated variety
@@ -53,8 +53,8 @@ more useful fruit.[^1]
 The variety needs warmth and is notably resistant to drought and wind, according
 to the Rhône valley's interprofessional body. In this sense it is heat-tolerant:
 it suits Mediterranean summers better than a grape that needs cooler or more
-reliably watered conditions. Water supply, soil depth, crop load, canopy
-management, and harvest date still
+reliably watered conditions. Water supply, soil depth, crop load, [canopy
+management](../concepts/canopy-management.md), and harvest date still
 shape sugar, acidity, and berry condition. Cinsault is also susceptible to grey
 rot, grape moths, mites, and trunk diseases, so a dry-climate reputation does
 not remove the need for site-specific farming.[^1]

@@ -43,16 +43,17 @@ wine is severe or balanced. Extraction and maturation then broaden the range
 from relatively approachable reds to wines that require bottle age. Baga is
 also used for rosé and sparkling wine, not only for long-lived still reds.
 
-The principal traditional white grapes are Fernão Pires—locally called Maria
-Gomes—Bical, Arinto, and Cercial. They are complementary rather than fixed to a
+The principal traditional white grapes are [Fernão Pires](../grapes/fernao-pires.md)—locally called Maria
+Gomes—[Bical](../grapes/bical.md), [Arinto](../grapes/arinto.md), and Cercial.
+They are complementary rather than fixed to a
 single recipe. Fernão Pires is early-ripening and aromatic; Bical also ripens
 early and is widely used in sparkling bases, often with Arinto. Arinto can
 retain marked acidity, while the official varietal description of Cercial
 notes both its high acidity and its aptitude for sparkling base wine. Picking
 date matters: an early-ripening grape can be useful in a damp region, but Bical
 can lose acidity if left too long. Still whites and sparkling blends may also
-draw on permitted grapes such as [Chardonnay](../grapes/chardonnay.md), Pinot
-Blanc, [Sauvignon Blanc](../grapes/sauvignon-blanc.md), and Sercialinho.
+draw on permitted grapes such as [Chardonnay](../grapes/chardonnay.md), [Pinot
+Blanc](../grapes/pinot-blanc.md), [Sauvignon Blanc](../grapes/sauvignon-blanc.md), and Sercialinho.
 
 ## Wine and the sparkling tradition
 

@@ -12,7 +12,7 @@ and acid loss to make the wine broad or hot.
 
 Most Viognier is made as white wine, either alone or with other white grapes.
 It also has a distinctive second role beside [Syrah](syrah.md): a small amount
-of the white fruit may share a red fermentation, most famously in Côte-Rôtie.
+of the white fruit may share a red fermentation, most famously in [Côte-Rôtie](../regions/cote-rotie.md).
 These uses draw on the same aromatic variety but do not make the resulting
 wines taste alike.
 
@@ -68,8 +68,9 @@ also making significant differences.[^4]
 The usual structural tendency is low-to-moderate acidity alongside a capacity
 to accumulate substantial sugar. That can give a dry wine breadth and alcohol,
 but does not guarantee heaviness: a cooler site or earlier harvest may retain a
-firmer line, and yield, fermentation, residual sugar, lees contact, malolactic
-fermentation, and vessel choice all change the result. Oak can add its own aroma
+firmer line, and yield, fermentation, residual sugar, lees contact, [malolactic
+fermentation](../concepts/malolactic-fermentation.md), and vessel choice all
+change the result. Oak can add its own aroma
 and oxygen exposure; neutral vessels make the grape's perfume easier to isolate.
 Unlike relatively neutral [Chardonnay](chardonnay.md), Viognier often remains
 recognisable even when cellar influence is restrained.

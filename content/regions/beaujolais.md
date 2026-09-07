@@ -71,7 +71,8 @@ The legal position is slightly less absolute than the phrase “Gamay region”
 suggests. Current regional rules permit limited accessory varieties in red and
 rosé vineyards, some only as mixed plants within a parcel. The cru rules also
 center Gamay but preserve a narrow allowance for mixed plantings: under
-the current Fleurie specification, for example, Aligoté, Chardonnay, and Melon
+the current Fleurie specification, for example, [Aligoté](../grapes/aligote.md),
+Chardonnay, and [Melon](../grapes/melon-de-bourgogne.md)
 may together occupy no more than 15 percent of a parcel and must be interplanted
 with the principal variety.[^4] In practice, Gamay remains the defining red
 grape, but “100 percent Gamay” should not be treated as a universal legal rule.

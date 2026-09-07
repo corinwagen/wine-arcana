@@ -10,7 +10,7 @@ aliases:
 # Brancellao
 
 Brancellao is a dark-skinned *Vitis vinifera* variety of Galicia and northern
-Portugal. It is closely associated with Ribeira Sacra, where the name
+Portugal. It is closely associated with [Ribeira Sacra](../regions/ribeira-sacra.md), where the name
 Albarello is also used, but it has a wider Galician history extending through
 Ribeiro, Valdeorras, the Atlantic coast, and smaller inland districts. In
 Portugal the same variety is generally known as Alvarelhão.
@@ -30,7 +30,7 @@ name for Brencellao, then widespread in Ribeiro, Amandi, Lemos, Quiroga,
 Valdeorras, and Monterrei. Farther north, around Betanzos, the local name was
 Serradelo. Ampelographic comparison and microsatellite analysis have since
 shown Serradelo, Spanish Brancellao, and Portuguese Alvarelhão to be the same
-variety.[^1] Brancello in Rías Baixas and Brencello in the Baixa Limia are
+variety.[^1] Brancello in [Rías Baixas](../regions/rias-baixas.md) and Brencello in the Baixa Limia are
 further regional forms, not separate cultivars.
 
 The grape was therefore established across Galicia before phylloxera, but its
@@ -84,7 +84,8 @@ and aromatic. More forceful extraction may deepen colour and grip, but pressing
 hard can also introduce coarser or more herbal material. This helps explain
 Brancellao's use in young varietal reds and rosé as well as in blends: it can
 add aroma, acidity, and mid-palate volume, while grapes such as [Caíño
-Tinto](caino-tinto.md) or Sousón alter the blend's acidity, colour, and tannin.
+Tinto](caino-tinto.md) or [Sousón](souson.md) alter the blend's acidity, colour,
+and tannin.
 Some producers mature Brancellao in wood, but vessel, extraction, and fruit
 concentration matter more than the variety name in determining whether the
 wine remains delicate.
@@ -100,7 +101,7 @@ helping growers plant a verified cultivar rather than perpetuate uncertain
 local names.[^4]
 
 Ribeira Sacra is now the grape's most visible setting. It appears both in
-mixed old vineyards and new plantings, usually beside Mencía, Merenzao,
+mixed old vineyards and new plantings, usually beside Mencía, [Merenzao](trousseau.md),
 Sousón, and the Caíño varieties; varietal wines remain less common than blends.
 The recovery is broader than one denomination. As of July 2026, Spain's
 Ministry of Agriculture lists Brancellao among the principal or recommended

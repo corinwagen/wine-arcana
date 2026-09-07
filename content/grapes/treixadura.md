@@ -8,7 +8,7 @@ aliases:
 
 Treixadura is a pale-skinned *Vitis vinifera* variety of Atlantic northwest
 Iberia. The Galician name is Treixadura; in Portugal the same grape is called
-Trajadura. Its principal associations are Ribeiro in Galicia and Vinho Verde
+Trajadura. Its principal associations are Ribeiro in Galicia and [Vinho Verde](../regions/vinho-verde.md)
 in northern Portugal, where it is commonly part of multi-grape white blends
 rather than the sole variety.
 

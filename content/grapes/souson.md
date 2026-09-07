@@ -12,8 +12,9 @@ Sousón is a dark-skinned *Vitis vinifera* variety of northwestern Iberia,
 grown in Galicia under its Spanish name and in northern Portugal principally
 as Vinhão. It combines two properties that do not always travel together in a
 red grape: abundant colour and pronounced acidity. This makes it especially
-useful in the multi-grape reds of Atlantic-influenced Galicia and the Vinho
-Verde region, where it can deepen a blend without sacrificing freshness.
+useful in the multi-grape reds of Atlantic-influenced Galicia and the [Vinho
+Verde](../regions/vinho-verde.md) region, where it can deepen a blend without
+sacrificing freshness.
 
 Its colour is more than a visual curiosity. Sousón can give a relatively pale,
 fragrant partner such as [Brancellao](brancellao.md) a darker frame, or add
@@ -33,7 +34,7 @@ Viñón.
 Portuguese terminology needs more care. Current Vinho Verde rules list Vinhão
 under code PRT51902 and recognize Sousão as its synonym, while listing Sezão
 separately under PRT51901.[^2] The spelling Souzão is also widespread,
-particularly outside Portugal and in writing about the Douro. A familiar name
+particularly outside Portugal and in writing about the [Douro](../regions/douro.md). A familiar name
 on its own is consequently weaker evidence of identity than a genetic record
 or a modern official variety code.
 
@@ -90,8 +91,9 @@ no fixed descriptor set follows from the grape name.
 
 Winemaking determines how much of the available pigment and tannin appears in
 the wine. Longer or more active skin contact generally extracts more, while
-gentler handling can preserve colour without maximizing grip. Malolactic
-fermentation softens the sharper malic component of acidity, and maturation
+gentler handling can preserve colour without maximizing grip. [Malolactic
+fermentation](../concepts/malolactic-fermentation.md) softens the sharper malic
+component of acidity, and maturation
 changes both tannin and pigment. Deep colour is therefore a capacity of the
 fruit, not proof that every Sousón wine was heavily extracted or will retain
 the same purple hue with age.
@@ -114,7 +116,7 @@ function, not a biological limitation or a lower tier of wine.
 
 Its legal geography reflects this cross-border role. As of July 2026, Spain's
 agriculture ministry listed Sousón as a principal variety in all five Galician
-protected denominations of origin: Monterrei, Rías Baixas, Ribeira Sacra,
+protected denominations of origin: Monterrei, [Rías Baixas](../regions/rias-baixas.md), [Ribeira Sacra](../regions/ribeira-sacra.md),
 Ribeiro, and Valdeorras.[^4] Portugal's consolidated Vinho Verde rules
 authorize Vinhão throughout the denomination and in each of its nine named
 subregions. Authorization indicates where the grape may be used; it does not

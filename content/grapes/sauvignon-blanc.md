@@ -17,7 +17,7 @@ alter their balance.
 
 The variety's exact origin is unresolved. France's Plantgrape catalogue gives
 central France and southwestern France as the two possibilities and describes
-Sauvignon as closely related to Savagnin. The relationship leaves both the
+Sauvignon as closely related to [Savagnin](savagnin.md). The relationship leaves both the
 parent-offspring direction and precise birthplace unresolved.
 Microsatellite analysis has established Sauvignon Blanc and [Cabernet
 Franc](cabernet-franc.md) as the parents of [Cabernet
@@ -64,7 +64,7 @@ hot, sunny vineyards may need afternoon shade.
 
 In the central Loire, Sauvignon Blanc is often made as an unblended, dry wine.
 [Sancerre](../regions/sancerre.md)'s specification makes the distinction
-explicit: its white wine must come solely from Sauvignon, while Pinot Noir is
+explicit: its white wine must come solely from Sauvignon, while [Pinot Noir](pinot-noir.md) is
 reserved for its red and rosé wines.[^4] Pouilly-Fumé, Menetou-Salon, Quincy,
 Reuilly, and Touraine provide other reference points. Moderated temperatures
 and harvest decisions can support firm acidity and restrained fruit. Tank

@@ -24,7 +24,7 @@ drought can still reduce fruit quality and shift the wine's balance.
 Arinto's precise origin is unproved. The Instituto da Vinha e do Vinho (IVV)
 describes Bucelas as its presumed birthplace, while a Portuguese varietal
 reference records the name in 1721 and an eighteenth-century description of
-small, acidic berries. By 1790, writers placed the grape in the Beiras, Douro,
+small, acidic berries. By 1790, writers placed the grape in the Beiras, [Douro](../regions/douro.md),
 Estremadura, and Minho; in Minho it was already called Pedernã.[^1] Those
 records demonstrate an early, wide distribution rather than proving where the
 original seedling arose.
@@ -103,7 +103,8 @@ wine, with Sercial and Rabo de Ovelha also admitted. That legal minimum explains
 the association but applies only to wines using the protected designation.
 
 Elsewhere the grape has a different role. Under the name Pedernã it is
-established in Vinho Verde; it is also important in Lisboa, Tejo, Bairrada, and
+established in [Vinho Verde](../regions/vinho-verde.md); it is also important in
+Lisboa, Tejo, Bairrada, and
 the Setúbal Peninsula. Farther south, the IVV lists it among Alentejo's
 principal white grapes. There its acid retention makes it a useful counterweight
 in both varietal wines and blends, although irrigation, shade, altitude, and

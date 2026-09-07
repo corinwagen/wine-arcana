@@ -7,7 +7,7 @@ aliases:
 # Bical
 
 Bical is a pale-skinned Portuguese grape associated chiefly with
-[Bairrada](../regions/bairrada.md) and Dão in the country's central Beiras.
+[Bairrada](../regions/bairrada.md) and [Dão](../regions/dao.md) in the country's central Beiras.
 It is used for still white wine, alone or in blends, and is also an established
 component of Bairrada sparkling wine. In Dão it is particularly associated with
 the name *Borrado das Moscas*, a reference to the small dark speckles that can
@@ -43,7 +43,7 @@ the later autumn rain that can complicate viticulture in Atlantic-influenced
 Bairrada. That advantage is conditional: the national varietal record describes
 production as medium to high but irregular, with marked susceptibility to poor
 fruit set, downy mildew, and powdery mildew, and moderate susceptibility to
-grey rot. Canopy management and disease control remain important even when the
+grey rot. [Canopy management](../concepts/canopy-management.md) and disease control remain important even when the
 crop reaches maturity early.
 
 Its must can combine substantial potential alcohol with moderate total acidity.
@@ -59,11 +59,11 @@ can become too low in acidity for the intended style.
 ## Still wine character
 
 Bical still wines can be varietal, but blending is integral to its regional
-role. In Bairrada it commonly appears alongside varieties such as Arinto,
-Cercial, and Fernão Pires, locally called Maria Gomes. Arinto can reinforce an
+role. In Bairrada it commonly appears alongside varieties such as [Arinto](arinto.md),
+Cercial, and [Fernão Pires](fernao-pires.md), locally called Maria Gomes. Arinto can reinforce an
 acid line when riper Bical supplies more breadth; the result is a complement,
 not a compulsory formula. In Dão, Bical joins a different white-grape context
-that includes Encruzado, Malvasia Fina, and Cerceal Branco.
+that includes [Encruzado](encruzado.md), Malvasia Fina, and Cerceal Branco.
 
 When fruit is sound and picked with enough acidity, the wine can combine a
 rounded texture with restrained stone-fruit character. Riper seasons or later

@@ -5,7 +5,7 @@ title: Valpolicella
 # Valpolicella
 
 Valpolicella is a red-wine region in Veneto, in the hills north and east of
-Verona. Its name is widely associated with Amarone, yet Amarone is only one
+Verona. Its name is widely associated with [Amarone](../styles/amarone-della-valpolicella.md), yet Amarone is only one
 expression of the place. The same area and broadly the same family of grapes
 also produce fresh Valpolicella, refermented Valpolicella Ripasso, sweet
 Recioto della Valpolicella, and dry Amarone della Valpolicella.

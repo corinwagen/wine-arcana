@@ -24,7 +24,7 @@ produce a broader, more alcoholic wine with less freshness.
 Fernão Pires's precise birthplace has not been established. The Instituto da
 Vinha e do Vinho (IVV) describes Bairrada as its presumed origin, but a
 maintained Portuguese varietal record finds the grape already documented in
-1788 across the Douro, the Beiras, and Estremadura.[^1] That wide early record
+1788 across the [Douro](../regions/douro.md), the Beiras, and Estremadura.[^1] That wide early record
 shows that Fernão Pires was well dispersed by the late eighteenth century; it
 does not locate the original seedling.
 

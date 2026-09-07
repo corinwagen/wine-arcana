@@ -32,8 +32,9 @@ or a known historical namesake.
 Spelling is consequential here. **Pedro Giménez**, the Argentine white criolla
 variety, is not Pedro Ximénez. A microsatellite study found the two to be
 different cultivars and found no genetic relationship between them in the
-markers examined; it instead supported Pedro Giménez as offspring of Muscat of
-Alexandria and Criolla Chica.[^2] A label or planting record therefore needs
+markers examined; it instead supported Pedro Giménez as offspring of [Muscat of
+Alexandria](moscatel-de-alejandria.md) and Criolla Chica.[^2] A label or
+planting record therefore needs
 its place and genetic identity, not just a near-identical name.
 
 On a label, Pedro Ximénez may name a naturally sweet fortified wine under a
@@ -46,7 +47,7 @@ Fino style. The legal category and production method explain the finished wine.
 In the traditional *asoleo* process, growers lay sound harvested bunches in
 the sun. Water evaporates while sugar, acid, skin material, and other dissolved
 components become more concentrated. This is drying, or raisining, rather than
-the concentration caused by *Botrytis cinerea* in a botrytized sweet wine. Its
+the concentration caused by *Botrytis cinerea* in a [botrytized sweet wine](../styles/botrytized-sweet-wine.md). Its
 practical success depends on ripe, healthy fruit and dry enough weather to
 avoid damaging the berries before pressing.
 

@@ -7,7 +7,7 @@ aliases:
 # Loureiro
 
 Loureiro is a pale-skinned *Vitis vinifera* variety of Atlantic northwest
-Iberia, best known in Portugal's Vinho Verde region and especially in the Lima
+Iberia, best known in Portugal's [Vinho Verde](../regions/vinho-verde.md) region and especially in the Lima
 subregion. Across the border in Galicia it is called Loureira; the two names
 refer to the same cultivar. The grape combines pronounced floral and citrus
 aromatic potential with firm acidity, qualities that have long made it useful
@@ -33,7 +33,7 @@ with Lima; they do not establish a precise birthplace.
 The name means “laurel” or “bay” in Portuguese. It is commonly explained by a
 resemblance between the wine's scent and laurel flowers, though an evocative
 name is not chemical proof of one exact aroma. Loureira is the established
-Spanish name and appears in Galician wines, including blends in Rías Baixas.
+Spanish name and appears in Galician wines, including blends in [Rías Baixas](../regions/rias-baixas.md).
 Portugal remains the variety's principal centre of cultivation.
 
 ## Viticulture and acidity
@@ -101,7 +101,7 @@ Lima follows the river from the Atlantic-facing west toward higher inland
 ground. The denomination's specification describes intermediate temperature
 ranges, strong ocean exposure and high rainfall; within that broad setting,
 elevation, distance from the coast and local shelter create meaningful
-variation. It identifies Loureiro, [Arinto](arinto.md) and Trajadura as grapes
+variation. It identifies Loureiro, [Arinto](arinto.md) and [Trajadura](treixadura.md) as grapes
 favoured by these mild, maritime conditions. Loureiro's perfume and acidity
 made it a natural blending component, with Arinto often reinforcing structure
 and Trajadura contributing an earlier-ripening, softer element.

@@ -71,7 +71,7 @@ also uses Marsanne for both still and sparkling white wines.[^1]
 This role is not just a matter of regional branding. Marsanne's ripeness and
 weight suit the Rhône's sunny, rocky slopes, while its aromatic and structural
 development give white wines a style distinct from the region's more perfumed
-Viognier. The appellation name still matters: a varietal wine from outside a
+[Viognier](viognier.md). The appellation name still matters: a varietal wine from outside a
 Rhône cru may share the grape's broad tendencies without reproducing the same
 site, climate, or cellar tradition.
 
@@ -109,8 +109,6 @@ softness, protecting acidity, or choosing a restrained vessel are different
 ways of pursuing that balance.
 
 ## Related topics
-
-- [Viognier](viognier.md)
 
 [^1]: Inter Rhône, “Marsanne,” grape-variety profile. The source describes
     Marsanne as mid-ripening, vigorous on fertile soils, suited to warm rocky

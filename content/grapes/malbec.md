@@ -34,7 +34,8 @@ evidence establishes.[^1]
 Its many names reflect movement within France. Cot is the French catalogue
 name, while Côt is also widely written; Auxerrois is traditional in Cahors and
 Pressac in parts of Bordeaux. The Cahors name should not be confused with the
-unrelated white variety also called Auxerrois. Malbec became the internationally
+unrelated white variety also called [Auxerrois](auxerrois-blanc.md). Malbec
+became the internationally
 dominant name, but accounts that derive it from a particular grower or
 introducer in Bordeaux remain historical tradition rather than a secure
 etymology.

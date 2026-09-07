@@ -80,7 +80,7 @@ to blend with Negramoll, Tintilla, Malvasía Rosada, or other grapes all alter
 the result.
 
 The cellar can make that variation more visible. Shorter skin contact or
-carbonic maceration tends to favour a more immediate, supple style; longer
+[carbonic maceration](../concepts/carbonic-maceration.md) tends to favour a more immediate, supple style; longer
 extraction, whole bunches, or wood maturation can add grip, aromatic complexity,
 and a different frame. A study of Canary single-variety red wines found that
 vintage and ageing affected phenolic composition substantially, a useful

@@ -114,7 +114,8 @@ wood or excessive lees work can obscure rather than reveal the fruit.
 
 ## Where it is grown
 
-Within Galicia, Godello is also important in Monterrei and Ribeira Sacra and is
+Within Galicia, Godello is also important in Monterrei and [Ribeira
+Sacra](../regions/ribeira-sacra.md) and is
 grown in Ribeiro, often alongside other local white grapes. Portuguese Gouveio
 has its own regional history and labeling traditions. These are the same
 variety, but climate, site, blending, and cellar practice make the regional

@@ -113,7 +113,8 @@ Those conditions give time a different role. Autolysis can affect texture,
 aroma precursors, foam, and the way carbon dioxide is perceived, while the base
 wine also ages in a relatively protected bottle. The two processes should not
 be collapsed into a claim that all mature sparkling aroma comes from yeast. A
-controlled 24-month study of Chardonnay and Pinot Noir found that age and base
+controlled 24-month study of [Chardonnay](../grapes/chardonnay.md) and [Pinot
+Noir](../grapes/pinot-noir.md) found that age and base
 wine composition explained much of the aroma development, with some wines
 aged without lees developing similarly to their sparkling counterparts.[^2]
 Longer bottle aging can permit further autolysis, but grape, base-wine
@@ -122,7 +123,6 @@ production, yeast, temperature, closure, and oxygen remain consequential.
 ## Related topics
 
 - [Traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md)
-- [Chardonnay](../grapes/chardonnay.md)
 - [Malolactic fermentation](malolactic-fermentation.md)
 
 [^1]: Volker Schneider, Jonas Müller & Dominik Schmidt, “Oxygen Consumption by

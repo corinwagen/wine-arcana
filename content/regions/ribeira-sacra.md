@@ -86,7 +86,7 @@ regardless of subzone. Ribeira Sacra should consequently not be reduced to one
 light, aromatic Mencía style.
 
 The principal red list also includes [Brancellao](../grapes/brancellao.md),
-Merenzao, [Sousón](../grapes/souson.md),
+[Merenzao](../grapes/trousseau.md), [Sousón](../grapes/souson.md),
 [Caíño Tinto](../grapes/caino-tinto.md), Caíño Longo, and Caíño Bravo. These
 grapes can appear in blends or occasional varietal wines,
 altering colour, acidity, tannin, aroma, and ripening balance. The designation
@@ -94,7 +94,8 @@ thus gives Mencía legal priority without erasing the local diversity around it.
 
 Godello is the most prominent white grape, joined by
 [Treixadura](../grapes/treixadura.md), [Albariño](../grapes/albarino.md),
-Loureira, Dona Branca, Torrontés, Branco Lexítimo, and Caíño Blanco. Whites and
+[Loureira](../grapes/loureiro.md), Dona Branca, Torrontés, Branco Lexítimo, and
+Caíño Blanco. Whites and
 rosés remain a minority beside red wine, but they arise from the same site
 contrasts. Harvest timing, skin contact, lees, and vessel choice can matter as
 much as rock type. Wines may be made for early release or matured in wood,

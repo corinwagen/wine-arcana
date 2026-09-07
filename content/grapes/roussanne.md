@@ -82,7 +82,7 @@ weight and Roussanne's perfume, texture, and freshness.
 Farther south, Roussanne is one member of a larger white-grape vocabulary. The
 current Côtes du Rhône description lists it among the principal white varieties
 alongside [Bourboulenc](bourboulenc.md), [Clairette](clairette-blanche.md), Grenache Blanc,
-Marsanne, and Viognier, with
+Marsanne, and [Viognier](viognier.md), with
 blending used to combine aroma and freshness.[^5] In the warmer southern
 climate, that role is practical: Roussanne can bring fragrance and structure to
 blends whose other components supply different kinds of fruit, acidity, or
@@ -129,10 +129,6 @@ the disease or oxidation problems that make the variety demanding.
     accessed 7 September 2026.
 [^6]: Inter Rhône, [“Côtes du Rhône Cru AOC Châteauneuf-du-Pape”](https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-chateauneuf-du-pape),
     accessed 7 September 2026.
-
-## Related topics
-
-- [Viognier](viognier.md)
 
 ## Sources
 

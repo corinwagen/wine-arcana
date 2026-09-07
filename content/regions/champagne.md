@@ -41,7 +41,7 @@ Four broad names provide a useful first map: Montagne de Reims, Vallée de la
 Marne, Côte des Blancs, and Côte des Bar. They are not separate appellations or
 uniform style zones. The Montagne de Reims is strongly associated with [Pinot
 Noir](../grapes/pinot-noir.md), yet its north- and south-facing slopes ripen
-differently, and Chardonnay and Meunier also have important sites. The long
+differently, and Chardonnay and [Meunier](../grapes/pinot-meunier.md) also have important sites. The long
 Vallée de la Marne contains more clay-rich as well as chalky and sandy ground;
 Meunier is particularly important toward the west, while Pinot Noir is more
 prominent in parts nearer Épernay.
@@ -61,7 +61,8 @@ contact. Meunier buds later than the other two, which can reduce exposure to
 spring frost, and is well established in cooler or more clay-influenced sites.
 These are complementary possibilities rather than fixed blending roles, and
 each grape can also be bottled alone. Current rules additionally name Arbane,
-Petit Meslier, Pinot Blanc, Pinot Gris, and Chardonnay Rose; Voltis has tightly
+Petit Meslier, [Pinot Blanc](../grapes/pinot-blanc.md), [Pinot Gris](../grapes/pinot-gris.md), and
+Chardonnay Rose; Voltis has tightly
 limited status as a variety of interest for climate adaptation.[^1]
 
 ## Production, reserve wines, and blending
@@ -71,7 +72,7 @@ pressing limits colour and coarse extraction, allowing pale base wines to be
 made from dark-skinned Pinot Noir and Meunier as well as Chardonnay. Juice
 fractions are separated, and producers may then keep parcels, villages, grapes,
 and press fractions apart. Fermentation in steel or wood, the use or avoidance
-of malolactic fermentation, and oxygen management give the blender base wines
+of [malolactic fermentation](../concepts/malolactic-fermentation.md), and oxygen management give the blender base wines
 with different properties.
 
 Blending may cross grapes and origins, but it need not: Champagne can come from

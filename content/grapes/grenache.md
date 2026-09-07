@@ -90,7 +90,7 @@ and structural choice, not an automatic route to greater freshness or depth.
 
 ## Where it is grown
 
-In Spain, Garnacha is established across Aragón, Catalonia, Navarra, and Rioja,
+In Spain, Garnacha is established across Aragón, Catalonia, Navarra, and [Rioja](../regions/rioja.md),
 among other regions. It may appear alone, in blends, or as rosado. Differences
 within this broad area matter: hot lowland fruit and grapes from windier,
 higher, or later-ripening sites do not reach the cellar with the same balance,

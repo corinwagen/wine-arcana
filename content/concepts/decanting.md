@@ -58,7 +58,7 @@ Some early changes are physical. Volatile compounds escape into the headspace
 and surrounding air. Losing hydrogen sulfide can remove an unwanted sulfurous
 smell; losing carbon dioxide can change prickle and the perception of texture.
 Desirable aroma compounds can leave by the same route. A controlled study of a
-model wine and one Chenin Blanc found that swirling reduced free hydrogen
+model wine and one [Chenin Blanc](../grapes/chenin-blanc.md) found that swirling reduced free hydrogen
 sulfide mainly through volatilization, even without oxygen, and changed aroma
 perception. Its specific wine, added hydrogen sulfide, and short test conditions
 limit wider conclusions.[^4] In another experiment, several esters and terpenes

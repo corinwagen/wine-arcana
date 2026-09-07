@@ -24,7 +24,7 @@ fortified wine.
 Most dry Sherry begins with a fairly neutral white base wine from Palomino,
 although the rules authorize several white varieties. The must ferments dry,
 and the base wine's acidity, alcohol, pressing fraction, and clarity influence
-how it will age. Pedro Ximénez and Moscatel de Alejandría are more
+how it will age. [Pedro Ximénez](../grapes/pedro-ximenez.md) and [Moscatel de Alejandría](../grapes/moscatel-de-alejandria.md) are more
 closely associated with the sweet styles. Grape and vineyard conditions matter,
 but cellar decisions transform the base wine so extensively that Sherry is
 best understood through its ageing path as well as its origin in

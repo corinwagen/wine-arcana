@@ -53,7 +53,7 @@ grape or a guaranteed style: clonal material can differ in crop, bunch
 compactness, berry size, ripening, and phenolic potential, and its performance
 still depends on site and season.[^2]
 
-Genetic work indicates that Pinot Blanc and [Pinot Gris](pinot-gris.md) arose
+Genetic work indicates that [Pinot Blanc](pinot-blanc.md) and [Pinot Gris](pinot-gris.md) arose
 independently from Pinot Noir through different mutations affecting berry
 colour. Pinot Blanc and Pinot Gris are distinct cultivated forms, while
 Spätburgunder, Blauburgunder, and Pinot Nero are regional names for Pinot Noir
