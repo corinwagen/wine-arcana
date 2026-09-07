@@ -179,11 +179,14 @@ End with `## Related topics` when there are a few genuinely useful existing
 articles to link, followed by `## Sources`. Do not add a related topic merely
 to make the list longer.
 
-Default to roughly 700–1,200 words. This is a soft depth budget, not a target or
-hard limit: a genuinely complex subject may need more, and a focused subject
-may need less. Prefer omitting secondary examples, marginal history, and
-fine-grained mechanism to making an article exhaustive. Stop when the central
-explanatory work is done.
+Let the subject and available evidence determine the length. Roughly 700–1,200
+words is a useful soft budget for a well-documented subject, not a target or
+minimum. A niche grape may need only a few concise paragraphs. Do not expand
+it with generic winemaking advice, repeated caveats, or accounts of missing
+research to match the length of a better-documented variety. Keep any necessary
+uncertainty brief and specific. A complex subject may need more space; omit
+secondary examples, marginal history, and fine-grained mechanism before making
+an article exhaustive. Stop when the central explanatory work is done.
 
 ## Mechanics
 

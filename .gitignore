@@ -8,3 +8,6 @@
 /public/
 /.rumdl_cache/
 /.codex-runs/
+
+# Local experiment reports; retain durable guidance in the editorial guides.
+/docs/model-routing-experiment.md

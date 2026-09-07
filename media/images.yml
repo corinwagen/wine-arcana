@@ -196,3 +196,65 @@ images:
     width: 789
     height: 1173
     sha256: 355958f5ec8f3e2c45531d14cd18ec2fd2e61076ae0f9e5a439e0481464971e8
+
+  - path: media/images/grapes/counoise-ampelography.jpg
+    title: Counoise
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Counoise.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Counoise.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 789
+    height: 1173
+    sha256: 24199dab31b742f2c2f9d037515aa3094a0025bc8b976bd9b8b7f472b2f27ed4
+  - path: media/images/grapes/marsanne-ampelography.jpg
+    title: Marsanne
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Marsanne_viala_et_vermorel.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/3/3d/Marsanne_viala_et_vermorel.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 789
+    height: 1173
+    sha256: 2509d15f499e0a2a01e520b926286fa2dc20f3ea8845293dd6d5bbeacef57c4c
+  - path: media/images/grapes/picpoul-blanc-ampelography.jpg
+    title: Piquepoul blanc
+    creator: Jules Troncy; reproduction uploaded by JPS68 and updated by Evynrhud
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Picpoul.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/e/e1/Picpoul.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 789
+    height: 1173
+    sha256: 5297dce0ac0ad47a687ea1b7d1fb251ec4706dee7f10ee7ef06c4c1519014fb2
+  - path: media/images/grapes/vermentino-pomona-italiana.jpg
+    title: Uva Vermentino
+    creator: Giorgio Gallesio (source attribution)
+    creator_url: https://commons.wikimedia.org/wiki/Category:Giorgio_Gallesio
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Uva_Vermentino_-_Giorgio_Gallesio.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/6/64/Uva_Vermentino_-_Giorgio_Gallesio.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 546
+    height: 760
+    sha256: 9d4c8568e1d274af98d01da32acc67998ae440fbbdb60bb4681fcfaa90b516a5
+  - path: media/images/grapes/roussanne-leaves.jpg
+    title: Roussanne leaves
+    creator: Véronique PAGNIER
+    creator_url: https://commons.wikimedia.org/wiki/User:V%C3%A9ronique_PAGNIER
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Roussane_-_Feuilles.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/e/e7/Roussane_-_Feuilles.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 1600
+    height: 1200
+    sha256: 313ee02d6e5353b221bf249f784dc231bab2d58f3d6a5950940962695bb40f08
+    changes: Resized to 1,600 pixels on the long edge and recompressed as JPEG.
