@@ -18,8 +18,9 @@ uses.
 [Oxidation](oxidation.md) and reduction are paired reactions: when one
 substance loses electrons, another gains them. A wine can therefore contain
 many redox reactions at once. A low oxygen supply often leaves the wine in a
-more reducing state. Wine's colour, phenolics, sulfur dioxide, metals, yeast,
-headspace, and dissolved oxygen interact over time. An electrode measures a
+more reducing state. Wine's colour, phenolics, [sulfur dioxide](sulfur-dioxide.md),
+metals, yeast, headspace, and dissolved oxygen interact over time. An electrode
+measures a
 mixed oxidation–reduction potential that reflects interactions among multiple
 redox couples.[^1]
 

@@ -87,8 +87,9 @@ pH is a central link between acidity and stability. More acidic conditions
 tend to constrain wine microorganisms, while higher pH can make growth by
 spoilage yeasts and bacteria easier.[^3]
 
-pH also affects sulfur dioxide (SO₂). Its molecular form is especially
-important for antimicrobial effectiveness. As pH rises, a smaller fraction of
+pH also affects [sulfur dioxide](sulfur-dioxide.md) (SO₂). Its molecular form is
+especially important for antimicrobial effectiveness. As pH rises, a smaller
+fraction of
 free SO₂ is molecular, so the same free-SO₂ concentration gives less
 antimicrobial protection at a higher pH.[^3]
 

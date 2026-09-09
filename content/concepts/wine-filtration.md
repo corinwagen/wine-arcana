@@ -37,7 +37,8 @@ for sterile filtration in Australian wineries.[^1] The final filter works as
 part of the bottling operation. Clean downstream equipment and prompt packaging
 protect the filtered wine from renewed contamination.
 
-Residual sugar gives surviving yeast a substrate for renewed fermentation.
+[Residual sugar](residual-sugar.md) gives surviving yeast a substrate for renewed
+fermentation.
 Removing yeast before bottling is therefore especially useful for sweet wines.
 The wine's composition and cellar history guide the decision about microbial
 filtration.

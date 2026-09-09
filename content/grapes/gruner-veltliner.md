@@ -90,8 +90,9 @@ imposing obvious oak aroma.
 
 The Weinviertel contains the largest plantings and provides many of the light,
 dry, pepper-accented wines associated with everyday Austrian Grüner Veltliner.
-Kamptal, Kremstal, Traisental, Wagram, and Wachau extend the range through
-village and vineyard wines, while Burgenland and Vienna add smaller but
+Kamptal, Kremstal, Traisental, Wagram, and [Wachau](../regions/wachau.md) extend
+the range through village and vineyard wines, while Burgenland and Vienna add
+smaller but
 significant plantings. Outside Austria, the variety has an established Central
 European presence, especially in the Czech Republic, Slovakia, and Hungary,
 under local forms of the Veltliner name.

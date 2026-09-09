@@ -49,8 +49,8 @@ interactions with tannin. This may make texture seem fuller or less
 astringent, especially in a white wine with little phenolic weight of its own.
 Some mannoprotein fractions can also inhibit potassium bitartrate
 crystallization or reduce the tendency of white wine proteins to form haze.
-Lees aging may therefore assist tartrate or protein stability. Testing
-determines whether cold treatment, [fining](wine-fining.md), or
+Lees aging may therefore assist [tartrate stability](tartrate-stabilization.md)
+or protein stability. Testing determines whether cold treatment, [fining](wine-fining.md), or
 [filtration](wine-filtration.md) is also needed.
 
 Lees can adsorb some volatile compounds and later release others; autolysis

@@ -8,8 +8,8 @@ aliases:
 
 Oxidation is a group of chemical and biological changes that can follow wine's
 contact with oxygen. The same dose can help one wine mature and flatten
-another. Wine composition, temperature, pH, metals, phenolics, sulfur dioxide,
-microbes, vessel and headspace all affect what happens next.
+another. Wine composition, temperature, pH, metals, phenolics,
+[sulfur dioxide](sulfur-dioxide.md), microbes, vessel and headspace all affect what happens next.
 
 ## Oxygen and the reaction
 
@@ -76,7 +76,7 @@ to alter colour, texture, and aroma. The aim is a controlled path through a
 particular wine's phenolics and redox chemistry. A faulty oxidative path is
 different in degree and consequence: aroma becomes dull or aldehydic, colour
 moves beyond the intended style, or acetic-acid bacteria and other microbes
-produce [volatile acidity](acidity.md).[^6]
+produce [volatile acidity](volatile-acidity.md).[^6]
 
 [Reduction](reduction.md) describes a different redox environment, usually
 associated with limited oxygen and the accumulation or preservation of reduced

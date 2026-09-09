@@ -11,8 +11,9 @@ aliases:
 # Sangiovese
 
 Sangiovese is a dark-skinned *Vitis vinifera* variety central to the red wines
-of Tuscany and much of central Italy. Chianti, Brunello di Montalcino, Vino
-Nobile di Montepulciano, and Morellino di Scansano each situate the grape in a
+of Tuscany and much of central Italy. Chianti,
+[Brunello di Montalcino](../regions/brunello-di-montalcino.md), Vino Nobile di
+Montepulciano, and Morellino di Scansano each situate the grape in a
 distinct geography, blending tradition, and regulatory frame.
 
 The variety commonly retains conspicuous acidity alongside tannin even when
@@ -89,8 +90,9 @@ Sangiovese remains the majority.
 
 ## Tuscany's principal traditions
 
-Chianti and Chianti Classico are separate denominations with different zones and
-rules. Chianti permits 60–100% Sangiovese, limited white grapes, named subzones,
+Chianti and [Chianti Classico](../regions/chianti-classico.md) are separate
+denominations with different zones and rules. Chianti permits 60–100%
+Sangiovese, limited white grapes, named subzones,
 and the traditional *governo all'uso Toscano*, a slow refermentation with
 slightly dried grapes. Chianti Classico covers the older central zone and
 requires 80–100% Sangiovese with red complementary grapes only.[^4]
