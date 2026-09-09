@@ -8,17 +8,14 @@ aliases:
 # Malolactic fermentation
 
 Malolactic fermentation is a bacterial conversion in which malic acid becomes
-lactic acid and carbon dioxide. It commonly follows alcoholic fermentation,
+lactic acid and carbon dioxide. It commonly follows [alcoholic fermentation](alcoholic-fermentation.md),
 although the two processes can overlap. By changing one of wine's principal
 acids, it can reduce acidity, alter aroma and texture, and remove a substance
 that might otherwise support microbial activity later.
 
-The name is slightly misleading: this is not a second yeast fermentation of
-sugar. It is primarily the decarboxylation of L-malic acid by lactic acid
-bacteria, most often *Oenococcus oeni*. Producers may nevertheless call it MLF
-or, more precisely, malolactic conversion. Its effects depend on the wine,
-bacterial strain, timing, and subsequent handling; it is not a recipe for one
-flavour or style.
+The conversion is usually carried out by *Oenococcus oeni*. Producers also
+call it MLF or malolactic conversion. Its effects depend on the wine,
+bacterial strain, timing, and subsequent handling.
 
 ## How the conversion works
 
@@ -26,17 +23,14 @@ Malic acid has two carboxyl groups, while lactic acid has one. Lactic acid
 bacteria remove one group from each molecule of malic acid as carbon dioxide,
 leaving lactic acid. This reduces titratable acidity and generally raises pH,
 although the size of the change depends on the starting malic-acid content and
-the wine's buffering capacity. Tartaric acid is not consumed by this reaction,
-so malolactic fermentation changes the acid profile rather than simply making
-acidity disappear.[^1]
+the wine's buffering capacity. This conversion leaves tartaric acid unchanged.[^1]
 
 *Oenococcus oeni* is especially important because it can function despite
-wine's low pH, alcohol, limited nutrients, and sulfur dioxide. Other lactic acid
-bacteria can also carry out the conversion, and their effects are not
-interchangeable. A population already present on grapes or in the winery may
-begin spontaneously, but onset and completion can be unpredictable. Inoculating
-with a selected culture gives the producer more control over strain and timing;
-it does not make every outcome identical.
+wine's low pH, alcohol, limited nutrients, and sulfur dioxide. Other lactic
+acid bacteria can also carry out the conversion, with effects that vary by
+strain. A population already present on grapes or in the winery may begin
+spontaneously, but onset and completion can be unpredictable. Inoculating with
+a selected culture gives the producer more control over strain and timing.
 
 The bacteria may be introduced during alcoholic fermentation, a practice
 called co-inoculation, or after yeast has consumed the grape sugars. Early
@@ -45,35 +39,29 @@ and exposes the bacteria to less alcohol. Sequential inoculation separates the
 two stages and reduces the chance that bacteria will metabolise sugar, but the
 finished alcoholic wine may be a harsher environment. Yeast strain, pH,
 temperature, alcohol, nutrients, and sulfur dioxide can promote or inhibit the
-bacteria in combination, so timing is a biological decision rather than a
-calendar rule.
+bacteria in combination and guide the timing.
 
 ## Acidity, aroma, and texture
 
-The most direct sensory effect is a different impression of acidity. Converting
-malic acid to lactic acid usually makes a wine seem less sharp and can change
-how its tannin, alcohol, and fruit are perceived. This is often described as a
-rounder texture. It does not follow that bacteria have added creaminess or
-body as measurable substances: lower acidity changes the balance, while other
-bacterial metabolism, yeast-lees contact, oak, and the wine's original
-composition may contribute separate textural effects.
+The most direct sensory effect is a different impression of acidity.
+Converting malic acid to lactic acid usually makes a wine seem less sharp and
+can change how its tannin, alcohol, and fruit are perceived. This is often
+described as a rounder texture. Other bacterial metabolism, yeast-lees
+contact, oak, and the wine's original composition may contribute separate
+textural effects.
 
-Butter is an equally incomplete shorthand. The buttery-smelling compound
-diacetyl can accumulate while lactic acid bacteria metabolise citric acid; it
-is not the product of converting malic acid itself. Its concentration and
-perception vary with bacterial strain, oxygen and redox conditions, timing,
-sulfur dioxide, contact with active yeast or bacteria, and the surrounding wine.
-Yeast and bacteria can reduce it to less aromatic compounds, and continued
-bacterial activity after malic acid is exhausted can change it further.[^2]
-Malolactic fermentation can therefore be conspicuously buttery, subtly modify
-aroma, or show little obvious diacetyl character.
+The buttery-smelling compound diacetyl can accumulate while lactic acid
+bacteria metabolise citric acid. Its concentration and perception vary with
+bacterial strain, oxygen and redox conditions, timing, sulfur dioxide, contact
+with active yeast or bacteria, and the surrounding wine. Yeast and bacteria
+can reduce it to less aromatic compounds, and continued bacterial activity
+after malic acid is exhausted can change it further.[^2] Malolactic
+fermentation can therefore be conspicuously buttery, subtly modify aroma, or
+show little obvious diacetyl character.
 
 Bacterial enzymes and metabolites can also change esters, grape-derived aroma
 precursors, acetaldehyde, and other compounds. These changes may preserve,
-redirect, or mute fruit expression depending on strain and wine matrix. The
-result cannot be predicted from the word “malolactic” alone, just as butter,
-toast, and broad texture in [Chardonnay](../grapes/chardonnay.md) cannot all be
-assigned to the same cellar process.
+redirect, or mute fruit expression depending on strain and wine matrix.
 
 ## Stability and risk
 
@@ -86,42 +74,41 @@ also used for some white wines and
 [traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md)
 base wines.
 
-Completion does not sterilise the wine. A slow or uncontrolled bacterial
-population may form excessive volatile acidity, biogenic amines, or other
-unwanted compounds, and the accompanying rise in pH can make some wines more
-permissive to later microbial growth. Selected cultures can reduce uncertainty
-but cannot replace sound monitoring and hygiene. Once the intended conversion
-is complete, producers generally clarify, cool, add sulfur dioxide, filter, or
-combine measures appropriate to the wine before packaging.[^3]
+A slow or uncontrolled bacterial population may form excessive volatile
+acidity, biogenic amines, or other unwanted compounds, and the accompanying
+rise in pH can make some wines more permissive to later microbial growth.
+Selected cultures, monitoring, and hygiene help manage these risks. Once the
+intended conversion is complete, producers generally clarify, cool, add sulfur
+dioxide, filter, or combine measures appropriate to the wine before
+packaging.[^3]
 
 ## Why producers encourage, limit, or prevent it
 
 A producer may encourage full conversion when the fruit retains substantial
 malic acid, when a softer acid profile suits the intended structure, or when
-removing malic acid before maturation and bottling is the safest route. This is
-the usual logic in many red wines, but not because red colour or tannin
-chemically requires the process. In a cool season or an acidic sparkling base,
-deacidification may be useful; in a warmer or riper wine, the same conversion
-may remove acidity the producer wants to keep.
+removing malic acid before maturation and bottling is the safest route. This
+is the usual logic in many red wines. In a cool season or an acidic sparkling
+base, deacidification may be useful; in a warmer or riper wine, the same
+conversion may remove acidity the producer wants to keep.
 
 Limiting the effect can mean putting only some lots through malolactic
-fermentation and blending them back, then stabilising the result. This allows a
-producer to retain part of the original acid profile without treating partial
-conversion as an uncontrolled stopping point. Delaying inoculation until after
-alcoholic fermentation can preserve the option to assess each lot, separate the
-microbial stages, or manage red-wine colour and aroma differently. Conversely,
-co-inoculation may be chosen for speed, bacterial survival, or a different
-sensory outcome. Neither sequence is universally safer or better.
+fermentation and blending them back, then stabilising the result. This allows
+a producer to retain part of the original acid profile without treating
+partial conversion as an uncontrolled stopping point. Delaying inoculation
+until after alcoholic fermentation can preserve the option to assess each lot,
+separate the microbial stages, or manage red-wine colour and aroma
+differently. Conversely, co-inoculation may be chosen for speed, bacterial
+survival, or a different sensory outcome.
 
 Preventing malolactic fermentation preserves malic acid and avoids bacterial
 aroma changes. That can suit wines built around firm acidity or delicate
-grape-derived aroma, including many examples of [Riesling](../grapes/riesling.md),
-but it creates a different stability task: bacteria must be suppressed or
-removed so that conversion does not begin later. Sulfur dioxide, low
-temperature, clean handling, and microbial filtration are among the controls;
-their effectiveness depends on pH, wine composition, timing, and local rules.
-The choice is therefore a balance among acid, aroma, texture, microbial risk,
-and intended development, not a choice between “fresh” and “buttery” wine.
+grape-derived aroma, including many examples of
+[Riesling](../grapes/riesling.md), but it creates a different stability task:
+bacteria must be suppressed or removed so that conversion does not begin
+later. Sulfur dioxide, low temperature, clean handling, and microbial
+filtration are among the controls; their effectiveness depends on pH, wine
+composition, timing, and local rules. The choice is therefore a balance among
+acid, aroma, texture, microbial risk, and intended development.
 
 [^1]: International Organisation of Vine and Wine, “Microbiological
     de-acidification by lactic acid bacteria,” *International Code of
@@ -142,7 +129,6 @@ and intended development, not a choice between “fresh” and “buttery” win
 ## Related topics
 
 - [Chardonnay](../grapes/chardonnay.md)
-- [Traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md)
 - [Carbonic maceration](carbonic-maceration.md)
 
 ## Sources

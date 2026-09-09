@@ -11,23 +11,21 @@ Tokaj is both the name of one of those towns and the regional name, while
 *Tokaji* means a wine from Tokaj.
 
 The region is closely associated with Aszú, a concentrated sweet wine made
-through the selection and maceration of noble-rotted berries. That association
-can obscure two useful distinctions. Tokaj also makes dry white, late-harvest,
+through the selection and maceration of noble-rotted berries. Tokaj also makes
+dry white, late-harvest,
 Szamorodni, and sparkling wines, and [botrytized sweet
 wine](../styles/botrytized-sweet-wine.md) is a much broader family made in other
-regions from other grapes and by other methods. Tokaj names a place with its own
-grapes and rules, not a synonym for every wine affected by noble rot.
+regions from other grapes and by other methods.
 
 ## Volcanic foothills and autumn humidity
 
-Tokaj lies at the edge of a Miocene volcanic complex rather than on one uniform
-soil. Rhyolite, andesite, dacite, their tuffs, and rocks altered by later
+Tokaj lies at the edge of a Miocene volcanic complex. Rhyolite, andesite,
+dacite, their tuffs, and rocks altered by later
 hydrothermal activity weather differently across the foothills. Clay-rich
 forest soils cover much of this material, while loess is especially important
 on Tokaj Hill and nearby slopes. Soil depth, fragments of volcanic rock, loess,
 aspect, and erosion consequently vary between vineyards. These differences can
-affect drainage, water supply, rooting, and ripening; they should not be reduced
-to the idea that volcanic rock transfers a literal mineral flavour to wine.
+affect drainage, water supply, rooting, and ripening.
 
 Many vineyards face south, southeast, or southwest, where exposure helps grapes
 ripen in a continental climate and the Zemplén range gives some protection from
@@ -38,7 +36,7 @@ slow the fungus and promote evaporation through weakened skins. The berry loses
 water and shrivels, concentrating its juice, while infection also alters grape
 metabolism and the microbial community.[^1]
 
-This sequence is an opportunity, not a dependable regional setting. Persistent
+Persistent
 wetness can produce destructive grey rot rather than noble rot, and infection
 develops unevenly among sites, bunches, and berries. Ripeness, berry condition,
 variety, airflow, and the timing of rain and dry weather all matter. A suitable
@@ -83,15 +81,13 @@ The familiar *puttonyos* scale began as a production ratio: a number of
 of must or wine. Modern production is controlled by analytical and process
 rules rather than a literal basket count. Under the current specification,
 Aszú meets the 120-gram minimum, while the expression “6 puttonyos” is reserved
-for Aszú with at least 150 grams per litre of residual sugar. The number should
-therefore be read as regulated label language with a historical origin, not as
-a complete account of sweetness, berry proportion, or quality.[^2]
+for Aszú with at least 150 grams per litre of residual sugar.[^2]
 
 Other Tokaj categories separate raw material and method. Eszencia is the
 minimally fermented liquid that runs under the weight of individually selected
 aszú berries without pressing; its legal minimum of 450 grams per litre of
-residual sugar reflects an unusually concentrated product rather than a higher
-rung of ordinary table wine. Szamorodni instead processes whole bunches in
+residual sugar reflects an unusually concentrated product. Szamorodni instead
+processes whole bunches in
 which sound and aszú berries remain together. It may be sweet, with at least 45
 grams per litre of residual sugar, or dry, with no more than 9; both forms
 require at least six months in wood.[^3] Late-harvest wine is another sweet
@@ -99,15 +95,6 @@ category and may include shrivelled or botrytized fruit, but it does not require
 the Aszú selection-and-maceration process. Fordítás and Máslás, made by
 extracting pressed aszú material or Aszú or Szamorodni lees, are further legal
 specialities.
-
-These distinctions are more informative than treating noble rot as a complete
-winemaking method. Botrytis can influence Aszú, sweet or dry Szamorodni, and
-some late-harvest wines, yet each handles the affected fruit differently; dry
-Tokaji may avoid it altogether. Conversely, botrytized wines from Sauternes,
-the Loire, Germany, Austria, and elsewhere follow their own grapes and rules.
-What makes Aszú specifically Tokaji is the conjunction of the delimited place,
-permitted varieties, selective harvest, maceration method, maturation, and
-legal category—not noble rot by itself.
 
 [^1]: Bálint Hegyi-Kaló et al., “Physico-Chemical Characteristics and
     Culturable Microbial Communities of Grape Berries Change Strongly during

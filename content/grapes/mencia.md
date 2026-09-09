@@ -9,17 +9,15 @@ aliases:
 Mencía is a dark-skinned *Vitis vinifera* variety of northwestern Iberia. Its
 best-known Spanish settings are Bierzo, at the western edge of León, and the
 inland Galician regions of [Ribeira Sacra](../regions/ribeira-sacra.md),
-Valdeorras, and Monterrei. Across the
-border it is called Jaen and has a long association with Portugal's [Dão](../regions/dao.md). These
-are regional names for the same cultivar, not two similar grapes.
+Valdeorras, and Monterrei. Across the border it is called Jaen and has a long
+association with Portugal's [Dão](../regions/dao.md). These are regional
+names for the same cultivar.
 
 The variety is often described through its fragrance: young wines can suggest
-red cherry or raspberry, sometimes with a floral or herbal accent. More useful
-than that short descriptor list is Mencía's responsiveness. Season, exposure,
-water supply, crop, and harvest date can move it from bright and light-footed
-to ripe and broad, while extraction determines how much colour and tannin frame
-the fruit. The grape name therefore does not guarantee either a delicate wine
-or a concentrated one.
+red cherry or raspberry, sometimes with a floral or herbal accent. Season,
+exposure, water supply, crop, and harvest date can move it from bright and
+light-footed to ripe and broad, while extraction determines how much colour
+and tannin frame the fruit.
 
 ## Identity and history
 
@@ -27,8 +25,7 @@ Mencía was once repeatedly equated with [Cabernet
 Franc](cabernet-franc.md), sometimes as a synonym and sometimes as an Iberian
 clone brought from France. Comparative work found clear differences in leaf,
 bunch, and berry morphology; microsatellite profiles likewise distinguish the
-two cultivars.[^1] A resemblance between some wines—red fruit, perfume, and an
-occasional leafy note—does not establish a biological relationship.
+two cultivars.[^1]
 
 Jaen is the genuine identity connection. Portuguese official records list
 Mencía as its Spanish synonym, and genetic collections treat them as one
@@ -51,8 +48,6 @@ Mencía is capable of regular, substantial crops and ripens early to mid-season,
 depending on the site and the reference used. That timing can help it mature in
 Atlantic-influenced districts, but rapid sugar accumulation in a warm parcel
 can leave a narrow interval between aromatic ripeness and declining acidity.
-Crop level and harvest timing consequently matter as much as a general label
-such as “cool-climate grape.”
 
 The vine has medium-sized, often compact bunches. In humid Galician conditions
 it is susceptible to powdery mildew and vulnerable to bunch rot; in the drier
@@ -61,19 +56,16 @@ must balance airflow with protection. Dense growth can shade fruit and retain
 humidity, but abrupt or excessive leaf removal can expose berries to heat and
 sun. Wind is another reported vulnerability.
 
-Site effects operate through these practical conditions rather than through a
-soil name transferred directly into flavour. A sheltered valley floor, a
+A sheltered valley floor, a
 sun-facing slope, and a higher exposed terrace differ in temperature, water
 availability, wind, and ripening pace even when all are described as slate or
 granite. Analysis of Mencía grapes from Ribeira Sacra's five subzones over four
 harvests found compositional differences by geographical origin, but vintage
-had the larger overall effect.[^3] Place was detectable; it was not independent
-of the year.
+had the larger overall effect.[^3]
 
 ## Wine character and extraction
 
-Red-fruit aroma is a consistent regional reference point rather than a promise
-of identical flavours. Galician and Portuguese institutional descriptions both
+Galician and Portuguese institutional descriptions both
 mention raspberry-like fruit, with floral notes also prominent in the
 Portuguese account. The balance around those aromas varies. Cooler or less
 advanced fruit can retain a firmer acid line and show herbal edges; warmer
@@ -84,16 +76,13 @@ high extraction.
 Skin contact changes both the structure and the aromatic frame. Shorter,
 gentler maceration can preserve a more direct fruit impression and limit
 tannin. More active or extended extraction can deepen colour and build grip,
-but it may also make seed or stem tannin more conspicuous. Mencía is therefore
-not inherently “light”: concentration reflects fruit composition and the way
-the fermenting wine is handled.
+but it may also make seed or stem tannin more conspicuous.
 
 Trials of cold pre-fermentation maceration make the point more precisely. In a
 two-vintage experiment, dry ice produced the highest phenolic and anthocyanin
 content in one year, while macerating enzymes did so in the next; simply
 extending cold skin contact had an effect only with one refrigeration
-method.[^4] Extraction is a set of choices with vintage-dependent results, not
-a dial that turns “more Mencía” into the wine.
+method.[^4]
 
 ## Where it is grown
 
@@ -110,10 +99,7 @@ varieties.
 In Portugal, Jaen is most strongly associated with Dão, where the mountain-
 enclosed landscape, generally dry summers, and many elevated sites provide a
 different context from humid Galicia. It also appears in Beira Interior and is
-permitted in the [Douro](../regions/douro.md). The name change at the border does not produce a
-separate style: differences among a fragrant Ribeira Sacra red, a riper Bierzo
-wine, and a structured Dão blend arise from site, season, companions, and
-cellar decisions acting on the same variety.
+permitted in the [Douro](../regions/douro.md).
 
 [^1]: María del Carmen Martínez et al., “The grapevine cultivar Mencía (*Vitis
     vinifera* L.): similarities and differences with respect to other well

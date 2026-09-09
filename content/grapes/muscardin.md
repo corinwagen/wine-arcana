@@ -4,12 +4,11 @@ title: Muscardin
 
 # Muscardin
 
-Muscardin is a rare dark-skinned grape native to the southern Rhône. Its
-importance is regional rather than commercial: it survives as a minor blending
-variety in the Rhône, including among the grapes named in the Châteauneuf-du-
-Pape specification. The variety is useful to understand because its wines can
-be lightly coloured and fresh even when it is grown among fuller, darker Rhône
-grapes.
+Muscardin is a rare dark-skinned grape native to the southern Rhône. It
+survives as a minor blending variety in the Rhône, including among the grapes
+named in the Châteauneuf-du-Pape specification. The variety is useful to
+understand because its wines can be lightly coloured and fresh even when it is
+grown among fuller, darker Rhône grapes.
 
 ## Identity and rarity
 
@@ -19,7 +18,7 @@ describes the variety as native to the Côtes du Rhône. Its French vineyard-are
 series recorded 16 hectares in 2018, after similarly small figures in the
 preceding observations.[^1]
 
-The variety has not disappeared from regional conservation work. Plantgrape
+Plantgrape
 records one certified clone, 1101, and a conservatory of roughly 20 clones
 planted in the Côtes du Rhône in 2001.[^1]
 
@@ -27,9 +26,9 @@ planted in the Côtes du Rhône in 2001.[^1]
 
 Muscardin has medium-sized bunches and berries and a fairly low to moderate
 sugar potential. At the Vassal reference collection it broke bud eight days
-after Chasselas and reached maturity about two and a half weeks after it. Those
-are comparative observations, not universal harvest dates: site, season, crop
-load, and vineyard decisions can shift the timing in a commercial vineyard.
+after Chasselas and reached maturity about two and a half weeks after it.
+Site, season, crop load, and vineyard decisions can shift the timing in a
+commercial vineyard.
 
 The variety's long shoots require adequate training. Plantgrape also records
 some susceptibility to grey rot and sensitivity to esca, a group of grapevine

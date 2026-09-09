@@ -6,10 +6,10 @@ aliases:
 
 # Poulsard
 
-Poulsard is a red *Vitis vinifera* variety native to the [Jura](../regions/jura.md) vineyards of
-eastern France. It is one of the grapes that makes Jura's red and rosé wines
-recognizable: its wines are often lightly coloured and fine-boned rather than
-deeply pigmented and forcefully tannic.
+Poulsard is a red *Vitis vinifera* variety native to the
+[Jura](../regions/jura.md) vineyards of eastern France. It is one of the grapes
+that makes Jura's red and rosé wines recognizable: its wines are often lightly
+coloured and delicate.
 
 ## Identity and naming
 
@@ -50,9 +50,8 @@ Plantgrape describes Poulsard wines as aromatic, not very full-bodied, and
 marked by finesse, with variable colour that can occasionally reach an
 onion-skin shade. In the Côtes du Jura specification, Poulsard contributes a
 characteristic light-ruby colour and fruit aromas to red and rosé wines. The
-same document contrasts the darker colour of [Pinot Noir](pinot-noir.md) and the more tannic,
-often more coloured character of Trousseau. Those are useful regional
-comparisons, not a fixed sensory scale for every Poulsard wine.
+same document contrasts the darker colour of [Pinot Noir](pinot-noir.md) and the
+more tannic, often more coloured character of Trousseau.
 
 ## In the cellar
 
@@ -63,6 +62,10 @@ and it may also be used in *[vin de paille](../styles/vin-de-paille.md)*.[^3]
 [^2]: The 2018 area figure is from the Plantgrape varietal record; the 1620
     documentary date is from the Côtes du Jura specification.
 [^3]: *Cahier des charges de l’AOP « Côtes du Jura »*, V.1 and X.2.
+
+## Related topics
+
+- [Arbois](../regions/arbois.md)
 
 ## Sources
 

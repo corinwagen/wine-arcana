@@ -5,13 +5,12 @@ title: Barolo
 # Barolo
 
 Barolo is a red-wine appellation in the Langhe hills of Piedmont, south of
-Alba, and the name of the wine made under its rules. It is not a synonym for a
-grape or a general style of Italian red. Current Barolo Denominazione di
+Alba, and the name of the wine made under its rules. Current Barolo
+Denominazione di
 Origine Controllata e Garantita (DOCG) rules require vineyards planted
 exclusively to [Nebbiolo](../grapes/nebbiolo.md), grapes from a delimited zone,
-and specified production and maturation. Nebbiolo grown elsewhere is not
-Barolo, while Barolo itself varies substantially with site, season, farming,
-and cellar decisions.
+and specified production and maturation. Barolo varies substantially with
+site, season, farming, and cellar decisions.
 
 ![Autumn vineyard rows descend toward a village surrounded by rolling hills.](../../media/images/regions/barolo-village-vineyards.jpg "The village of Barolo among its vineyard slopes.")
 
@@ -25,8 +24,8 @@ The rules admit only hillside vineyards between 170 and 540 metres above sea
 level; valley floors and insufficiently sunny sites are excluded, as are
 directly north-facing slopes for new plantings.[^1]
 
-The hills developed from layered marine sediments, but “calcareous marl” is
-only a useful starting point. The Lequio Formation, with alternating marl and
+The hills developed from layered marine sediments. The Lequio Formation, with
+alternating marl and
 sandstone, appears in central and southern Serralunga and eastern Monforte.
 Sant'Agata Fossili marls spread through several central and western areas,
 while Diano sandstones occur in parts of Monforte, Castiglione Falletto,
@@ -38,9 +37,8 @@ Elevation, slope, and aspect change sunlight, temperature, wind, and water
 movement over short distances. A study using weather records from 1996–2019
 found that maximum temperatures and the Huglin heat index declined
 consistently with elevation across the topographically complex zone, while
-minimum temperatures behaved differently.[^2] These relationships matter for
-late-ripening Nebbiolo, but they do not make altitude or any one soil type a
-stand-alone measure of quality. Soil depth, water availability, canopy and
+minimum temperatures behaved differently.[^2] These relationships affect
+late-ripening Nebbiolo. Soil depth, water availability, canopy and
 crop management, harvest date, and vintage can alter the result.
 
 ## Communes and named sites
@@ -49,8 +47,7 @@ Commune names are useful coordinates, not official grades or dependable style
 categories. Broad descriptions of, for example, La Morra, Serralunga d'Alba,
 or Monforte d'Alba can orient a reader, but each contains different elevations,
 exposures, soils, and producers. Some geological formations also continue
-from one commune into another. A commune-wide character is consequently a
-tendency inferred from many wines, not a rule every bottle must follow.
+from one commune into another.
 
 Since the 2010 vintage, the regulations have defined *menzioni geografiche
 aggiuntive* (additional geographical mentions, commonly abbreviated MGA).
@@ -62,12 +59,10 @@ does not claim one of these narrower origins. The further term *vigna*,
 followed by a registered vineyard name, may appear only together with an MGA
 and brings additional traceability and production conditions.[^1]
 
-This system makes origin more legible without turning the appellation into a
-pyramid. An MGA can contain multiple parcels and producers, and two wines from
+An MGA can contain multiple parcels and producers, and two wines from
 the same named area can differ through vine age, farming, harvest decisions,
-fermentation, extraction, maturation vessel, and blending choices. Conversely,
-a Barolo assembled from several sites can express a deliberate balance rather
-than an absence of place.
+fermentation, extraction, maturation vessel, and blending choices. A producer
+can also blend several sites to balance their different contributions.
 
 ## Wine and maturation
 
@@ -75,15 +70,14 @@ Nebbiolo can combine relatively modest colour with substantial acidity and
 tannin. In Barolo, the long growing season makes the balance among sugar,
 acidity, and skin and seed maturity especially dependent on site and year.
 Maceration and extraction then determine how the cellar handles the grape's
-phenolic material. No appellation rule fixes maceration length, fermentation
-vessel, or a single sensory profile.
+phenolic material.
 
 The current rules require ordinary Barolo to mature for at least 38 months
 from 1 November of the harvest year, including 18 months in wood; release is
 permitted from 1 January of the fourth year after harvest. *Riserva* requires
 at least 62 months in total, again with 18 months in wood, and may be released
-from 1 January of the sixth year.[^1] These are minimum periods, not a recipe.
-The rules do not specify barrel size, the age of the wood, or how the remaining
+from 1 January of the sixth year.[^1] The rules do not specify barrel size,
+the age of the wood, or how the remaining
 time must be divided among vessel and bottle.
 
 Large, seasoned casks and smaller or newer barrels can therefore both produce
@@ -91,9 +85,7 @@ legal Barolo, as can different approaches to extraction and blending. Wood can
 moderate and reshape tannin through time and oxygen exposure, but compulsory
 wood ageing does not require an obvious oak flavour. Bottle development can
 further soften texture and change aroma after legal release, though longevity
-varies by site, vintage, producer, storage, and the individual wine. “Barolo”
-on a label defines origin and compliance first; it does not promise one
-weight, flavour set, or drinking window.
+varies by site, vintage, producer, storage, and the individual wine.
 
 ## Historical development
 
@@ -118,9 +110,7 @@ Legal definition came later. The present specification traces the delimited
 zone to a 1933 ministerial decree; Barolo received DOC status in 1966 and DOCG
 status in 1980. The 2010 amendments formally delimited the additional
 geographical mentions now seen on labels.[^1] These stages progressively fixed
-the relationship among name, grape, place, and production rules. They did not
-freeze Barolo into one cellar style, nor did they convert its communes and
-sites into a legal quality ranking.
+the relationship among name, grape, place, and production rules.
 
 [^1]: Ministero dell'agricoltura, della sovranità alimentare e delle foreste,
     *Disciplinare di produzione della DOCG Barolo*, consolidated 4 March 2026,

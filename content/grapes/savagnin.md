@@ -20,20 +20,18 @@ Savagnin blanc belongs to the old Traminer group. Plantgrape lists it under
 white Traminer names in several European catalogues, including Weißer Traminer
 in Germany, and notes that its ampelographic description corresponds to that of
 [Gewürztraminer](gewurztraminer.md) except for the ripe berry skin: Savagnin's
-is green-yellow, while Gewürztraminer's is pink. This close relationship is
-more useful than treating “Traminer” as a complete family tree; the precise
-origin of Savagnin remains uncertain, with Franche-Comté and the Palatinate
-both proposed in the varietal record.
+is green-yellow, while Gewürztraminer's is pink. The precise origin of Savagnin
+remains uncertain, with Franche-Comté and the Palatinate both proposed in the
+varietal record.
 
 Ancient DNA gives the variety a firmer historical anchor. A grape seed from La
 Madeleine in Orléans, dated to 1050–1200 CE, was an identical genetic match to
 modern Savagnin Blanc. The result is evidence for roughly nine centuries of
-vegetative propagation, not proof of a particular birthplace. The same study
-calls Savagnin Blanc “Traminer Weiss” and reports written use of the name by the
-year 1539.[^1] It also describes earlier archaeological material as having a
-parent–offspring relationship with Savagnin, which suggests an older presence
-or close relatives without establishing that the modern variety itself was
-already growing there.
+vegetative propagation. The same study calls Savagnin Blanc “Traminer Weiss” and
+reports written use of the name by the year 1539.[^1] It also describes earlier
+archaeological material as having a parent–offspring relationship with Savagnin,
+which suggests an older presence or close relatives without establishing that
+the modern variety itself was already growing there.
 
 ## Viticulture
 
@@ -65,10 +63,9 @@ The contrasting route is *sous voile*, ageing under a surface veil of yeast.
 Here Savagnin's acidity and concentration give the wine a firm frame for the
 long maturation, while the veil changes its aroma and texture. These wines can
 show the nutty, spicy, and apple-like character associated with the Jura's
-oxidative tradition, but the exact balance varies with cellar conditions and
-the length of élevage. The resemblance to [Sherry](../styles/sherry.md) is a
-comparison of biological ageing and its effects, not an identity of method or
-origin.
+oxidative tradition, but the exact balance varies with cellar conditions and the
+length of élevage. [Sherry](../styles/sherry.md) has a related tradition of
+biological ageing.
 
 ## Vin jaune
 
@@ -86,6 +83,11 @@ jaune.”
     *Nature Plants* (2019), PDF p. 13.
 [^2]: Institut national de l'origine et de la qualité, *Cahier des charges de
     l'AOP Côtes du Jura*, adopted 20 September 2022, V.1(d) and IX.2(a).
+
+## Related topics
+
+- [Château-Chalon](../regions/chateau-chalon.md)
+- [Arbois](../regions/arbois.md)
 
 ## Sources
 

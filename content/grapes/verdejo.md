@@ -37,8 +37,8 @@ A different course began in 1970, when Marqués de Riscal arrived in the area
 with the œnologist Émile Peynaud to explore a high-quality dry white based on
 Verdejo. The Rueda regulatory council records this as a key moment in the
 region's revival; the denomination was formally recognized in 1980.[^1] The
-change did not replace every older method, but it focused attention on a wine
-made to retain primary aroma and a pale colour.
+change focused attention on a wine made to retain primary aroma and a pale
+colour.
 
 [^1]: Consejo Regulador D.O. Rueda, “Historia,” accessed 3 September 2026,
     <https://dorueda.com/historia/>.
@@ -66,12 +66,12 @@ closely connected but remain distinct terms.
 ## Aroma, bitterness, and oxygen
 
 Young Verdejo often combines floral and fruit notes with a distinctly herbal
-edge. Some of that aroma comes from volatile thiols, sulfur-containing
-compounds released during fermentation from non-volatile grape precursors. A
-recent experimental study describes these thiols as major contributors to the
-variety's sensory profile, especially its box-tree-like herbal nuance.[^3]
-Yeast choice and fermentation conditions therefore help decide how conspicuous
-that character becomes; it is not a simple measure of vineyard quality.
+edge. Some of that aroma comes from volatile thiols, sulfur-containing compounds
+released during fermentation from non-volatile grape precursors. A recent
+experimental study describes these thiols as major contributors to the variety's
+sensory profile, especially its box-tree-like herbal nuance.[^3] Yeast choice,
+fermentation conditions, and the fruit's starting composition determine how
+conspicuous that character becomes.
 
 The finish can carry a mild bitterness, sometimes described as almond-like or
 phenolic. It commonly supplies a structural counterpoint to fruit. Its intensity
@@ -79,8 +79,7 @@ depends in part on extraction: pressing and any time the juice spends with skins
 change what enters the must. In one Rueda experiment, a steel-made,
 skin-macerated Verdejo was judged more bitter than versions fermented and aged
 with lees in oak; the authors suggest that yeast-derived mannoproteins also
-softened or masked bitterness. That finding describes the trial wines, rather
-than setting a rule for the variety.[^4]
+softened or masked bitterness. The finding applies to the trial wines.[^4]
 
 Verdejo's aromatic appeal is closely tied to careful protection from oxygen.
 Oxidation can deepen colour and move the aroma away from fresh fruit and herbs;
@@ -109,15 +108,13 @@ ferment in inert vessels at controlled temperatures. These choices aim to carry
 delicate precursors and fermentation aromas into bottle before oxygen and time
 reshape them, and suit wines intended for early drinking.
 
-That is only one interpretation. Fermentation or maturation on lees can broaden
-texture and moderate the impression of bitterness; [lees
-ageing](../concepts/lees-aging.md) is not automatically oxidative. Oak has a
-different effect again, adding its own flavour and allowing controlled oxygen
-exposure, as explained under [oak maturation](../concepts/oak-maturation.md).
-More deliberately oxidative Rueda, including Dorado, moves in the opposite
-direction from a tightly protected young wine. Verdejo consequently offers a
-useful lesson: grape character is real, but it emerges through a chain of
-decisions in vineyard, press, cellar, and bottle.
+Fermentation or maturation on lees can broaden texture and moderate the
+impression of bitterness; [lees ageing](../concepts/lees-aging.md) is not
+automatically oxidative. Oak has a different effect again, adding its own
+flavour and allowing controlled oxygen exposure, as explained under [oak
+maturation](../concepts/oak-maturation.md). More deliberately oxidative Rueda,
+including Dorado, moves in the opposite direction from a tightly protected young
+wine.
 
 ## Sources
 

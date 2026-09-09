@@ -8,8 +8,8 @@ The Finger Lakes is a wine region in west-central New York and an American
 viticultural area (AVA), the United States legal category for a delimited
 grape-growing region distinguished by geographic features. The AVA was
 established in 1982. Its name refers to the long, narrow lakes left in valleys
-shaped and deepened by Pleistocene glaciation, but the wine region is not one
-uniform lakeshore. Vineyards occupy different slopes, elevations, exposures,
+shaped and deepened by Pleistocene glaciation, and vineyards occupy different
+slopes, elevations, exposures,
 and distances from the water, and those differences matter in a cold climate.
 
 [Riesling](../grapes/riesling.md) is the region's best-known wine grape, yet the Finger Lakes also
@@ -31,7 +31,7 @@ the first frost. Hillsides add a second mechanism: cold air drains downhill,
 so a vineyard partway up a slope may avoid the coldest air that settles on the
 valley floor.[^1]
 
-This lake effect is local rather than automatic. Cornell advises growers to
+The lake effect varies with location. Cornell advises growers to
 evaluate macroclimate together with elevation, topography, and proximity to a
 body of water. A site a few miles from a deep lake, on a suitable slope, may
 have a different frost and winter-injury risk from a site at the same latitude
@@ -68,9 +68,7 @@ that growing degree days in the Finger Lakes rose from about 2,400 in 2000 to
 2,700 in 2020, while warmer winters have encouraged earlier budbreak and
 greater exposure to spring frost. More heat can improve ripening in some years,
 including for red grapes, but it also changes harvest timing and the balance
-between sugar, [acidity](../concepts/acidity.md), fruit health, and alcohol.[^3] Those observations are
-about a changing climate and a dated comparison, not a permanent regional
-average.
+between sugar, [acidity](../concepts/acidity.md), fruit health, and alcohol.[^3]
 
 ## Grapes and wine styles
 

@@ -17,21 +17,16 @@ The variety's usefulness turns on harvest timing. Bical ripens relatively
 early and can accumulate ample sugar, while fruit picked at the right point can
 retain the acidity needed for a fresh still wine or a balanced sparkling base.
 Waiting too long can exchange some of that freshness for more potential alcohol
-and broader texture. Acidity is therefore not a fixed ranking for Bical: it is
-a balance shaped by site, season, crop, and picking date.
+and broader texture.
 
 ## History and identity
 
 Bical's precise birthplace has not been established. A maintained Portuguese
 varietal reference identifies an 1867 account by António Augusto de Aguiar as
 an early record in Bairrada; later nineteenth-century records also place it at
-the ampelographic station in Anadia.[^1] These documents establish cultivation
-in the region, not where the original seedling arose. Its longstanding presence
-across the Beiras and recognition in both Bairrada and Dão are firmer ground
-than a more exact origin story.
+the ampelographic station in Anadia.[^1]
 
-*Borrado das Moscas* is a genuine regional name, but it should not be mistaken
-for a different variety. Other historical names have been recorded in parts of
+Other historical names have been recorded in parts of
 central and southern Portugal, yet Bical is the stable canonical name in
 current Portuguese varietal and appellation records.
 
@@ -40,39 +35,35 @@ current Portuguese varietal and appellation records.
 Bical both buds and ripens early. Early budbreak can expose young growth to
 spring weather, while early ripening gives growers a chance to harvest before
 the later autumn rain that can complicate viticulture in Atlantic-influenced
-Bairrada. That advantage is conditional: the national varietal record describes
-production as medium to high but irregular, with marked susceptibility to poor
-fruit set, downy mildew, and powdery mildew, and moderate susceptibility to
-grey rot. [Canopy management](../concepts/canopy-management.md) and disease control remain important even when the
-crop reaches maturity early.
+Bairrada. The national varietal record describes production as medium to high
+but irregular, with marked susceptibility to poor fruit set, downy mildew, and
+powdery mildew, and moderate susceptibility to grey rot.
+[Canopy management](../concepts/canopy-management.md) and disease control
+remain important even when the crop reaches maturity early.
 
-Its must can combine substantial potential alcohol with moderate total acidity.
-Those two tendencies explain why picking decisions matter more than a simple
-claim that the grape is always high in acid. As berries mature, sugar generally
-rises while acidity changes and often declines. Grapes intended for a still
-wine may be left longer to gain weight and flavour development; fruit for a
-sparkling base is commonly picked earlier to preserve more acidity and keep the
-first wine moderate in alcohol before its second fermentation. Neither choice
-is automatically superior, because underripe fruit can be thin and a late crop
-can become too low in acidity for the intended style.
+Its must can combine substantial potential alcohol with moderate total
+acidity. As berries mature, sugar generally rises while acidity changes and
+often declines. Grapes intended for a still wine may be left longer to gain
+weight and flavour development; fruit for a sparkling base is commonly picked
+earlier to preserve more acidity and keep the first wine moderate in alcohol
+before its second fermentation.
 
 ## Still wine character
 
 Bical still wines can be varietal, but blending is integral to its regional
-role. In Bairrada it commonly appears alongside varieties such as [Arinto](arinto.md),
-Cercial, and [Fernão Pires](fernao-pires.md), locally called Maria Gomes. Arinto can reinforce an
-acid line when riper Bical supplies more breadth; the result is a complement,
-not a compulsory formula. In Dão, Bical joins a different white-grape context
+role. In Bairrada it commonly appears alongside varieties such as
+[Arinto](arinto.md), Cercial, and [Fernão Pires](fernao-pires.md), locally
+called Maria Gomes. Arinto can reinforce an acid line when riper Bical
+supplies more breadth. In Dão, Bical joins a different white-grape context
 that includes [Encruzado](encruzado.md), Malvasia Fina, and Cerceal Branco.
 
 When fruit is sound and picked with enough acidity, the wine can combine a
 rounded texture with restrained stone-fruit character. Riper seasons or later
-harvests may shift it toward fuller body and higher alcohol. Fermentation in an
-inert vessel can emphasize direct fruit and freshness, while lees contact or
-wood can broaden texture and alter aroma. Portuguese varietal references note
-an ability to mature in bottle, but that is a possibility shaped by fruit
-balance, winemaking, closure, and storage rather than a guarantee attached to
-the grape.
+harvests may shift it toward fuller body and higher alcohol. Fermentation in
+an inert vessel can emphasize direct fruit and freshness, while lees contact
+or wood can broaden texture and alter aroma. Portuguese varietal references
+note an ability to mature in bottle, with development shaped by fruit balance,
+winemaking, closure, and storage.
 
 ## Bairrada, Dão, and sparkling wine
 
@@ -80,8 +71,7 @@ Bairrada is Bical's clearest reference point for both still and sparkling wine.
 The region's Atlantic exposure brings moderate temperatures and substantial
 rainfall, conditions that can help preserve acidity but also increase fungal
 pressure. Bical's early season is useful in that setting. It is widely used in
-sparkling blends, often with Arinto, though neither regional practice nor the
-appellation rules require one fixed recipe.
+sparkling blends, often with Arinto.
 
 Current DO Bairrada rules permit Bical for still wine and quality sparkling
 wine. They require the sparkling wine's second fermentation to occur in the
@@ -97,11 +87,7 @@ wine.
 Dão provides a contrasting setting. Its vineyards are generally higher, often
 on low-fertility granite, and partly sheltered from Atlantic moisture by
 mountain ranges; summers can be hot and dry. Bical is an authorized Dão grape
-for both still and sparkling wine, but it does not define the region's whites
-on its own. The Dão rules demonstrate legal scope, not how much Bical a
-particular wine contains. Across both regions, reading the grape name together
-with place and production method is more informative than expecting one Bical
-style.
+for both still and sparkling wine.
 
 [^1]: Vine to Wine Circle, “Bical (PT),” varietal record,
     <https://www.vinetowinecircle.com/castas_post/bical-2/>.

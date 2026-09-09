@@ -10,13 +10,12 @@ Carbonic maceration is a way of beginning vinification with intact grapes in
 an oxygen-poor, carbon-dioxide-rich atmosphere. While the berries remain
 unbroken, living grape cells change their metabolism and transform part of
 their own contents. This intracellular phase can alter acidity, aroma, and the
-movement of phenolic compounds before ordinary yeast fermentation completes
+movement of phenolic compounds before ordinary [yeast fermentation](alcoholic-fermentation.md) completes
 the conversion of sugar into alcohol.
 
-The term does not describe one finished style. Berry integrity, time,
-temperature, extraction, pressing, and the treatment of stems and press wine
-all matter. Carbonic maceration can help make a supple wine for early drinking,
-but it is not simply a recipe for a particular set of fruit aromas.
+Carbonic maceration can help make a supple wine for early drinking. Berry
+integrity, time, temperature, extraction, pressing, and the treatment of stems
+and press wine all shape the result.
 
 ## How intact grapes ferment
 
@@ -29,14 +28,14 @@ to move from the skin toward the pulp. This is called intracellular
 fermentation, although the defining reactions are performed by grape cells
 rather than by yeasts fermenting free juice.[^1]
 
-The distinction is temporary, not absolute. Filling a vat breaks some fruit,
-and more berries split as the process continues. Yeasts ferment the released
-juice, while intact berries elsewhere in the same vessel continue their own
-anaerobic metabolism. Eventually the fruit is drained and pressed. The juice
-still contains substantial sugar, so yeast fermentation must then finish the
-wine, commonly away from the skins. [Malolactic
-fermentation](malolactic-fermentation.md) may follow; it is a separate microbial
-conversion from the malic-acid breakdown that occurred inside the grapes.
+Filling a vat breaks some fruit, and more berries split as the process
+continues. Yeasts ferment the released juice, while intact berries elsewhere
+in the same vessel continue their own anaerobic metabolism. Eventually the
+fruit is drained and pressed. The juice still contains substantial sugar, so
+yeast fermentation must then finish the wine, commonly away from the skins.
+[Malolactic fermentation](malolactic-fermentation.md) may follow; it is a
+separate microbial conversion from the malic-acid breakdown that occurred
+inside the grapes.
 
 ## Full and semi-carbonic practice
 
@@ -52,17 +51,16 @@ dioxide. Whole bunches are loaded into the vessel, and grapes near the bottom
 are crushed under the mass above. Yeasts ferment their juice and generate the
 carbon dioxide that progressively makes intact fruit higher in the vat
 anaerobic. Conventional fermentation, extraction from grapes in juice, and
-intracellular metabolism therefore occur together. The boundary in practical
-usage is useful but not universal: the International Organisation of Vine and
-Wine defines carbonic maceration broadly enough for the gas to come from an
+intracellular metabolism therefore occur together. The International
+Organisation of Vine and Wine’s definition allows the gas to come from an
 external source, crushed berries, grape respiration, or a combination.[^1]
 
-[Whole-bunch fermentation](whole-cluster-fermentation.md) is not automatically
-carbonic maceration. An open or actively worked vat may contain intact berries
-without the necessary atmosphere, while destemmed but unbroken berries can undergo
-intracellular fermentation if oxygen is excluded. Stems and carbonic
-conditions are thus separate variables, even though traditional whole-bunch
-practice often combines them.
+In [whole-bunch fermentation](whole-cluster-fermentation.md), an open or
+actively worked vat may contain intact berries without the necessary
+atmosphere, while destemmed but unbroken berries can undergo intracellular
+fermentation if oxygen is excluded. Stems and carbonic conditions are thus
+separate variables, even though traditional whole-bunch practice often
+combines them.
 
 ## Extraction, aroma, and structure
 
@@ -76,14 +74,12 @@ free-run and press fractions further shape the result. Retaining stems can add
 another source of phenolic material and aroma.
 
 The free-run and press fractions also differ. In a controlled
-[Tempranillo](../grapes/tempranillo.md) trial, wine drawn from the vat resembled
-the conventionally fermented wine in
-several phenolic measures, whereas the fraction pressed from grapes that had
-remained whole longer contained less tannin and anthocyanin but more of some
-fermentation-derived aroma compounds. The fractions are usually blended, so
-their proportions and the pressure applied help shape the result. A single
-trial on one grape is not a universal formula, but it demonstrates why the
-method's name alone cannot predict colour or structure.[^2]
+[Tempranillo](../grapes/tempranillo.md) trial, wine drawn from the vat
+resembled the conventionally fermented wine in several phenolic measures,
+whereas the fraction pressed from grapes that had remained whole longer
+contained less tannin and anthocyanin but more of some fermentation-derived
+aroma compounds. The fractions are usually blended, so their proportions and
+the pressure applied help shape the result.[^2]
 
 Anaerobic grape metabolism changes the precursors available when yeast
 fermentation resumes, and the two phases together can emphasize distinctive
@@ -91,31 +87,24 @@ fermentation-derived aromas. Their prominence depends on grape variety, fruit
 condition, temperature, duration, microbial activity, and ageing. Some can be
 conspicuous in a young wine and recede later; others may obscure rather than
 reveal varietal character. Likewise, partial loss of malic acid can soften the
-acid balance, but it does not cancel the effects of harvest ripeness or later
-malolactic fermentation. Carbonic maceration changes the pathways available to
-the winemaker; it does not impose a sensory identity.
+acid balance, alongside the effects of harvest ripeness and later malolactic
+fermentation.
 
-## Beaujolais without a shortcut
+## Beaujolais
 
-[Beaujolais](../regions/beaujolais.md) provides the best-known example but also
-shows the danger of reducing the technique to a style label. Traditional
-Beaujolais vinification
-is semi-carbonic: whole [Gamay](../grapes/gamay.md) bunches are loaded into a
+Traditional vinification in [Beaujolais](../regions/beaujolais.md) is
+semi-carbonic: whole [Gamay](../grapes/gamay.md) bunches are loaded into a
 vat, yeast fermentation begins in the juice below, and intact berries above
 undergo intracellular fermentation. Regional accounts also describe pumping
 over, pressing, blending free-run and press wine, and completing fermentation
 together.[^3]
 
 For Beaujolais Nouveau, short vatting and rapid release can put supple
-structure and fermentation-derived aroma in the foreground. That familiar
-association is not a rule for how every Beaujolais tastes. Longer maceration
+structure and fermentation-derived aroma in the foreground. Longer maceration
 and more active extraction can give Beaujolais and Beaujolais-Villages firmer
 wines, while producers in the ten crus may use semi-carbonic practice for
 wines intended to develop in bottle. Other vinification methods are also used,
-and maturation may take place in vat, cask, or barrel. Site, vintage, grape
-condition, and these cellar decisions remain legible across the region's
-range; intracellular fermentation is one process within that range, not an
-explanation for all of it.
+and maturation may take place in vat, cask, or barrel.
 
 [^1]: International Organisation of Vine and Wine, “Carbonic maceration,”
     *International Code of Oenological Practices*, II.1.7; Australian Wine

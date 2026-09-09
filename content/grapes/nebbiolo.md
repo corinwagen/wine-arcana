@@ -57,8 +57,7 @@ A two-season study of three clones across three Langhe vineyards found that
 ripening stage, vineyard, clone, and clone-by-environment effects each
 influenced parts of berry metabolism. Longer-term observations in Valtellina
 likewise connected ripening time and total acidity with altitude, temperature,
-summer heat, and rainfall.[^3] Together, these studies show how environmental
-change can alter several linked processes. [Canopy
+summer heat, and rainfall.[^3] [Canopy
 management](../concepts/canopy-management.md), soil depth and water holding,
 rootstock, crop load, and harvest date can complicate a simple comparison by
 aspect or soil name.
@@ -71,9 +70,8 @@ Nebbiolo skins accumulate relatively little anthocyanin and have a pigment
 profile weighted toward 3'-hydroxylated forms. The result can be modest colour
 depth alongside substantial phenolic structure. In a controlled comparison of
 five varieties grown and vinified in Mendoza, the Nebbiolo wine had the least
-anthocyanin and the most tannin. The experiment illustrates the separation of
-the two properties, but its exact ratios do not rank Nebbiolo universally across
-vineyards and cellars.[^4]
+anthocyanin and the most tannin. The result applies to those vineyard and cellar
+conditions.[^4]
 
 Nebbiolo often retains substantial acidity even after a long ripening period.
 Acids fall and sugar rises during ripening at rates influenced by heat, water,
@@ -107,8 +105,7 @@ least 95% Nebbiolo, so a small proportion of other permitted red grapes may be
 present. Nebbiolo d'Alba is drawn from a broader area around Alba and is solely
 Nebbiolo; its rules now encompass still and sparkling forms. Langhe Nebbiolo is
 broader again and requires at least 85% of the named variety. These labels set
-different geographical, compositional, and production boundaries, not a quality
-hierarchy.[^6]
+different geographical, compositional, and production boundaries.[^6]
 
 Farther north, Nebbiolo is often called Spanna. Gattinara requires 90–100%
 Nebbiolo and permits limited Vespolina and Uva Rara; Ghemme permits those two

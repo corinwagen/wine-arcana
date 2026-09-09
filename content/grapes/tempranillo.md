@@ -21,23 +21,20 @@ de Llebre in Catalonia, and Araúxa in Galicia. In Portugal, Tinta Roriz is usua
 in the [Douro](../regions/douro.md) and [Dão](../regions/dao.md), while Aragonez
 is especially associated with the south.
 
-These synonyms preserve regional naming traditions rather than separate
-biological varieties. They also carry useful information: generations of local
-propagation have produced distinct clonal lineages, and the vine meets very
-different climates and cellar practices across Iberia. Tempranillo Blanco is a
-pale-berried somatic variant, not another name for the dark-berried grape
-discussed here.
+These names preserve regional traditions: generations of local propagation have
+produced distinct clonal lineages, and the vine meets very different climates
+and cellar practices across Iberia. Tempranillo Blanco is a pale-berried somatic
+variant, not another name for the dark-berried grape discussed here.
 
 ## History and identity
 
 DNA analysis identifies Albillo Mayor and the rare dark-berried Benedicto as
 Tempranillo's parents. More recent genomic work found the likely ancestral
 Tempranillo genotype and its closest descendants concentrated along the upper
-and middle Ebro valley, making that area the strongest present candidate for
-the variety's origin. The same study traced a probable westward movement of
-plant material through Ribera del Duero and Toro into Portugal. This is a
-genetic reconstruction, not a record of the original seedling: the precise
-place and date remain unknown.[^1]
+and middle Ebro valley, making that area the strongest present candidate for the
+variety's origin. The same study traced a probable westward movement of plant
+material through Ribera del Duero and Toro into Portugal. The precise place and
+date remain unknown.[^1]
 
 Documents add a similarly qualified history. Seventeenth-century records from
 the Ebro valley mention a black grape called Tempranillo, but the researchers
@@ -49,12 +46,11 @@ one early-ripening vine.
 
 ## Viticulture and ripening
 
-Early maturity is the thread behind the name. In the French reference
-collection used by Plantgrape, Tempranillo ripens about two weeks after
-Chasselas, a mid-season benchmark there. That comparison is not a fixed Iberian
-harvest date, but it places Tempranillo well ahead of varieties that need a long
-autumn. It can therefore mature in relatively cool or elevated sites and may be
-harvested before equinoctial rain.
+Early maturity is the thread behind the name. In the French reference collection
+used by Plantgrape, Tempranillo ripens about two weeks after Chasselas, a
+mid-season benchmark there. That places Tempranillo well ahead of varieties that
+need a long autumn. It can therefore mature in relatively cool or elevated sites
+and may be harvested before equinoctial rain.
 
 In hot conditions, that advantage can become a constraint. Sugar accumulation,
 acid loss, and skin development do not necessarily advance together. In a
@@ -65,11 +61,10 @@ cycle can thus move ripening into an especially hot part of the season, giving
 high potential alcohol and falling acidity before color and other phenolic
 components reach the balance a grower wants.
 
-Tempranillo is vigorous and sufficiently fertile for short pruning, but its
-wine potential falls when yields become excessive. Water supply, crop level,
-canopy shade, elevation, and harvest date all change berry size and the ratio
-between sugar, acid, and skin compounds. “Early” consequently describes its
-relative season, not an assurance of full or even ripeness in every vineyard.
+Tempranillo is vigorous and sufficiently fertile for short pruning, but its wine
+potential falls when yields become excessive. Water supply, crop level, canopy
+shade, elevation, and harvest date all change berry size and the ratio between
+sugar, acid, and skin compounds.
 
 ## Wine character and cellar choices
 
@@ -103,9 +98,8 @@ sector. Tempranillo dominates the red plantings but may be blended with
 Young wines,
 including wines made by carbonic maceration, coexist with reds shaped by
 mandatory barrel and bottle periods for the Crianza, Reserva, and Gran Reserva
-terms. Climate, blending, extraction, and maturation therefore explain more
-than the word *Rioja* alone: its Tempranillo can be fresh and direct, structured
-for long ageing, or anywhere between those poles.
+terms. These choices produce Tempranillo that ranges from fresh and direct to
+structured for long ageing.
 
 Ribera del Duero calls the variety Tinta del País or Tinto Fino. Its vineyards
 occupy a high, dry continental plateau, mostly around 720 to 1,000 metres, with
@@ -137,15 +131,12 @@ another. In the mountain-sheltered Dão, where vineyards commonly lie on
 low-fertility granite at 400 to 500 metres or higher, Tinta Roriz can retain
 firmer acidity and play a supporting role in restrained multivarietal reds.
 
-Aragonez in Alentejo meets high sunshine and Mediterranean and continental
-heat, conditions that often favor riper, broader expressions, though the high
-vineyards of Portalegre are an important counterexample. A long-term
-Portuguese study covering Aragonez in Douro, Dão, and Alentejo found that
-warmer conditions were associated at maturity with less titratable acidity,
-anthocyanin, and total phenols, and with higher pH and potential alcohol.[^5]
-The regional names carry different histories and blending traditions, while
-vine material, site, season, and winemaking produce the differences in the
-glass.
+Aragonez in Alentejo meets high sunshine and Mediterranean and continental heat,
+conditions that often favor riper, broader expressions, though the high
+vineyards of Portalegre are an important counterexample. A long-term Portuguese
+study covering Aragonez in Douro, Dão, and Alentejo found that warmer conditions
+were associated at maturity with less titratable acidity, anthocyanin, and total
+phenols, and with higher pH and potential alcohol.[^5]
 
 [^1]: Javier Tello et al., “Genome resequencing and custom genotyping
     elucidates the origin and dissemination history of an emblematic grapevine

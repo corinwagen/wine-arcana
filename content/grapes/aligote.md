@@ -11,7 +11,7 @@ Burgundian village appellation made exclusively from Aligoté.
 
 ## History
 
-Aligoté's history is long in Burgundy but not securely ancient. Bourgogne Wines
+Bourgogne Wines
 places its emergence there in the seventeenth century. Published genetic
 analyses indicate that it resulted from a cross between Pinot and Gouais blanc,
 the same two lineages involved in [Chardonnay](chardonnay.md).[^1]
@@ -20,9 +20,7 @@ For much of its modern history, Aligoté was compared with Chardonnay, which
 occupied more of Burgundy's most valued sites. Bourgogne Wines records that
 Aligoté was sometimes planted alongside Chardonnay in prestigious vineyards
 before phylloxera, and that the regional *Bourgogne Aligoté* appellation was
-created in 1937. These facts explain why the grape can be both historically
-Burgundian and less visible in discussions of Burgundy's classified white
-wines.
+created in 1937.
 
 Bouzeron provides a more specific history of esteem. INAO says the local wine
 has had a reputation for several centuries and reports that, in the nineteenth

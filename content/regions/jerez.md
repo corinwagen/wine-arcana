@@ -46,8 +46,7 @@ Arenas are sand-dominant coastal soils with less limestone and are especially
 important around Chipiona. These broad names simplify many local variations.
 The traditional *pagos* provide a finer geography: they are named rural areas
 defined by soil, relief, and mesoclimate and may contain several separate
-vineyards. A pago is an origin, not a guarantee of one wine style or quality
-level.
+vineyards.
 
 ## Grapes and vineyard wine
 
@@ -114,7 +113,6 @@ permitted. In the latter, periodic withdrawals from older casks are replaced
 with younger wine through successive scales. Blending across vineyards and
 years can foreground house style while grape source, coastal or inland cellar
 conditions, and the decisions governing each ageing system remain distinct.
-Understanding Jerez therefore requires two maps: vineyards and bodegas.
 
 [^1]: Junta de Andalucía, current product specifications for
     Jerez-Xérès-Sherry and Manzanilla-Sanlúcar de Barrameda, sections D.

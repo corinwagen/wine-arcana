@@ -21,21 +21,20 @@ analyses carried out in Montpellier make it probably a descendant of [Savagnin](
 and the Jura appellation specification gives the variety a secure local record
 from 1732.[^1]
 
-The names are varietal synonyms rather than separate grapes in the sources
-used here. Plantgrape lists Bastardo for Portugal and Cyprus and Merenzao for
-Spain; it also records those names as officially recognized in France for
-plant-propagation material. In Portugal, the Instituto da Vinha e do Vinho
-(IVV) describes Bastardo as a red European grape grown throughout the country,
-with its greatest expansion in the [Douro](../regions/douro.md).[^2]
+Plantgrape lists Bastardo for Portugal and Cyprus and Merenzao for Spain; it
+also records those names as officially recognized in France for
+plant-propagation material. In Portugal, the Instituto da Vinha e do Vinho (IVV)
+describes Bastardo as a red European grape grown throughout the country, with
+its greatest expansion in the [Douro](../regions/douro.md).[^2]
 
 ## Viticulture
 
-Trousseau is vigorous and ripens early relative to many wine grapes, but early
-does not mean effortless in every climate. Plantgrape says it must be planted
-in well-exposed terroirs to reach proper maturity. The Jura specification is
-more specific about the local fit: Trousseau needs very warm, gravelly soils.
-Exposure and heat therefore help the fruit complete ripening, while the vine's
-vigor makes site and pruning choices part of the crop and maturity equation.[^3]
+Trousseau is vigorous and ripens early relative to many wine grapes. Plantgrape
+says it must be planted in well-exposed terroirs to reach proper maturity. The
+Jura specification is more specific about the local fit: Trousseau needs very
+warm, gravelly soils. Exposure and heat therefore help the fruit complete
+ripening, while the vine's vigor makes site and pruning choices part of the crop
+and maturity equation.[^3]
 
 The variety has small bunches and medium-sized berries, a high potential for
 sugar accumulation, and susceptibility to grey rot, leafhoppers, and wood
@@ -76,6 +75,10 @@ Australia, South Africa, California, Spain, France, and Argentina.[^2]
     d'origine contrôlée « Côtes du Jura »*, Chapter I, section X.2.
 [^5]: French Ministry of Agriculture, *Cahier des charges de l'appellation
     d'origine contrôlée « Côtes du Jura »*, Chapter I, section V.1(b–c).
+
+## Related topics
+
+- [Arbois](../regions/arbois.md)
 
 ## Sources
 

@@ -7,8 +7,7 @@ title: Muscadet
 Muscadet is a family of white-wine appellations in the southern Loire around
 Nantes, where the river reaches the Atlantic. Its wines are made primarily, and
 in the narrower appellations exclusively, from [Melon de Bourgogne](../grapes/melon-de-bourgogne.md).
-The name therefore joins a grape with a place, but it does not describe one
-uniform wine. The broad regional AOC and three smaller appellations divide the
+The broad regional AOC and three smaller appellations divide the
 Nantais vineyard into different geographical and production categories.
 
 ## A Loire vineyard near the Atlantic

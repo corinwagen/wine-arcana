@@ -6,16 +6,15 @@ title: Vinho Verde
 
 Vinho Verde is a wine region and protected designation in northwestern
 Portugal, centred between the Minho and Douro rivers and extending from the
-Atlantic coast toward the mountains of the interior. It is often reduced to a
-light, young white wine with a faint prickle. That style is important, but it
-does not define the region.
+Atlantic coast toward the mountains of the interior. It produces light, young
+whites with a faint prickle alongside still and
+sparkling wines in all three colours.
 
 The words *vinho verde* literally mean “green wine,” yet accounts of *verde*
 differ. Some relate it to the wine's traditional youth and fresh acidity;
 others to the green, wet landscape. Whatever the name's origin, its present
 legal meaning is geographical. The designation covers still and sparkling
-white, red, and rosé wines, including wines made for development in bottle. A
-still, dry, mature Vinho Verde is no contradiction.[^1]
+white, red, and rosé wines, including wines made for development in bottle.[^1]
 
 ## Atlantic geography and wet viticulture
 
@@ -43,12 +42,11 @@ spraying, canopy control, and mechanization easier. Neither old nor new
 training removes the basic pressures of a wet season, so drainage, exposure,
 crop level, and timely canopy work remain consequential.
 
-## Nine subregions, not one climate
+## Nine subregions
 
 The denomination recognizes Amarante, Ave, Baião, Basto, Cávado, Lima, Monção
 e Melgaço, Paiva, and Sousa. These are legal subregions with their own permitted
-grape lists, but they are most useful as a map of the region's climatic
-transitions rather than nine self-contained styles.[^3]
+grape lists, and help map the region's climatic transitions.[^3]
 
 Ave, Cávado, and Sousa occupy relatively low river basins with mild conditions
 and strong maritime influence; Arinto, Loureiro, and earlier-ripening
@@ -78,10 +76,9 @@ more concentrated wines. [Arinto](../grapes/arinto.md), locally called
 Pedernã, often reinforces acidity and structure. [Trajadura](../grapes/treixadura.md)
 ripens earlier in several maritime subregions and can soften a blend, while
 Avesso and late-ripening Azal find warmer inland sites particularly useful.
-These roles are tendencies, not a required recipe; each grape can also appear
-alone.
+Each grape can also appear alone.
 
-Red grapes are not a historical footnote. [Vinhão](../grapes/souson.md), the
+[Vinhão](../grapes/souson.md), the
 regional name for Sousón, can give deeply colored wines with pronounced
 acidity and tannin. Espadeiro and Padeiro are also used for rosé and less dense
 reds. [Borraçal](../grapes/caino-tinto.md), Amaral, and
@@ -104,16 +101,12 @@ Still whites now range from light blends to dry, single-variety or
 site-specific wines with more body and texture. Lees contact, wood, and bottle
 age can broaden Alvarinho, Loureiro, and other varieties without erasing their
 acidity. Still rosé and red wines likewise vary with grape, ripeness,
-extraction, and maturation rather than conforming to the export stereotype.
+extraction, and maturation.
 
 The PDO also recognizes *Espumante de Vinho Verde* and *Espumante de Qualidade
 de Vinho Verde* as separate sparkling-wine categories. Producers use both tank
 and [traditional methods](../styles/traditional-method-sparkling-wine.md) in
-practice, and make white, rosé, and red versions. These are fully sparkling
-wines, not simply still Vinho Verde with a slight prickle. The distinction
-captures the larger point: Vinho Verde names a varied Atlantic region first,
-and no single level of sweetness, carbonation, alcohol, or maturity can stand
-for all of its wines.
+practice, and make white, rosé, and red versions.
 
 [^1]: Wines of Portugal, “Vinho Verde,” records competing explanations of the
     name. Instituto da Vinha e do Vinho, *Caderno de Especificações: DO “Vinho

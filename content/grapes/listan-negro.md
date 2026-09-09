@@ -12,12 +12,10 @@ grape, it supports everyday dry wines bottled alone or with other local
 varieties. The wines vary with island, elevation, exposure, farming, and cellar
 choices.
 
-The phrase “volcanic red” is useful geographic shorthand, but Canary vineyards
-vary in basalt, ash, older weathered soils, wind, altitude, maritime influence,
-and cultivation. Their wines follow differences in drainage, water
-availability, heat, and ripening rather than a uniform soil-derived flavour.
-Listán Negro can make a fresh, unforced red in settings where heat alone might
-suggest a heavier wine.
+Canary vineyards vary in basalt, ash, older weathered soils, wind, altitude,
+maritime influence, and cultivation. Their wines follow differences in
+drainage, water availability, heat, and ripening. Listán Negro can make a
+fresh, unforced red in settings where heat alone might suggest a heavier wine.
 
 ## Identity and the Mission question
 
@@ -32,16 +30,13 @@ Listán Blanco.
 The distinction matters beyond Spain. Listán Prieto is the grape known as
 Mission in California and as País in Chile (as well as Criolla Chica in
 Argentina); DNA work has connected Mission to Listán Prieto, not to Listán
-Negro.[^2] Both varieties are part of the islands' vine history, but the
-American lineage should not be used as an origin story or a synonym for Listán
-Negro. Canary regulations themselves list Listán Negro/Almuñeco and Listán
+Negro.[^2] Canary regulations themselves list Listán Negro/Almuñeco and Listán
 Prieto separately, a practical reflection of that biological distinction.
 
 The crossing establishes parentage, not a precise date or site for the first
 seedling. A wider SSR survey classed Listán Negro among cultivars local to the
 Canary Islands, while also finding the region's vine population strongly
-influenced by the Iberian Peninsula. That is firmer ground than stories that
-assign it a particular century or introduction route.[^3]
+influenced by the Iberian Peninsula.[^3]
 
 ## A grape of varied volcanic islands
 
@@ -61,14 +56,13 @@ variety; Listán Negro is also a preferred red grape under the Lanzarote
 designation. Together, these records show broad regional importance across
 islands whose wines remain distinct.[^4]
 
-Lanzarote shows why volcanic growing conditions need a practical explanation.
-Its vineyards may sit over buried soil beneath lapilli, the porous volcanic
-grit also called *picón*. The current product specification says that the
-surface layer helps rain filter through and limits evaporation; growers plant
-through it into the older soil and often use stone windbreaks. This is an
-adaptation to an exceptionally dry, windy island. In wetter or higher Canarian
-sites, cloud cover, temperature, and disease pressure can be more consequential
-than the visible volcanic rock.
+Lanzarote's vineyards may sit over buried soil beneath lapilli, the porous
+volcanic grit also called *picón*. The current product specification says that
+the surface layer helps rain filter through and limits evaporation; growers
+plant through it into the older soil and often use stone windbreaks. This is
+an adaptation to an exceptionally dry, windy island. In wetter or higher
+Canarian sites, cloud cover, temperature, and disease pressure can be more
+consequential than the visible volcanic rock.
 
 ## Wine character and cellar choices
 
@@ -80,11 +74,11 @@ to blend with Negramoll, Tintilla, Malvasía Rosada, or other grapes all alter
 the result.
 
 The cellar can make that variation more visible. Shorter skin contact or
-[carbonic maceration](../concepts/carbonic-maceration.md) tends to favour a more immediate, supple style; longer
-extraction, whole bunches, or wood maturation can add grip, aromatic complexity,
-and a different frame. A study of Canary single-variety red wines found that
-vintage and ageing affected phenolic composition substantially, a useful
-warning against reading structure or colour directly from a cultivar name.[^5]
+[carbonic maceration](../concepts/carbonic-maceration.md) tends to favour a
+more immediate, supple style; longer extraction, whole bunches, or wood
+maturation can add grip, aromatic complexity, and a different frame. A study
+of Canary single-variety red wines found that vintage and ageing affected
+phenolic composition substantially.[^5]
 
 [^1]: Gemma Marsal et al., “Molecular characterization of *Vitis vinifera* L.
     local cultivars from volcanic areas (Canary Islands and Madeira) using SSR

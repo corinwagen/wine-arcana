@@ -10,11 +10,10 @@ acid structure make harvest timing unusually consequential: the grower needs
 enough ripeness for characteristic aroma without allowing sugar accumulation
 and acid loss to make the wine broad or hot.
 
-Most Viognier is made as white wine, either alone or with other white grapes.
-It also has a distinctive second role beside [Syrah](syrah.md): a small amount
-of the white fruit may share a red fermentation, most famously in [Côte-Rôtie](../regions/cote-rotie.md).
-These uses draw on the same aromatic variety but do not make the resulting
-wines taste alike.
+Most Viognier is made as white wine, either alone or with other white grapes. It
+also has a distinctive second role beside [Syrah](syrah.md): a small amount of
+the white fruit may share a red fermentation, most famously in
+[Côte-Rôtie](../regions/cote-rotie.md).
 
 ## History
 
@@ -22,7 +21,8 @@ The precise origin is not documented. France's Plantgrape catalogue treats
 Viognier as native to the northern Côtes du Rhône, while genetic work indicates
 a close relationship with Mondeuse Blanche without establishing Viognier's
 complete parentage. A repeated account has the emperor Probus bring the vine
-from Dalmatia in the third century. The current Condrieu specification itself
+from Dalmatia in the third century. The current
+[Condrieu](../regions/condrieu.md) specification itself
 calls that account hypothetical: nearby archaeology establishes Roman-era
 viticulture, not the identity of Viognier. The same document cites a firmer
 milestone in 1781, when *Vionnier* and *Serine* were named as the two grapes of
@@ -39,10 +39,9 @@ modern grape is no longer confined to its Rhône home.
 ## Viticulture and harvest
 
 Viognier buds early enough to face spring-frost risk and bears small, compact
-bunches of small berries. Its shoots may need secure support in windy sites.
-The vine can also crop irregularly, although clone, pruning, site, and season
-all affect yield; these are tendencies rather than a fixed measure of how
-difficult the variety is to grow.
+bunches of small berries. Its shoots may need secure support in windy sites. The
+vine can also crop irregularly, although clone, pruning, site, and season all
+affect yield.
 
 The narrow harvest window is a question of competing forms of ripeness. Picked
 too early, the grapes may retain more acidity but lack the aromatic development
@@ -51,34 +50,30 @@ acidity generally declines; beyond the useful balance, the resulting dry wine
 may gain alcohol and weight faster than freshness. Because Viognier begins with
 less acid than many white varieties, that divergence is especially noticeable.
 Warm weather can compress the decision, while cooler sites, shade, crop level,
-water status, and the particular season can slow or redirect it. There is no
-single sugar figure or calendar date that defines the correct moment.
+water status, and the particular season can slow or redirect it.
 
 ## Aroma, structure, and cellar choices
 
-Viognier is genuinely aromatic, but its perfume is neither uniform nor
-unlimited. Chemical and sensory work connects grape-derived monoterpenes,
-especially linalool and geraniol, with the apricot-like aspect often recognised
-in the wine.[^3] Floral and peach-like impressions are also common, but are
-better understood as a compact family of associations than as a required
-tasting list. A Wine Australia study found that region had the largest effect
-on measured monoterpenes in its experimental wines, with clone and harvest date
-also making significant differences.[^4]
+Chemical and sensory work connects grape-derived monoterpenes, especially
+linalool and geraniol, with the apricot-like aspect often recognised in the
+wine.[^3] Floral and peach-like impressions are also common. A Wine Australia
+study found that region had the largest effect on measured monoterpenes in its
+experimental wines, with clone and harvest date also making significant
+differences.[^4]
 
-The usual structural tendency is low-to-moderate acidity alongside a capacity
-to accumulate substantial sugar. That can give a dry wine breadth and alcohol,
-but does not guarantee heaviness: a cooler site or earlier harvest may retain a
-firmer line, and yield, fermentation, residual sugar, lees contact, [malolactic
+The usual structural tendency is low-to-moderate acidity alongside a capacity to
+accumulate substantial sugar. That can give a dry wine breadth and alcohol,
+while a cooler site or earlier harvest may retain a firmer line. Yield,
+fermentation, residual sugar, lees contact, [malolactic
 fermentation](../concepts/malolactic-fermentation.md), and vessel choice all
-change the result. Oak can add its own aroma
-and oxygen exposure; neutral vessels make the grape's perfume easier to isolate.
-Unlike relatively neutral [Chardonnay](chardonnay.md), Viognier often remains
-recognisable even when cellar influence is restrained.
+change the result. Oak can add its own aroma and oxygen exposure; neutral
+vessels make the grape's perfume easier to isolate. Unlike relatively neutral
+[Chardonnay](chardonnay.md), Viognier often remains recognisable even when
+cellar influence is restrained.
 
 Condrieu is legally a still white wine made from Viognier alone. Producers
 elsewhere also bottle varietal dry wines, make white blends, and occasionally
-use later-picked fruit for wines with residual sugar. The grape's aroma and
-soft acidity permit all of these forms; they do not dictate sweetness.
+use later-picked fruit for wines with residual sugar.
 
 ## With Syrah
 
@@ -93,13 +88,11 @@ Côte-Rôtie wines use less Viognier or none, so the legal ceiling is not a
 recipe for the appellation.
 
 The white grapes can alter aroma and texture, but the result depends on their
-proportion, ripeness, and how the ferment is managed. Claims that Viognier
-automatically deepens or stabilises Syrah's colour should be treated
-cautiously. In one controlled study, Viognier contributed more aromatic
-variation than the other white Rhône grapes tested, but none of the
-co-fermentations increased perceived colour saturation over Syrah alone.[^6]
-Outside Côte-Rôtie, producers use Syrah–Viognier co-fermentation as a stylistic
-choice rather than under one common rule.
+proportion, ripeness, and how the ferment is managed. In one controlled study,
+Viognier contributed more aromatic variation than the other white Rhône grapes
+tested, but none of the co-fermentations increased perceived colour saturation
+over Syrah alone.[^6] Outside Côte-Rôtie, producers use Syrah–Viognier
+co-fermentation to alter the wine's aroma and texture.
 
 [^1]: Ministère de l'Agriculture et de la Souveraineté alimentaire, *Cahier des
     charges de l'appellation d'origine contrôlée “Condrieu”*, homologated 4 July

@@ -14,68 +14,60 @@ traits—generous palate weight, often moderate acidity, and sensitivity to
 *Botrytis cinerea*—but direct them toward strikingly different results.
 
 The variety is often described as waxy. That word can refer to a smooth,
-mouth-coating texture, a beeswax- or lanolin-like aroma, or both. It is best
-understood as sensory shorthand rather than the effect of one known compound.
-Ripeness, acidity, botrytized fruit, lees, wood, and bottle age can all reinforce
-or diminish the impression; young Hunter Valley Sémillon, for example, can be
-light and taut rather than overtly broad.
+mouth-coating texture, a beeswax- or lanolin-like aroma, or both. Ripeness,
+acidity, botrytized fruit, lees, wood, and bottle age can all reinforce or
+diminish the impression; young Hunter Valley Sémillon, for example, can be light
+and taut rather than overtly broad.
 
 ## Origin and viticulture
 
 The French Plantgrape catalogue places Sémillon's origin in the Bordeaux
 vineyards, though a more precise birthplace and early history are not securely
-established.[^1] The same catalogue describes a moderately vigorous,
-productive, mid-ripening vine with medium bunches and large berries. Yield
-varies strongly with site and farming, so productivity does not translate into
-one fixed wine character.
+established.[^1] The same catalogue describes a moderately vigorous, productive,
+mid-ripening vine with medium bunches and large berries. Yield varies strongly
+with site and farming.
 
 Sémillon is sensitive to grey rot as well as several other vineyard pests and
-diseases. Wine Australia also characterizes it as thin-skinned. This
-susceptibility is not automatically an advantage: rain and sustained humidity
-near harvest can produce destructive rot, dilute fruit, or force an early pick.
-Where sound grapes reach ripeness and autumn weather alternates humid periods
-with drier conditions, however, the same fungus can develop as noble rot.
+diseases. Wine Australia also characterizes it as thin-skinned. Rain and
+sustained humidity near harvest can produce destructive rot, dilute fruit, or
+force an early pick. Where sound grapes reach ripeness and autumn weather
+alternates humid periods with drier conditions, however, the same fungus can
+develop as noble rot.
 
 ## Why noble rot matters
 
 Noble rot is a particular course of *B. cinerea* infection, not a separate
 organism. Moisture allows the fungus to establish itself on ripe berries; later
 drying slows its spread and encourages water loss through damaged skins. The
-berry shrivels, concentrating sugar, acids, and other dissolved material. At
-the same time, fungus and berry alter the fruit's metabolism, so the result is
-not equivalent to simply evaporating water.
+berry shrivels, concentrating sugar, acids, and other dissolved material. At the
+same time, fungus and berry alter the fruit's metabolism.
 
-A three-year field study of naturally infected Sémillon berries found changes
-in organic acids, sugars, phenolic pathways, terpenes, and aroma precursors as
+A three-year field study of naturally infected Sémillon berries found changes in
+organic acids, sugars, phenolic pathways, terpenes, and aroma precursors as
 noble rot progressed; related chemical differences remained detectable in the
-finished wines.[^2] The study clarifies why botrytized Sémillon can combine
-concentration with a character distinct from dry Sémillon, but it does not make
-the outcome predictable. Berry ripeness, infection timing, airflow, rain, and
-harvest selection still determine whether rot is useful or destructive.
+finished wines.[^2] Berry ripeness, infection timing, airflow, rain, and harvest
+selection still determine whether rot is useful or destructive.
 
 Selective picking is therefore essential in classic sweet-wine production.
 Several passes may be needed to take suitably affected berries while leaving
 others to develop or rejecting unhealthy fruit. The concentrated crop yields
-little juice and can be difficult to ferment. Residual sugar comes from the
-combination of concentrated must and fermentation decisions; noble rot itself
-does not determine the finished sweetness.
+little juice and can be difficult to ferment. Residual sugar depends on the
+concentration of the must and how far fermentation proceeds.
 
 ## Texture and the Sauvignon Blanc partnership
 
 Dry Sémillon can have substantial body without especially high acidity. That
-combination often explains the rounded or waxy impression more usefully than a
-long list of flavours. Skin and juice handling, fermentation in barrel, time on
-lees, and maturation can broaden it further, while an early harvest and neutral
-vessels can make a much leaner wine. With bottle age, fruit may recede as
-honeyed, toasted, or wax-associated aromas emerge, changing perceived texture
-even when the liquid has not become literally more viscous.
+combination often explains the rounded or waxy impression. Skin and juice
+handling, fermentation in barrel, time on lees, and maturation can broaden it
+further, while an early harvest and neutral vessels can make a much leaner wine.
+With bottle age, fruit may recede as honeyed, toasted, or wax-associated aromas
+emerge, changing perceived texture as well as aroma.
 
 In Bordeaux blends, [Sauvignon Blanc](sauvignon-blanc.md) commonly supplies a
 more conspicuous aromatic and acid line, while Sémillon contributes breadth and
-continuity across the palate. The distinction is useful but not absolute:
-harvest date and cellar practice can make Sauvignon broad or Sémillon brisk.
-Changing the proportions lets a producer adjust freshness, texture, aroma, and
-development in bottle without imposing a fixed regional recipe.
+continuity across the palate. Harvest date and cellar practice can also make
+Sauvignon broad or Sémillon brisk. Changing the proportions lets a producer
+adjust freshness, texture, aroma, and development in bottle.
 
 ## Bordeaux and Hunter Valley
 
@@ -91,13 +83,11 @@ Sauvignon-led blends and restrained cellar work produce a different balance.
 
 In Sauternes, Sémillon's rot sensitivity becomes central to the style. The
 appellation permits the same four varieties and requires overripe grapes with
-noble rot, harvested by successive manual selections.[^3] Sémillon is central
-in practice, but the rules do not prescribe one blend percentage. Sauvignon
-Blanc can bring acidity and a different aromatic contribution, while the share
-and stage of botrytized fruit, fermentation, and maturation shape the final
-wine as much as varietal proportion. Bordeaux Sémillon is therefore not one
-style: it spans dry blends and sweet wines transformed by fungal infection and
-concentration.
+noble rot, harvested by successive manual selections.[^3] Sémillon is central in
+practice, but the rules do not prescribe one blend percentage. Sauvignon Blanc
+can bring acidity and a different aromatic contribution, while the share and
+stage of botrytized fruit, fermentation, and maturation shape the final wine as
+much as varietal proportion.
 
 ### Hunter Valley
 
@@ -109,15 +99,14 @@ the region's warmth. Timing is crucial: it can preserve freshness and shorten
 exposure to summer rain, but picking too early can leave a hard or undeveloped
 wine.
 
-Bottle rather than barrel is the traditional agent of transformation. In a
-study following 16 commercial Hunter Valley Sémillons through three years of
-cellaring, primary fruit attributes generally declined while honey, toast, and
-orange-marmalade attributes became more prominent.[^4] That limited sample does
-not establish one ageing path for every wine, but it supports the regional
-contrast: mature Hunter Sémillon can acquire richness and developed aromas
-without having been oak-aged. Bordeaux often builds texture through blending,
-later harvest, botrytis, and cellar maturation; Hunter Valley commonly begins
-with early-picked varietal wine and asks time in bottle to supply complexity.
+Further development takes place in bottle. In a study following 16 commercial
+Hunter Valley Sémillons through three years of cellaring, primary fruit
+attributes generally declined while honey, toast, and orange-marmalade
+attributes became more prominent.[^4] Mature Hunter Sémillon can acquire
+richness and developed aromas without having been oak-aged. Bordeaux often
+builds texture through blending, later harvest, botrytis, and cellar maturation;
+Hunter Valley commonly begins with early-picked varietal wine and asks time in
+bottle to supply complexity.
 
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro
     Montpellier, “Semillon B,” Plantgrape, edited 21 August 2026.

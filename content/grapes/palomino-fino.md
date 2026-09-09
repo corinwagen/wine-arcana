@@ -11,11 +11,10 @@ aliases:
 
 Palomino Fino is a pale-skinned *Vitis vinifera* grape most closely associated
 with [Jerez](../regions/jerez.md) and the dry wines called
-[Sherry](../styles/sherry.md). Its importance is easy to misunderstand if the
-grape is judged as an ordinary young white wine. Palomino commonly gives a
-relatively low-acid base wine with little forceful varietal aroma. In Jerez,
-that discretion leaves room for fermentation, fortification where used, and
-years of biological or oxidative ageing to shape the finished wine.
+[Sherry](../styles/sherry.md). Palomino commonly gives a relatively low-acid
+base wine with little forceful varietal aroma. In Jerez, that discretion leaves
+room for fermentation, fortification where used, and years of biological or
+oxidative ageing to shape the finished wine.
 
 Palomino supplies a comparatively modest range of grape-derived aroma
 precursors, leaving site, ripeness, pressing, fermentation, and ageing especially
@@ -38,15 +37,12 @@ identifies Palomino Fino and Mollar Cano as the parents of the dark-skinned
 [Listán Negro](listan-negro.md).[^4] The shared word *Listán* therefore reflects
 regional naming, while the white parent and its dark-skinned offspring remain
 distinct cultivars.
-Administrative catalogues can also preserve territorial naming conventions,
-so a label or regional list deserves to be read in its own context.
 
 In Portugal, names including *Listrão* on Porto Santo and *Malvasia Rei* on the
 mainland are used for this variety in specialist varietal records. Those names
 should not be taken to mean it belongs to the many distinct grapes called
-Malvasia. The variety's early history and route into these regions remain less
-secure than these modern identity records, so claims of a precise origin need
-more evidence than a shared name or a repeated migration story provides.[^5]
+Malvasia. The variety's early history and route into these regions remain
+uncertain.[^5]
 
 ## Vine, climate, and base wine
 
@@ -58,18 +54,15 @@ season, water supply, crop level, and picking date all matter. A warm year or
 later harvest can push a base wine toward greater alcohol and less acid lift.
 
 For a fresh, unfortified white, this combination can be limiting unless the
-vineyard and cellar preserve balance. Some growers now make such wines, and
-skin contact, pressing choices, or work on lees can draw out more aroma and
-texture. A controlled trial found that longer skin contact and a selective
-extraction treatment increased volatile compounds in Palomino Fino wines.[^1]
-The result shows how cellar technique can amplify aroma while leaving the
-outcome dependent on method.
+vineyard and cellar preserve balance. Some growers now make such wines, and skin
+contact, pressing choices, or work on lees can draw out more aroma and texture.
+A controlled trial found that longer skin contact and a selective extraction
+treatment increased volatile compounds in Palomino Fino wines.[^1]
 
 In the Sherry region, base wine is normally fermented dry. Its comparative
 restraint is an advantage when later ageing is intended to become the dominant
 voice. The wine may be biologically aged, oxidatively aged, blended through a
-solera, or follow some combination of those paths. Palomino's restrained base
-wine carries these transformations particularly well.
+solera, or follow some combination of those paths.
 
 ## Biological ageing and Sherry
 
@@ -80,14 +73,13 @@ access to oxygen favour their shift from fermentation toward oxidative
 metabolism. The film moderates direct oxidation while relying on oxygen for the
 yeasts' metabolism.[^6]
 
-This matters to Palomino because its young-wine character is only the first
-stage. Under flor, yeast metabolism consumes or changes wine constituents and
-produces acetaldehyde from ethanol; biologically aged wines also show lower
-glycerol and volatile acidity than comparable unaged wines. These changes help
-create the distinctive dry, savoury, sometimes tangy character associated with
-Fino and Manzanilla. The result depends on the health and thickness of flor,
-the wine's strength and nutrients, cask management, bodega temperature and
-humidity, and time.
+Under flor, yeast metabolism consumes or changes wine constituents and produces
+acetaldehyde from ethanol; biologically aged wines also show lower glycerol and
+volatile acidity than comparable unaged wines. These changes help create the
+distinctive dry, savoury, sometimes tangy character associated with Fino and
+Manzanilla. The result depends on the health and thickness of flor, the wine's
+strength and nutrients, cask management, bodega temperature and humidity, and
+time.
 
 Wines intended for oxidative ageing mature without persistent flor. Direct
 oxygen exposure and long cask maturation reshape colour, aroma, and texture,
@@ -103,10 +95,6 @@ appears in southern Spanish wine regions beyond the Sherry PDO. In the Canary
 Islands, Listán Blanco grows across varied elevations, exposures, and volcanic
 or other local soils. Different climates, harvest dates, blends, and cellar
 decisions give the variety a different balance and use from Jerez.
-
-Portugal's Listrão and Malvasia Rei provide a second reminder that grape names
-travel more easily than wine styles. Their regional histories are worth
-exploring in their own right, particularly on Porto Santo.
 
 [^1]: Ana M. Roldán et al., “Influence of Different Vinification Techniques on
     Volatile Compounds and the Aromatic Profile of Palomino Fino Wines,”

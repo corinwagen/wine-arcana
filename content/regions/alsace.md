@@ -48,9 +48,7 @@ regional specification, the usage name “Auxerrois” refers to Auxerrois B,
 while “Pinot blanc” may refer to Pinot blanc B and Auxerrois B; “Pinot” or
 “Klevner” likewise covers those two varieties.[^1] A bottle labelled Pinot
 blanc therefore does not necessarily contain only the variety botanically
-called Pinot blanc. The legal grape name on an Alsace label is a regulated
-denomination in usage, not always a one-to-one translation of the vineyard's
-genetic identity.
+called Pinot blanc.
 
 ## Wine styles
 
@@ -97,9 +95,7 @@ not a general quality adjective that a producer can add to an Alsace wine.
 
 **Crémant d'Alsace AOC** is the sparkling designation. It shares the Alsace
 area but is defined by sparkling-wine categories, permitted grapes, and
-traditional-method production rather than by a grand cru parcel. Its label
-answers a different question from “Alsace grand cru”: style and method, not a
-hierarchy of vineyard designation.
+traditional-method production.
 
 [^1]: Ministère de l'Agriculture, *Cahier des charges de l'appellation
     d'origine contrôlée « Alsace »*, 2026, sections II, IV, VIII, and X.

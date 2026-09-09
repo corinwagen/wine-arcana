@@ -7,22 +7,19 @@ title: Dão
 Dão is an inland wine region in central Portugal, centred on granite uplands
 around the Dão and Mondego rivers. Mountain ranges partly shelter it from both
 Atlantic weather and the harsher continental air of the interior. This setting
-can help grapes retain acidity through a hot summer, but it does not give every
-vineyard the same climate or every wine the same character.
+can help grapes retain acidity through a hot summer.
 
 The name refers both to the historical region and to the protected designation
 of origin (DOP) for qualifying wines. Modern Dão includes red, white, rosé, and
 sparkling wine. Blends remain important, especially where old vineyards mix
 several varieties, while varietal bottlings have made grapes such as Touriga
-Nacional and Encruzado more visible. Geography and blending provide continuities;
-vineyard, harvest, extraction, vessel, and maturation prevent them from becoming
-one regional house style.
+Nacional and Encruzado more visible.
 
 ## Granite uplands and climatic variation
 
 The Caramulo and Buçaco ranges stand toward the west and southwest, the Serra da
-Nave to the north, and the Serra da Estrela to the east. Together they reduce,
-rather than eliminate, outside influences. Winters are generally cold and wet;
+Nave to the north, and the Serra da Estrela to the east. Together they reduce
+outside influences. Winters are generally cold and wet;
 summers can be hot and dry. Most vineyards lie around 400 to 500 metres, although
 the official regional profile gives an upper reach of about 800 metres. Elevation,
 slope, aspect, and exposure to gaps in the surrounding mountains create cooler
@@ -33,8 +30,7 @@ low-fertility soils, often with limited water-holding capacity, while schist
 appears in smaller outcrops. These conditions can restrain growth and make vine
 water supply important during summer. “Granite” is still only a starting point:
 soil depth, texture, fractures, and position on a slope change rooting and water
-availability. It should not be read as a flavour passed directly from rock to
-wine.
+availability.
 
 Site and year can alter the growing season even within Dão. A two-year study of
 Touriga Nacional in four commercial vineyards found broadly similar soils but
@@ -42,7 +38,7 @@ different weather, with local thermal conditions accounting for much of the
 difference in vine development and ripening pace.[^1] A higher site or cool year
 may therefore preserve acidity and delay harvest, while a sheltered, exposed, or
 drier parcel can ripen sooner. Rain near harvest and summer drought present
-different risks, and neither the enclosing mountains nor altitude removes them.
+different risks across the region.
 
 ## Mixed vineyards and principal grapes
 
@@ -62,14 +58,14 @@ Touriga Nacional can supply aroma, colour, and tannin, yet it need not dominate
 a blend. Earlier-ripening Alfrocheiro and Jaen can bring different fruit, colour,
 and texture, while Tinta Roriz adds another balance of ripeness and structure.
 Their proportions vary with the vineyard and the wine sought; the DOP rules
-authorize a much longer list rather than prescribing one red recipe.
+authorize a much longer list.
 
 [Encruzado](../grapes/encruzado.md) is the best-known white grape, but it also
 works in blends with [Bical](../grapes/bical.md), Malvasia Fina, Cerceal Branco,
 and others. Encruzado can combine tactile weight with an acid line that supports
 either direct tank-made wine or wines broadened by lees and oak. Bical can add
 body and must be picked carefully to retain freshness; Cerceal Branco and other
-components may reinforce acidity. These roles are tendencies, not fixed formulas.
+components may reinforce acidity.
 
 ## Red, white, and sparkling wine
 
@@ -92,7 +88,7 @@ without imposing one blend as the regional model.
 ## Demarcation, regulation, and cooperatives
 
 Dão's institutional history began amid a national wine surplus and political
-conflict, not with a timeless boundary. The wine was officially recognized in
+conflict. The wine was officially recognized in
 1907, the region was first demarcated in 1908, and regulation followed in 1910.
 Historical research attributes this sequence partly to organized pressure from
 regional landowners during the weakening of Portugal's liberal state, so the

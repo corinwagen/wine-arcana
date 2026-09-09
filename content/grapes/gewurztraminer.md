@@ -39,8 +39,7 @@ The village of Tramin, or Termeno, in Alto Adige is often presented as the
 grape's birthplace and may have supplied the name. Medieval documents establish
 a trade in wine from Tramin, but not that the present variety made it. Local
 historical research argues that those wines were probably based on another grape
-and places the arrival of Traminer vines much later.[^2] The connection remains
-culturally important, but does not prove a geographical origin.
+and places the arrival of Traminer vines much later.[^2]
 
 ## Pink berries and the ripening problem
 
@@ -92,8 +91,7 @@ style and vintage matter when interpreting an ordinary bottle. At the
 concentrated end, Gewürztraminer is one of the four varieties eligible for
 *Vendanges Tardives*, made from overripe fruit, and *Sélection de Grains
 Nobles*, made from hand-selected berries affected by [noble
-rot](../styles/botrytized-sweet-wine.md).[^5] These are specific sweet-wine
-traditions, not evidence that all Alsace Gewürztraminer is sweet.
+rot](../styles/botrytized-sweet-wine.md).[^5]
 
 Across the Alps, Alto Adige has made Gewürztraminer a regional speciality,
 especially around Tramin and Appiano. Warm, ventilated slopes permit high

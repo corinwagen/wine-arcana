@@ -15,24 +15,19 @@ the juice itself and has consequently had an outsized place in blends where
 deepening a pale or dilute partner mattered.
 
 That practical role has sometimes obscured the variety's identity. In Spain it
-is officially designated Garnacha Tintorera, but it is not [Grenache](grenache.md)
-or Garnacha Tinta. It is a nineteenth-century cross that has Grenache as one
-parent. A bottle made chiefly from Alicante Bouschet can be a varietal wine;
-“blending grape” describes a frequent use, not a limit on what can be made from
-it.
+is officially designated Garnacha Tintorera, but it is not
+[Grenache](grenache.md) or Garnacha Tinta. It is a nineteenth-century cross
+that has Grenache as one parent. It also makes varietal wines.
 
 ## Parentage, name, and history
 
 The French Plantgrape record dates its creation to 1855 at Mauguio in Hérault,
 attributing it to Louis and Henri Bouschet. The reported cross is Grenache and
-Petit Bouschet, itself a cross of Aramon and Teinturier du Cher.[^1] The name
-does not establish a Spanish origin for the new variety.
+Petit Bouschet, itself a cross of Aramon and Teinturier du Cher.[^1]
 
 Garnacha Tintorera is the official Spanish designation for Alicante Henri
-Bouschet in plant-propagation material.[^1] The synonym is useful, but the
-similarity to Garnacha can mislead: Spanish records treat Garnacha Tintorera
-(Alicante Bouschet) as one variety and list it separately from Grenache. The
-shorter name *Alicante* can therefore be ambiguous outside this Spanish usage.
+Bouschet in plant-propagation material.[^1] The shorter name *Alicante* can
+therefore be ambiguous outside this Spanish usage.
 
 A variety with unusually coloured fruit could strengthen the appearance of a
 blend without requiring all of the colour to be extracted from skins. That

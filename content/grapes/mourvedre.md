@@ -11,17 +11,17 @@ aliases:
 
 Mourvèdre is a dark-skinned *Vitis vinifera* variety known as Monastrell in
 Spain and traditionally as Mataro or Mataró in Australia and California. The
-names identify the same grape, not three biological types or dependable style
-categories. They reflect different regional histories. Spanish Monastrell is
-often presented as a varietal wine, while French Mourvèdre and Australian Mataro
-often share a blend with
+names identify the same grape and reflect different regional histories.
+Spanish Monastrell is often presented as a varietal wine, while French
+Mourvèdre and Australian Mataro often share a blend with
 [Grenache](grenache.md) and [Syrah](syrah.md).
 
 The variety combines late ripening with an ability to remain productive in
 warm, dry country. Mourvèdre needs a long season and enough heat to ripen its
 skins and seeds, but it also benefits from a modest, continuing water supply.
 Soil depth, rootstock, vine material, crop level, and harvest timing help explain
-differences among wines from semi-arid Mediterranean Spain and maritime Bandol.
+differences among wines from semi-arid Mediterranean Spain and maritime
+[Bandol](../regions/bandol.md).
 
 ![A dark Mourvèdre grape cluster hangs before two green vine leaves.](../../media/images/grapes/mourvedre-ampelography.jpg "Mourvèdre, illustrated by Jules Troncy for Viala and Vermorel's Ampélographie.")
 
@@ -46,12 +46,10 @@ the varietal evidence allows.
 
 French observations place both budbreak and maturity late. At the reference
 collection used by Plantgrape, Mourvèdre buds about two weeks after Chasselas
-and reaches maturity about four and a half weeks after it.[^2] These are
-comparative stages, not universal harvest dates, but they clarify the practical
-constraint: a site must supply sustained warmth, including warm nights late in
-the season. In a marginal site or cool year, sugar can lag and tannin remain
-severe. In a very hot site, waiting can instead raise potential alcohol while
-acidity falls.
+and reaches maturity about four and a half weeks after it.[^2] A site must
+supply sustained warmth, including warm nights late in the season. In a
+marginal site or cool year, sugar can lag and tannin remain severe. In a very
+hot site, waiting can instead raise potential alcohol while acidity falls.
 
 Mourvèdre's upright growth suits short pruning and traditional bush-vine or
 cordon training. Its relatively sparse foliage means repeated trimming can

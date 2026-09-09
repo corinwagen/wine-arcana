@@ -7,8 +7,9 @@ title: Vin jaune
 Vin jaune is a dry white wine of France's [Jura](../regions/jura.md) region, matured for years in
 partly filled oak under a surface veil of yeast. The name is a regulated
 traditional mention rather than a general term for yellow-coloured or
-oxidatively matured wine: it may accompany the Jura appellations Arbois, Côtes
-du Jura, and L'Étoile, while Château-Chalon is an appellation exclusively
+oxidatively matured wine: it may accompany the Jura appellations
+[Arbois](../regions/arbois.md), Côtes du Jura, and L'Étoile, while
+[Château-Chalon](../regions/chateau-chalon.md) is an appellation exclusively
 defined by this wine.[^1] The four appellations define different geographical
 areas and, in their adopted specifications, do not have identical grape rules.
 
@@ -27,8 +28,8 @@ sixth year after the harvest, with at least 60 months under the veil. The wine
 can therefore reach the consumer only from 1 January of the seventh year after
 the harvest.[^2]
 
-The veil is a living community rather than a single uniform ingredient. A
-study of 41 Savagnin Jura wines from two cellars found succession among the
+The veil's yeast community changes during maturation. A study of 41 Savagnin
+Jura wines from two cellars found succession among the
 yeasts during ageing and substantial differences between veils; the veils were
 predominantly *Saccharomyces cerevisiae*, with occasional other species.[^3]
 
@@ -42,10 +43,7 @@ and Gringet B under the same kind of conditional convention. Château-Chalon's
 current specification, homologated on 11 August 2026, likewise names Savagnin B
 as the principal grape and conditionally permits Enfariné N and Gringet B.[^4]
 
-Those exceptions are narrow provisions within particular appellation rules,
-not a basis for calling all Jura vin jaune a multi-grape wine. Savagnin remains
-the central and, in L'Étoile, exclusive permitted grape; the permitted
-adaptation varieties are subject to each specification's limits and
+The adaptation varieties are subject to each specification's limits and
 administrative conditions.
 
 ## Character and distinction
@@ -60,9 +58,9 @@ the important odorants, alongside compounds associated with yeast, oxidation,
 and oak.[^5]
 
 Vin jaune is related to biologically aged wines such as [Fino Sherry](sherry.md) because
-both use a yeast film, but it is not Sherry: vin jaune is an unfortified Jura
-wine governed by French appellation rules, with its own grape framework and
-long static élevage.
+both use a yeast film, while vin jaune's unfortified base wine and long static
+maturation
+give it a different course of development.
 
 The finished wine is traditionally presented in a *Clavelin*, the squat bottle
 of about 62 centilitres. The adopted specifications reserve this bottle for

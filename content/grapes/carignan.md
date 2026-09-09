@@ -11,13 +11,13 @@ aliases:
 
 Carignan is a dark-skinned *Vitis vinifera* variety with a particularly
 Mediterranean history. In north-eastern Spain it is associated with the name
-Cariñena; Mazuelo is the name familiar in [Rioja](../regions/rioja.md),
-while Plantgrape records Mazuela as the official Spanish designation. These
-names usually identify the same variety, not reliably different styles of
-wine. They also reflect a long history of regional propagation, which matters
-when comparing old vineyards, clones, and local practice.
+Cariñena; Mazuelo is the name familiar in [Rioja](../regions/rioja.md), while
+Plantgrape records Mazuela as the official Spanish designation. These names
+usually identify the same variety. They also reflect a long history of
+regional propagation, which matters when comparing old vineyards, clones, and
+local practice.
 
-The grape is often framed as a contrast between quantity and character. Its
+Its
 vigour and dependable fertility made it valuable for large-volume wine in
 twentieth-century southern France, where production from fertile sites helped
 give it a durable reputation for hard, plain wine. In suitable dry sites, with
@@ -37,18 +37,16 @@ movement more securely than it settles that question.
 
 Carignan became enormously important in France. Plantgrape's historical series
 records 211,254 hectares in 1968, followed by a long contraction to 30,993
-hectares in 2018.[^2] Those figures describe vineyard area, not a direct
-measure of wine quality. They nevertheless explain why the variety became
+hectares in 2018.[^2] That former scale helps explain why the variety became
 strongly associated with the large-volume red-wine economy of Languedoc and
 Roussillon. The association was reinforced when fertile vines were allowed to
 carry large crops: the resulting wines could be angular and dilute in fruit,
 with bitter or green-edged tannin.
 
 In a 2025 survey of 3,507 Languedoc-Roussillon vineyard plots, Carignan and
-[Cinsault](cinsault.md) included many of the oldest vines, but old plots could still achieve
-medium or high yields. Vine age, label category, site, rootstock, and farming
-all interact. The practical lesson is to ask how a vineyard is planted and
-managed, as well as how long it has stood.[^3]
+[Cinsault](cinsault.md) included many of the oldest vines, but old plots could
+still achieve medium or high yields. Vine age, label category, site,
+rootstock, and farming all interact.[^3]
 
 ## Viticulture and ripening
 
@@ -57,8 +55,7 @@ short-pruned as a bush vine or cordon, which helps restrain a crop that can
 otherwise be substantial. Its late cycle suits warm regions with a sufficiently
 long autumn; in a cool site or short season, skins and seeds may not ripen in
 step with sugar. In very hot conditions, waiting for phenolic maturity can
-instead bring extra sugar and alcohol. “Mediterranean” is therefore a useful
-starting point, not a guarantee of balance.
+instead bring extra sugar and alcohol.
 
 The variety is well adapted to hot, dry, windy sites and comparatively poor
 soils, including schist. Plantgrape notes particular susceptibility to powdery
@@ -68,14 +65,13 @@ the eventual balance between acidity, colour, and tannin.[^4]
 
 ## Wine character and cellar choices
 
-Carignan can retain marked acidity and contribute substantial tannin, qualities
-that help explain both its historical severity and its value in a warm-climate
-blend. Its colour potential is not a fixed outcome: crop level, ripeness,
-extraction, and the material planted all matter. When grapes are picked before
-their tannins are ripe, the wine can feel especially astringent; an abundant
-crop can make the fruit seem less expressive. Mature vines on less fertile
-ground and controlled yields often offer a more balanced starting point, but
-they do not remove the need for careful harvest decisions.
+Carignan can retain marked acidity and contribute substantial tannin,
+qualities that help explain both its historical severity and its value in a
+warm-climate blend. Crop level, ripeness, extraction, and the material planted
+affect its colour. When grapes are picked before their tannins are ripe, the
+wine can feel especially astringent; an abundant crop can make the fruit seem
+less expressive. Mature vines on less fertile ground and controlled yields
+often offer a more balanced starting point.
 
 Winemaking can make those trade-offs more or less apparent. Blending Carignan
 with [Grenache](grenache.md), [Syrah](syrah.md), or
@@ -95,15 +91,12 @@ tannin, aroma, or colour alongside [Tempranillo](tempranillo.md) and other
 varieties.[^5] Elsewhere, it may be a blending grape, a varietal wine, or an old
 mixed planting rather than a label's principal name.
 
-Its revival is best understood as a reappraisal of particular vineyards rather
-than a change in the grape's basic nature. Southern French growers have retained
+Southern French growers have retained
 old bush-vine parcels on dry slopes and poorer soils, while using lower crops,
 later but measured harvesting, gentler extraction, or blending to avoid the
 hardness associated with high-yield production. Inter Rhône describes a similar
 shift in the Rhône Valley from productive plains toward preserved old vines on
-better-exposed hillside sites.[^6] The resulting wines can be fresh and
-structured, but local conditions and choices remain more informative than an
-old-vine claim by itself.
+better-exposed hillside sites.[^6]
 
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro
     Montpellier, “Carignan N,” Plantgrape varietal record, edited 19 August

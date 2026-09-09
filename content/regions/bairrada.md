@@ -5,10 +5,9 @@ title: Bairrada
 # Bairrada
 
 Bairrada is a wine region in central western Portugal, between the Vouga and
-Mondego rivers and open to the Atlantic Ocean. It is closely identified with
-structured red wines from [Baga](../grapes/baga.md), but that shorthand misses
-two other parts of the region: important white varieties and a long tradition
-of bottle-fermented sparkling wine.
+Mondego rivers and open to the Atlantic Ocean. It produces structured reds
+from [Baga](../grapes/baga.md), white wines,
+and bottle-fermented sparkling wines.
 
 The name also has two related meanings. Bairrada is a geographical and
 viticultural region, while DO Bairrada—recognized at European level as a
@@ -26,12 +25,11 @@ useful for both still and sparkling wines. They can also complicate ripening:
 humidity and rain near harvest increase disease pressure, especially for a
 late-ripening, rot-susceptible variety such as [Baga](../grapes/baga.md).
 
-Bairrada is not defined by one uniform soil. Official descriptions emphasize
+Official descriptions emphasize
 clay and clay-limestone alongside sandy and sandy-loam ground. The DO rules
 describe three broad eligible groups: brown or red calcareous soils, litholic
 soils, and podzols formed on weakly consolidated sandy material. Differences
-in drainage and water retention make site and season important, but soil names
-alone do not predict a wine's style or quality.
+in drainage and water retention affect vine growth and ripening.
 
 ## Grapes
 
@@ -45,8 +43,7 @@ also used for rosé and sparkling wine, not only for long-lived still reds.
 
 The principal traditional white grapes are [Fernão Pires](../grapes/fernao-pires.md)—locally called Maria
 Gomes—[Bical](../grapes/bical.md), [Arinto](../grapes/arinto.md), and Cercial.
-They are complementary rather than fixed to a
-single recipe. Fernão Pires is early-ripening and aromatic; Bical also ripens
+Fernão Pires is early-ripening and aromatic; Bical also ripens
 early and is widely used in sparkling bases, often with Arinto. Arinto can
 retain marked acidity, while the official varietal description of Cercial
 notes both its high acidity and its aptitude for sparkling base wine. Picking
@@ -57,23 +54,22 @@ Blanc](../grapes/pinot-blanc.md), [Sauvignon Blanc](../grapes/sauvignon-blanc.md
 
 ## Wine and the sparkling tradition
 
-Bairrada's still wines include red, white, and rosé. No single profile covers
-them. Baga reds can combine firm acidity and tannin, but ripeness, vineyard
+Bairrada's still wines include red, white, and rosé. Baga reds can combine
+firm acidity and tannin, but ripeness, vineyard
 site, destemming, extraction, vessel, and age all alter their weight and
 texture. White wines range from early-drinking, aromatic examples to more
 restrained wines shaped by blending, lees contact, oak, or bottle age.
 
 The current DO specification attributes Portugal's first commercial production
-of sparkling wine to Bairrada in 1890. That date supports a documented regional
-tradition without implying that every present-day sparkling wine follows one
-style. Producers use white grapes as well as rapidly pressed Baga and other red
+of sparkling wine to Bairrada in 1890. Producers use white grapes as well as
+rapidly pressed Baga and other red
 varieties, making white, rosé, and red sparkling wines.
 
 For a quality sparkling wine to carry the Bairrada DO, the second fermentation
 must take place in the bottle by the legally defined classic method. The wine
 must remain at the preparer's premises for at least nine months after bottling
-before release. Longer maturation is a producer choice rather than a regional
-constant. The Atlantic-influenced growing conditions can preserve the acidity
+before release. Producers may choose longer maturation. The
+Atlantic-influenced growing conditions can preserve the acidity
 needed to keep such wines balanced, while grape variety, harvest date, time in
 bottle, and dosage account for substantial variation.
 
@@ -96,10 +92,7 @@ soils, varieties, yields, cultivation, and production; it includes still wine,
 quality sparkling wine, and liqueur wine. IG Beira Atlântico covers a much
 larger part of the districts of Aveiro and Coimbra and specified areas of
 Leiria. Its broader specification admits more soils, grapes, and categories,
-including several kinds of sparkling and lightly sparkling wine. A Beira
-Atlântico label therefore identifies the larger Atlantic zone and its rules,
-not simply a lesser version of Bairrada DO. Conversely, the regional story of
-Bairrada is larger than the contents of any one appellation specification.
+including several kinds of sparkling and lightly sparkling wine.
 
 [^1]: *Decreto-Lei n.º 70/91*, 8 February 1991, article 4, now revoked.
 [^2]: *Decreto-Lei n.º 301/2003*, 4 December 2003, preamble and article 1,

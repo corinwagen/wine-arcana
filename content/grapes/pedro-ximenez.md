@@ -33,9 +33,7 @@ Spelling is consequential here. **Pedro Giménez**, the Argentine white criolla
 variety, is not Pedro Ximénez. A microsatellite study found the two to be
 different cultivars and found no genetic relationship between them in the
 markers examined; it instead supported Pedro Giménez as offspring of [Muscat of
-Alexandria](moscatel-de-alejandria.md) and Criolla Chica.[^2] A label or
-planting record therefore needs
-its place and genetic identity, not just a near-identical name.
+Alexandria](moscatel-de-alejandria.md) and Criolla Chica.[^2]
 
 On a label, Pedro Ximénez may name a naturally sweet fortified wine under a
 regional appellation as well as the grape. Pedro Ximénez can also be made dry:
@@ -44,12 +42,11 @@ Fino style. The legal category and production method explain the finished wine.
 
 ## Drying grapes for sweetness
 
-In the traditional *asoleo* process, growers lay sound harvested bunches in
-the sun. Water evaporates while sugar, acid, skin material, and other dissolved
-components become more concentrated. This is drying, or raisining, rather than
-the concentration caused by *Botrytis cinerea* in a [botrytized sweet wine](../styles/botrytized-sweet-wine.md). Its
-practical success depends on ripe, healthy fruit and dry enough weather to
-avoid damaging the berries before pressing.
+In the traditional *asoleo* process, growers lay sound harvested bunches in the
+sun. Water evaporates while sugar, acid, skin material, and other dissolved
+components become more concentrated. Its practical success depends on ripe,
+healthy fruit and dry enough weather to avoid damaging the berries before
+pressing.
 
 Montilla-Moriles defines *asoleo* as post-harvest sun exposure on gently
 sloping ground, designed to dehydrate the berries while preserving their skins
@@ -69,11 +66,10 @@ and the starting fruit all affect the balance.
 
 Montilla-Moriles is the principal inland Andalusian home of Pedro Ximénez. Its
 vineyards occupy the rolling country south of Córdoba, where the protected zone
-includes Montilla and Moriles as well as neighbouring municipalities. The
-grape is central enough to the appellation that it supplies both dry and sweet
-styles; warm growing conditions can help fruit accumulate the sugar needed for
-the dried-grape route, but the sweet wine remains the result of a deliberate
-post-harvest process.[^3]
+includes Montilla and Moriles as well as neighbouring municipalities. The grape
+is central enough to the appellation that it supplies both dry and sweet styles;
+warm growing conditions can help fruit accumulate the sugar needed for the
+dried-grape route before post-harvest drying.[^3]
 
 In Jerez, [Palomino Fino](palomino-fino.md) is the main grape for the region's
 dry wines. Pedro Ximénez is authorized there for the naturally sweet category

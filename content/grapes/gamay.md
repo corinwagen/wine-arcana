@@ -6,12 +6,10 @@ title: Gamay
 
 Gamay is a dark-skinned *Vitis vinifera* variety whose strongest association
 is with [Beaujolais](../regions/beaujolais.md), between Lyon and Mâcon. Its
-reputation was built partly on
-Beaujolais Nouveau: often pale, supple wine released within weeks of harvest.
-That familiar style shows what short whole-bunch maceration can do, not the
-limit of the grape. Longer extraction, more selective sites, and maturation can
-give Gamay firmer structure and a less overtly fermentative character,
-especially in the named crus of northern Beaujolais.
+reputation was built partly on Beaujolais Nouveau: often pale, supple wine
+released within weeks of harvest. Longer extraction, more selective sites, and
+maturation can give Gamay firmer structure and a less overtly fermentative
+character, especially in the named crus of northern Beaujolais.
 
 Genetic analysis identifies Gamay as an offspring of the old Pinot lineage and
 Gouais blanc. It is therefore a full sibling of [Chardonnay](chardonnay.md)
@@ -44,8 +42,7 @@ vigor but is fertile, so a vine can crop generously without making especially
 powerful shoot growth. Short pruning and crop control help prevent high yields
 from diluting the fruit or exhausting the vine. Its compact bunches can be
 vulnerable to grey rot, while poor weather at flowering may cause uneven berry
-set. Site, season, canopy, crop, and harvest timing therefore condition any
-simple claim that Gamay is inherently light or fruity.
+set.
 
 Granite is central to the image of Beaujolais because much of the northern
 vineyard lies on old crystalline and metamorphic formations. Weathering of
@@ -54,14 +51,10 @@ from sandy to clay-rich. Farther south, younger limestone formations more
 often give deeper, more clay-rich soils.[^3] This broad contrast helps explain
 why granite and the northern crus are frequently discussed together.
 
-“Granite soil” is still a shorthand, not a flavor recipe. The north also
-contains schist, volcanic and volcano-sedimentary rocks, while slope deposits
-can cover the underlying bedrock; Côte de Brouilly and parts of Morgon are
-obvious cautions against treating every cru as the same pink-granite site.
-Weathered granite matters through properties such as soil depth, texture,
-drainage, water storage, and rooting, in combination with elevation and
-exposure. It does not establish that a mineral flavor passes directly from
-rock into wine.
+The north also contains schist, volcanic and volcano-sedimentary rocks, while
+slope deposits can cover the underlying bedrock. Weathered granite matters
+through properties such as soil depth, texture, drainage, water storage, and
+rooting, in combination with elevation and exposure.
 
 ## Carbonic and semi-carbonic traditions
 
@@ -80,7 +73,7 @@ fermenting the released juice and produces the carbon dioxide that makes the
 upper, intact berries anaerobic. Both conventional yeast fermentation and
 intracellular metabolism consequently occur in the same vat.[^4]
 
-Neither term specifies a finished style by itself. The proportion of intact
+The proportion of intact
 bunches, stem ripeness, temperature, time before pressing, pumping over, and
 the treatment of press wine all change color, tannin, and aroma. A short
 semi-carbonic maceration can emphasize immediate fruit and distinctive
@@ -109,9 +102,7 @@ Beaujolais Nouveau. Producers often use longer maceration and maturation to
 develop more tannin and reduce the prominence of fermentation aroma, but cru
 status does not mandate a single weight, method, or ageing curve. A cru can be
 delicate and enjoyable young; a non-nouveau Beaujolais or Beaujolais-Villages
-can also develop in bottle. The useful distinction is between an early-release
-category designed for immediacy and geographically specific appellations that
-allow site, vintage, and cellar decisions more room to register.
+can also develop in bottle.
 
 ## Beyond Beaujolais
 
@@ -120,9 +111,7 @@ red and rosé wine, including the varietally named Anjou Gamay; it is central to
 Coteaux d'Ancenis, the sole red variety of Côtes du Forez, and also grown in
 Bugey. These places include oceanic, granitic, volcanic, and Alpine-influenced
 settings, so they broaden the grape beyond a Beaujolais model. Switzerland is
-another important home, particularly in the French-speaking west. Carbonic or
-semi-carbonic methods may be used in any of these regions, but neither is
-required for a wine to be Gamay.
+another important home, particularly in the French-speaking west.
 
 [^1]: John Bowers et al., “Historical Genetics: The Parentage of Chardonnay,
     Gamay, and Other Wine Grapes of Northeastern France,” *Science* 285 (1999),

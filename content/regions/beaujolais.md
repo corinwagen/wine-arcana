@@ -7,15 +7,10 @@ title: Beaujolais
 Beaujolais is a wine region on the eastern edge of the Massif Central, between
 Lyon and Mâcon, and the name of its broad regional appellation. It is closely
 identified with [Gamay](../grapes/gamay.md), Beaujolais Nouveau, and
-[carbonic maceration](../concepts/carbonic-maceration.md). None is an adequate
-definition on its own. The region also produces non-nouveau red and rosé wine,
+[carbonic maceration](../concepts/carbonic-maceration.md). The region also
+produces non-nouveau red and rosé wine,
 white wine from [Chardonnay](../grapes/chardonnay.md), Beaujolais carrying the
 *Villages* mention, and the red wines of ten separate cru appellations.
-
-Understanding that range requires two distinctions. Beaujolais contains
-contrasting land rather than a single granitic terroir, and its appellation
-names identify different delimited origins and production rules rather than a
-dependable ladder of taste or quality.
 
 ![Three vineyard workers harvest grapes by hand among low vines.](../../media/images/regions/beaujolais-harvest-1935.jpg "Grape harvest in Beaujolais, 1935.")
 
@@ -49,14 +44,11 @@ Fleurie, for example, steep upper slopes can have shallow sandy soils and
 exposed bedrock, while colluvium downslope produces deeper soils with more clay
 and fine material.
 
-These differences matter through vine water supply, drainage, temperature,
-and the timing of ripening, but they do not transmit a fixed flavour or quality
-rank from rock to wine. An observatory of Gamay sites in Beaujolais found
+These differences affect vine water supply, drainage, temperature, and the
+timing of ripening. An observatory of Gamay sites in Beaujolais found
 strong vintage and site effects; appellation explained the timing of ripening
 poorly, and measured soil composition had only a weak relationship with the
-grape and wine characteristics studied.[^3] That result does not make geology
-irrelevant. It places geology among interacting conditions that also include
-topography, weather, farming, crop level, and harvest date.
+grape and wine characteristics studied.[^3]
 
 ## Gamay and the region's other wines
 
@@ -67,22 +59,18 @@ The combination of site, season, crop, and extraction helps explain why Gamay
 here can yield both immediately supple wines and firmer wines capable of
 developing in bottle.
 
-The legal position is slightly less absolute than the phrase “Gamay region”
-suggests. Current regional rules permit limited accessory varieties in red and
+Current regional rules permit limited accessory varieties in red and
 rosé vineyards, some only as mixed plants within a parcel. The cru rules also
 center Gamay but preserve a narrow allowance for mixed plantings: under
 the current Fleurie specification, for example, [Aligoté](../grapes/aligote.md),
 Chardonnay, and [Melon](../grapes/melon-de-bourgogne.md)
 may together occupy no more than 15 percent of a parcel and must be interplanted
-with the principal variety.[^4] In practice, Gamay remains the defining red
-grape, but “100 percent Gamay” should not be treated as a universal legal rule.
+with the principal variety.[^4]
 
 For white Beaujolais—including wine carrying the *Villages* mention—the
-current regional specification requires Chardonnay alone. Rosé and white wine
-are less central to the region's public image, yet their existence is another
-reason not to equate Beaujolais with one red winemaking method.
+current regional specification requires Chardonnay alone.
 
-## Appellation names without a ladder
+## Appellations
 
 The broad Beaujolais appellation covers red, rosé, and white still wine. Within
 its own specification, *Villages* is a supplementary geographical mention for
@@ -98,7 +86,7 @@ separately delimited appellation for red wine, with its own specification. A
 cru name tells the reader where the grapes qualified to come from; it does not
 prescribe a single cellar method or rank that cru against the other nine.
 
-Nor is each cru geologically uniform. Chiroubles and Fleurie are strongly
+Chiroubles and Fleurie are strongly
 associated with weathered pink granite, yet depth and texture change down their
 slopes. Côte de Brouilly wraps around steep Mont Brouilly and combines the
 so-called blue-rock formations with granite and slope debris. Juliénas
@@ -108,7 +96,7 @@ Brouilly still contains blue-rock, sedimentary, piedmont, and colluvial ground.
 Differences also occur within a named lieu-dit, and two producers can farm and
 vinify neighbouring parcels differently.
 
-The categories therefore overlap without forming a simple pyramid. A producer
+A producer
 may use a broader appellation when eligible wine is not claimed under a
 narrower one, and a blend of sites can be as deliberate as a single-parcel
 bottling. Current cru rules permit a cadastral lieu-dit on the label, but that
@@ -132,8 +120,7 @@ Producers are not confined to that approach. They may extend maceration and
 work the cap for greater extraction, destem some or all of the crop, or mature
 wine in concrete, steel, large cask, or smaller barrel. Semi-carbonic practice
 can produce a cru intended to age, while destemmed vinification can make a
-relatively accessible wine. Appellation, vessel, and technique each answer a
-different question; none determines the finished character by itself.[^7]
+relatively accessible wine.[^7]
 
 *Nouveau* and *primeur* are regulated early-release mentions, not methods and
 not synonyms for the region. Under the current Beaujolais specification, they
@@ -143,13 +130,6 @@ days, and be packaged before the end of the harvest year. The permitted
 production calculation excludes land delimited for the ten crus. These rules
 encourage rapid vinification and an immediately approachable wine, but they do
 not require one precise carbonic recipe.[^5]
-
-Nouveau's international visibility made a seasonal category stand for the
-whole region. Reading Beaujolais by place, however, reveals a broader picture:
-Gamay grown across contrasting slopes and soils, regional and village names
-with specific legal meanings, ten geographically varied crus, and production
-choices that can emphasize either immediacy or development without assigning
-either aim an automatic quality rank.
 
 [^1]: French Ministry of Agriculture, *Cahier des charges de l'appellation
     d'origine contrôlée « Beaujolais »*, approved 5 August 2026, sections

@@ -149,6 +149,10 @@ traditions create distinct balances among acidity, aroma, sugar, and TDN.
     “Kremstal”*, consolidated 18 September 2024, § 1; *DAC-Verordnung
     “Kamptal”*, in force 17 September 2024, § 3.
 
+## Related topics
+
+- [Icewine](../styles/icewine.md)
+
 ## Sources
 
 - Institut français de la vigne et du vin, INRAE & Institut Agro Montpellier,

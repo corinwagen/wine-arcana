@@ -11,13 +11,12 @@ Skin-contact white wine is made from white-wine grapes whose juice remains with
 the skins during fermentation, often continuing after fermentation has ended.
 This reverses the usual modern white-wine sequence of pressing before
 fermentation. Contact with skins, seeds, and sometimes stems can bring colour
-and phenolic texture more commonly associated with red winemaking, but it does
-not create one fixed kind of wine.
+and phenolic texture more commonly associated with red winemaking.
 
-*Orange wine* and *amber wine* are common names for this broad family, not
-dependable colour standards. A wine may be gold, copper, amber, orange, or even
-pinkish, and its shade does not reveal maceration time, vessel, oxygen exposure,
-or quality. “Amber” is especially associated with Georgia; “orange” is the more
+*Orange wine* and *amber wine* are common names for this broad family. A wine
+may be gold, copper, amber, orange, or even
+pinkish, depending on grape, maceration, and handling. “Amber” is especially
+associated with Georgia; “orange” is the more
 widespread commercial shorthand. *Skin-contact white* describes the method with
 the least dependence on appearance.
 
@@ -27,16 +26,14 @@ Maceration means keeping the liquid and solid parts of the grape in contact so
 that substances in the solids can dissolve into the juice or wine. A few hours
 before pressing may extract aroma precursors in otherwise conventional white
 winemaking; fermenting on the skins or keeping dry wine on its pomace extends
-that contact. Colour does not identify a natural break in this continuum.
+that contact.
 
 The International Organisation of Vine and Wine (OIV) nevertheless created a
 formal category, “white wine with maceration,” in 2020. Its definition requires
 white grape varieties, fermentation in prolonged contact with pomace, and at
 least one month of maceration; it says such a wine *may* be orange-amber and
 tannic.[^1] This technical standard is narrower than everyday usage, which often
-calls wines with shorter fermentative skin contact orange or amber. It is
-therefore useful to state what a producer actually did rather than infer a
-method from the name alone.
+calls wines with shorter fermentative skin contact orange or amber.
 
 Skin contact is also independent of the loosely defined natural-wine movement.
 A producer may inoculate, control temperature, add sulfur dioxide, fine, or
@@ -53,16 +50,14 @@ at dryness, or after a longer post-fermentation maceration.
 Skins contain pigments, phenolic compounds, and many aroma compounds or their
 precursors; seeds and stems contribute different phenolics. Contact can
 therefore deepen colour, add bitterness or astringency, and change aroma as
-well as texture. Yet extraction is not a timer with a single linear result.
-Temperature, alcohol as fermentation progresses, the proportion and condition
+well as texture. Temperature, alcohol as fermentation progresses, the
+proportion and condition
 of the solids, berry breakage, cap management, pressing, and sulfur dioxide all
 alter which compounds are extracted, retained, transformed, or lost.
 
 In a controlled Malvazija Istarska trial, contact periods from two to 42 days
 produced different balances of volatile compounds; longer treatments did not
-simply produce more of everything.[^2] One variety and cellar protocol cannot
-supply a universal ideal duration. “Longer” is a production choice, not a
-quality rank.
+simply produce more of everything.[^2]
 
 The grapes set the starting point. Thick or pigmented skins, as in [Pinot
 Gris](../grapes/pinot-gris.md), can give conspicuous colour relatively quickly,
@@ -93,9 +88,9 @@ Maturation may continue on skins or begin after pressing. Lees contact,
 [malolactic fermentation](../concepts/malolactic-fermentation.md), racking, and
 sulfur management further separate wines that began with similar macerations.
 In bottle, phenolics, aroma, and colour continue to change; astringency can
-soften as compounds react or precipitate. Extracted tannin alone does not
-guarantee long life: acidity, microbial stability, oxygen, closure, and storage
-also determine whether ageing brings development or premature decline.
+soften as compounds react or precipitate. Acidity, microbial stability,
+oxygen, closure, and storage also determine
+whether ageing brings development or premature decline.
 
 ## Regional traditions and revival
 
@@ -105,12 +100,10 @@ hold juice with skins, seeds, and sometimes stems through fermentation and a
 longer maturation. The method was inscribed on UNESCO's Representative List of
 the Intangible Cultural Heritage of Humanity in 2013. Practice varies within
 Georgia: official descriptions contrast Kakhetian use of the full pomace with
-Imeretian use of no more than one-third. Qvevri therefore names a vessel and
-tradition, not one recipe or sensory result.
+Imeretian use of no more than one-third.
 
 Skin-contact whites are also established in Friuli and parts of Slovenia, and
-contemporary examples appear much farther afield. Regional grapes and cellar
-traditions still explain more than the colour word on a label.
+contemporary examples appear much farther afield.
 
 [^1]: International Organisation of Vine and Wine, Resolution OIV-ECO 647-2020,
     “White wine with maceration.” The resolution places the term within the

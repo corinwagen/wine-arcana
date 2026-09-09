@@ -7,18 +7,16 @@ aliases:
 # Straw wine
 
 Straw wine is made from grapes that are harvested and then dried before
-pressing. The name describes a production method, not one grape, colour, or
-fixed level of sweetness. Some grapes are placed on straw, but others are laid
-on racks or mats, hung, or dried in a ventilated room. The important distinction
-is that the fruit loses water after harvest, concentrating the remaining must;
-the exact supports and conditions depend on the local tradition.
+pressing. Some grapes are placed on straw, but others are laid
+on racks or mats, hung, or dried in a ventilated room. The fruit loses water
+after harvest, concentrating the remaining must.
 
 Drying is different from [noble rot](botrytized-sweet-wine.md) and from a late
 harvest. Noble rot involves the action of *Botrytis cinerea* on ripe berries,
 which changes their chemistry as well as helping them lose water. A late-harvest
 wine leaves grapes on the vine for longer to gain ripeness and lose water in
 place. Straw wine begins with fruit picked for this purpose and dried off the
-vine; it need not be botrytized or unusually late-harvested.
+vine.
 
 ## How it is made
 
@@ -33,8 +31,7 @@ converts most of that sugar, the wine can become relatively alcoholic and dry;
 if fermentation stops earlier—because the producer chooses to retain sugar or
 because concentrated must becomes difficult for yeast to finish—the wine is
 sweeter and usually lower in alcohol than a fully fermented version of the same
-must. Sweetness therefore comes from the relationship between concentration and
-fermentation, not from drying alone. Yeast, temperature, nutrients, [acidity](../concepts/acidity.md),
+must. Yeast, temperature, nutrients, [acidity](../concepts/acidity.md),
 oxygen exposure, and the desired endpoint all affect whether fermentation is
 completed, arrested, or left with residual sugar.
 
@@ -51,8 +48,7 @@ racks, or with bunches suspended in naturally or artificially ventilated rooms;
 heating the air is forbidden. The must’s sugar concentration at pressing must
 be more than 320 and less than 420 grams per litre.[^3]
 
-Those rules describe the raw material and the drying stage, while fermentation
-still determines how much of the concentrated sugar becomes alcohol. For Côtes
+For Côtes
 du Jura *vin de paille*, the specification sets a minimum acquired alcohol of
 14% by volume and a minimum total alcohol of 19%. Acquired alcohol is the
 alcohol actually present; total alcohol includes the potential alcohol from

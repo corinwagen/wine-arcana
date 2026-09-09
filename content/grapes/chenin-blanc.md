@@ -26,7 +26,7 @@ the same fungus is destructive.
 France's Plantgrape catalogue places Chenin's origin in the Loire Valley and
 tentatively in Anjou. The original seedling's site and date remain unknown.
 Pineau de la Loire is a traditional regional name. Steen, long used in South
-Africa, denotes the same variety rather than a distinct Cape form.
+Africa, denotes the same variety.
 
 ## Viticulture and harvest decisions
 
@@ -42,8 +42,7 @@ different flavour and texture balance, supporting fuller dry wines or leaving
 enough sugar for an off-dry or sweet wine. It also extends exposure to rain,
 birds, and rot. Vouvray's rules make the differing objectives unusually clear:
 they set a lower minimum grape-sugar level for sparkling and lightly sparkling
-base wines than for still wine.[^1] These legal thresholds illustrate a harvest
-decision; they are not universal ripeness targets for Chenin.
+base wines than for still wine.[^1]
 
 Ripeness is also uneven within a vineyard and even within a bunch. Successive
 passes allow pickers to separate sound, moderately ripe fruit from later,
@@ -59,8 +58,7 @@ favours bunch rot, which can damage the fruit and complicate fermentation. The
 outcome also varies with cultivar, berry condition, vineyard practice, and the
 berry's wider microbial community.[^2]
 
-Sweet Chenin therefore need not be botrytised, and botrytised Chenin need not
-come from uniformly affected bunches. The current Coteaux du Layon rules require
+The current Coteaux du Layon rules require
 overripe Chenin harvested by successive hand selections; natural concentration
 on the vine may occur with or without noble rot. Only the more specific
 *sélection de grains nobles* category requires concentration by noble rot.[^3]
@@ -110,18 +108,16 @@ associated with sweet wine from concentrated fruit. Vintage conditions can
 change which styles are practical, especially where late harvest and noble rot
 depend on autumn weather.
 
-South Africa is the variety's other principal centre, where it was long known as
-Steen. Across the Western Cape, Chenin is used for dry still wines of very
+South Africa is the variety's other principal centre, where it was long known
+as Steen. Across the Western Cape, Chenin is used for dry still wines of very
 different weight and maturation, sparkling wine, sweet wine, blends, and
-distillation. Warm inland sites, cooler maritime influence, water availability,
-vine age, yields, and harvest date produce widely varying profiles. The
-International Organisation of Vine and Wine's 2017 survey, based largely on
-country data from around 2015, recorded Chenin as South Africa's most planted
-variety at that time; the figure is not a current area estimate.
+distillation. Warm inland sites, cooler maritime influence, water
+availability, vine age, yields, and harvest date produce widely varying
+profiles. The International Organisation of Vine and Wine's 2017 survey, based
+largely on country data from around 2015, recorded Chenin as South Africa's
+most planted variety at that time.
 
-Chenin is also grown beyond these two centres. In each place, site, harvest
-condition, and production method shape the balance of acidity and sugar in
-sparkling, dry, and sweet wines.
+Chenin is also grown beyond these two centres.
 
 [^1]: Ministère de l'Agriculture et de la Souveraineté alimentaire, *Cahier des
     charges de l'appellation d'origine contrôlée “Vouvray”*, homologated 29

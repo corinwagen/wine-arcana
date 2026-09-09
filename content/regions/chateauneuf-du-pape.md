@@ -9,8 +9,7 @@ aliases:
 Châteauneuf-du-Pape is a southern Rhône appellation on the Rhône's left bank,
 about 15 kilometres north of Avignon. Its wines are dry, still reds and whites
 made within five Vaucluse communes: Bédarrides, Châteauneuf-du-Pape,
-Courthézon, Orange, and Sorgues. The name identifies a delimited place and a
-set of production rules, not one obligatory blend or one soil type.
+Courthézon, Orange, and Sorgues.
 
 ## Geography, soils, and climate
 
@@ -25,12 +24,12 @@ gravel terrace.[^1]
 
 The Mediterranean climate is warm and dry, with the Mistral bringing cold, dry
 northern air. The specification describes less than 650 millimetres of annual
-rainfall and about 2,800 hours of sunshine, figures given in the adopted
-description of the appellation rather than a permanent vintage forecast.[^1]
+rainfall and about 2,800 hours of sunshine, as given in the adopted
+description of the appellation.[^1]
 Dry air can reduce fungal pressure, while wind and heat increase the importance
 of canopy, crop, and water management. The stones can absorb daytime heat and
-release it after dark, but that is one site interaction among several; exposure,
-soil depth, and season still affect when grapes ripen and how much freshness
+release it after dark, while exposure,
+soil depth, and season also affect when grapes ripen and how much freshness
 they retain.
 
 ## Grapes and the legal blend
@@ -42,9 +41,9 @@ The current specification authorizes 18 grapes for both red and white wines:
 [Terret noir](../grapes/terret-noir.md), and Piquepoul noir,
 together with [Bourboulenc](../grapes/bourboulenc.md), [Clairette](../grapes/clairette-blanche.md), Clairette
 rose, [Grenache Blanc](../grapes/grenache-blanc.md), Grenache Gris, [Picardan](../grapes/picardan.md),
-[Piquepoul blanc](../grapes/picpoul-blanc.md), Piquepoul gris, and [Roussanne](../grapes/roussanne.md). The
-list is a palette, not a recipe: the rules do not require every wine to contain
-all 18 grapes or set a single proportion among them.[^2]
+[Piquepoul blanc](../grapes/picpoul-blanc.md), Piquepoul gris, and
+[Roussanne](../grapes/roussanne.md). The rules allow producers to select
+grapes and their proportions from this list.[^2]
 
 That framework makes red-and-white blending possible. A red may include white
 grapes, whether they are co-planted and harvested with the reds or handled as a
@@ -66,9 +65,7 @@ the wines must reach a natural alcoholic strength of at least 12.5 percent.[^2]
 The appellation's history is medieval in part but modern in its legal form. The
 INAO specification traces important expansion of viticulture to the Avignon
 papacy in the fourteenth century, especially under John XXII, while also
-recording wider eighteenth-century trade. Those accounts explain why the place
-became associated with wine; they do not establish that every historical wine
-used today's grapes or methods.[^1]
+recording wider eighteenth-century trade.[^1]
 
 The more direct institutional history begins in the twentieth century. Local
 producers formed a syndicate in 1923, secured a protective regulation after the
@@ -76,8 +73,7 @@ producers formed a syndicate in 1923, secured a protective regulation after the
 framework already joined geographical delimitation, authorized grapes, minimum
 alcohol, and grape sorting—an early example of treating place and production
 as one legal identity.[^1] The current specification remains based on the 2011
-decree and is listed by INAO as the in-force specification; its legal scope is
-the five-commune appellation, not the whole southern Rhône.[^2]
+decree and is listed by INAO as the in-force specification.[^2]
 
 [^1]: Institut national de l'origine et de la qualité (INAO), “Châteauneuf-du-
     Pape blanc,” current product record; Ministère de l'Agriculture, *Cahier

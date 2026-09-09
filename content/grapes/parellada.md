@@ -16,13 +16,10 @@ where it can make a light, restrained base wine for bottle-fermented sparkling
 wine.
 
 Parellada's late cycle and site determine how much freshness it contributes. In
-a suitable high vineyard, the slower season can allow the
-grapes to ripen without the base wine becoming excessively alcoholic. In a
-cool year or an overly exposed site, however, a late variety may struggle to
-complete ripening; at lower, warmer elevations it can give a different balance.
-The contribution to a blend consequently depends on the season, harvest date,
-crop level, and the choices made with the other grapes as much as on the name
-on a planting register.
+a suitable high vineyard, the slower season can allow the grapes to ripen
+without the base wine becoming excessively alcoholic. In a cool year or an
+overly exposed site, however, a late variety may struggle to complete ripening;
+at lower, warmer elevations it can give a different balance.
 
 ## Identity and Catalan setting
 
@@ -33,9 +30,7 @@ vine also appears among the recommended white grapes of Costers del Segre and
 Pla de Bages, showing its use in still wine as well.[^1]
 
 The Spanish register of officially recognized vine clones records Montonec and
-Montonega as synonyms of Parellada, which is why they are included as aliases
-here. Varietal evidence is needed to resolve similar-looking regional
-names.[^2]
+Montonega as synonyms of Parellada.[^2]
 
 ## Late ripening and elevation
 
@@ -50,14 +45,12 @@ day–night temperature difference. These thermal effects can slow sugar
 accumulation and acid loss in a late-ripening variety. The Cava specification
 describes Parellada as especially suited to high topographical situations.[^4]
 
-This suitability has limits. Altitude can postpone maturity further, so it is
-most useful where the growing season remains long enough and the site has
-adequate exposure. A warm season may make a high site especially valuable for
-preserving a lighter base-wine balance; a cool or wet season may make the same
-vineyard more difficult to pick at the desired maturity. Large crops add a
-separate issue: if yield is not matched to the season and vine capacity, sugar
-and flavour development can lag. The results of high-elevation cultivation
-therefore vary with season, exposure, crop level, and farming.
+Altitude can postpone maturity further, so it is most useful where the growing
+season remains long enough and the site has adequate exposure. A warm season may
+make a high site especially valuable for preserving a lighter base-wine balance;
+a cool or wet season may make the same vineyard more difficult to pick at the
+desired maturity. Large crops add a separate issue: if yield is not matched to
+the season and vine capacity, sugar and flavour development can lag.
 
 ## Wine character and blending
 
@@ -85,10 +78,7 @@ wine](../styles/traditional-method-sparkling-wine.md).
 Parellada remains widely planted within Cava even as the permitted grape list
 has broadened. In 2025, 7,171 hectares of Parellada were registered in the
 denomination, or 19.2% of registered vineyard area, behind Macabeo and
-Xarel·lo.[^5] Those figures measure registered area, not the proportion in an
-individual bottle, and the appellation's vineyards extend across several
-Spanish regions. They show that Parellada remains a major practical component
-of Cava.
+Xarel·lo.[^5] The appellation's vineyards extend across several Spanish regions.
 
 ## Beyond Cava
 
@@ -101,8 +91,7 @@ temperatures, and the producer's methods all remain part of the result.
 
 A varietal still wine may foreground Parellada's delicacy, while a sparkling
 wine may use it as one element in a blend and derive much of its texture and
-mature aroma from bottle fermentation and lees ageing. Both uses depend on the
-grape's long ripening season and its measured contribution to a wine.
+mature aroma from bottle fermentation and lees ageing.
 
 [^1]: Institut Català de la Vinya i el Vi, [“DO
     Penedès”](https://incavi.gencat.cat/ca/coneix-vi-catala/denominacions-origen-catalanes/penedes),

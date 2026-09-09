@@ -7,15 +7,13 @@ aliases:
 # Bourboulenc
 
 Bourboulenc is a pale-skinned *Vitis vinifera* grape associated with the
-southern Rhône and Provence. It is easy to overlook because it rarely defines
-a wine by itself. Its importance is more practical: it ripens late in a warm
-region, can retain a fresh line in a Mediterranean white, and is commonly used
-as a supporting member of a blend.
+southern Rhône and Provence. It ripens late in a warm region, can retain a
+fresh line in a Mediterranean white, and is commonly used as a supporting
+member of a blend.
 
 Plantgrape lists Bourboulenc B as the canonical French catalogue name and
-permits Doucillon blanc for French propagation material. The catalogue says the
-variety appears to be Provençal in origin. That is a useful regional indication,
-not a settled account of its ancestry.[^1]
+permits Doucillon blanc for French propagation material. The catalogue says
+the variety appears to be Provençal in origin.[^1]
 
 ## Viticulture and late ripening
 
@@ -27,19 +25,16 @@ being especially late, then takes a long time to bring its fruit to maturity.
 
 Plantgrape describes maturation as slow and says Bourboulenc needs hot, well-
 exposed sites to reach full maturity. Inter Rhône similarly advises avoiding
-cool, late areas. This is why a warm southern setting is more than a matter of
-tradition. It gives the variety the growing season and heat it needs, while a
-cooler or poorly exposed site may leave the fruit short of full ripeness. The
-catalogue also describes it as adapted to drought, but that does not make every
-vineyard or vintage immune to water stress.
+cool, late areas. A warm southern setting gives the variety the growing season
+and heat it needs, while a cooler or poorly exposed site may leave the fruit
+short of full ripeness. The catalogue also describes it as adapted to drought.
 
-The vine is moderately fertile, with large bunches and medium-sized berries. It
-has a semi-drooping habit and needs short pruning with enough training, while
-its thick-skinned berries resist grey rot relatively well. Powdery mildew is a
-more important vulnerability in the catalogue's account.[^1] These details
-make site choice and [canopy work](../concepts/canopy-management.md) part of the variety's identity: growers need
-to give a late-ripening crop enough exposure and support without treating
-warmth alone as a guarantee of balance.
+The vine is moderately fertile, with large bunches and medium-sized berries.
+It has a semi-drooping habit and needs short pruning with enough training,
+while its thick-skinned berries resist grey rot relatively well. Powdery
+mildew is a more important vulnerability in the catalogue's account.[^1]
+Growers use [canopy work](../concepts/canopy-management.md) to give the
+late-ripening crop enough exposure and support.
 
 ## Acidity and wine character
 
@@ -47,16 +42,12 @@ Plantgrape describes Bourboulenc's wines as fine, low in alcohol, and moderately
 aromatic.[^1] Inter Rhône gives the variety's acidity greater emphasis, calling
 it very good and presenting it as a source of freshness and structure. Read
 together, these descriptions suggest a grape whose value is often felt in the
-shape of a wine rather than in an assertive aroma profile. “Very good acidity”
-is a regional wine description, not a fixed acid analysis for every vineyard or
-harvest.
+shape of a wine rather than in an assertive aroma profile.
 
 Ripeness changes the result. Inter Rhône says Bourboulenc can be expressive and
 fine when ripe, while its late season means that reaching that point depends on
 site and weather. Picking decisions also set the balance between freshness and
-the lower-alcohol, lighter style associated with the variety. A wine made from
-fully ripe fruit need not resemble one made from an earlier harvest, and a
-blend can make the grape harder to identify aromatically.
+the lower-alcohol, lighter style associated with the variety.
 
 ## Southern French distribution and blends
 
@@ -67,11 +58,9 @@ current French varietal record gives a sense of its limited scale: the area
 recorded in France was 1,279 hectares in 1958 and 509 hectares in 2018, with
 fluctuations between those dates rather than a perfectly continuous decline.[^1]
 
-Its legal presence in a famous appellation should not be mistaken for
-dominance. The current INAO record identifies Châteauneuf-du-Pape as a wine
+The current INAO record identifies Châteauneuf-du-Pape as a wine
 made from a list of 18 grapes, and the specification's section V includes
-Bourboulenc B among the varieties for red and white wines.[^2] The text permits
-the variety; it does not establish how much of a particular wine contains it.
+Bourboulenc B among the varieties for red and white wines.[^2]
 
 The wider Côtes du Rhône tradition makes the grape's understated role clearer.
 The appellation's official site describes Bourboulenc as one of the

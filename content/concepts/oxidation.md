@@ -7,21 +7,20 @@ aliases:
 # Oxidation
 
 Oxidation is a group of chemical and biological changes that can follow wine's
-contact with oxygen. Oxygen exposure is therefore a condition, not a diagnosis:
-the same dose can help one wine mature and flatten another. Wine composition,
-temperature, pH, metals, phenolics, sulfur dioxide, microbes, vessel and
-headspace all affect what happens next.
+contact with oxygen. The same dose can help one wine mature and flatten
+another. Wine composition, temperature, pH, metals, phenolics, sulfur dioxide,
+microbes, vessel and headspace all affect what happens next.
 
 ## Oxygen and the reaction
 
-Oxygen dissolves when wine is pressed, moved, stirred, racked, held in a partly
-filled vessel, or bottled. It does not usually attack every wine compound in
-one direct step. Phenolic compounds, including catechins, hydroxycinnamic acids,
-and anthocyanins, can transfer electrons to oxygen through reactions involving
-iron and copper. Those reactions form quinones and hydrogen peroxide. Quinones
-can react with other phenolics, aroma compounds, sulfur dioxide, and alcohol;
-hydrogen peroxide can be intercepted by sulfur dioxide or enter metal-catalysed
-reactions that oxidise ethanol to acetaldehyde.[^1]
+Oxygen dissolves when wine is pressed, moved, stirred, racked, held in a
+partly filled vessel, or bottled. Phenolic compounds, including catechins,
+hydroxycinnamic acids, and anthocyanins, can transfer electrons to oxygen
+through reactions involving iron and copper. Those reactions form quinones and
+hydrogen peroxide. Quinones can react with other phenolics, aroma compounds,
+sulfur dioxide, and alcohol; hydrogen peroxide can be intercepted by sulfur
+dioxide or enter metal-catalysed reactions that oxidise ethanol to
+acetaldehyde.[^1]
 
 The reaction network is also partly biological. In a controlled
 micro-oxygenation study, acetaldehyde production increased with yeast activity
@@ -30,17 +29,16 @@ yeast.[^2]
 
 ## Colour and aroma
 
-White and red wines do not respond alike because their phenolic pools differ.
-Oxidised white-wine phenolics can form yellow or brown compounds and precipitate;
-the wine may lose fresh fruit and develop dull, bruised-apple, nutty, straw, or
-cardboard-like notes as aldehydes and other compounds accumulate. A brown colour
-is evidence of a colour change, not by itself proof of one mechanism: enzymatic
-browning in grape juice, phenolic oxidation, bottle reactions, and some
-non-oxidative pigment changes can look similar. In deliberately hyperoxidised
-white juice, for example, enzymes oxidise phenolics before fermentation; the
-brown products precipitate, leaving the resulting wine less prone to later
-phenolic browning under the conditions described by the Australian Wine Research
-Institute.[^3]
+White and red wines respond differently because their phenolic pools differ.
+Oxidised white-wine phenolics can form yellow or brown compounds and
+precipitate; the wine may lose fresh fruit and develop dull, bruised-apple,
+nutty, straw, or cardboard-like notes as aldehydes and other compounds
+accumulate. Several processes can produce similar brown colours, including
+enzymatic browning in grape juice, phenolic oxidation, bottle reactions, and
+some non-oxidative pigment changes. In deliberately hyperoxidised white juice,
+for example, enzymes oxidise phenolics before fermentation; the brown products
+precipitate, leaving the resulting wine less prone to later phenolic browning
+under the conditions described by the Australian Wine Research Institute.[^3]
 
 Red-wine oxidation can initially move pigments and [tannins](tannin.md) into more stable
 forms. Acetaldehyde and other reactive compounds can help link anthocyanins and
@@ -62,13 +60,13 @@ Organisation of Vine and Wine therefore lists microbiological stabilisation,
 antioxidant and reducing action, odour binding, and inhibition of oxidising
 enzymes among the purposes of sulphiting.[^5]
 
-SO₂ is a reserve, not an oxygen-proof seal. Oxygen pickup consumes it; pH changes
-the balance among its forms; and haze, microbes, temperature, headspace, and
-wine composition alter how much remains effective. In model-wine work, sulfur
-dioxide diverted hydrogen peroxide away from the iron-catalysed route that can
-oxidise ethanol to acetaldehyde.[^1] In practice, a free-SO₂ concentration that
-protects one wine may be insufficient for another, so total SO₂ is a poor
-substitute for considering free SO₂, pH, oxygen exposure, and microbial health.
+Oxygen pickup consumes SO₂; pH changes the balance among its forms; and haze,
+microbes, temperature, headspace, and wine composition alter how much remains
+effective. In model-wine work, sulfur dioxide diverted hydrogen peroxide away
+from the iron-catalysed route that can oxidise ethanol to acetaldehyde.[^1] In
+practice, a free-SO₂ concentration that protects one wine may be insufficient
+for another, so total SO₂ is a poor substitute for considering free SO₂, pH,
+oxygen exposure, and microbial health.
 
 ## Maturation, faults, and reduction
 
@@ -80,23 +78,21 @@ different in degree and consequence: aroma becomes dull or aldehydic, colour
 moves beyond the intended style, or acetic-acid bacteria and other microbes
 produce [volatile acidity](acidity.md).[^6]
 
-[Reduction](reduction.md) describes a different redox environment, usually associated with
-limited oxygen and the accumulation or preservation of reduced sulfur
-compounds. It is not simply the opposite sensory version of oxidation. Healthy
-reductive handling can preserve delicate aroma, but stressed yeast can produce
-hydrogen sulfide, which smells of rotten eggs; further reactions can form
-mercaptans and disulfides with cabbage, onion, rubber, or garlic-like aromas.
-Brief aeration may volatilise hydrogen sulfide, but it can also convert some
-mercaptans into harder-to-remove disulfides.[^6]
+[Reduction](reduction.md) describes a different redox environment, usually
+associated with limited oxygen and the accumulation or preservation of reduced
+sulfur compounds. Healthy reductive handling can preserve delicate aroma, but
+stressed yeast can produce hydrogen sulfide, which smells of rotten eggs;
+further reactions can form mercaptans and disulfides with cabbage, onion,
+rubber, or garlic-like aromas. Brief aeration may volatilise hydrogen sulfide,
+but it can also convert some mercaptans into harder-to-remove disulfides.[^6]
 
 Biological ageing under a yeast veil is another distinct process. In Sherry
-and the [Jura](../regions/jura.md)'s [vin jaune](../styles/vin-jaune.md), specialised *Saccharomyces cerevisiae*
-strains form a surface biofilm, or *flor*. The wine is left with headspace so
-the yeast can shift to oxygen-supported oxidative metabolism and use ethanol and
-other non-sugar carbon sources. The veil limits direct air contact while the
-living cells make acetaldehyde and other metabolites. This is an aerobic
-biological transformation, not ordinary chemical oxidation and not reduction,
-even though it changes the wine's exposure to oxygen.[^7]
+and the [Jura](../regions/jura.md)'s [vin jaune](../styles/vin-jaune.md),
+specialised *Saccharomyces cerevisiae* strains form a surface biofilm, or
+*flor*. The wine is left with headspace so the yeast can shift to
+oxygen-supported oxidative metabolism and use ethanol and other non-sugar
+carbon sources. The veil limits direct air contact while the living cells make
+acetaldehyde and other metabolites.[^7]
 
 ## Related topics
 

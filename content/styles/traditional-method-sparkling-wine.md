@@ -12,20 +12,20 @@ bottle neck by riddling and expelled at disgorgement before the bottle is
 closed for sale.
 
 This sequence distinguishes the traditional method from tank fermentation and
-direct carbonation, but it does not define one flavour or level of quality.
+direct carbonation, with grape and cellar choices shaping the result.
 Grape variety, growing conditions, harvest date, base-wine production, blending,
 time on the lees, dosage, and post-disgorgement age can each remain apparent.
 [Champagne](../regions/champagne.md), Cava, and other protected names add their
 own rules to the underlying
-method; none is a synonym for every traditional-method wine.
+method.
 
 ## How it is made
 
 The process starts with a still base wine. Grapes are commonly picked with less
 sugar and more retained acidity than fruit intended for many still wines because
 the second fermentation will add alcohol and the finished wine must balance both
-carbon dioxide and any residual or added sugar. This is an objective rather than
-a universal recipe. Climate, variety, fruit health, intended ageing, and local
+carbon dioxide and any residual or added sugar. Climate, variety, fruit
+health, intended ageing, and local
 rules determine a suitable harvest point.
 
 Pressing and first fermentation establish much of the wine's identity. Rapid,
@@ -35,8 +35,7 @@ producer may keep parcels and varieties separate, ferment in steel or wood,
 allow or prevent [malolactic
 fermentation](../concepts/malolactic-fermentation.md), and blend across
 vineyards, grapes, or vintages. Reserve wines from earlier years can change
-maturity and consistency. The base wine is therefore not a neutral carrier
-waiting for bubbles.
+maturity and consistency.
 
 At *tirage*, the base wine or blend is bottled with yeast and a *liqueur de
 tirage* containing fermentable sugar; nutrients and a riddling aid may also be
@@ -63,8 +62,8 @@ aged character directly to autolysis.[^2]
 Riddling, or *remuage*, solves the practical problem created by the lees. The
 bottle is turned in increments and gradually tilted neck-down so that the
 sediment gathers against the closure. This can be done by hand on racks or
-mechanically in rotating cages; the purpose is the same, and riddling itself
-neither creates the bubbles nor ages the wine. At disgorgement, pressure expels
+mechanically in rotating cages; both move the deposit to the neck. At
+disgorgement, pressure expels
 the collected deposit, usually as a frozen plug. The wine loses a little volume
 and is briefly exposed during the operation, making control of oxygen and wine
 loss important.
@@ -75,7 +74,6 @@ finished sweetness and its wine component can also affect flavour. Some wines
 receive no added sugar, although they still need their volume restored. Dosage
 cannot be read in isolation: the same amount of sugar may seem different against
 different acidity, alcohol, phenolics, dissolved carbon dioxide, and maturity.
-Nor is a lower dosage inherently a higher qualitative rank.
 
 ## Character and variation
 
@@ -85,8 +83,7 @@ separately; [Chenin Blanc](../grapes/chenin-blanc.md) brings a different acid
 and aroma profile; Cava commonly draws on [Macabeo](../grapes/macabeo.md),
 [Xarel·lo](../grapes/xarel-lo.md), and [Parellada](../grapes/parellada.md); and [Bairrada](../regions/bairrada.md) can use
 [Baga](../grapes/baga.md) and several white or red varieties. White, rosé, and,
-in some regions, red sparkling wines can all follow bottle fermentation. The
-method creates effervescence and lees contact, not a grape flavour of its own.
+in some regions, red sparkling wines can all follow bottle fermentation.
 
 Base-wine choices can be at least as consequential as time in bottle. Earlier
 picking usually preserves acidity but may limit ripeness; later picking can add
@@ -94,8 +91,8 @@ weight while raising potential alcohol and reducing the margin for a second
 fermentation. Malolactic fermentation changes the acid profile, wood changes
 aroma and oxygen exposure, and blending a young wine with reserves differs from
 showing a single harvest. Extended lees ageing may bring greater compositional
-change, but it is not a linear quality scale and can preserve, obscure, or
-transform different parts of the base wine. Disgorgement ends contact with the
+change, preserving, obscuring, or transforming different parts of the base
+wine. Disgorgement ends contact with the
 deposit; subsequent bottle age then proceeds under a new closure, with dosage
 and oxygen admitted during disgorgement forming part of the starting point.
 
@@ -107,16 +104,11 @@ Paraje Calificado categories raise the minimum period from tirage to
 disgorgement to 18, 30, and 36 months respectively. DO Bairrada requires classic
 bottle fermentation and at least nine months at the producer's premises after
 bottling. Their permitted grapes, vineyard boundaries, pressing rules, base-wine
-limits, and labelling categories also differ.[^3] These minima describe legal
-eligibility, not identical wines or guarantees that longer ageing will always be
-preferable.
+limits, and labelling categories also differ.[^3]
 
 Traditional-method wines are consequently made in many places under names such
 as Champagne, Cava, Crémant, Franciacorta, Trento DOC, Cap Classique, and English
-sparkling wine, as well as without a protected regional name. Reading the place,
-grapes, vintage or non-vintage status, lees time, disgorgement information, and
-sweetness category together is more useful than treating “traditional method”
-as a complete style description.
+sparkling wine, as well as without a protected regional name.
 
 [^1]: International Organisation of Vine and Wine, *International Code of
     Oenological Practices*, current online edition, sections II.4.1.8–II.4.2.6,

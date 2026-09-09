@@ -32,11 +32,9 @@ Cartoixà.[^1]
 
 Its historical home is Penedès, the varied wine country between Barcelona and
 Tarragona. The Cava Regulatory Board gives a 1785 mention in Sitges as the
-earliest reference it has identified under the name Xarel·lo.[^2] That is good
-evidence for a local documentary history, but it does not establish an exact
-birthplace or a simple story of origin. What is clearer is its continuing
-Catalan setting: the regional wine institute lists Xarel·lo with Macabeo and
-Parellada as Penedès's dominant white varieties.
+earliest reference it has identified under the name Xarel·lo.[^2] The regional
+wine institute lists Xarel·lo with Macabeo and Parellada as Penedès's dominant
+white varieties.
 
 Penedès extends from the coast to inland and higher ground, where heat, water
 availability, and the pace of ripening differ. Waiting for more flavour and
@@ -62,17 +60,16 @@ itself.[^3]
 Phenolic compounds occur in grape pulp, skins, and seeds, and their extraction
 depends partly on pressing and skin contact. One limited study of 32
 production-stage samples from a single producer used measured phenolic profiles
-to distinguish Xarel·lo from [Pinot Noir](pinot-noir.md). The authors treated it as a proof of
-concept across two varieties and four internal quality classes, not a universal
-phenolic measure for either grape.[^4] Vineyard, harvest, pressing, and
-oxidation management all affect the finished result.
+to distinguish Xarel·lo from [Pinot Noir](pinot-noir.md). The authors treated it
+as a proof of concept across two varieties and four internal quality
+classes.[^4] Vineyard, harvest, pressing, and oxidation management all affect
+the finished result.
 
 ## Still wines and the cellar
 
 The Institut Català de la Vinya i el Vi describes Penedès Xarel·lo as suitable
-for young white wine and relatively long maturation. It also notes examples
-made with lower additions of sulfur dioxide.[^5] These are stylistic choices
-within Penedès, not a separate legal category.
+for young white wine and relatively long maturation. It also notes examples made
+with lower additions of sulfur dioxide.[^5]
 
 Young, protectively made wine can foreground fresh fruit and acidity. Work with
 fine [lees](../concepts/lees-aging.md) can broaden the palate and soften the edge
@@ -81,10 +78,6 @@ can also dominate its restrained aroma. [Skin-contact white
 wine](../styles/skin-contact-white-wine.md) extracts more material from the
 skins, while the duration and temperature of maceration help determine how
 pronounced the effect becomes.
-
-One locally rooted grape can therefore support a crisp sparkling base, a
-textured still white, or a more oxidative interpretation. Place and cellar work
-decide which form it takes.
 
 [^1]: Ministerio de Agricultura, Pesca y Alimentación, *Listado de clones de
     vid comercializables en España*, 22 May 2025; Institut Català de la Vinya i

@@ -7,9 +7,8 @@ title: Picardan
 Picardan is a rare white *Vitis vinifera* grape of the Rhône Valley. Its
 importance is chiefly historical and legal: it remains one of the varieties
 named in the Châteauneuf-du-Pape specification, although it is a very small
-presence in the vineyards. The evidence supports a cautious description of a
-late-budding, mid-ripening, vigorous vine that can produce fine, fruity wines
-with moderate acidity.
+presence in the vineyards. It is a late-budding, mid-ripening, vigorous vine
+that can produce fruity wines with moderate acidity.
 
 ## Identity and history
 
@@ -37,14 +36,13 @@ acidic, and places it among grapes used for still dry white wine.[^2]
 ## Châteauneuf-du-Pape
 
 The current INAO product page identifies the Châteauneuf-du-Pape cahier des
-charges as “CDC en vigueur” and points to the governing decree. Section V of
-the specification lists Picardan B among the 18 grape varieties from which the
-appellation's red and white wines are made.[^3] This establishes permission,
-not a minimum percentage, a requirement that every wine contain it, or any
-claim about how often growers plant it. The INAO overview instead highlights
-[Grenache Blanc](grenache-blanc.md), [Clairette](clairette-blanche.md), and [Roussanne](roussanne.md) when describing
-the appellation's white wines, consistent with Picardan's marginal role in the
-modern regional blend vocabulary.[^4]
+charges as “CDC en vigueur” and points to the governing decree. Section V of the
+specification lists Picardan B among the 18 grape varieties from which the
+appellation's red and white wines are made.[^3] The INAO overview instead
+highlights [Grenache Blanc](grenache-blanc.md),
+[Clairette](clairette-blanche.md), and [Roussanne](roussanne.md) when describing
+the appellation's white wines, reflecting Picardan's small role in modern
+blends.[^4]
 
 ## Sources
 

@@ -15,13 +15,12 @@ characterizes Auxerrois as slightly fuller and less acidic than Pinot Blanc.[^3]
 ## Identity and Alsatian association
 
 The French catalogue name is Auxerrois B. Plantgrape records no officially
-recognised synonym for the variety in France or elsewhere in the European Union.
-Genetic analyses indicate that Auxerrois descends from a cross between Pinot
-and Gouais blanc. The variety's strong Alsatian identity reflects its history of
-cultivation and selection there, not evidence that Alsace was its place of
-origin. The Laquenexy research station encouraged its development, and the
-Colmar Viticulture and Oenology Research Station developed it strongly in the
-Alsace vineyards after 1950.[^1]
+recognised synonym for the variety in France or elsewhere in the European
+Union. Genetic analyses indicate that Auxerrois descends from a cross between
+Pinot and Gouais blanc. The variety has a long history of cultivation and
+selection in Alsace. The Laquenexy research station encouraged its
+development, and the Colmar Viticulture and Oenology Research Station
+developed it strongly in the Alsace vineyards after 1950.[^1]
 
 ## Viticulture
 
@@ -39,12 +38,11 @@ to Pinot Blanc.[^4] Plantgrape calls the wines fine and slightly aromatic.
 
 ## The Pinot Blanc label in Alsace
 
-Alsace's appellation specification makes the naming problem a legal one, not
-just a matter of local habit. It permits the denomination “Auxerrois” only for
-auxerrois B. It permits “Pinot blanc” for either auxerrois B or pinot blanc B,
-so an Alsace wine bearing that name may be made from Pinot Blanc, Auxerrois, or
-a blend of the two.[^5] A label reading “Pinot Blanc” therefore does not by
-itself identify the biological variety.
+Alsace's appellation specification permits the denomination “Auxerrois” only
+for auxerrois B. It permits “Pinot blanc” for either auxerrois B or pinot
+blanc B, so an Alsace wine bearing that name may be made from Pinot Blanc,
+Auxerrois, or a blend of the two.[^5] A label reading “Pinot Blanc” therefore
+does not by itself identify the biological variety.
 
 The broader denomination “Pinot” or “Klevner” is less specific still. The same
 specification includes auxerrois B, pinot blanc B, [Pinot Noir](pinot-noir.md) vinified as a

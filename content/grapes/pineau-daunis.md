@@ -28,12 +28,10 @@ ampelographers tried to separate Loire plants from Burgundian Pinots. The
 earlier name returned during the twentieth century as that terminology became
 more settled.[^1]
 
-That history does not establish the popular stories about a vine selected at a
-priory near Dampierre, or about Henry III Plantagenet sending its wine to
-England. Galinié rejects those accounts. His own proposal—that the variety came
-to the Loire from or through Aunis near La Rochelle, with its deeper origin to
-be sought in southwestern France—is explicitly a hypothesis, not a settled
-birthplace.[^1]
+Galinié rejects popular accounts of a vine selected at a priory near Dampierre
+and of Henry III Plantagenet sending its wine to England. He proposes that it
+came to the Loire from or through Aunis near La Rochelle, with a possible deeper
+origin in southwestern France.[^1]
 
 ## Viticulture
 
@@ -44,15 +42,8 @@ but production can alternate from one year to the next. Compact bunches make
 grey rot a concern; the variety can also be susceptible to browning and, in
 some sites, chlorosis.
 
-The small berries and medium bunches do not automatically produce a dark wine.
 Plantgrape describes the finished wines as light and not very coloured, and
-warns that quality falls quickly as yields rise. Crop level is therefore an
-important practical choice, since excessive production risks lowering quality.
-
-## Wine character and cellar choices
-
-Pineau d’Aunis is associated with pale reds, rosés, and base wines for
-sparkling wine.
+warns that quality falls quickly as yields rise.
 
 ## Where it is grown and its modern return
 

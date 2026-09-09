@@ -34,9 +34,7 @@ Warmth allows the fruit to ripen, but it also makes the harvest decision a
 trade-off. Waiting can bring more sugar and a fuller palate while reducing the
 acid reserve; an earlier harvest or a cooler, higher, or less exposed site can
 make a more taut wine. Crop level, water status, and season matter as much as
-the regional name. A grape that is drought-adapted is still affected by the
-timing and severity of water stress, and disease pressure changes with the
-year.
+the regional name.
 
 ## Wine character and blends
 
@@ -54,8 +52,6 @@ phenolic profile. Relative harvest dates, proportions, fermentation, and
 maturation all matter. Lees contact,
 [malolactic fermentation](../concepts/malolactic-fermentation.md), and wood can broaden a wine further; early picking,
 protective handling, or a companion grape may put more emphasis on freshness.
-Consequently, a varietal Grenache Blanc and a Grenache Blanc-led blend may be
-recognisably related without having the same apparent weight or aroma.
 
 ## Rhône and Mediterranean France
 
@@ -83,13 +79,9 @@ region's older *brisat* practice, in which white grapes are fermented with
 skins.[^4] Altitude, dry Mediterranean conditions, grape proportions, and the
 choice between direct pressing and skin contact all change the result.
 
-This importance in Catalonia does not confine the grape to one Spanish style.
 The [Rioja](../regions/rioja.md) control body lists Garnacha Blanca among the
 denomination's nine white varieties, alongside Viura, Malvasía, Tempranillo
 Blanco, and others.[^5]
-In both regions, it serves as a useful blending and varietal grape. Its moderate
-acidity and capacity for texture give it a distinct role in warm-climate white
-wines; site and cellar choices determine the finished style.
 
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro
     Montpellier, “Grenache blanc B,” Plantgrape varietal record, edited 1

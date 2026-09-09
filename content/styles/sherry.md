@@ -15,9 +15,7 @@ Fortification is central to how Sherry developed and remains normal practice,
 but it is no longer a universal legal condition. The current specification
 recognizes both wine and liqueur wine. A qualifying dry wine may reach
 the required strength without added alcohol, whereas the protected naturally
-sweet wines are liqueur wines whose must is fortified.[^1] This distinction is
-easy to miss because older accounts define the whole family simply as
-fortified wine.
+sweet wines are liqueur wines whose must is fortified.[^1]
 
 ## How it is made
 
@@ -34,8 +32,8 @@ After fermentation, cellars commonly classify lots by their apparent fitness
 for biological or oxidative ageing. A wine intended to retain *flor* is
 traditionally fortified to around 15 percent alcohol by volume; a lot directed
 toward oxidative ageing is commonly brought to around 17 percent, a level less
-favourable to the veil. These figures describe established working practice,
-not a mandatory recipe for every protected wine. Current law instead controls
+favourable to the veil. These figures describe established working practice.
+Current law instead controls
 the finished wine's category, analytical range, method, and minimum average
 age, and allows dry *vino generoso* with or without fortification.[^1]
 
@@ -54,8 +52,7 @@ scarce, suitable yeasts can gather at the wine-air boundary and switch toward
 oxidative metabolism. They consume some ethanol, glycerol, and organic acids
 and produce acetaldehyde and other compounds that alter aroma, texture, and
 freshness.[^2] The veil also limits the wine's direct contact with air.
-Biological ageing is consequently not oxygen-free: oxygen sustains the yeast,
-which both shields and actively transforms the wine.
+Oxygen sustains the yeast, which both shields and actively transforms the wine.
 
 Oxidative ageing takes place without a persistent veil. Direct oxygen exposure,
 evaporation through the cask, and reactions among wine constituents gradually

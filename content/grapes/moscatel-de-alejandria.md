@@ -83,8 +83,7 @@ Frizzante, sparkling Moscato, and the *liquoroso* wines.[^6] Passito is made
 from dried grapes, concentrating their sugars before pressing; the *liquoroso*
 categories follow a fortified route. These wines share aromatic fruit, but
 their sweetness, alcohol, and texture follow separate choices about drying and
-fermentation. Muscat of Alexandria consequently supports a broad range of
-warm-climate wines as well as table grapes and raisins.
+fermentation.
 
 [^1]: Guido Cipriani et al., “The SSR-based molecular profile of 1005 grapevine
     (*Vitis vinifera* L.) accessions uncovers new synonymy and parentages, and

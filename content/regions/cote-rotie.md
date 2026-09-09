@@ -6,16 +6,13 @@ title: Côte-Rôtie
 
 Côte-Rôtie is a red-wine appellation at the northern end of the Rhône wine
 region, on steep slopes above the river near Ampuis. Its name is often translated
-as “roasted slope,” but sun alone does not explain the wine. A relatively cool
-latitude for [Syrah](../grapes/syrah.md), varied exposures, narrow terraces, and
+as “roasted slope.” A relatively cool latitude for
+[Syrah](../grapes/syrah.md), varied exposures, narrow terraces, and
 different approaches to stems, Viognier, extraction, and maturation all affect
 the result.
 
-The appellation has no official internal quality ladder. Côte Blonde, Côte
-Brune, and the many named sites are useful geographical references, not grades
-or fixed flavour categories. Their differences matter through the conditions
-in which grapes ripen and the choices growers make; they do not make a complete
-tasting key.
+Côte Blonde, Côte Brune, and the many named sites identify different parts of
+the hillside. The appellation has no official internal quality ladder.
 
 ## Slopes, climate, and terraces
 
@@ -23,17 +20,15 @@ The delimited area lies in Ampuis, Saint-Cyr-sur-le-Rhône, and Tupin-et-Semons,
 about 40 kilometres south of Lyon on the Rhône's right bank. The vineyard is a
 narrow, broken escarpment rather than one continuous face. Ravines fold the
 slope into different orientations, although its general exposure is southeast.
-Vines occupy delimited parts of the hillside; nearby land is not automatically
-entitled to the name.[^1]
+Vines occupy delimited parts of the hillside.[^1]
 
 The local climate is usually described as semi-continental or *Lyonnais*, with
 some Mediterranean influence moving north along the Rhône. The northerly
 *bise* can be frequent, but the general orientation gives much of the vineyard
 sun and relative shelter. Slope and aspect are important at this northerly
 limit: they change sunlight, wind exposure, drainage, and cold-air movement. A
-sun-facing parcel may help Syrah complete ripening in a cool year, yet become
-warmer and drier in a hot one. Altitude, soil water, and the particular season
-complicate any simple “roasted” description.
+sun-facing parcel may help Syrah complete ripening in a cool year, yet
+become warmer and drier in a hot one.
 
 Most of the hillside rests on metamorphic rocks, especially mica schist,
 gneiss, and migmatite, with local loess and differences in clay content. As
@@ -41,11 +36,10 @@ these materials weather, some sectors form pale, friable sandy-clay soils and
 others darker, more clay-rich soils. On the steepest ground, dry-stone retaining
 walls known locally as *cheys* and narrow terraces or *chaillées* hold soil that
 would otherwise erode downslope. The rules require growers to maintain these
-structures and prohibit changes that substantially alter them. Terracing
-therefore makes cultivation possible and manages water and soil; it does not
-turn every row on the same wall into an identical site.
+structures and prohibit changes that substantially alter them. Terracing makes
+cultivation possible and manages water and soil.
 
-## Places without a hierarchy
+## Named places
 
 Côte Blonde and Côte Brune are the best-known broad names. The current
 specification associates Côte Blonde principally with gneiss-derived, lighter
@@ -56,13 +50,11 @@ farther south. The story that an Ampuis lord named the two slopes for a blonde
 and a dark-haired daughter is presented in the official history as a legend,
 not an established origin.
 
-These names are often made into a rigid contrast—one side supposedly always
-more perfumed, the other more powerful. That overstates what a broad sector can
-predict. Exposure, elevation, soil depth, water supply, crop level, and harvest
+Exposure, elevation, soil depth, water supply, crop level, and harvest
 date vary within each; cellar decisions add further differences. The rules set
 no supplementary geographical denominations or cru tiers. A named-site wine
 can identify a narrower origin, while a blend across parcels can be a deliberate
-expression of the wider slope; neither form is inherently superior.
+expression of the wider slope.
 
 ## Grapes and fermentation
 
@@ -81,8 +73,8 @@ colour enhancer. In a controlled California trial using 10 percent white-grape
 solids, Syrah–Viognier co-fermentation increased some aromatic dimensions and
 tannin but lowered the concentration of most anthocyanin pigments compared
 with Syrah alone.[^2] One experiment outside Côte-Rôtie cannot prescribe a
-regional outcome; it does show why the familiar claim that white grapes
-necessarily deepen Syrah's colour is too simple.
+regional outcome; it does show why colour enhancement depends on the
+fermentation conditions.
 
 The grapes must be harvested by hand and transported to the winery as whole
 bunches, a practical response to the slopes and a way to limit damage in
@@ -98,8 +90,6 @@ Côte-Rôtie's balance varies with site, vintage, and production. Cooler
 conditions may preserve acidity and favour peppery or savoury aspects; warmer
 sites or seasons can bring riper fruit and more potential alcohol. Viognier,
 whole clusters, extraction, and harvest timing may redirect those tendencies.
-The appellation defines origin and production conditions, not one required set
-of aromas or textures.
 
 The rules require [malolactic conversion](../concepts/malolactic-fermentation.md) to be substantially complete by
 bottling and prohibit oak chips, but they prescribe neither a minimum cask-ageing
@@ -136,15 +126,12 @@ vineyard nearly disappeared during the twentieth century: Inter Rhône records
 about 60 hectares in production in 1960, compared with 342 hectares in 2025.
 Côte-Rôtie received appellation recognition for Ampuis and Tupin-et-Semons in
 1940; Saint-Cyr-sur-le-Rhône was added in 1966. Replanting and wall restoration
-from the 1960s onward recovered much of the hillside, but the modern vineyard is
-a revival governed by contemporary boundaries, not an unchanged survival from
-antiquity.
+from the 1960s onward recovered much of the hillside.
 
 ## Benchmark producers
 
 These established producers offer starting points for comparing production
-choices within Côte-Rôtie. Many important estates lie outside this short
-list.[^5]
+choices within Côte-Rôtie.[^5]
 
 - **E. Guigal:** La Mouline, La Landonne, and La Turque represent the
   site-specific, long-new-oak end of the appellation; La Turque currently spends

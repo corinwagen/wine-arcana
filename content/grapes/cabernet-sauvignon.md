@@ -10,7 +10,7 @@ something to reputation, but the vine itself helps explain where it works: it
 buds relatively late, needs a long season to ripen, and carries small berries
 whose skins and seeds can provide substantial colour and tannin.
 
-Those traits create possibilities, not a fixed wine. A cool or wet finish to the
+A cool or wet finish to the
 season can leave the fruit herbaceous and the tannins especially firm; adequate
 warmth can make ripening more dependable, while excessive heat can lower acidity
 and reduce skin pigmentation. Site, crop level, harvest date, extraction,
@@ -47,15 +47,14 @@ development and harvesting before rain or disease damages the crop. Its small
 bunches and relatively low susceptibility to grey rot offer some protection;
 powdery mildew and trunk diseases remain separate concerns.
 
-The berries and bunches are characteristically small. Small berries can contain
-more skin relative to their volume, but berry size alone is not a measure of
-quality or concentration. In one two-vintage experiment that sorted Cabernet
-Sauvignon fruit from a single vineyard by weight, the smallest berries had the
-greatest relative skin mass and the highest concentrations of phenolics and
-anthocyanins. A separate multi-vintage vineyard study found that the conditions
-which produced a size difference mattered more than size by itself.[^2] Water
-stress, seed number, crop load, and clone can all change berry size while also
-changing composition in other ways.
+The berries and bunches are characteristically small. Small berries can
+contain more skin relative to their volume. In one two-vintage experiment that
+sorted Cabernet Sauvignon fruit from a single vineyard by weight, the smallest
+berries had the greatest relative skin mass and the highest concentrations of
+phenolics and anthocyanins. A separate multi-vintage vineyard study found that
+the conditions which produced a size difference mattered more than size by
+itself.[^2] Water stress, seed number, crop load, and clone can all change
+berry size while also changing composition in other ways.
 
 In Bordeaux's maritime climate, well-exposed gravel rises and good drainage help
 the late variety complete ripening; this is one reason Cabernet Sauvignon is more
@@ -106,12 +105,11 @@ aroma and the perception of astringency.
 ## Where it is grown
 
 On Bordeaux's Left Bank, Cabernet Sauvignon is central to the blends of the
-Médoc, including Pauillac, Saint-Julien, Margaux, and Saint-Estèphe, and to those
-of Graves and Pessac-Léognan. The current Médoc specification describes it as
-the principal variety on gravel soils and frames the area's red wines as blends
-with Merlot and smaller amounts of Cabernet Franc and Petit Verdot. Proportions
-vary with estate, site, and vintage; “Bordeaux” does not imply one Cabernet
-formula.
+Médoc, including Pauillac, Saint-Julien, Margaux, and Saint-Estèphe, and to
+those of Graves and Pessac-Léognan. The current Médoc specification describes
+it as the principal variety on gravel soils and frames the area's red wines as
+blends with Merlot and smaller amounts of Cabernet Franc and Petit Verdot.
+Proportions vary with estate, site, and vintage.
 
 California demonstrates adaptation to a generally sunnier, drier growing
 season. Napa Valley and warmer parts of Sonoma are major centres, while local
@@ -124,10 +122,7 @@ heat management become more important.
 Cabernet Sauvignon is also widespread in central Chile, Argentina—especially
 Mendoza—and South Africa, notably Stellenbosch, as well as in Italy, Spain,
 China, and eastern Europe. Some of these regions favour varietal bottlings and
-others blend it with local or international varieties. Across them, the useful
-comparison is not Old World against New World, but whether the local season lets
-this late grape develop skins and seeds before acidity, water supply, or berry
-condition becomes limiting.
+others blend it with local or international varieties.
 
 [^1]: John E. Bowers & Carole P. Meredith, “The Parentage of a Classic Wine
     Grape, Cabernet Sauvignon,” *Nature Genetics* 16 (1997), pp. 84–87,

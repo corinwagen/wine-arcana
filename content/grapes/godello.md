@@ -9,40 +9,36 @@ aliases:
 Godello is a pale-skinned *Vitis vinifera* variety of northwestern Iberia. The
 name is most closely associated with Galicia, especially Valdeorras, while the
 same variety is called Gouveio in Portugal, an identity confirmed by
-microsatellite comparison.[^1] Its modern importance rests on a combination
-that can seem contradictory: the wines can have clear acidity and direct fruit,
-yet also enough alcohol, extract, and phenolic presence to feel substantial.
+microsatellite comparison.[^1] Its wines can combine clear acidity and direct
+fruit with enough alcohol, extract, and phenolic presence to feel substantial.
 
-That balance is not a fixed profile. Fruit from a warm, exposed slope and a
-later harvest can give a broad wine, while cooler conditions or earlier picking
-can produce a tighter one. Fermentation in steel followed by early bottling may
-emphasize freshness; time on lees, fermentation in wood, or maturation in a
-larger vessel can build texture without changing the identity of the grape.
+Fruit from a warm, exposed slope and a later harvest can give a broad wine,
+while cooler conditions or earlier picking can produce a tighter one.
+Fermentation in steel followed by early bottling may emphasize freshness; time
+on lees, fermentation in wood, or maturation in a larger vessel can build
+texture.
 
 ## Revival in Valdeorras
 
-Godello was not newly discovered in the twentieth century. It had long been
-grown around the Sil valley, but phylloxera, subsequent replanting with more
-productive varieties such as Palomino, rural depopulation, and a market for
-undistinguished bulk wine left it marginal. By the 1970s it was close to
-disappearing from Valdeorras.
+Godello had long been grown around the Sil valley, but phylloxera, subsequent
+replanting with more productive varieties such as Palomino, rural
+depopulation, and a market for undistinguished bulk wine left it marginal. By
+the 1970s it was close to disappearing from Valdeorras.
 
 The decisive intervention was the REVIVAL program, short for *Reestructuración
-de los Viñedos de Valdeorras*. The local Agricultural Extension Agency, working
-with the Valdeorras regulatory council, conceived the program in 1974 and began
-putting it into practice from 1976. Horacio Fernández Presa and viticulture
-specialist Luis Hidalgo were central to the effort. Trials, selected plant
-material, new vineyards, and separate vinification were intended not merely to
-preserve local vines but to find a viable basis for better wine.[^2]
+de los Viñedos de Valdeorras*. The local Agricultural Extension Agency,
+working with the Valdeorras regulatory council, conceived the program in 1974
+and began putting it into practice from 1976. Horacio Fernández Presa and
+viticulture specialist Luis Hidalgo were central to the effort. Trials,
+selected plant material, new vineyards, and separate vinification aimed to
+preserve local vines and find a viable basis for better wine.[^2]
 
-The result was gradual rather than an overnight rescue. Godeval, co-founded by
+Godeval, co-founded by
 Fernández Presa, turned experimental work into commercial wine in the 1980s;
 other producers followed, and a later wave placed greater emphasis on old
 plots, elevation, and site-specific bottlings. Godello consequently became both
 a practical alternative to high-yielding plantings and the white variety most
-identified with modern Valdeorras. The revival is best understood as a chain
-of conservation, field work, winemaking, and market development, not as the
-achievement of a single vintage or winery.
+identified with modern Valdeorras.
 
 ## Vine, site, and season
 
@@ -56,11 +52,11 @@ leave berries unprotected during hot weather.
 Valdeorras is inland Galicia rather than the cool Atlantic coast. The Sil and
 its tributaries cut through a landscape of valley floors, terraces, and steep
 slopes, with vineyards on slate, granite-derived sand, clay, limestone, and
-alluvium. Those geological names do not translate directly into flavours.
-They matter through drainage, water supply, fertility, heat retention, rooting
-conditions, and the way each plot interacts with exposure and elevation.
+alluvium. These soils differ in drainage, water supply, fertility, heat
+retention, rooting conditions, and the way each plot interacts with exposure
+and elevation.
 
-Altitude is not a simple freshness scale either. Some upper slopes receive
+Some upper slopes receive
 more sun and less persistent humidity than sites near the river, which can help
 Godello ripen fully; night-time cooling can nevertheless slow acid loss. On a
 warm, fertile site, vigorous growth and rapid sugar accumulation may narrow the
@@ -70,37 +66,31 @@ water stress can also stop balanced ripening.
 A three-year field trial in A Rúa illustrates the conditional nature of these
 effects. Under the relatively mild water stress of that experiment, irrigation
 altered wine acidity but produced only small sensory differences, while year
-had the stronger effect on must and wine composition.[^3] The study does not
-establish a universal irrigation rule; it shows why “Godello acidity” cannot
-be separated from season, water status, and harvest decisions.
+had the stronger effect on must and wine composition.[^3]
 
 ## Wine character
 
 Young Godello often has restrained apple, pear, citrus, or herbal suggestions,
-sometimes with a lightly bitter finish. More useful than any descriptor list is
-the grape's structural pattern. It can reach useful ripeness while retaining an
-acid line, and its palate may feel broad even when the aroma is not especially
-forceful. Riper fruit increases alcohol and weight; skin and pressing choices
-can add phenolic grip; acidity keeps that mass from seeming soft. None of these
-elements is guaranteed, and a high crop or poorly timed harvest can produce a
-thin or blunt wine.
+sometimes with a lightly bitter finish. It can reach useful ripeness while
+retaining an acid line, and its palate may feel broad even when the aroma is
+not especially forceful. Riper fruit increases alcohol and weight; skin and
+pressing choices can add phenolic grip; acidity keeps that mass from seeming
+soft. A high crop or poorly timed harvest can produce a thin or blunt wine.
 
-Fresh and substantial are therefore not opposite Godello styles. A wine can be
-fermented in an inert vessel, protected from oxygen, and bottled relatively
-young, with acidity and primary fruit providing its shape. A more concentrated
-wine from a lower crop or a ripe hillside site may have greater weight before
-any cellar treatment. Bottle age can integrate the two, although longevity
-depends on fruit condition, balance, oxygen management, closure, and storage,
-not on the variety name alone.
+A wine can be fermented in an inert vessel, protected from oxygen, and bottled
+relatively young, with acidity and primary fruit providing its shape. A more
+concentrated wine from a lower crop or a ripe hillside site may have greater
+weight before any cellar treatment. Bottle age can integrate the two, although
+longevity depends on fruit condition, balance, oxygen management, closure, and
+storage.
 
 ## In the cellar
 
 Post-fermentation contact with fine [lees](../concepts/lees-aging.md) is a
 common route to additional breadth. Yeast-derived material can change texture,
-and stirring increases contact, but more *bâtonnage* is not automatically
-better: it can mute fruit or create reductive or oxidative problems if the lees
-and oxygen are poorly managed. Lees can be used in steel, concrete, or wood, so
-a rounded texture does not by itself prove barrel aging.
+and stirring increases contact, though it can mute fruit or create reductive
+or oxidative problems if the lees and oxygen are poorly managed. Lees can be
+used in steel, concrete, or wood.
 
 [Oak](../concepts/oak-maturation.md) adds another set of variables. Barrel
 fermentation or maturation can contribute wood compounds, oxygen exposure, and
@@ -124,8 +114,7 @@ names poor shortcuts for wine style.
 Valdeorras permits several white varieties and blended white wines. Under the
 current specification, however, a wine sold specifically as Valdeorras
 “Godello” must be made exclusively from Godello; the variety is also designated
-as one of the denomination's preferred grapes.[^4] This legal statement defines
-a label, not a quality rank or a single sensory profile.
+as one of the denomination's preferred grapes.[^4]
 
 [^1]: Antonios Alifragkis et al., “Identity, synonymies and homonynies of minor
     grapevine cultivars maintained in the Portuguese ampelographic

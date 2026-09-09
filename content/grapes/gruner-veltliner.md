@@ -42,28 +42,25 @@ tips, is a genuine older synonym.
 
 Austria's official cultivar description places budbreak from the middle to the
 later part of the local season and both flowering and ripening around the
-middle. These are comparisons, not calendar dates. Grüner Veltliner is highly
-fruitful, so a large crop can spread the vine's resources and give dilute,
-slow-ripening fruit. It also needs available water but drainage: drought can
-interrupt development, whereas an overly fertile, wet site encourages vigor,
-high yields, and fungal disease. Unsettled weather at flowering can further
-make the crop irregular.
+middle. Grüner Veltliner is highly fruitful, so a large crop can spread the
+vine's resources and give dilute, slow-ripening fruit. It also needs available
+water but drainage: drought can interrupt development, whereas an overly
+fertile, wet site encourages vigor, high yields, and fungal disease. Unsettled
+weather at flowering can further make the crop irregular.
 
 Acidity is often a structural strength, particularly in earlier-picked wines,
-but it does not remain fixed while flavor and sugar increase. Waiting can
-bring more concentration and potential alcohol as acids decline; heat and
-water stress can accelerate or disrupt that sequence. Recent Klosterneuburg
-trials were designed specifically to delay Grüner Veltliner ripening under
-warmer conditions because earlier sugar accumulation and lower acidity have
-become practical concerns. The tested
+and waiting can bring more concentration and potential alcohol as acids
+decline; heat and water stress can accelerate or disrupt that sequence. Recent
+Klosterneuburg trials were designed specifically to delay Grüner Veltliner
+ripening under warmer conditions because earlier sugar accumulation and lower
+acidity have become practical concerns. The tested
 [canopy-management](../concepts/canopy-management.md) and antitranspirant
 treatments gave different results by year.[^2]
 
 The harvest decision consequently sets much of the stylistic range. Earlier
 picking generally favors a lighter wine with less alcohol and more obvious
 acid. Later picking can give breadth and concentration, but a warm site or dry
-year may leave the result softer or more alcoholic. A concentrated Grüner
-Veltliner can still taste fresh.
+year may leave the result softer or more alcoholic.
 
 ## Pepper and savory character
 
@@ -109,12 +106,11 @@ capped at 11.5% alcohol, Federspiel at 12.5%, and Smaragd begins at 12.5%; the
 association describes Smaragd as coming from grapes left longer on the
 vine.[^6]
 
-The terms orient a drinker to weight and ripeness, not quality. The
-association's wines are dry, so in Smaragd greater grape sugar is expressed
-largely as alcohol and body. Lower yields, riper fruit, and later selection can
-produce greater concentration and a denser texture, while acidity and pepper
-vary with site and vintage. In a given year, Federspiel may be more incisive
-and Smaragd more concentrated.
+The association's wines are dry, so in Smaragd greater grape sugar is
+expressed largely as alcohol and body. Lower yields, riper fruit, and later
+selection can produce greater concentration and a denser texture, while
+acidity and pepper vary with site and vintage. In a given year, Federspiel may
+be more incisive and Smaragd more concentrated.
 
 [^1]: Bundesministerium für Land- und Forstwirtschaft, Klima- und
     Umweltschutz, Regionen und Wasserwirtschaft, “Grüner Veltliner,” revised by

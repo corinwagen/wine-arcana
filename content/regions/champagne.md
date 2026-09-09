@@ -15,12 +15,12 @@ grape, harvest, blending, reserve wine, fermentation, lees ageing, and dosage.
 
 ## Geography and climate
 
-The appellation is a dispersed vineyard rather than a continuous block around
-Reims and Épernay. Its precisely delimited parcels lie across communes in the
+The appellation's vineyards are dispersed around Reims, Épernay, and farther
+south. Its precisely delimited parcels lie across communes in the
 Marne, Aube, Aisne, Haute-Marne, and Seine-et-Marne departments. Most vines
 occupy slopes cut into the eastern edge of the Paris Basin. Chalk is important,
-especially in the central districts, but it is not the region's only substrate:
-marl, harder limestone, sand, and overlying slope deposits alter drainage,
+especially in the central districts, while marl, harder limestone, sand, and
+overlying slope deposits alter drainage,
 water supply, and vine behaviour from one sector to another.[^1]
 
 Champagne's northern position and combined oceanic and continental influences
@@ -30,9 +30,8 @@ brings useful summer sunshine as well as damaging frost. Slopes and exposure
 help fruit receive enough light and shed excess water; differences in aspect,
 soil depth, and shelter can nevertheless change ripening over short distances.
 Retained acidity is valuable in a base wine that will undergo a second
-fermentation, but cool conditions are not automatically beneficial: growers
-must still balance acidity, sugar, fruit health, and maturity. Nor is the old
-climatic picture fixed. The Comité Champagne reports increasingly early harvest
+fermentation. Growers balance it against sugar, fruit health, and maturity.
+The Comité Champagne reports increasingly early harvest
 starts as the climate warms, alongside continuing frost and weather risks.
 
 ## Subregions and grapes
@@ -50,17 +49,14 @@ The chalk slopes of the Côte des Blancs are dominated by
 [Chardonnay](../grapes/chardonnay.md). Farther south, the Côte des Bar is a
 discontinuous landscape of valleys, with more marl and limestone and a strong
 Pinot Noir majority. Even this four-part description leaves out meaningful
-districts such as the Côte de Sézanne, Vitryat, and Montgueux. Subregion and
-grape associations are therefore tendencies that help explain the raw material,
-not reliable predictions of a finished wine.
+districts such as the Côte de Sézanne, Vitryat, and Montgueux.
 
 Chardonnay, Pinot Noir, and Meunier account for nearly all current plantings.
 Chardonnay can retain acidity while ripening gradually; Pinot Noir ripens early
 and can contribute phenolic structure even when pressed without prolonged skin
 contact. Meunier buds later than the other two, which can reduce exposure to
 spring frost, and is well established in cooler or more clay-influenced sites.
-These are complementary possibilities rather than fixed blending roles, and
-each grape can also be bottled alone. Current rules additionally name Arbane,
+Each grape can also be bottled alone. Current rules additionally name Arbane,
 Petit Meslier, [Pinot Blanc](../grapes/pinot-blanc.md), [Pinot Gris](../grapes/pinot-gris.md), and
 Chardonnay Rose; Voltis has tightly
 limited status as a variety of interest for climate adaptation.[^1]
@@ -90,26 +86,22 @@ a second fermentation in that bottle. It then matures on the yeast deposit
 before riddling moves the sediment to the neck, disgorgement removes it, and
 dosage may adjust the final balance. Rosé can be made through skin contact or by
 blending red and white base wines before tirage; *blanc de blancs* and *blanc de
-noirs* identify white Champagne from white or dark grapes respectively. None of
-these categories fixes sweetness, maturity, weight, or cellar practice.
+noirs* identify white Champagne from white or dark grapes respectively.
 
 ## Ageing and variation
 
-The current specification does not simply impose one period “on lees.”
 Disgorgement may not occur until at least 12 months after tirage, during which
 the wine must remain continuously in bottle. Release to consumers requires at
 least 15 months from tirage for Champagne without a vintage indication and 36
 months for vintage Champagne.[^2] Producers may keep wines on their lees or in
-cellar longer, but these are minimum eligibility rules, not a qualitative scale.
+cellar longer.
 
 Lees contact can change texture, foam, and aroma as yeast cells break down, yet
 the result also depends on the base wine, temperature, oxygen, and duration.
 Disgorgement and dosage establish a new stage of development under the final
 closure. A young multi-vintage blend built around fresh base wines, an
 oxidatively handled blend with old reserves, and a long-aged single-vineyard
-vintage wine may all satisfy the same appellation. Place, composition, producer,
-and time are consequently more informative than treating Champagne as one
-uniform style.
+vintage wine may all satisfy the same appellation.
 
 [^1]: French Ministry of Agriculture, *Cahier des charges de l'appellation
     d'origine contrôlée « Champagne »*, approved 31 July 2025, sections IV–V

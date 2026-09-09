@@ -23,8 +23,8 @@ within the same legal name.
 
 ## How it is made
 
-The required blend is broader than the usual shorthand “Corvina-based.” The
-current rules require 45–95% [Corvina](../grapes/corvina.md) and/or Corvinone
+The current rules require 45–95% [Corvina](../grapes/corvina.md) and/or
+Corvinone
 combined, plus 5–30% Rondinella. Up to 25% in total may come from other
 permitted red varieties, subject to category and per-variety limits. Corvinone
 is a separate variety, and the combined range means that Corvina itself is not
@@ -42,7 +42,7 @@ took about twice as long as strong forced-air drying to reach the same 30%
 weight loss, and the two treatments produced different patterns of gene
 expression and metabolite accumulation.[^2]
 
-The law defines boundaries rather than a fixed drying recipe. Grapes must dry
+Grapes must dry
 in suitable premises; environmental control is allowed at temperatures
 comparable to traditional practice, but heat-assisted dehumidification is not.
 Vinification cannot normally begin before 1 December, although the Veneto
@@ -56,9 +56,8 @@ osmotic stress; cold fruit and the rising alcohol level can make the last part
 of fermentation slow or difficult. Temperature, nutrients, yeast population,
 and extraction must therefore be managed together. Fermenting most of the
 sugar converts the concentrated must into Amarone's relatively dry, alcoholic
-form. Many wines then undergo [malolactic fermentation](../concepts/malolactic-fermentation.md),
-but neither it nor a particular fermentation vessel is the denomination's
-defining step.[^3]
+form. Many wines then undergo [malolactic
+fermentation](../concepts/malolactic-fermentation.md).[^3]
 
 Before release, Amarone must mature for at least two years, counted from 1
 January after the harvest. *Riserva* requires at least four years from 1
@@ -79,22 +78,20 @@ fermentation.[^4] Amarone ferments much farther. At release it must contain at
 least 14% actual alcohol, while total residual sugar is capped at 9 g/L at 14%
 alcohol and may rise incrementally as alcohol increases.[^1] Amarone can
 therefore taste dry or gently sweet depending on alcohol, acidity, fruit,
-serving conditions, and where its sugar falls below that ceiling. The contrast
-with Recioto is a fermentation outcome, not a different set of principal
-grapes or proof that one wine is more concentrated.
+serving conditions, and where its sugar falls below that ceiling.
 
 Valpolicella Ripasso follows another route. It starts as eligible Valpolicella
 wine made from grapes vinified without Amarone's prolonged pre-fermentation
 drying. That wine is refermented once on the pomace left after Amarone and/or
 Recioto has been drawn off. Remaining wine, sugar, skins, and seeds can add
 alcohol, colour, tannin, and extract, depending on the base wine, pomace, and
-contact. Ripasso is therefore neither diluted Amarone nor fresh Valpolicella
-with dried grapes added; it receives a second fermentation from material that
-has already made an appassimento wine.[^4]
+contact. Ripasso receives a second fermentation from material that has already
+made
+an appassimento wine.[^4]
 
 ## Character and variation
 
-Appassimento makes concentration likely, not excellence automatic. Water loss
+Water loss
 can intensify sound, balanced fruit, but it can also magnify overripeness,
 oxidation, rot, or difficult fermentation. More drying may increase potential
 alcohol and extract while reducing juice yield and making a clean dry finish
@@ -109,9 +106,7 @@ acidity and restrained extraction; others combine riper fruit, a higher level
 of remaining sugar, and more assertive wood for a broader impression. Bottle
 age can soften tannin and move the wine away from primary fruit, but longevity
 depends on balance, sound fermentation, closure, and storage as well as
-concentration. Alcohol, weight, *riserva* status, and the words *Classico* or
-*Valpantena* define measurable requirements or origin; none is a quality rank
-on its own.
+concentration.
 
 [^1]: Ministero dell'agricoltura, della sovranità alimentare e delle foreste,
     production specification for Amarone della Valpolicella DOCG,

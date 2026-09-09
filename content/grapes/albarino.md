@@ -7,17 +7,16 @@ aliases:
 # Albariño
 
 Albariño is a pale-skinned *Vitis vinifera* variety of Atlantic northwest
-Iberia. It is Albariño in Galicia and Alvarinho in Portugal: these are regional
-names for the same cultivar, not two grapes. Its principal reference points are
-[Rías Baixas](../regions/rias-baixas.md) in Spain and the [Vinho
-Verde](../regions/vinho-verde.md) region in Portugal, especially Monção
+Iberia. It is Albariño in Galicia and Alvarinho in Portugal: these are
+regional names for the same cultivar. Its principal reference points are
+[Rías Baixas](../regions/rias-baixas.md) in Spain and the
+[Vinho Verde](../regions/vinho-verde.md) region in Portugal, especially Monção
 e Melgaço on the south side of the Minho River.
 
 The variety combines relatively thick skins, marked aromatic potential, and an
-ability to retain substantial acidity as it ripens. That combination suits a
-maritime setting, but does not make the vine immune to it. Rain and humidity
-increase fungal pressure and vigorous growth, while site, season, harvest date,
-and cellar choices determine whether the resulting wine is lean and citrus-led,
+ability to retain substantial acidity as it ripens. Rain and humidity increase
+fungal pressure and vigorous growth, while site, season, harvest date, and
+cellar choices determine whether the resulting wine is lean and citrus-led,
 ripe and broad, or somewhere between.
 
 ## History and identity
@@ -42,8 +41,7 @@ modern cultivar.[^1]
 Albariño has small to medium berries in small bunches and is not generally a
 heavy producer. Its relatively thick skins are commonly understood to give the
 berries some resistance to grey rot, and Plantgrape describes the variety as
-not very susceptible to that disease. This is relative protection, not a
-substitute for airflow or disease management in a wet vineyard.
+not very susceptible to that disease.
 
 Rías Baixas demonstrates the pressure clearly. The denomination has mild
 temperatures, rain through much of the year, and strong spring and summer vine
@@ -54,16 +52,13 @@ crops could be grown beneath the vines. Newer vineyards may use different
 trellises, but they generally preserve an elevated fruit zone.
 
 The variety can accumulate ample sugar while retaining acidity, a useful trait
-where moderate temperatures slow acid loss. It nevertheless ripens rather than
-simply staying “fresh”: a warm site or late harvest can produce higher alcohol
-and broader texture, while earlier picking or a cool season can emphasize acid
-and less-developed fruit. Thick skins, maritime climate, and acidity are
-tendencies, not guarantees of one balance.
+where moderate temperatures slow acid loss. A warm site or late harvest can
+produce higher alcohol and broader texture, while earlier picking or a cool
+season can emphasize acid and less-developed fruit.
 
 ## Aroma and wine character
 
-Albariño is aromatic, but its character is not a fixed list of fruit and
-flowers. Analysis of grapes from four consecutive harvests found a large pool
+Analysis of grapes from four consecutive harvests found a large pool
 of aroma compounds in bound, initially non-volatile forms, with linalool,
 geraniol, benzyl alcohol, and 2-phenylethanol among the important candidates.
 The proportions varied, and fermentation must release or transform part of the
@@ -71,27 +66,25 @@ grape's aromatic potential before it can be perceived in wine.[^2]
 
 Young wines consequently often suggest citrus, flowers, and stone fruit, but
 ripeness, yeast, oxygen exposure, and temperature can shift the emphasis.
-Pressing immediately and fermenting cool in an inert vessel tends to preserve a
-direct fruit-led expression. Brief skin contact can extract more aroma
+Pressing immediately and fermenting cool in an inert vessel tends to preserve
+a direct fruit-led expression. Brief skin contact can extract more aroma
 precursors and phenolic material from the thick skins; extended contact can
-also change color and phenolic texture. Lees ageing, [malolactic
-fermentation](../concepts/malolactic-fermentation.md), or wood can broaden the
-wine and soften the impression of
-acidity. These are stylistic choices rather than requirements of the grape, and
-some structured examples develop in bottle rather than being intended only for
-early drinking.
+also change color and phenolic texture. Lees ageing,
+[malolactic fermentation](../concepts/malolactic-fermentation.md), or wood
+can broaden the wine and soften the impression of acidity. Some structured
+examples develop in bottle.
 
 ## Rías Baixas and Alvarinho in Portugal
 
-Rías Baixas is a collection of five subzones, not a uniform coastal strip. Val
-do Salnés lies close to the Atlantic and typically faces the strongest maritime
-influence; O Rosal and Condado do Tea extend along the lower Minho and become
-warmer and more sheltered inland. Ribeira do Ulla and Soutomaior add further
-differences in river influence, exposure, and soils. Albariño accounts for the
-overwhelming majority of the denomination's harvest, but other authorized
-white grapes remain meaningful in regional blends. Under the current rules,
-the specific label “Rías Baixas Albariño” requires 100% Albariño, whereas other
-Rías Baixas and subzone wines may contain varieties such as [Loureira](loureiro.md),
+Rías Baixas comprises five subzones. Val do Salnés lies close to the Atlantic
+and typically faces the strongest maritime influence; O Rosal and Condado do
+Tea extend along the lower Minho and become warmer and more sheltered inland.
+Ribeira do Ulla and Soutomaior add further differences in river influence,
+exposure, and soils. Albariño accounts for the overwhelming majority of the
+denomination's harvest, but other authorized white grapes remain meaningful in
+regional blends. Under the current rules, the specific label “Rías Baixas
+Albariño” requires 100% Albariño, whereas other Rías Baixas and subzone wines
+may contain varieties such as [Loureira](loureiro.md),
 [Treixadura](treixadura.md), and Caíño Blanco.[^3]
 
 Across the Minho, Alvarinho belongs to the much larger and more varied Vinho
@@ -102,11 +95,6 @@ can permit riper fruit than the coolest, most exposed sectors. Alvarinho is
 therefore often bottled alone with more alcohol and breadth than the light,
 gently spritzy image sometimes attached to Vinho Verde, although blends,
 sparkling wines, and fresher styles also exist.
-
-The contrast is geographical and cultural, not biological. A ripe, textured
-Alvarinho from Monção e Melgaço and a brisk Albariño from Val do Salnés can
-seem far apart, but the name change does not cause the difference. Exposure,
-rainfall, crop level, harvest decisions, blending, and maturation do.
 
 [^1]: Susana Boso et al., “Morphometric comparison of current, Roman-era and
     medieval *Vitis* seeds from the north-west of Spain,” *Australian Journal

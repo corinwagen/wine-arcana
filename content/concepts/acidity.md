@@ -8,10 +8,9 @@ aliases:
 
 Acidity is both a sensory impression and a set of chemical conditions that
 shape wine. Organic acids provide sourness, influence how the mouth responds,
-and help determine microbial, colour, tartrate, and [oxidation](oxidation.md) behaviour. A
-wine’s acidity cannot be understood from one number: pH, titratable acidity,
-the kinds of acids present, alcohol, sugar, phenolic compounds, and the wine’s
-buffering salts interact.
+and help determine microbial, colour, tartrate, and [oxidation](oxidation.md)
+behaviour. pH, titratable acidity, the kinds of acids present, alcohol, sugar,
+phenolic compounds, and the wine’s buffering salts interact.
 
 ## The main acids
 
@@ -21,37 +20,35 @@ relatively persistent through ripening and fermentation, although potassium
 and ethanol can later move some of it into precipitated potassium bitartrate.
 Malic acid is also formed early in berry development but is more readily
 metabolized as berries ripen, particularly under warm conditions. This is one
-reason a grape can lose titratable acidity while its sugar concentration rises;
-the change is physiological, not a simple dilution by increasing berry size.
-The review by Burbidge and colleagues describes tartaric-acid accumulation as
-largely an early developmental process and malic acid as the acid more
-susceptible to enzymatic loss during ripening.[^1]
+reason a grape can lose titratable acidity while its sugar concentration
+rises. The review by Burbidge and colleagues describes tartaric-acid
+accumulation as largely an early developmental process and malic acid as the
+acid more susceptible to enzymatic loss during ripening.[^1]
 
-Fermentation adds to this starting mixture. Yeast produce succinic acid, which
+[Alcoholic fermentation](alcoholic-fermentation.md) adds to this starting
+mixture. Yeast produce succinic acid, which
 can contribute to titratable acidity, as well as small amounts of other acids.
-Lactic acid is especially important after [malolactic conversion](malolactic-fermentation.md), while acetic
-acid is a volatile acid associated with fermentation and, in excess, microbial
-spoilage. The acid profile therefore records both grape composition and what
-happened after harvest; calling a wine simply “high-acid” leaves out useful
-information about which acids remain.
+Lactic acid is especially important after [malolactic
+conversion](malolactic-fermentation.md), while acetic acid is a volatile acid
+associated with fermentation and, in excess, microbial spoilage. The acid
+profile therefore records both grape composition and what happened after
+harvest.
 
 ## pH, titratable acidity, and buffering
 
 pH describes hydrogen-ion activity. Titratable acidity (TA) measures how much
 base is required to neutralize the wine to a defined endpoint, commonly
-reported as grams per litre of tartaric-acid equivalent. It is therefore a
-measure of neutralizable acidity, not a second way of writing pH.
+reported as grams per litre of tartaric-acid equivalent.
 
-The two measurements often move together, but they are not interchangeable.
 Weak organic acids exist in dissociated and undissociated forms; their
 conjugate bases, potassium and other ions, and the wine’s other acid systems
 buffer changes in pH. A wine can therefore have the same TA as another wine
 while presenting a different pH, or the same pH with a different amount and
 composition of acid. AWRI summarizes the practical consequence: there is no
-direct, predictable relationship between pH and TA.[^3] This buffering is why a
-small addition or loss of acid does not translate into a fixed pH change across
-wines, and why chemical analysis cannot by itself predict a wine’s perceived
-freshness.
+direct, predictable relationship between pH and TA.[^3] This buffering is why
+a small addition or loss of acid does not translate into a fixed pH change
+across wines, and why chemical analysis cannot by itself predict a wine’s
+perceived freshness.
 
 Acid species and the wine matrix matter in the glass as well. Sourness is
 related to hydrogen-ion activity and the amount of acid that saliva must
@@ -86,19 +83,16 @@ unplanned conversion in bottle can produce cloudiness or fizz.[^5]
 
 ## Microbes, colour, and sulfur dioxide
 
-pH is a central link between acidity and stability. More acidic conditions tend
-to constrain wine microorganisms, while higher pH can make growth by spoilage
-yeasts and bacteria easier. TA alone does not explain that effect because pH
-also governs the wine’s microbial environment.[^3]
+pH is a central link between acidity and stability. More acidic conditions
+tend to constrain wine microorganisms, while higher pH can make growth by
+spoilage yeasts and bacteria easier.[^3]
 
-The same distinction matters for sulfur dioxide (SO₂). Its molecular form is
-especially important for antimicrobial effectiveness. As pH rises, a smaller
-fraction of free SO₂ is molecular, so the same free-SO₂ concentration gives
-less antimicrobial protection at a higher pH.[^3]
+pH also affects sulfur dioxide (SO₂). Its molecular form is especially
+important for antimicrobial effectiveness. As pH rises, a smaller fraction of
+free SO₂ is molecular, so the same free-SO₂ concentration gives less
+antimicrobial protection at a higher pH.[^3]
 
-In red wine, pH also affects colour and oxidative reactions, among the
-properties influenced by pH according to the Australian Wine Research
-Institute.[^3]
+In red wine, pH also affects colour and oxidative reactions.[^3]
 
 ## Related topics
 

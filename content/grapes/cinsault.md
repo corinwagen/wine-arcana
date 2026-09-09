@@ -17,7 +17,6 @@ have made it a useful grape for volume as well as for blends. At restrained
 crop levels, it can contribute a relatively soft texture and open fruit
 character to red and rosé wines.
 
-That contrast explains much of its place in the southern Rhône and Provence.
 Cinsault can make varietal wine, but it is often combined with grapes that add
 colour, tannin, or a different aromatic profile. In South Africa, where it was
 long called Hermitage, it is historically important both as a widely established
@@ -35,10 +34,7 @@ while Hermitage remains useful when reading older Cape material.[^2]
 
 In 1925, A. I. Perold crossed [Pinot Noir](pinot-noir.md) with the vine then known locally as
 Hermitage. The resulting variety was named Pinotage; later recognition that
-Hermitage was Cinsaut did not alter that name.[^3] Cinsault therefore belongs to
-South African wine history in two ways: as a long-established cultivated variety
-and as one parent of Pinotage. A cross recombines traits from both parents, so
-Pinotage's wines and vineyard behaviour require their own explanation.
+Hermitage was Cinsaut did not alter that name.[^3]
 
 ## Viticulture in warm, dry sites
 
@@ -50,21 +46,19 @@ the resulting wine can lack concentration. France's Plantgrape catalogue
 therefore recommends poorer, dry soils and controlled yields for steadier,
 more useful fruit.[^1]
 
-The variety needs warmth and is notably resistant to drought and wind, according
-to the Rhône valley's interprofessional body. In this sense it is heat-tolerant:
-it suits Mediterranean summers better than a grape that needs cooler or more
-reliably watered conditions. Water supply, soil depth, crop load, [canopy
-management](../concepts/canopy-management.md), and harvest date still
-shape sugar, acidity, and berry condition. Cinsault is also susceptible to grey
-rot, grape moths, mites, and trunk diseases, so a dry-climate reputation does
-not remove the need for site-specific farming.[^1]
+The variety needs warmth and is notably resistant to drought and wind,
+according to the Rhône valley's interprofessional body. In this sense it is
+heat-tolerant: it suits Mediterranean summers better than a grape that needs
+cooler or more reliably watered conditions. Water supply, soil depth, crop
+load, [canopy management](../concepts/canopy-management.md), and harvest date
+still shape sugar, acidity, and berry condition. Cinsault is also susceptible
+to grey rot, grape moths, mites, and trunk diseases.[^1]
 
 Its relatively early-to-middle ripening offers another useful fit with hot
 regions. At the French reference collection it reaches maturity three weeks
 after Chasselas, a comparative measure rather than a calendar harvest date.
 Its drooping shoots require short pruning and careful removal of excess shoots;
-it can show chlorosis on limestone soils. These limitations help explain why
-heat tolerance alone is an incomplete planting guide.
+it can show chlorosis on limestone soils.
 
 ## Wine character and blending
 
@@ -78,10 +72,7 @@ extraction.
 
 Large berries can dilute colour and skin material when yields are high, while
 low yields, ripeness, extraction, and
-maturation can make a substantially different red. The variety's role in a
-blend is consequently more informative than a fixed set of tasting descriptors:
-it often supplies ease and volume, while other grapes can supply firmer
-structure, deeper pigment, or later-season ripening.
+maturation can make a substantially different red.
 
 ## Southern Rhône and Provence
 

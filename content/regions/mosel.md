@@ -8,11 +8,10 @@ Mosel is a German wine region and protected designation of origin built around
 the Mosel River and the lower valleys of its tributaries, the Saar and Ruwer.
 The growing area follows the Mosel from Perl, near the French and Luxembourg
 borders, to Koblenz, where it meets the Rhine. Its 8,287 hectares of vineyard in
-2025 make a long, discontinuous corridor rather than one uniform landscape.[^1]
+2025 form a long, discontinuous corridor.[^1]
 
-The region is closely associated with [Riesling](../grapes/riesling.md), but
-neither “Mosel” nor “Riesling” determines a sweetness level or a single wine
-character. River bends turn slopes toward different parts of the sky; tributary
+The region is closely associated with [Riesling](../grapes/riesling.md). River
+bends turn slopes toward different parts of the sky; tributary
 valleys differ in elevation and shelter; and the broad, limestone-influenced
 Upper Mosel is unlike the slate gorges farther downstream. Harvest timing,
 fermentation, and the producer's aims widen those differences.
@@ -27,7 +26,7 @@ the river cuts a narrower, winding valley into much older Devonian rocks,
 including slate, quartzite, and sandstone. The lower reaches are often called
 the Terrassenmosel because walls and small terraces make cultivation possible
 on some of the steepest ground. Saar and Ruwer vineyards add separate networks
-of side valleys rather than simple extensions of the main river.[^2]
+of side valleys.[^2]
 
 This topography helped growers obtain ripe grapes in a historically cool
 setting. A well-exposed slope intercepts more sunlight than flat ground, and
@@ -35,9 +34,7 @@ the current Mosel specification records its highest direct-sunshine values on
 steep and very steep sites. Stony, shallow soils can warm readily and drain
 after rain. These advantages are conditional: a bend can give one bank a sunny
 aspect and the next a shaded one, while elevation, wind, soil depth, and water
-supply change over short distances. Slate affects drainage and root conditions;
-it should not be understood as a flavour that passes literally from rock into
-wine.
+supply change over short distances. Slate affects drainage and root conditions.
 
 Steepness also imposes costs. Many parcels allow little machinery, require
 substantial hand labour, and are vulnerable to erosion. Shallow sites that shed
@@ -46,8 +43,6 @@ that once made ripening more dependable may hasten sugar accumulation and acid
 loss in a hot year. More generally, warming advances grapevine development and
 moves ripening into a warmer part of the season; it can benefit marginal sites
 while increasing heat, drought, and extreme-weather risks elsewhere.[^3]
-Mosel's climate should therefore be understood through the interaction of
-site and vintage, not simply as “cool.”
 
 ## Riesling and the problem of ripeness
 
@@ -63,8 +58,7 @@ The grape is not equally dominant everywhere. The slate-influenced Middle and
 Lower Mosel, Saar, and Ruwer provide the region's familiar Riesling reference,
 but the shell-limestone soils of the Upper Mosel support significant Elbling
 and Pinot-family plantings. Müller-Thurgau, [Pinot Blanc](../grapes/pinot-blanc.md), and [Pinot Noir](../grapes/pinot-noir.md) also
-matter across the growing area. This is one reason a regional name alone is a
-poor substitute for the village, vineyard, grape, and producer on the label.
+matter across the growing area.
 
 ## Sweetness, Prädikat, and production choices
 
@@ -73,7 +67,8 @@ Prädikat terms do not by themselves settle which. Kabinett, Spätlese, and
 Auslese are legal categories based chiefly on grape maturity, measured through
 minimum must weight, with thresholds that depend on region and grape. They can
 be fermented dry or retain sugar. Beerenauslese and Trockenbeerenauslese use
-overripe, shrivelled, and commonly noble-rotted fruit, while Eiswein is made
+overripe, shrivelled, and commonly noble-rotted fruit, while
+[Eiswein](../styles/icewine.md) is made
 from grapes harvested and pressed while naturally frozen; these concentrated
 categories are ordinarily sweet. Prädikatswein may not be enriched to raise
 alcohol, unlike Qualitätswein under permitted conditions.[^4]
@@ -92,13 +87,6 @@ how sweet the remaining sugar tastes without removing it. Choice of picking
 date, berry selection, fermentation endpoint, steel or relatively neutral wood,
 lees contact, and maturation can consequently produce very different wines
 from neighbouring parcels.
-
-Mosel is best read as a set of interacting variables. A sunny Middle Mosel
-slope in a warm year, an exposed Saar site in a cooler year, a limestone parcel
-in the Upper Mosel, and a walled terrace near the river's lower reaches do not
-offer the same raw material. Vineyard names and Prädikat can explain parts of a
-bottle, but neither overrides vintage conditions or decisions in the vineyard
-and cellar.
 
 [^1]: Deutsches Weininstitut, “Mosel,” 2025 vineyard-area figure, accessed 1
     September 2026.

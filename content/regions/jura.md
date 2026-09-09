@@ -8,12 +8,12 @@ Jura is a small wine region in eastern France, along the western foothills of
 the Jura mountains. Its vineyards run through the Revermont, the uneven strip
 between the Bresse plain and the first limestone plateau. The region is known
 for Savagnin, [vin jaune](../styles/vin-jaune.md), and unusual cellar
-traditions, but those are only part
-of the picture. Jura also produces fresh white wines, pale and darker reds,
+traditions, and also produces fresh white wines, pale and darker reds,
 rosé, [traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md), and sweet [vin de paille](../styles/vin-de-paille.md).
 
 The name Jura describes this wider region. **Côtes du Jura** is a separate,
-delimited appellation that runs through much of it. Arbois, Château-Chalon, and
+delimited appellation that runs through much of it. [Arbois](arbois.md),
+[Château-Chalon](chateau-chalon.md), and
 L'Étoile are other geographic appellations; Crémant du Jura and Macvin du Jura
 are product appellations whose areas overlap the vineyard zone. A bottle from
 the Jura is therefore not necessarily a Côtes du Jura, and Côtes du Jura is not

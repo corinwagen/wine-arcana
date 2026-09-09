@@ -20,18 +20,15 @@ wines and for Crémant; Germany has made it a substantial still-wine variety
 with examples ranging from light dry wines to richer and sweet bottlings; and
 Alto Adige treats Pinot Bianco as an important high-elevation white grape.
 
-## A white Pinot, not a Chardonnay
+## Identity and regional names
 
 Plantgrape identifies Pinot Blanc as the white mutation of Pinot Noir. In the
 clones studied, genetic research supports a parallel model in which Pinot Blanc
 and Pinot Gris arose as independent somatic mutations from ancestral Pinot
-Noir.[^1]
-The relationship is therefore closer to a family of colour variants preserved
-through vegetative propagation than to a loose resemblance between unrelated
-white grapes. Ripe Pinot Blanc berries are greenish-yellow, while Pinot Gris
-berries retain gray-pink or coppery colour; the vines remain similar enough
-that their identity is easiest to establish from the whole set of varietal and
-genetic features rather than berry colour alone.
+Noir.[^1] Ripe Pinot Blanc berries are greenish-yellow, while Pinot Gris berries
+retain gray-pink or coppery colour; the vines remain similar enough that their
+identity is easiest to establish from the whole set of varietal and genetic
+features rather than berry colour alone.
 
 [Chardonnay](chardonnay.md) is a separate grape, and a Pinot Blanc or Pinot Bianco label does
 not identify it. In Alsace, the current AOC rules permit “Pinot blanc” for
@@ -63,18 +60,15 @@ important because they are different varieties.
 
 In **Germany**, Weißburgunder has become an important planting, especially in
 Baden, Rheinhessen, and the Pfalz. The German Wine Institute describes a wide
-range: dry wines with moderate body and fine [acidity](../concepts/acidity.md), more extract-rich or
-barrel-aged versions, and occasional late-harvest, sweet, and sparkling wines.
-Germany therefore shows Pinot Blanc as a serious still-wine grape whose style
-can broaden with ripeness and maturation, rather than only as a neutral
-blending component.
+range: dry wines with moderate body and fine [acidity](../concepts/acidity.md),
+more extract-rich or barrel-aged versions, and occasional late-harvest, sweet,
+and sparkling wines.
 
 In **Italy**, the name is Pinot Bianco. Alto Adige is a useful documented
 example: the regional wine body places it among the area's leading white
 varieties and associates it with higher sites, including vineyards reaching
-about 800 metres. Its local presentation emphasizes fresh, dry wines with
-lively acidity and restrained fruit. That describes Alto Adige's established
-use.
+about 800 metres. Its local presentation emphasizes fresh, dry wines with lively
+acidity and restrained fruit.
 
 For **sparkling wine**, Pinot Blanc's pale juice and moderate profile make it
 useful as a base-wine grape. Plantgrape explicitly records this use, and the

@@ -14,9 +14,8 @@ Zinfandel is a dark-skinned *Vitis vinifera* variety whose different names map
 an unusual history. DNA profiling establishes California Zinfandel, Italian
 Primitivo, and the Croatian vines called Crljenak Kaštelanski, Tribidrag, or
 Pribidrag as the same cultivar; Kratošija in Montenegro is another synonym.
-They are not separate grapes, but centuries of propagation in different places
-have produced distinct clonal populations, and the names do not guarantee a
-particular wine style.
+Centuries of propagation in different places have produced distinct clonal
+populations.
 
 California made Zinfandel internationally familiar, while research in Croatia
 recovered its older identity. That makes the variety both a strongly
@@ -61,9 +60,9 @@ Zinfandel regained attention.[^4]
 ## Viticulture
 
 Zinfandel is early-ripening relative to many wine grapes—the name *Primitivo*
-refers to that precocity—but early does not mean even. A bunch can reach harvest
-with firm, less mature berries beside fully ripe and shriveled ones. Waiting
-for the lagging berries allows the advanced fruit to lose water and concentrate
+refers to that precocity—and often ripens unevenly. A bunch can reach harvest
+with firm, less mature berries beside fully ripe and shriveled ones. Waiting for
+the lagging berries allows the advanced fruit to lose water and concentrate
 sugar; picking sooner can preserve more acidity and fresh-fruit character while
 bringing a greater proportion of less mature fruit into the winery. The grower
 is often choosing among imperfect distributions of ripeness rather than one
@@ -73,16 +72,11 @@ Compact bunches and relatively thin skins add another constraint. As berries
 soften, crowding, splitting, and fungal disease can make a long wait risky;
 raisined berries can also raise the average sugar reading without showing that
 every berry has matured in step. Crop level, water supply, canopy exposure,
-weather, selective picking, and sorting can all change the balance. Uneven
-ripening is therefore a tendency to manage, not a fixed recipe for high-alcohol
-wine.[^5]
+weather, selective picking, and sorting can all change the balance.[^5]
 
-Shared varietal identity does not erase differences in plant material. In
-California trials, one Primitivo selection generally ripened earlier and had
+In California trials, one Primitivo selection generally ripened earlier and had
 smaller berries and looser bunches than the Zinfandel selections beside it.
-Those results concern particular clones under particular conditions, but they
-show why a Primitivo vine and a California Zinfandel vine can perform
-differently without being different cultivars.[^3]
+Those results concern particular clones under the trial conditions.[^3]
 
 ## Wine character and cellar choices
 
@@ -92,16 +86,14 @@ white-berried form of the variety. It may be dry, but the name became especially
 associated with wines retaining some grape sugar. Fermenting on the skins makes
 red wine, and the length and force of extraction influence color and tannin.
 
-Ripeness pulls those reds in different directions. Earlier-picked fruit can
-give a lighter, more acid-defined wine with fresh red-fruit character. Later
-harvest and a greater share of shriveled berries can bring more potential
-alcohol, broader texture, and riper or dried-fruit character. Neither outcome
-is compulsory: site and season affect acidity and berry condition, while
-sorting, fermentation, extraction, blending, and maturation can reinforce or
-counter what arrived from the vineyard. A 1987 study of 24 California wines
-found wide chemical and sensory variation but no dependable regional profile,
-a useful warning against treating Zinfandel as uniformly heavy or Primitivo as
-a separate stylistic category.[^6]
+Ripeness pulls those reds in different directions. Earlier-picked fruit can give
+a lighter, more acid-defined wine with fresh red-fruit character. Later harvest
+and a greater share of shriveled berries can bring more potential alcohol,
+broader texture, and riper or dried-fruit character. Site and season affect
+acidity and berry condition, while sorting, fermentation, extraction, blending,
+and maturation can reinforce or counter what arrived from the vineyard. A 1987
+study of 24 California wines found wide chemical and sensory variation but no
+dependable regional profile.[^6]
 
 California remains central to the variety's modern identity, with traditions
 that range from pale, often off-dry White Zinfandel to dry reds and late-harvest

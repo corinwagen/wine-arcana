@@ -13,8 +13,7 @@ and a component of Bordeaux blends. In the central Loire, northeastern Italy,
 and several New World regions, it also makes red and rosé wines under its own
 name.
 
-The variety shows how inherited tendencies interact with growing and winemaking
-decisions. It commonly combines red-fruit and floral aromas with a leafy or
+It commonly combines red-fruit and floral aromas with a leafy or
 pepper-like accent, and it normally ripens before [Cabernet
 Sauvignon](cabernet-sauvignon.md). Climate, crop level, canopy, harvest date,
 extraction, and blending can shape those traits into a fresh, fragrant wine or

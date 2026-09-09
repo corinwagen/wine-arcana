@@ -20,67 +20,52 @@ tangy line in the finished wine.
 
 ## Names and identity
 
-The name is not as settled in everyday use as the grape's identity. *Piquepoul*
-is the spelling used in the Rhône Valley, while *Picpoul* is common in
-Languedoc and in the name Picpoul de Pinet. Other regional forms include
+*Piquepoul* is the spelling used in the Rhône Valley, while *Picpoul* is common
+in Languedoc and in the name Picpoul de Pinet. Other regional forms include
 Picapoll, Picpouille, Avillo, and Picapulla. Picapoll Blanco, however, is a
 distinct variety from Piquepoul/Picpoul blanc, despite the similar name.[^1]
-Piquepoul gris and Piquepoul noir are colour forms of the Piquepoul group
-rather than unrelated identities: Plantgrape identifies Blanc specifically as
-a white mutation of Noir.[^2]
+Piquepoul gris and Piquepoul noir are colour forms of the Piquepoul group.
+Plantgrape identifies Blanc as a white mutation of Noir.[^2]
 
 Inter Rhône gives a Langue d'Oc explanation in which *Piquepoul* refers to a
-place with a rocky peak. That is a regional etymological account, not a
-demonstrated biography of the variety, so it is safer to treat it as a
-traditional explanation than as an established origin story. The available
-varietal record supports the practical identity: Piquepoul blanc is a
-recognised French wine grape, with its own material and viticultural
-description.
+place with a rocky peak. The etymology remains a regional tradition.
 
 ## Viticulture in a Mediterranean climate
 
 Picpoul Blanc is relatively late-ripening, vigorous, and productive. Its
 clusters are medium-sized and compact; short pruning is recommended, and very
-fertile soils are best avoided. Those traits describe tendencies, not a
-universal prescription: crop level, water supply, exposure, disease pressure,
-and the season still influence when a parcel reaches useful ripeness.
+fertile soils are best avoided. Crop level, water supply, exposure, disease
+pressure, and the season influence when a parcel reaches useful ripeness.
 
 Late ripening can be an advantage in a hot, sunny region when the site has
 enough time and water to carry the fruit to maturity. The Picpoul de Pinet
 specification describes the area north of the Étang de Thau as relatively dry,
 with deep, draining soils and humid maritime influence. In its account, those
-conditions help the late variety mature while preserving the floral, citrus,
-and fresh qualities associated with the appellation. That is a place-specific
-explanation, not proof that every Mediterranean planting will behave the same
-way.
+conditions help the late variety mature while preserving the floral, citrus, and
+fresh qualities associated with the appellation.
 
 The grape's high apparent acidity is therefore partly a harvest and site
 question. Warmth can increase sugar and reduce acid in grapes generally, but a
-late variety harvested at a suitable point may retain enough acid to make a
-dry wine feel lively rather than broad. The result also depends on crop load,
-water status, the season, and the balance between ripeness and freshness. It
-would be misleading to turn “Picpoul is acidic” into a fixed numerical
-property of every wine.
+late variety harvested at a suitable point may retain enough acid to make a dry
+wine feel lively rather than broad. The result also depends on crop load, water
+status, the season, and the balance between ripeness and freshness.
 
 ## Wine character and cellar choices
 
 Picpoul Blanc usually makes dry, still white wine. Inter Rhône describes the
-wine as relatively neutral, with discreet citrus and floral notes, and values
-it for tangy freshness and finesse in blends. The appellation specification for
-Picpoul de Pinet similarly describes pale, youthful wines with floral and
-citrus notes and a characteristic acidic edge. These descriptions establish a
-style tendency, not a compulsory tasting list; pressing, fermentation, vessel,
-lees contact, and the date of harvest can change how much fruit, texture, and
-freshness are perceived.
+wine as relatively neutral, with discreet citrus and floral notes, and values it
+for tangy freshness and finesse in blends. The appellation specification for
+Picpoul de Pinet similarly describes pale, youthful wines with floral and citrus
+notes and a characteristic acidic edge. Pressing, fermentation, vessel, lees
+contact, and harvest date can change the balance of fruit, texture, and
+freshness.
 
 The main cellar decision is how to preserve the grape's point of difference
 while bringing it to adequate ripeness. The Picpoul de Pinet rules emphasise
 careful transport and pressing to preserve finesse and balance, and the wines
 are generally released young. That makes sense for a wine whose appeal depends
-on freshness, although it does not prohibit more textured or longer-lived
-interpretations outside the appellation. A producer who allows more oxygen,
-oak, lees influence, or malolactic softness would be changing the expression
-of the grape, not revealing a single hidden “true” style.
+on freshness, while oxygen exposure, oak, lees contact, or malolactic
+fermentation can produce fuller interpretations.
 
 ## Picpoul de Pinet
 
@@ -110,13 +95,11 @@ on the principal varieties, so Picpoul can contribute without defining the
 appellation's blend. The same rules also list it as an accessory option in red
 and rosé wines, subject to the applicable blending limits.[^4]
 
-That legal position matches the grape's practical role. In a warm blend,
-Picpoul can supply a sharper acid impression and a light, discreetly aromatic
-freshness, countering varieties that contribute more alcohol, body, or ripe
-fruit. It is a balancing component, not a guarantee that a blend will taste
-crisp: proportions, harvest dates, fermentation, and maturation determine the
-final result. Its presence in the Rhône is consequently easy to overlook, but
-useful to understand when reading the region's broad white-grape vocabulary.
+That legal position matches the grape's practical role. In a warm blend, Picpoul
+can supply a sharper acid impression and a light, discreetly aromatic freshness,
+countering varieties that contribute more alcohol, body, or ripe fruit.
+Proportions, harvest dates, fermentation, and maturation determine the final
+balance.
 
 ## Sources
 

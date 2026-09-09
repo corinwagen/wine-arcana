@@ -8,11 +8,10 @@ aliases:
 
 # Macabeo
 
-Macabeo is a pale-skinned *Vitis vinifera* grape grown widely in Spain and,
-as Macabeu or Maccabéo, in southern France. In [Rioja](../regions/rioja.md) it
-is called Viura. These names matter because they can make one variety appear to
-be several: a bottle of Rioja Viura and a Catalan Macabeo may begin with the
-same grape but belong to very different wine traditions.[^1]
+Macabeo is a pale-skinned *Vitis vinifera* grape grown widely in Spain and, as
+Macabeu or Maccabéo, in southern France. In [Rioja](../regions/rioja.md) it is
+called Viura. Rioja Viura and Catalan Macabeo use the same grape in different
+wine traditions.[^1]
 
 It is one of the central white grapes of northeastern Spain, but its range is
 much wider than its famous sparkling-wine role suggests. Spain's vineyard
@@ -42,8 +41,7 @@ production, but they also make yield and fruit health consequential. A compact
 bunch is slower to dry after rain, while a large crop can slow or unevenly
 distribute ripening. A grower aiming for a simple base wine may pick for acid
 and moderate alcohol; one seeking a more substantial still wine may accept a
-later harvest only if the fruit can remain sound. The result depends on season,
-site, crop level, and harvest date, not on the variety alone.
+later harvest only if the fruit can remain sound.
 
 ## The Cava grape
 
@@ -54,14 +52,14 @@ not prescribe a universal three-grape formula. In 2025 Macabeo accounted for
 13,619 hectares, or 36.5% of Cava's registered vineyard area, making it the
 largest of the authorised varieties by area.[^4]
 
-For [traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md),
-the point is not a fixed flavour assigned to each grape. Base wine must retain
-enough freshness for a second fermentation and maturation on its lees. Macabeo
-can bring a relatively restrained, lightly floral or fruity element; Xarel·lo
-often gives more structure, and Parellada can contribute delicacy. Their actual
-balance changes with the vintage, the origin of the fruit, pressing, blend, and
-time on lees. Macabeo is also made as still wine throughout the same broader
-territory, so Cava is an important use rather than the definition of the grape.
+For
+[traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md),
+base wine must retain enough freshness for a second fermentation and
+maturation on its lees. Macabeo can bring a relatively restrained, lightly
+floral or fruity element; Xarel·lo often gives more structure, and Parellada
+can contribute delicacy. Their actual balance changes with the vintage, the
+origin of the fruit, pressing, blend, and time on lees. Macabeo is also made
+as still wine throughout the same broader territory.
 
 ## From young white to long-aged wine
 
@@ -85,27 +83,18 @@ essential to that result, and wood can overwhelm a lightly built wine.
 Southern France offers a different long-aged use. In Roussillon, Macabeu is
 one of the traditional grapes permitted in Rivesaltes *vin doux naturel*.
 Rivesaltes wines labelled *ambré* or *tuilé* may include Macabeu and undergo
-oxidative maturation under the appellation rules.[^6] These fortified blends
-are not equivalents of dry white Rioja, but together the two traditions show
-why a seemingly modest grape can support wines made for immediate drinking as
-well as deliberately evolved styles.
+oxidative maturation under the appellation rules.[^6]
 
 ## Where it is grown
 
 Catalonia and the Penedès remain the clearest reference point because of Cava,
 but Macabeo is not confined to the Mediterranean northeast. It is established
 across inland Spain, including the extensive vineyards of Castilla-La Mancha,
-and has a distinct northern identity as Viura in Rioja. Regional names are
-therefore poor shortcuts for style. A high-yielded inland white, a Cava base
-wine, a barrel-aged Rioja, and a Roussillon sweet wine can share Macabeo while
-having little else in common.
+and has a distinct northern identity as Viura in Rioja.
 
 Across the border, Macabeu belongs above all to Languedoc and Roussillon. In
 Roussillon it is a principal white grape for Côtes du Roussillon blends as
-well as part of the local sweet-wine inheritance.[^6] French and Spanish
-examples meet in a common Mediterranean history, but appellation rules,
-fortification, and local cellar practice create the important differences in
-the glass.
+well as part of the local sweet-wine inheritance.[^6]
 
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro
     Montpellier, “Macabeu B,” Plantgrape, accessed 3 September 2026; Consejo

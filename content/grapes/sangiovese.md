@@ -111,17 +111,13 @@ coastal Tuscany. Basic and Superiore wines require at least 85% Sangiovese;
 Riserva requires 90% and longer maturation including wood. Elevation and site
 temper the region's heat and summer drought.[^4]
 
-These rules establish place, composition, and minimum maturation; clone,
-vineyard, season, harvest, and producer create variation within them.
-
 ## Beyond Tuscany
 
 Sangiovese remains important in Emilia-Romagna, especially in Romagna, and is
 grown through Marche, Umbria, Lazio, and other Italian regions. Corsica's
 Nielluccio is the same variety under a legally and culturally established local
 name, with its own certified clones and island growing conditions. Plantings in
-the Americas and Australia bring further climates and practices. Across those
-regions, site, crop control, and harvest balance remain central.
+the Americas and Australia bring further climates and practices.
 
 [^1]: Alessandra Zombardo et al., “Study of Inter- and Intra-varietal Genetic
     Variability in Grapevine Cultivars,” *Plants* 11 (2022), article 397,

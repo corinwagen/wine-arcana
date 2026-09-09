@@ -10,27 +10,24 @@ aliases:
 # Oak maturation
 
 Oak maturation means keeping wine in contact with oak after alcoholic
-fermentation, often in a barrel or larger cask. The vessel does more than add
-aroma: substances move from wood into wine, small amounts of oxygen enter, and
-the wine's own pigments, tannins, aromas, lees, and microbes continue to change.
-The result depends on how those processes interact, not simply on whether a
-barrel was new or how long the wine stayed in it.
+fermentation, often in a barrel or larger cask. Substances move from wood into
+wine, small amounts of oxygen enter, and the wine's own pigments, tannins,
+aromas, lees, and microbes continue to change.
 
-This is distinct from fermentation in wood. A wine can ferment in tank and
-mature in barrel, ferment in barrel and mature elsewhere, or remain in the same
-vessel for both stages. Malolactic conversion and lees contact may overlap with
-oak maturation, but each has its own causes and effects.
+A wine can ferment in tank and mature in barrel, ferment in barrel and mature
+elsewhere, or remain in the same vessel for both stages. Malolactic conversion
+and lees contact may overlap with oak maturation, but each has its own causes
+and effects.
 
 ![A row of large wooden casks recedes into a dark wine cellar.](../../media/images/concepts/oak-maturation-cellar-casks.jpg "Oak casks in a wine cellar.")
 
 ## Vessel size and oxygen
 
 A smaller barrel has more wood surface for each litre of wine than a larger
-cask of similar shape. All else being equal, this increases the opportunity for
-wood compounds to be extracted. In a study comparing 225- and 500-litre
+cask of similar shape. All else being equal, this increases the opportunity
+for wood compounds to be extracted. In a study comparing 225- and 500-litre
 barrels, the smaller vessels transferred more oak lactones and vanillin, while
-many other measured properties differed little. Vessel size therefore changes
-the rate and emphasis of maturation; it is not a quality scale.
+many other measured properties differed little.
 
 Oxygen supply is less predictable than surface area alone. Oxygen can pass
 through the wood and through joins, while the bung, stave thickness and
@@ -44,37 +41,33 @@ while still acting differently from an airtight steel tank.
 Limited oxygen can help reshape red-wine tannins and pigments, sometimes
 stabilising colour and changing astringency. These reactions depend on the
 wine's starting phenolics, sulfur dioxide, temperature, and the timing and
-amount of exposure. Oxygen does not simply “soften” every wine: too much can
-consume protective sulfur dioxide, diminish fresh aroma, brown a white wine,
-or support spoilage. Oak maturation is controlled oxidation only when the
-vessel and wine are well managed.
+amount of exposure. Excessive oxygen can consume protective sulfur dioxide,
+diminish fresh aroma, brown a white wine, or support spoilage. Oak maturation
+is controlled oxidation only when the vessel and wine are well managed.
 
 ## Species, seasoning, and toast
 
 The principal cooperage oaks include European *Quercus petraea* and *Q. robur*
 and North American *Q. alba*. Species influence anatomy and the available mix
-of ellagitannins, oak lactones, and other extractives. In one controlled barrel
-study, for example, wine in new *Q. alba* accumulated substantially more
-cis-oak lactone than wine in new *Q. petraea*. That result does not turn
-“American oak” and “French oak” into dependable flavour categories. Forest,
-individual tree, grain, stave selection, seasoning, cooperage, and the wine
-itself create variation within each name; origin is not a quality grade.
+of ellagitannins, oak lactones, and other extractives. In one controlled
+barrel study, for example, wine in new *Q. alba* accumulated substantially
+more cis-oak lactone than wine in new *Q. petraea*. Forest, individual tree,
+grain, stave selection, seasoning, cooperage, and the wine itself create
+variation within each origin.
 
 Before a barrel is assembled, cut staves are seasoned to reduce moisture and
 make the wood suitable for cooperage. Outdoor seasoning also changes some
-extractives. An experiment following oak through 12, 18, and 24
-months found changes in the wood's composition and in wine exposed to it, but
-its panel could not reliably distinguish every seasoning interval. Seasoning
-time is therefore not merely a drying specification, and a duration by itself
-says little without the wood selection, yard climate, and handling.
+extractives. An experiment following oak through 12, 18, and 24 months found
+changes in the wood's composition and in wine exposed to it, but its panel
+could not reliably distinguish every seasoning interval. Seasoning effects
+depend on wood selection, yard climate, and handling as well as time.
 
 Heat first helps bend the staves and then toasts the barrel's inner surface.
 It breaks down wood polymers and changes the balance of extractable compounds:
 some ellagitannins decline, while lignin and carbohydrate degradation can form
 vanillin, furans, and volatile phenols. The response is not linear. A compound
 may reach a maximum and then fall as heating continues, and the temperature
-varies with depth in the stave. “Heavy toast” thus means a different thermal
-treatment, not more of every oak effect or one mandatory smoky flavour.
+varies with depth in the stave.
 
 ## Barrel age and time
 
@@ -83,21 +76,18 @@ Extraction is often quickest early in the first fill, then slows as the
 concentration gradient falls and the surface layers become depleted. Reuse
 usually reduces the transfer of aroma-active compounds, especially those
 concentrated near the toasted surface. Deposits and previous wine also modify
-the wood. An older barrel described as “neutral” can nevertheless admit oxygen,
-hold lees, permit evaporation, and provide a microbial habitat; neutral means
-little perceptible new-oak aroma, not no effect.
+the wood. An older barrel described as “neutral” contributes little
+perceptible new-oak aroma. It can still admit oxygen, hold lees, permit
+evaporation, and provide a microbial habitat.
 
-Time in oak is consequently not proportional to oak flavour. Some volatile
-compounds accumulate rapidly, are transformed by yeast or bacteria, adsorb to
-lees, or later decline. Slower changes in red-wine pigment and tannin can
-continue after the most conspicuous wood extraction has eased. Wine
-composition also affects what dissolves and how it is perceived. Twelve months
-in two barrels of different age, size, or construction is not the same
-treatment, and longer maturation is not automatically better.
+Some volatile compounds accumulate rapidly, are transformed by yeast or
+bacteria, adsorb to lees, or later decline. Slower changes in red-wine pigment
+and tannin can continue after the most conspicuous wood extraction has eased.
+Wine composition also affects what dissolves and how it is perceived.
 
-## Fermentation in wood is a separate choice
+## Fermentation in wood
 
-During alcoholic fermentation, active yeast, carbon dioxide, heat, and often
+During [alcoholic fermentation](alcoholic-fermentation.md), active yeast, carbon dioxide, heat, and often
 lees change the environment in which wood compounds are extracted and
 transformed. Yeast can convert vanillin to much less aromatic vanillic alcohol,
 for example, so fermenting in a new barrel need not produce the same wood
@@ -105,19 +95,12 @@ impression as transferring finished wine into it. Barrel-fermented white wine
 also commonly remains on its fermentation lees, making [lees
 aging](lees-aging.md) part of the result unless the wine is promptly racked.
 
-[Malolactic fermentation](malolactic-fermentation.md) can occur in barrel too,
-but oak does not cause that bacterial conversion or its change from malic to
-lactic acid. Likewise, fermentation in steel does not preclude later oak
-maturation. Separating these stages helps explain why [Chardonnay](../grapes/chardonnay.md)
-can combine wood, lees, and malolactic effects in different proportions, and
-why a legal period in barrel, such as one used for some [Rioja](../regions/rioja.md)
-categories, cannot by itself predict a flavour profile.
+[Malolactic fermentation](malolactic-fermentation.md) can occur in barrel too.
+[Chardonnay](../grapes/chardonnay.md) can combine wood, lees, and malolactic
+effects in different proportions according to the producer’s choices.
 
 ## Related topics
 
-- [Lees aging](lees-aging.md)
-- [Malolactic fermentation](malolactic-fermentation.md)
-- [Chardonnay](../grapes/chardonnay.md)
 - [Rioja](../regions/rioja.md)
 
 ## Sources

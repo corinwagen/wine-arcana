@@ -32,8 +32,7 @@ kept straightforward wine lively. In much of the Langhe, growers traditionally
 reserved the warmest, best-exposed positions for late-ripening Nebbiolo and
 planted Barbera on less favoured sites. It became daily table wine alongside
 [Dolcetto](dolcetto.md), while [Barolo](../regions/barolo.md) and other Nebbiolo
-wines carried greater market status. That hierarchy reflected
-land use and economics as well as any innate limit of the grape.
+wines carried greater market status.
 
 ## Viticulture and acidity
 
@@ -88,9 +87,7 @@ Bricco dell'Uccellone became an influential model because it combined much
 lower yields with maturation in French barriques and reached an international
 market. Other producers explored riper fruit, reduced crops, selected parcels,
 controlled malolactic conversion, and longer maturation. These choices showed
-that Barbera could carry concentration and bottle age, although they also
-created a period in which conspicuous oak and weight could be mistaken for the
-grape's only serious form.[^4]
+that Barbera could carry concentration and bottle age.[^4]
 
 Modern Piedmont retains several distinct centres. Barbera d'Asti and Barbera
 del Monferrato come from the Monferrato hills, while Barbera d'Alba covers a
@@ -101,13 +98,6 @@ consolidated rules require 100% Barbera, cap ordinary vineyard yield at 7 tonnes
 per hectare, and require at least 18 months' maturation, including six in wood.
 A wine labelled with *vigna* and a registered vineyard name must come entirely
 from that vineyard, be handled separately, and meet a lower yield limit.[^5]
-
-Those rules make origin and intent more legible; they do not establish a
-universal quality ladder. A named vineyard can contain different exposures and
-soils, while grower decisions and vintage still matter. An unadorned,
-early-drinking Barbera can express the acidity and modest tannin that made the
-grape useful in Piedmont long before single-site bottlings became a category of
-ambition.
 
 Outside Piedmont, Barbera has long been important in Lombardy's Oltrepò Pavese
 and the Colli Piacentini of Emilia-Romagna, where it may be blended and made in

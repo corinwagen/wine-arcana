@@ -29,24 +29,21 @@ white wines found temperature-related changes in perceived aroma, flavour, and
 measured headspace volatiles; their results also varied by wine, compound, and
 taster.[^1]
 
-Temperature acts on taste in the mouth as well as aroma in the glass. Taste-cell
-and nerve responses vary with temperature, while sugar, acids, ethanol, and
-aroma can suppress or reinforce one another. Sweetness often becomes less
-apparent when a wine is chilled. Acidity may then occupy more of the overall
-balance, although the acid concentration has not changed. Direct effects on
-sourness are less consistent than this contrast effect. In one controlled wine
-study, sweetness and acidity depended on an interaction between the taster and
-temperature instead of following one common response.[^1] Individual sensitivity
-adds further variation.
+Temperature acts on taste in the mouth as well as aroma in the glass.
+Taste-cell and nerve responses vary with temperature, while sugar, acids,
+ethanol, and aroma can suppress or reinforce one another. Sweetness often
+becomes less apparent when a wine is chilled. Acidity may then occupy more of
+the overall balance, although the acid concentration has not changed. Direct
+effects on sourness are less consistent than this contrast effect. In one
+controlled wine study, sweetness and acidity depended on an interaction
+between the taster and temperature.[^1]
 
-Bitterness and astringency also need separate treatment. Bitterness is a taste;
-astringency is chiefly a drying, rough tactile sensation associated with tannins
-interacting with saliva. Cooling can alter their timing and their prominence
-relative to aroma, sweetness, and alcohol. Wine studies have not established a
-simple temperature rule that predicts either sensation across all reds. A very
-cold, tannic wine may feel severe because its aroma and fruit-related impressions
-are muted, even when the tannin concentration and underlying protein interactions
-have barely changed.
+Bitterness is a taste; astringency is chiefly a drying, rough tactile
+sensation associated with tannins interacting with saliva. Cooling can alter
+their timing and their prominence relative to aroma, sweetness, and alcohol. A
+very cold, tannic wine may feel severe because its aroma and fruit-related
+impressions are muted, even when the tannin concentration and underlying
+protein interactions have barely changed.
 
 The warmth of alcohol is a further sensory mechanism. Ethanol activates and
 sensitizes heat-responsive nerves, including the transient receptor potential
@@ -82,7 +79,7 @@ production method.
 Broad service ranges work best as starting points. Professional service guidance
 places sparkling wine, sweet white wine, and light-bodied white wine around
 6–10°C; fuller whites and light reds broadly around 10–15°C; and medium- to
-full-bodied reds around 13–18°C.[^4] Rosé, fortified wine, and styles between
+full-bodied reds around 13–18°C.[^4] [Rosé](../styles/rose.md), fortified wine, and styles between
 these groups overlap the bands. Their overlap leaves room to adjust for structure,
 development, and the individual bottle.
 
@@ -95,14 +92,14 @@ while a tannic red usually needs enough warmth for its aroma to remain in balanc
 with its texture. Bottle age, aromatic delicacy, and personal preference can
 move any of these choices.
 
-“Room temperature” is too variable to define service. A heated room at 22°C
-already exceeds the usual starting range for a full-bodied red, and an outdoor
-table may be warmer still. Wine also begins moving toward ambient temperature as
-soon as it meets the glass. In a study of 150 mL in one medium-sized glass at a
-23°C room temperature, the wine gained about 0.6–1.2°C in the first minute,
-followed by further warming; the authors found that the initial wine temperature,
-room temperature, glass, convection, and thermal radiation all mattered.[^5]
-Different glasses and pour sizes will follow different curves.
+A heated room at 22°C already exceeds the usual starting range for a
+full-bodied red, and an outdoor table may be warmer still. Wine also begins
+moving toward ambient temperature as soon as it meets the glass. In a study of
+150 mL in one medium-sized glass at a 23°C room temperature, the wine gained
+about 0.6–1.2°C in the first minute, followed by further warming; the authors
+found that the initial wine temperature, room temperature, glass, convection,
+and thermal radiation all mattered.[^5] Different glasses and pour sizes will
+follow different curves.
 
 The bottle and glass should be managed as one changing system. A large remaining
 volume in the bottle changes temperature more slowly than a small pour. A warm
@@ -125,8 +122,8 @@ response to the wine already in the glass.
 [^2]: Marcello Trevisani et al., “Ethanol elicits and potentiates nociceptor
     responses via the vanilloid receptor-1,” *Nature Neuroscience* 5 (2002), pp.
     546–551, <https://doi.org/10.1038/nn0602-852>. The experiments used cultured
-    cells and animal tissue rather than wine tasting, so they establish a likely
-    neural mechanism rather than a serving threshold.
+    cells and animal tissue, supporting a likely neural mechanism. Serving
+    temperatures require evidence from wine tasting.
 [^3]: Gérard Liger-Belair et al., “On the Losses of Dissolved CO₂ during
     Champagne Serving,” *Journal of Agricultural and Food Chemistry* 58 (2010),
     pp. 8769–8775, <https://doi.org/10.1021/jf101239w>.
@@ -136,13 +133,10 @@ response to the wine already in the glass.
 [^5]: Maximilian Kannapinn, Felix Köhler & Michael Schäfer, “A Validated Thermal
     Computational Fluid Dynamics Model of Wine Warming in a Glass,” *Applied
     Sciences* 14 (2024), 8997, <https://doi.org/10.3390/app14198997>. The model
-    covers still wines with moderate sugar in the tested glass and fill volume,
-    not every vessel or sparkling wine.
+    covers still wines with moderate sugar in the tested glass and fill volume.
 
 ## Related topics
 
-- [Decanting](decanting.md)
-- [Traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md)
 - [Botrytized sweet wine](../styles/botrytized-sweet-wine.md)
 
 ## Sources

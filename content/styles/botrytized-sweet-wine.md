@@ -13,8 +13,7 @@ lose water, concentrating their juice, but it also changes grape metabolism and
 composition. The result is therefore different from simple late harvest or
 drying: both concentration and fungal transformation shape the wine.
 
-Noble rot is a vineyard condition, not a guarantee of quality or even of sweet
-wine. The same fungus causes destructive grey rot, also called bunch rot, when
+The same fungus causes destructive grey rot, also called bunch rot, when
 infection develops under less favourable conditions. Variety, berry maturity,
 autumn weather, vineyard exposure, selection at harvest, fermentation, and
 ageing determine whether botrytized fruit becomes a precise, long-lived wine or
@@ -26,10 +25,9 @@ an unstable, dull one.
 berries, short humid periods can permit infection while longer dry intervals
 slow its spread and encourage evaporation. Fungal enzymes weaken the skin, and
 fine cracks allow the berry to shrivel. Sugar and other dissolved material then
-become more concentrated because there is less water, not because the fungus
-manufactures sugar.
+become more concentrated as water is lost.
 
-The fungus is doing more than perforating a container. A three-year study of
+A three-year study of
 naturally infected [Sémillon](../grapes/semillon.md) found changes in sugars, sugar alcohols, organic
 acids, phenolic pathways, terpenes, and aroma precursors; several of the altered
 compound classes remained distinguishable in the finished wines.[^1] Noble rot
@@ -72,13 +70,12 @@ of botrytized must add further complications. Fermentation may proceed slowly or
 stop with considerable grape sugar remaining. Yeast choice, temperature,
 clarification, nutrient and sulfur dioxide management, and the decision to
 arrest and stabilise fermentation all affect alcohol, sweetness, volatile
-acidity, and aroma. Extremely concentrated must is not automatically better:
-it can be more difficult to ferment cleanly and may leave a heavier balance.
+acidity, and aroma. Extremely concentrated must can be more difficult to
+ferment cleanly and may leave a heavier balance.
 
 ## Character and variation
 
-Botrytized wines share concentration and fungal influence, not a fixed sensory
-profile. The proportion and stage of affected fruit matter, as do the chemistry
+The proportion and stage of affected fruit matter, as do the chemistry
 of the healthy grapes and the weather that preceded infection. A wine based on
 [Riesling](../grapes/riesling.md) or [Chenin Blanc](../grapes/chenin-blanc.md)
 may retain a different acid line from one based on Sémillon. [Sauvignon
@@ -95,7 +92,7 @@ texture and move the wine toward more developed, savoury character. Bottle age
 may deepen colour and integrate youthful fruit with fungal, fermentation, and
 maturation-derived aromas. Concentrated sugar, acidity, and extract can support
 long development, but longevity still depends on sound fruit, fermentation,
-stabilisation, closure, and storage; botrytization alone is not a guarantee.
+stabilisation, closure, and storage.
 
 ## Regional traditions
 
@@ -113,20 +110,16 @@ permitted varieties. A proposed Union amendment published in March 2026
 describes Aszú as individually selected botrytized berries macerated in must,
 fermenting must, or wine; Szamorodni instead processes bunches containing both
 botrytized and healthy grapes. It also specifies ageing in wood, with different
-minimum periods by category.[^3] The contrast shows why “botrytized” does not
-describe a complete method: selected berries infused into a base wine are not
-equivalent to directly pressing fruit gathered through successive selections.
+minimum periods by category.[^3]
 
 Germany's Beerenauslese and Trockenbeerenauslese traditions commonly rely on
 overripe, noble-rotted berries, especially [Riesling](../grapes/riesling.md),
-whereas Eiswein concentrates juice by freezing and is a separate process. In
+whereas [Eiswein](icewine.md) concentrates juice by freezing and is a separate process. In
 Alsace, *Sélection de Grains
 Nobles* denotes hand-picked noble-rotted berries from Riesling, Muscat, Pinot
 Gris, or Gewürztraminer. The Loire also makes botrytized [Chenin
 Blanc](../grapes/chenin-blanc.md), but its sweet wines may derive from noble rot,
-on-vine dehydration, or both. Regional
-names should therefore be read as particular rules and practices rather than as
-interchangeable labels for any sweet wine made from shrivelled grapes.
+on-vine dehydration, or both.
 
 [^1]: Barbara Blanco-Ulate et al., “Developmental and Metabolic Plasticity of
     White-Skinned Grape Berries in Response to *Botrytis cinerea* during Noble
@@ -138,9 +131,10 @@ interchangeable labels for any sweet wine made from shrivelled grapes.
     charges de l'appellation d'origine contrôlée “Sauternes”*, homologated 25
     March 2026, sections VII and X.
 [^3]: Hungarian Ministry of Agriculture, *Tokaj termékleírás*, 10th version,
-    listed as applicable to grapes harvested after 1 August 2025. The proposed
-    Union amendment published in March 2026 describes grape-by-grape selection
-    for Aszú, maceration in a same-vintage base, and at least 18 months in
+    listed as applicable to grapes harvested after 1 August 2025. The Union
+    amendment published in March 2026 and approved in July 2026 describes
+    grape-by-grape selection for Aszú, maceration in a same-vintage base, and at
+    least 18 months in
     wooden barrels; it describes six months in wood for sweet or dry Szamorodni.
 
 ## Related topics
@@ -169,7 +163,10 @@ interchangeable labels for any sweet wine made from shrivelled grapes.
 - European Union, [“Publication of an application for the approval of a Union
   amendment to the Tokaj product
   specification”](https://eur-lex.europa.eu/eli/C/2026/1380/oj/eng), *Official
-  Journal of the European Union* C/2026/1380, 6 March 2026.
+  Journal of the European Union* C/2026/1380, 6 March 2026; and [Commission
+  Implementing Regulation (EU)
+  2026/1556](https://eur-lex.europa.eu/eli/reg_impl/2026/1556/2026-07-06/eng/pdf),
+  2 July 2026, corrected 23 July 2026.
 - Deutsches Weininstitut, [“Edelsüße
   Spezialitäten”](https://www.deutscheweine.de/wein-probieren/192/edels%C3%BC%C3%9Fe-spezialit%C3%A4ten),
   accessed 1 September 2026.

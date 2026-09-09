@@ -8,9 +8,7 @@ Melon de Bourgogne is a white *Vitis vinifera* variety whose public identity is
 closely tied to [Muscadet](../regions/muscadet.md), the group of appellations around Nantes. That
 association can obscure the grape itself: the name on the bottle usually
 identifies the place and wine category, while the variety supplies a relatively
-discreet aromatic frame for freshness, site, and élevage. Its most distinctive
-expression is therefore a meeting between a restrained grape and the Loire
-vineyards where it became established.
+discreet aromatic frame for freshness, site, and élevage.
 
 ## History and identity
 

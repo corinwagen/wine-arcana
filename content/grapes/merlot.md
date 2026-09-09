@@ -52,7 +52,7 @@ with it in Bordeaux because they can retain useful water. Drainage still matters
 Pomerol's official specification favours sites with regulated water supply and
 excludes waterlogged ground.
 
-These sensitivities make simple soil rules unreliable. In a Bordeaux study of
+In a Bordeaux study of
 Merlot and the two Cabernets across gravel, clay, and sand, year and soil both
 altered vine growth and berry composition, with many effects mediated by vine
 water status.[^3] A warm, dry season may advance sugar accumulation and reduce
@@ -84,7 +84,6 @@ Saint-Émilion specifications describe it as very largely dominant.[^5] Cabernet
 Franc and Cabernet Sauvignon can add a different tannic and aromatic shape. On
 the Left Bank, the balance is often reversed, with Merlot contributing
 earlier-ripening fruit and a rounder texture to Cabernet Sauvignon-led blends.
-Estate, site, and vintage matter more than a fixed “Bordeaux blend” recipe.
 
 Outside Bordeaux, Merlot is commonly bottled under its grape name, including in
 parts of the United States and northern Italy. Rules vary by country; in the

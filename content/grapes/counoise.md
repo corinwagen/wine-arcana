@@ -8,10 +8,10 @@ aliases:
 
 Counoise is a dark-skinned *Vitis vinifera* variety from southern France. It
 is a minor grape in the southern Rhône, but its modest color, moderate tannin,
-acidity, fruit, and spice give it a distinctive blending role. It is rarely the
-frame of a Rhône red. Instead, a small proportion can make a blend feel more
-open and lively beside denser varieties such as [Grenache](grenache.md),
-[Syrah](syrah.md), and [Mourvèdre](mourvedre.md).
+acidity, fruit, and spice give it a distinctive blending role. A small
+proportion can make a blend feel more open and lively beside denser varieties
+such as [Grenache](grenache.md), [Syrah](syrah.md), and
+[Mourvèdre](mourvedre.md).
 
 ![A dark grape cluster hangs below green vine leaves.](../../media/images/grapes/counoise-ampelography.jpg "Counoise, illustrated by Jules Troncy for Viala and Vermorel's Ampélographie.")
 
@@ -19,10 +19,9 @@ open and lively beside denser varieties such as [Grenache](grenache.md),
 
 Plantgrape, France's national vine-variety catalogue, places Counoise's likely
 origin in the Vaucluse, while the regional Rhône authority identifies it with
-the Rhône Valley. Those descriptions locate its established history without
-proving the birthplace of the original vine. The name Moustardier survives in
-accounts of older vineyards in Gigondas and Tavel, but Plantgrape lists no
-official synonym in France or elsewhere in the European Union.[^1]
+the Rhône Valley. The name Moustardier survives in accounts of older vineyards
+in Gigondas and Tavel, but Plantgrape lists no official synonym in France or
+elsewhere in the European Union.[^1]
 
 The variety has a long association with Châteauneuf-du-Pape. An account
 preserved by Tablas Creek says that a papal officer brought it from Spain to
@@ -46,11 +45,10 @@ mature crop may still produce a relatively pale wine.[^3]
 
 Its season is long enough to shape where it works. Plantgrape places budbreak
 11 days after Chasselas and maturity three and a half to four weeks after it;
-Inter Rhône summarizes the maturity as mid- to late-ripening. These are
-comparative reference points, not universal harvest dates, but they establish a
-late-season constraint. Warm, exposed sites can give the fruit time to finish,
-while a cool or wet autumn raises the cost of waiting. Grey rot is a particular
-concern, even though the variety is not very sensitive to downy mildew.[^1]
+Inter Rhône summarizes the maturity as mid- to late-ripening. Warm, exposed
+sites can give the fruit time to finish, while a cool or wet autumn raises the
+cost of waiting. Grey rot is a particular concern, even though the variety is
+not very sensitive to downy mildew.[^1]
 
 Tablas Creek reports the Perrins' interpretation that Counoise's later ripening
 produces wines with intense spice, bright acidity, and modest alcohol. In a
@@ -62,12 +60,11 @@ proportions used.[^2]
 ## Wine character and blending
 
 Counoise makes fruity, lightly colored wines with floral and spicy notes. Its
-color potential is limited: large berries and incomplete skin pigmentation mean
-that it is a poor candidate for deepening a blend's hue. Sources also describe
-its tannins as moderate or soft, so the grape usually contributes a gentler
-texture than a strongly structured red variety. Those traits should be read as
-tendencies. Extraction, maturity, and yield can still make a Counoise wine feel
-more or less substantial.
+color potential is limited: large berries and incomplete skin pigmentation
+mean that it is a poor candidate for deepening a blend's hue. Sources also
+describe its tannins as moderate or soft, so the grape usually contributes a
+gentler texture than a strongly structured red variety. Extraction, maturity,
+and yield can still make a Counoise wine feel more or less substantial.
 
 In the southern Rhône, the grape is most useful as a counterweight. Grenache
 can bring ripe fruit and alcohol, Mourvèdre firmer structure, and Syrah darker
@@ -86,17 +83,14 @@ relation to the larger blend.
 
 The first cellar decision is proportion. A little Counoise can adjust a blend's
 freshness, fruit, and texture; a larger share makes its light body, pale color,
-and spice more obvious. The best proportion is therefore a matter of the other
-grapes, the vintage, and the intended style rather than a fixed recipe.
+and spice more obvious.
 
 Skin contact must be judged with the raw material in mind. Longer extraction
-can add phenolic weight, but it cannot turn Counoise into a deeply colored,
-high-tannin variety. Rosé production uses the opposite logic, limiting contact
-to preserve its lighter structure. Tablas Creek, which has worked with the
-grape in California since importing cuttings from Château de Beaucastel in
+can add phenolic weight. Rosé production uses the opposite logic, limiting
+contact to preserve its lighter structure. Tablas Creek, which has worked with
+the grape in California since importing cuttings from Château de Beaucastel in
 1990, reports that its Counoise is prone to oxidation and uses closed
-fermenters and foudre aging. That is a documented producer practice, not a
-universal rule for every Counoise cellar.[^2]
+fermenters and foudre aging.[^2]
 
 ## California's small revival
 
@@ -108,15 +102,14 @@ UC Davis vineyard, and the French ENTAV-INRA 508 selection. The availability of
 clean, identified planting material gives growers a practical route to a grape
 that was once difficult to source.[^5]
 
-The revival is real but narrow. The UC Davis *Grapes of Southern France* report
-recorded about 60 acres in California in 2019, while Tablas Creek's current
-account gives 58 acres in 2025 and says the plantings derive from its stock.
-Those figures are approximate and come from different reporting contexts, so
-they should not be treated as a continuous official acreage series. They do
-show why Counoise is attracting attention without suggesting that it has become
-a mainstream California variety. Its late harvest, bright acidity, moderate
-alcohol, and softer tannin make sense in warm sites where producers want Rhône
-blend complexity without simply adding more weight.[^2][^5]
+The revival is real but narrow. The UC Davis *Grapes of Southern France*
+report recorded about 60 acres in California in 2019, while Tablas Creek's
+current account gives 58 acres in 2025 and says the plantings derive from its
+stock. Those figures are approximate and come from different reporting
+contexts, so they should not be treated as a continuous official acreage
+series. Its late harvest, bright acidity, moderate alcohol, and softer tannin
+make sense in warm sites where producers want aromatic complexity in Rhône
+blends.[^2][^5]
 
 ## Related topics
 

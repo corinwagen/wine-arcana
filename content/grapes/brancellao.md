@@ -16,10 +16,9 @@ Ribeiro, Valdeorras, the Atlantic coast, and smaller inland districts. In
 Portugal the same variety is generally known as Alvarelhão.
 
 The wines often combine moderate colour and relatively soft tannin with clear
-acidity and a lifted aroma. This makes “delicate” a useful description of
-their weight and extraction, but not of their aromatic intensity. Brancellao
-can be fragrant without being dense, and it can bring freshness and perfume
-to a blend led by [Mencía](mencia.md) or other local red grapes.
+acidity and a lifted aroma. Brancellao can be fragrant without being dense,
+and it can bring freshness and perfume to a blend led by [Mencía](mencia.md)
+or other local red grapes.
 
 ## History and regional names
 
@@ -30,11 +29,10 @@ name for Brencellao, then widespread in Ribeiro, Amandi, Lemos, Quiroga,
 Valdeorras, and Monterrei. Farther north, around Betanzos, the local name was
 Serradelo. Ampelographic comparison and microsatellite analysis have since
 shown Serradelo, Spanish Brancellao, and Portuguese Alvarelhão to be the same
-variety.[^1] Brancello in [Rías Baixas](../regions/rias-baixas.md) and Brencello in the Baixa Limia are
-further regional forms, not separate cultivars.
+variety.[^1] Brancello in [Rías Baixas](../regions/rias-baixas.md) and
+Brencello in the Baixa Limia are further regional forms.
 
-The grape was therefore established across Galicia before phylloxera, but its
-decline cannot be attributed to that insect alone. The current Ribeira Sacra
+The current Ribeira Sacra
 specification describes powdery mildew, downy mildew, and then phylloxera
 damaging the region's nineteenth-century vineyards. Brancellao was especially
 vulnerable to powdery mildew and became residual when growers replanted with
@@ -54,29 +52,26 @@ tannin and colour.
 
 Powdery mildew remains the principal disease concern reported by the Galician
 viticultural station. The variety's relatively loose bunches and lower
-susceptibility to botrytis can be helpful, but they do not make it generally
-disease-resistant. Canopy work is consequential because vigorous growth can
-shade fruit and retain humidity, while excessive leaf removal on a hot western
-exposure can cause sunburn. In Ribeira Sacra, steep terraces add another
-variable: exposure can assist late ripening, while shallow soils and dry
-summer periods may limit water supply. Neither slate nor granite by itself
-determines the resulting flavour.
+susceptibility to botrytis can be helpful. Canopy work is consequential
+because vigorous growth can shade fruit and retain humidity, while excessive
+leaf removal on a hot western exposure can cause sunburn. In Ribeira Sacra,
+steep terraces add another variable: exposure can assist late ripening, while
+shallow soils and dry summer periods may limit water supply.
 
 ## Wine character and cellar choices
 
 Young Brancellao commonly suggests red fruit alongside floral, leafy, or
-balsamic accents. These are tendencies rather than a tasting formula. Fruit
-condition, harvest date, fermentation, and maturation can move the wine from
-bright and fine-boned to broader and riper. Its more consistent structural
-pattern is moderate colour and a comparatively low phenolic load, which often
-means less tannic weight and a softer texture than a deeply extracted red.
+balsamic accents. Fruit condition, harvest date, fermentation, and maturation
+can move the wine from bright and fine-boned to broader and riper. Its more
+consistent structural pattern is moderate colour and a comparatively low
+phenolic load, which often means less tannic weight and a softer texture than
+a deeply extracted red.
 
 A two-vintage study of wines made from Brancellao and Albarello accessions
 found broadly the same volatile compounds but quantitative differences between
 the two plant sources and between years. The Brancellao wines in that trial
 showed more aroma-active compounds and stronger fruit, spice, balsamic, and
-herbal impressions; the result demonstrates useful variation within the
-cultivar, not two different grapes or a universal hierarchy of styles.[^3]
+herbal impressions; the result demonstrates variation within the cultivar.[^3]
 
 Low phenolic content makes extraction a particularly visible cellar choice.
 Gentle handling and shorter or cooler maceration can keep the wine translucent
@@ -97,19 +92,18 @@ bottlings. Galicia's Estación de Viticultura e Enoloxía de Galicia began a
 clonal-selection programme in 2005 using old Brancellao material collected
 from several parts of the region. Its work evaluated differences in yield,
 ripening, and phenolic composition and selected material for propagation,
-helping growers plant a verified cultivar rather than perpetuate uncertain
-local names.[^4]
+helping growers plant verified material.[^4]
 
 Ribeira Sacra is now the grape's most visible setting. It appears both in
-mixed old vineyards and new plantings, usually beside Mencía, [Merenzao](trousseau.md),
-Sousón, and the Caíño varieties; varietal wines remain less common than blends.
-The recovery is broader than one denomination. As of July 2026, Spain's
-Ministry of Agriculture lists Brancellao among the principal or recommended
-grapes of Ribeira Sacra, Ribeiro, Valdeorras, and Rías Baixas, as well as
-several Galician protected geographical indications.[^5] Legal recognition
-shows the breadth of the revival, not its scale: Brancellao remains a minority
-planting, and its role differs between Ribeira Sacra's inland terraces,
-Valdeorras's Sil valley, warmer Ribeiro, and the wetter Atlantic districts.
+mixed old vineyards and new plantings, usually beside Mencía,
+[Merenzao](trousseau.md), Sousón, and the Caíño varieties; varietal wines
+remain less common than blends. The recovery is broader than one denomination.
+As of July 2026, Spain's Ministry of Agriculture lists Brancellao among the
+principal or recommended grapes of Ribeira Sacra, Ribeiro, Valdeorras, and
+Rías Baixas, as well as several Galician protected geographical
+indications.[^5] Brancellao remains a minority planting, and its role differs
+between Ribeira Sacra's inland terraces, Valdeorras's Sil valley, warmer
+Ribeiro, and the wetter Atlantic districts.
 
 [^1]: Pilar Gago et al., “Identity of three grapevine varieties from a
     rediscovered viticulture region in northwest Spain,” *OENO One* 45 (2011),

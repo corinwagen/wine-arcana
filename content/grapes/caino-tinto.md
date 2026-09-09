@@ -26,16 +26,12 @@ Caíño is not one grape. Caíño Bravo, Caíño Longo, Caíño Blanco, and othe
 similarly named vines include genetically distinct cultivars. Modern genetic
 records instead match Caíño Tinto with Portuguese Borraçal; Caíño Redondo and
 Tinta Femia have also been applied to this genotype in parts of Galicia.[^1]
-The broad family of names reflects a shared regional history, not biological
-interchangeability.
 
 The original seedling cannot be assigned confidently to either modern Spain
 or Portugal. Galicia's viticultural research station records the name
 *Cachiño* at Boiro in 1914 and notes that the first [Rías Baixas](../regions/rias-baixas.md) regulations
 used *Caíño Tinto* in 1987. Portuguese and international records establish
-Borraçal as the same variety across the border. It is therefore more useful to
-understand Caíño Tinto as a grape of the Galician–northern Portuguese
-borderland than to turn incomplete documentation into a precise birthplace.
+Borraçal as the same variety across the border.
 
 ## Viticulture in an Atlantic climate
 
@@ -52,16 +48,14 @@ disease, and rain near harvest can damage fruit. Caíño Tinto is reported as
 susceptible to powdery mildew and, depending on the record, downy mildew,
 sunburn, and bunch rot. Open canopies and suitable exposure can improve
 airflow and ripening, but removing too much shade may increase sun damage.
-Site and season therefore matter more than a simple claim that the grape is
-well adapted to rain.
 
-Its reputation for low yields does not come from weak growth. Borraçal is
+Borraçal is
 described in Portugal as vigorous and reasonably fertile, but its bunches are
 small and fruit set can be irregular, with both failed fertilization and small,
 seedless berries reducing the crop. The Galician institutional record instead
 rates yield as medium.[^2] Clone, pruning, flowering weather, and site can
 reconcile these accounts: low or erratic production is common enough to shape
-the grape's economics, but it is not a fixed output in every vineyard.
+the grape's economics.
 
 ## Acidity, wine character, and blending
 
@@ -70,16 +64,15 @@ Verde commission specifically attributes this to musts naturally rich in malic
 acid, while Galician observations also report elevated total acidity. Late
 ripening reinforces the impression: grapes may still combine modest sugar
 with pronounced acidity when autumn conditions force the harvest. Warmer
-exposure, a smaller crop, or a longer season can bring more breadth, so the
-result is not invariably lean.
+exposure, a smaller crop, or a longer season can bring more breadth.
 
-The wines are generally ruby-coloured rather than opaque, with fresh fruit
-more useful as a broad reference than any fixed list of aromas. Tannin can feel
-firm when fruit is only just ripe or extraction is forceful. Harvest date,
-fermentation temperature, skin contact, and [malolactic fermentation](../concepts/malolactic-fermentation.md)—which
-converts sharper malic acid into softer lactic acid—can all change the balance.
-A varietal wine can consequently range from light and incisive to more
-structured, without ceasing to reflect the grape.
+The wines are generally ruby-coloured, with fresh-fruit character. Tannin can
+feel firm when fruit is only just ripe or extraction is forceful. Harvest
+date, fermentation temperature, skin contact, and
+[malolactic fermentation](../concepts/malolactic-fermentation.md) —which
+converts sharper malic acid into softer lactic acid—can all change the
+balance. A varietal wine can consequently range from light and incisive to
+more structured.
 
 Blending turns these apparent limitations into functions. In northern
 Portugal, the regional commission explicitly describes Borraçal as a red-blend
@@ -88,8 +81,7 @@ varieties can alter colour, ripeness, tannin, and aroma according to the place
 and intended style. Ribeiro likewise has a long tradition of blending in
 proportions that are not legally fixed. Its current specification classifies
 Caíño Tinto among the principal red varieties, alongside grapes including
-[Mencía](mencia.md), [Brancellao](brancellao.md), Espadeiro, and Sousón.[^3] The point of such a
-blend is balance, not a recipe in which each grape always performs one role.
+[Mencía](mencia.md), [Brancellao](brancellao.md), Espadeiro, and Sousón.[^3]
 
 ## Where it is grown
 
@@ -104,12 +96,8 @@ minor component beside better-established reds.
 
 Across the Minho, Borraçal belongs to the Vinho Verde denomination. Current
 rules authorize it throughout the denomination and in each of its nine named
-subregions.[^5] The legal breadth should not be mistaken for uniform
-performance. Coastal humidity, inland warmth, river-valley shelter, elevation,
-and exposure change the odds of ripening a late grape. Its persistence across
-this varied territory is best explained by its usefulness in blends: even
-where it struggles to make a complete wine alone, acidity and freshness can be
-valuable parts of a regional red.
+subregions.[^5] Coastal humidity, inland warmth, river-valley shelter,
+elevation, and exposure change the odds of ripening a late grape.
 
 [^1]: Ángela Díaz-Fernández et al., “Screening of Galician grapevine varieties
     by SNPs, phenotypic traits, and phytopathology,” *Frontiers in Plant

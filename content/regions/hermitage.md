@@ -10,10 +10,9 @@ aliases:
 
 Hermitage is a small northern Rhône appellation on the left bank of the river,
 centred on a south-facing hill above Tain-l’Hermitage. Its wines come in two
-main colours: Syrah-based reds and Marsanne–Roussanne whites. The appellation
-is worth understanding as a concentrated landscape rather than as a single
-flavour profile: exposure, slope, soil depth, and cellar choices change how
-the same permitted grapes ripen and mature.
+main colours: Syrah-based reds and Marsanne–Roussanne whites. Exposure, slope,
+soil depth, and cellar choices change how the grapes
+ripen and mature.
 
 ## The hill and its sites
 
@@ -70,12 +69,11 @@ granite sectors. Its current specification also permits Syrah-based reds and
 Marsanne–Roussanne whites, so the grape names alone cannot distinguish the two
 appellations.[^3]
 
-The distinction is geographical and legal. Hermitage comes from a tightly
+Hermitage comes from a tightly
 delimited hill across three communes, with parcels whose slopes and exposures
 are central to the appellation's identity. Crozes-Hermitage contains a much
 larger and more varied area, so its wines can express a wider range of terrain
-and production scale. A bottle labelled Crozes-Hermitage may share the northern
-Rhône grape tradition without coming from the Hermitage hill itself.
+and production scale.
 
 ## Related topics
 

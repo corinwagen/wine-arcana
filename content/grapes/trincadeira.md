@@ -9,17 +9,16 @@ aliases:
 
 Trincadeira is a dark-skinned Portuguese grape associated above all with
 Alentejo and, under the name Tinta Amarela, with the
-[Douro](../regions/douro.md). It can bring colour,
-acidity, and a distinctive herbal-spicy character to dry reds and to blends for
-[Port](../styles/port.md). Its regional success rests on a useful but easily misunderstood fit with
-warm, dry conditions: dry weather reduces rot pressure on its fragile berries,
-while severe water stress and extreme heat can still impair ripening.
+[Douro](../regions/douro.md). It can bring colour, acidity, and a distinctive
+herbal-spicy character to dry reds and to blends for [Port](../styles/port.md).
+Its regional success rests on warm, dry conditions: dry weather reduces rot
+pressure on its fragile berries, while severe water stress and extreme heat can
+still impair ripening.
 
 That tension explains both the variety's value and its inconsistency. Healthy,
 fully ripe fruit can give fragrant, structured wine; rain, excessive crop, or an
 early harvest can instead leave diseased berries or conspicuously green
-flavours. Trincadeira therefore rewards climate and vineyard management rather
-than simply tolerating every hardship of a hot site.
+flavours.
 
 ## Names and history
 
@@ -52,17 +51,14 @@ help the fruit ripen, while low rainfall and well-drained soil limit the humid
 conditions in which rot spreads. In this sense, its preference for dry regions
 is partly escape from disease.
 
-Calling the variety drought-tolerant therefore needs qualification. Trincadeira
-has a long record in rain-poor regions, but this does not make its photosynthesis
-or fruit immune to water shortage. In a controlled comparison, drought, heat,
-and high light each severely affected photosynthesis in Trincadeira; [Touriga
-Nacional](touriga-nacional.md) coped better with heat and high light, provided
-water was plentiful. A small field trial in Alto Alentejo likewise found that,
-in its particular season and site, unirrigated vines produced smaller berries
-with less sugar, anthocyanin, and total phenolic material than irrigated
-vines.[^1] Rootstock, soil depth, crop, and the timing and severity of stress can
-change the result, so moderate water deficit and prolonged drought should not
-be treated as the same condition.
+In a controlled comparison, drought, heat, and high light each severely affected
+photosynthesis in Trincadeira; [Touriga Nacional](touriga-nacional.md) coped
+better with heat and high light, provided water was plentiful. A small field
+trial in Alto Alentejo likewise found that, in its particular season and site,
+unirrigated vines produced smaller berries with less sugar, anthocyanin, and
+total phenolic material than irrigated vines.[^1] Rootstock, soil depth, crop,
+and the timing and severity of stress can change the result, with moderate water
+deficit and prolonged drought producing different effects.
 
 Excess heat creates another limit. Fruit exposed to very high temperatures may
 shrivel or lose quality before the desired balance of sugar, acidity, and skin
@@ -72,12 +68,11 @@ matter even in the hot, dry environments to which Trincadeira is well adapted.
 ## Wine character
 
 Trincadeira's most recognizable contribution is often a savoury kind of spice,
-frequently described as peppery and intertwined with herbal aroma rather than
-as sweet baking spice. Ripe fruit can place that character beside dark plum or
+frequently described as peppery and intertwined with herbal aroma rather than as
+sweet baking spice. Ripe fruit can place that character beside dark plum or
 other mature-fruit notes, while fruit picked too early can make the herbal side
-seem raw or dominant. These are tendencies, not a tasting formula: site,
-vintage, fermentation, extraction, and maturation all alter what reaches the
-glass.
+seem raw or dominant. Site, vintage, fermentation, extraction, and maturation
+all alter the aroma.
 
 The grape can supply deep colour, noticeable acidity, and appreciable tannin, but
 none is fixed. Crop level and water status affect concentration, while skin
@@ -91,12 +86,12 @@ or other warm-region grapes.
 ## Where it is grown
 
 Alentejo is Trincadeira's principal regional association. The Institute of Vine
-and Wine lists it among the region's main red grapes. Alentejo is not uniform:
-its eight subregions include higher, cooler vineyards around Portalegre as well
-as hotter, lower sites farther south and east. Across that range, strong
-sunshine and generally dry summers suit the grape's need for ripeness and low
-rot pressure, while differences in elevation, soil water, and exposure help
-explain why its wines vary in weight and freshness.
+and Wine lists it among the region's main red grapes. Its eight subregions
+include higher, cooler vineyards around Portalegre as well as hotter, lower
+sites farther south and east. Across that range, strong sunshine and generally
+dry summers suit the grape's need for ripeness and low rot pressure, while
+differences in elevation, soil water, and exposure help explain why its wines
+vary in weight and freshness.
 
 In the Douro the same variety is normally called Tinta Amarela. It is used in
 both dry reds and Port blends, but it is a supporting rather than dominant

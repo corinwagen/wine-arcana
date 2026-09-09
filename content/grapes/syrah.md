@@ -9,9 +9,9 @@ aliases:
 
 Syrah is a dark-skinned *Vitis vinifera* variety whose historic centre is the
 northern Rhône and whose Australian name, Shiraz, has become equally familiar.
-The names identify the same grape, not two biological types. They sometimes
-signal a producer's stylistic intention, but they are not a dependable code for
-climate, ripeness, or winemaking.
+The names identify the same grape. They sometimes signal a producer's stylistic
+intention, but they are not a dependable code for climate, ripeness, or
+winemaking.
 
 Temperature explains much of Syrah's range. Relatively cool ripening conditions
 can preserve acidity and favor the compound responsible for a pepper aroma.
@@ -32,8 +32,7 @@ inference rather than a documented event.
 Shiraz is the established Australian name and Sérine is an older regional name
 still associated with the northern Rhône. Petite Sirah is not another synonym:
 it usually denotes Durif, a distinct variety whose parents are Syrah and
-Peloursin. The similar names therefore describe a family relationship, not
-identity.
+Peloursin.
 
 ## Viticulture and climate
 
@@ -63,12 +62,12 @@ meaningful differences among clones.
 
 ## Wine character and cellar choices
 
-Syrah commonly provides substantial color and tannin, but those properties alone
-reveal little about a wine's weight or aroma. Grapes harvested with more sugar
-can yield more alcohol if fermented dry, while retained acidity can make a wine
-feel more taut. Extraction determines how much skin and seed material reaches
-the wine, and stem inclusion, fermentation temperature, and maturation can
-further reshape texture and aroma.
+Syrah commonly provides substantial color and tannin, with weight and aroma
+varying by harvest and cellar decisions. Grapes harvested with more sugar can
+yield more alcohol if fermented dry, while retained acidity can make a wine feel
+more taut. Extraction determines how much skin and seed material reaches the
+wine, and stem inclusion, fermentation temperature, and maturation can further
+reshape texture and aroma.
 
 Pepper is the most useful specific sensory marker because it has a demonstrated
 chemical basis. Rotundone, found chiefly in Syrah's skins, can give black- or
@@ -82,20 +81,18 @@ than a broad climate label.
 
 A study of commercial Shiraz from six Australian regions found both regional
 patterns and considerable variation within each region. Black pepper was
-associated with lower heat accumulation, while greater radiation and
-evaporation were associated with darker or dried-fruit impressions and more
-perceived viscosity.[^4] Because vineyard practice and winemaking were not
-standardized, these are useful associations rather than a tasting key. They
-support a restrained comparison: cooler examples often emphasize pepper,
+associated with lower heat accumulation, while greater radiation and evaporation
+were associated with darker or dried-fruit impressions and more perceived
+viscosity.[^4] Because vineyard practice and winemaking were not standardized,
+the results establish associations: cooler examples often emphasize pepper,
 freshness, and savory character, whereas warmer examples can lean toward riper
 fruit and a broader palate, with many wines falling between those poles.
 
 Fermentation on the skins extracts both phenolics and rotundone. Rosé made with
 limited skin contact therefore has much less of the pepper compound than a
-comparable red wine. For reds, extraction may be kept gentle or extended,
-[whole clusters](../concepts/whole-cluster-fermentation.md) may be included or
-removed, and [new oak](../concepts/oak-maturation.md) may be conspicuous or
-absent. These choices make the name Syrah or Shiraz a weak predictor of style.
+comparable red wine. For reds, extraction may be kept gentle or extended, [whole
+clusters](../concepts/whole-cluster-fermentation.md) may be included or removed,
+and [new oak](../concepts/oak-maturation.md) may be conspicuous or absent.
 
 ## Where it is grown
 
@@ -107,17 +104,14 @@ as well as traditional: exposed northern sites need enough warmth to complete
 ripening, while Mediterranean vineyards more often manage rapid sugar
 accumulation, water stress, and heat.
 
-Australia established Shiraz as a national convention rather than a separate
-style. Warm regions such as Barossa Valley and McLaren Vale are prominent, but
-the variety is also grown in cooler or later-ripening districts including Yarra
-Valley and Canberra District. Hunter Valley provides another reminder that
-average temperature alone is incomplete: humidity, rainfall timing, and the
-shape of the season also affect the fruit.
+Shiraz is the conventional Australian name. Warm regions such as Barossa Valley
+and McLaren Vale are prominent, but the variety is also grown in cooler or
+later-ripening districts including Yarra Valley and Canberra District. In Hunter
+Valley, humidity, rainfall timing, and the shape of the season also affect the
+fruit.
 
-Syrah is now planted widely in Spain, South Africa, the United States, Argentina,
-Chile, and other wine-producing countries. Across that range, the name on the
-label reveals less than the relationship among local heat, water, harvest
-timing, and the choices made after the grapes arrive at the winery.
+Syrah is now planted widely in Spain, South Africa, the United States,
+Argentina, Chile, and other wine-producing countries.
 
 [^1]: J. E. Bowers et al., “A Single Pair of Parents Proposed for a Group of
     Grapevine Varieties in Northeastern France,” *Acta Horticulturae* 528

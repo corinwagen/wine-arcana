@@ -16,8 +16,7 @@ compact bunches are vulnerable to rot before the fruit is fully mature.
 
 This combination explains Baga's range. Early-picked or heavily cropped fruit
 can give lean, astringent wine, while healthy, mature grapes can produce more
-concentrated reds whose structure relaxes with bottle age. Harvest timing,
-site, extraction, and fruit condition matter more than any fixed list of aromas.
+concentrated reds whose structure relaxes with bottle age.
 
 ## History and identity
 
@@ -26,15 +25,10 @@ Institute for Agrarian and Veterinary Research (INIAV) identifies an 1866
 account by António Augusto de Aguiar, describing Baga as predominant around
 Mealhada in Bairrada, as the earliest reference found so far. The Institute of
 Vine and Wine (IVV), however, notes that the variety may have originated in
-Dão. That record places Baga in cultivation by 1866, but leaves its birthplace
-unresolved; the two regions' claims cannot yet be combined into a definite
-history.
+Dão.
 
-Genetic evidence resolves part of the family history but not the geographical
-question. INIAV, drawing on the Vitis International Variety Catalogue, reports
+INIAV, drawing on the Vitis International Variety Catalogue, reports
 Malvasia Fina as one parent of Baga; the other parent remains unidentified.
-It identifies a parent-offspring relationship while leaving the place and date
-of the crossing unknown.
 
 ## Viticulture
 
@@ -57,10 +51,7 @@ near harvest.
 Acidity and tannin are often the structural constants in Baga, but their
 balance depends on ripeness and extraction. A comparison with
 [Nebbiolo](nebbiolo.md) is useful in this limited sense: both can combine
-conspicuous acidity and tannin
-while those properties alone say little about body, colour, or aroma. The
-comparison ends there; the places and cellar traditions behind the wines are
-different.
+conspicuous acidity and tannin.
 
 Including stems or extending contact with skins can reinforce an already firm
 tannic structure; destemming and gentler extraction can make it less severe.
@@ -88,8 +79,7 @@ Roriz](tempranillo.md). These conditions change the pressures on ripening, while
 site and cellar choices still shape the wine.
 
 The IVV's 2025 mainland data recorded approximately 4,608 hectares of Baga,
-about 2.7% of the total vineyard area. The figure describes planting area, a
-measure distinct from quality or regional importance.
+about 2.7% of the total vineyard area.
 
 ## Sources
 

@@ -34,8 +34,7 @@ juice composition, yeast strain, and fermentation conditions all matter.[^2]
 The methoxypyrazine IBMP occurs in the fruit and can supply a green, leafy, or
 capsicum-like impression. It generally declines as berries ripen and responds
 strongly to light and temperature around the bunches. C6 compounds and
-yeast-derived esters modify the result; “herbal” and “tropical” describe
-interacting elements rather than fixed categories.
+yeast-derived esters modify the balance of herbal and tropical aromas.
 
 ## Viticulture, climate, and canopy
 

@@ -16,11 +16,9 @@ is Argentina: nineteenth-century cuttings became the basis of a large planting
 in the dry vineyards beside the Andes and, eventually, of wines commonly sold
 under the grape's own name.
 
-That journey produced no single Argentine style. Malbec can provide deep colour
-and substantial tannin, but climate, water, crop level, harvest date,
-extraction, and maturation alter the balance. In Argentina, elevation changes
-temperature and ultraviolet radiation; those conditions, rather than elevation
-alone, shape the wine.
+Malbec can provide deep colour and substantial tannin, but climate, water,
+crop level, harvest date, extraction, and maturation alter the balance. In
+Argentina, elevation changes temperature and ultraviolet radiation.
 
 ## History and identity
 
@@ -28,8 +26,7 @@ DNA parentage analysis identified Magdeleine Noire des Charentes and Prunelard
 as Malbec's parents. Both the genetic relationships and the historical
 distribution of related varieties support a southwestern French origin without
 locating the original seedling precisely. Cahors and the Lot valley are strong
-candidates; claims for a more exact birthplace go beyond what the genetic
-evidence establishes.[^1]
+candidates.[^1]
 
 Its many names reflect movement within France. Cot is the French catalogue
 name, while Côt is also widely written; Auxerrois is traditional in Cahors and
@@ -102,17 +99,15 @@ composition in different directions. In one experiment at three elevations,
 Malbec skins exposed to ambient UV-B at 1,500 metres accumulated more
 anthocyanins and other measured phenolics than skins from which UV-B was
 filtered at the same site. A separate two-season field experiment found that
-warming reduced total skin anthocyanins in Malbec. Together, the studies suggest
-why cooler, high sites can retain acidity and colour despite intense sun; they
-do not establish that maximum exposure is always desirable.[^6]
+warming reduced total skin anthocyanins in Malbec. Together, the studies
+suggest why cooler, high sites can retain acidity and colour despite intense
+sun.[^6]
 
 Elevation is also entangled with aspect, wind, soil depth, water supply, canopy,
 and latitude. Hail and frost risks do not disappear at altitude, and excessive
 sun can damage exposed berries. In standardized trials across Mendoza, wines
 from different sites could be distinguished partly by phenolic and sensory
 profiles, yet vintage and environmental variation remained substantial.[^7]
-“High-altitude Malbec” therefore describes a variable set of growing
-conditions, not a single sensory category.
 
 ## Wine character and cellar choices
 
@@ -125,10 +120,7 @@ sometimes bitter tannin. Warmer conditions can bring riper fruit and higher
 potential alcohol, yet delaying harvest does not guarantee more colour because
 anthocyanin accumulation can falter in heat.
 
-In Argentina, warmer sites and seasons tend to move Malbec toward riper fruit,
-higher potential alcohol, and lower acidity, while cooler situations can extend
-ripening and preserve more acidity. There is substantial overlap: elevation
-alone cannot predict body, aroma, or ageing capacity. Salta's far northerly
+Salta's far northerly
 vineyards and Patagonia's cooler, more southerly ones show why metres above sea
 level must be read with latitude and regional climate.
 
@@ -153,8 +145,7 @@ range supports varietal wine as well as blends and rosé.
 In France, Cahors is the principal stronghold. Smaller plantings persist in
 Bordeaux and the Loire, where the grape is usually called Cot. Malbec is also
 grown in Chile, the United States, South Africa, Australia, and several other
-countries. Across them, style depends on the season's heat and water, protection
-of the fruit from extremes, and the winemaker's handling of colour and tannin.
+countries.
 
 [^1]: Jean-Michel Boursiquot et al., “Parentage of Merlot and Related
     Winegrape Cultivars of Southwestern France: Discovery of the Missing

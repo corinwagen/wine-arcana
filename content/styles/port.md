@@ -19,8 +19,7 @@ while alcoholic fermentation is still under way. Yet this common method leads
 to markedly different wines. Grape colour and composition, the timing of
 fortification, extraction, blending, vessel, oxygen exposure, filtration, and
 bottle age all matter. Ruby, tawny, vintage, late-bottled vintage, white, and
-rosé therefore mark legal and production categories. Quality and flavour still
-depend on the individual wine.
+rosé therefore mark legal and production categories.
 
 ## How it is made
 
@@ -51,8 +50,7 @@ destination. Blends may draw from different grapes, parcels, fermentation
 vessels, and maturation lots. Most basic ruby and tawny Ports also combine
 harvest years. Vintage and late-bottled vintage must come from one harvest, but
 may still draw from several vineyards, grapes, or vats from that year. Blending
-can build balance and maintain continuity across a producer's wines, so a
-category name cannot serve as a complete recipe.
+can build balance and maintain continuity across a producer's wines.
 
 Maturation creates the broadest divide among styles. Large vats or stainless
 steel limit the wine's contact with oxygen and tend to preserve deeper colour
@@ -67,8 +65,7 @@ a different course.
 ## Principal categories
 
 **Ruby** is usually a blend of relatively young red Ports matured to limit
-oxidative development. Its name describes the intended colour and youthful
-direction, not a grape or vintage. Reserve ruby is a separately approved
+oxidative development. Reserve ruby is a separately approved
 category, while vintage and late-bottled vintage belong to the wider ruby-style
 family because they also begin with deeply coloured, relatively protected red
 wines.
@@ -108,20 +105,6 @@ an old white Port may approach an old tawny in appearance.
 oxidation before bottling. It is generally intended to retain pink colour and a
 young fruit-led character. Legally and technically, it is a distinct Port
 category.
-
-## What the label does not settle
-
-Port law controls origin, production, analytical limits, maturation claims,
-and approval, and it defines sensory expectations for each traditional term.
-The rules leave room for variation within each term. A ruby blend can differ in
-grape mix, extraction, sweetness, and time in large vessels. Two LBVs can differ
-through selection, wood exposure, filtration, and bottle age. Age-indicated
-tawnies are judged for an age-related character rather than assembled to one
-fixed formula, while white Port crosses both youthful and long wood-aged forms.
-
-The label sets boundaries and a direction of maturation. Within those
-boundaries, producer decisions, harvest conditions, blending material, and time
-determine the particular sensory profile.
 
 [^1]: Portuguese Republic, Decree-Law 106/2025, especially articles 1 and
     30–33; IVDP, Regulation 412/2026 on grape spirit for the Porto denomination.

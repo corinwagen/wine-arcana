@@ -55,9 +55,7 @@ condition.
 
 These relationships underlie Chardonnay's reputation for transparency to site.
 Vineyard comparisons must also account for clone, rootstock, crop, canopy,
-harvest date, and winemaking alongside geology. “Mineral” can be a useful
-sensory impression, but it does not show that a rock flavour passed directly
-from soil into wine.
+harvest date, and winemaking alongside geology.
 
 ## Wine character and cellar choices
 
@@ -67,8 +65,6 @@ wines made under a standardized protocol, while also showing that their sensory
 effect depends on concentration and interaction with the wine's other
 compounds.[^1] Yeast strain, fermentation temperature, juice solids, oxygen
 management and skin contact can further change fermentation-derived aroma.
-Restrained grape character and composition give the variety its identity
-without prescribing a list of fruit descriptors.
 
 Malolactic fermentation is a bacterial conversion, usually after or alongside
 alcoholic fermentation, in which malic acid becomes lactic acid and carbon
@@ -84,13 +80,13 @@ the base wine's acidity and the intended style.
 Lees are the yeast and other particles that settle after fermentation. Keeping
 wine on its fine lees allows yeast-cell material, including mannoproteins and
 other polysaccharides, to enter the wine over time. Chardonnay trials have
-found greater polysaccharide content with lees ageing, though the result varies
-with the retained lees, yeast, time, temperature, and whether the sediment is
-stirred.[^4] These compounds can influence texture, aroma interactions, and
-colloidal stability. Stirring, known as *bâtonnage*, increases contact between
-wine and sediment and can also change oxygen exposure. Lees ageing may broaden
-texture, but its effects are separate from bacterial diacetyl production, and a
-“creamy” impression remains conditional.
+found greater polysaccharide content with lees ageing, though the result
+varies with the retained lees, yeast, time, temperature, and whether the
+sediment is stirred.[^4] These compounds can influence texture, aroma
+interactions, and colloidal stability. Stirring, known as *bâtonnage*,
+increases contact between wine and sediment and can also change oxygen
+exposure. Lees ageing may broaden texture, but its effects are separate from
+bacterial diacetyl production.
 
 Fermentation or maturation in barrel can add oak lactones, vanillin, volatile
 phenols, and compounds formed by toasting. The vessel also changes oxygen
@@ -134,9 +130,7 @@ Burgundy's still-wine one.
 Beyond France, the variety is grown in Italy, California, Oregon, Australia,
 New Zealand, Chile, Argentina and South Africa, among many other places.
 Maritime influence, elevation and cool nights can extend the effective
-ripening season even at relatively warm latitudes. Across this range, a regional
-name is most informative when read alongside vintage, harvest decisions and
-choices about malolactic fermentation, lees and oak.
+ripening season even at relatively warm latitudes.
 
 [^1]: Jerry Lin, Mélanie Massonnet & Dario Cantu, “The genetic basis of grape
     and wine aroma,” *Horticulture Research* 6 (2019), article 81,

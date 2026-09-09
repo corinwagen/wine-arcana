@@ -11,30 +11,30 @@ with a visible endpoint. The second changes the conditions around the wine,
 but whether the result is welcome depends on the wine, its condition, the
 vessel, temperature, and time.
 
-Keeping those purposes separate makes the choice easier. A mature wine may
-need sediment removed while requiring very little further air. A clear young
-wine may be transferred only to see whether air changes its aroma or texture.
+A mature wine may need sediment removed while requiring very little further
+air. A clear young wine may be transferred only to see whether air changes its
+aroma or texture.
 
 ## Separating wine from sediment
 
 Bottle sediment can include precipitated tannins and pigments, tartrate
 crystals, and material retained when a wine was bottled with little or no
-filtration. In red wine, tannins and pigments continue to react during
+[filtration](wine-filtration.md). In red wine, tannins and pigments continue to react during
 maturation; some products become less soluble and fall out as a deposit.[^1]
 This is distinct from the deliberately retained fermentation sediment
-discussed in [lees aging](lees-aging.md). Bottle age increases the opportunity
-for a deposit to form, but age alone does not show how much sediment a wine
-contains. Variety, extraction, clarification, filtration, stabilization, and
-storage all contribute. Bottle-matured styles such as vintage
-[Port](../styles/port.md) are especially familiar examples.
+discussed in [lees aging](lees-aging.md). [Bottle age](bottle-aging.md) increases the opportunity
+for a deposit to form. Variety, extraction, clarification, filtration,
+stabilization, and storage also affect how much sediment a wine contains.
+Bottle-matured styles such as vintage [Port](../styles/port.md) are especially
+familiar examples.
 
 A bottle stored on its side can be stood upright until disturbed particles
-settle. There is no exact waiting period: a fine deposit and a bottle recently
-moved may need more rest than a compact deposit. During service, the bottle is
-handled gently and poured in one steady movement while a light behind the
-shoulder makes the advancing sediment visible. Pouring stops as the deposit
-reaches the shoulder. This leaves some wine behind, but avoids dispersing the
-deposit through the decanter.[^2]
+settle. A fine deposit and a bottle recently moved may need more rest than a
+compact deposit. During service, the bottle is handled gently and poured in
+one steady movement while a light behind the shoulder makes the advancing
+sediment visible. Pouring stops as the deposit reaches the shoulder. This
+leaves some wine behind, but avoids dispersing the deposit through the
+decanter.[^2]
 
 Bottle condition matters independently of age. An unusually low fill level,
 seepage, a failed closure, heat exposure, or an already tired aroma can
@@ -48,23 +48,22 @@ date alone.
 The pour itself mixes air into the wine and releases dissolved gases. After
 the wine comes to rest, the liquid surface, movement within the vessel, and
 wine composition govern further gas transfer. A broad bowl usually presents a
-larger surface than a narrow carafe at the same fill, while swirling or another
-pour renews the interface. Experiments at Changins found that carafe shape and
-wine type changed oxygen-consumption patterns, and that stirring raised
-dissolved oxygen. The sensory effects differed among the wines tested rather
-than following one shared direction.[^3]
+larger surface than a narrow carafe at the same fill, while swirling or
+another pour renews the interface. Experiments at Changins found that carafe
+shape and wine type changed oxygen-consumption patterns, and that stirring
+raised dissolved oxygen. The sensory effects differed among the wines
+tested.[^3]
 
 Some early changes are physical. Volatile compounds escape into the headspace
 and surrounding air. Losing hydrogen sulfide can remove an unwanted sulfurous
 smell; losing carbon dioxide can change prickle and the perception of texture.
 Desirable aroma compounds can leave by the same route. A controlled study of a
-model wine and one [Chenin Blanc](../grapes/chenin-blanc.md) found that swirling reduced free hydrogen
-sulfide mainly through volatilization, even without oxygen, and changed aroma
-perception. Its specific wine, added hydrogen sulfide, and short test conditions
-limit wider conclusions.[^4] In another experiment, several esters and terpenes
-declined when small samples of two wines stood in open bottles for days. That
-longer timescale does not prescribe decanting practice, but it shows why
-prolonged exposure cannot be assumed to preserve aroma.[^5]
+model wine and one [Chenin Blanc](../grapes/chenin-blanc.md) found that
+swirling reduced free hydrogen sulfide mainly through volatilization, even
+without oxygen, and changed aroma perception. Its specific wine, added
+hydrogen sulfide, and short test conditions limit wider conclusions.[^4] In
+another experiment, several esters and terpenes declined when small samples of
+two wines stood in open bottles for days.[^5]
 
 Oxygen that dissolves can also take part in chemical reactions. The rate
 depends on phenolics, sulfur dioxide, metals, and other components, so two wines
@@ -101,11 +100,10 @@ cooler holding, or service from the bottle slows the process. White wines can
 respond to the same variables as reds; sparkling wine usually remains in its
 bottle because loss of carbon dioxide changes the intended style.
 
-Fixed times ignore bottle condition, starting aroma, temperature, vessel
-geometry, and the pace of the meal. Periodic tasting supplies the missing
-feedback. Air exposure can be increased by another pour or by swirling in the
-glass, while a volatile compound already lost or a wine already oxidized cannot
-be restored during service.
+Periodic tasting helps adjust exposure to the bottle’s condition and the pace
+of the meal. Air exposure can be increased by another pour or by swirling in
+the glass, while a volatile compound already lost or a wine already oxidized
+cannot be restored during service.
 
 [^1]: P. A. Smith, J. M. McRae & K. A. Bindon, “Impact of winemaking practices
     on the concentration and composition of tannins in red wine,” *Australian
@@ -130,9 +128,7 @@ be restored during service.
 
 ## Related topics
 
-- [Lees aging](lees-aging.md)
 - [Oak maturation](oak-maturation.md)
-- [Port](../styles/port.md)
 
 ## Sources
 

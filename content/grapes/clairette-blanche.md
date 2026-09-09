@@ -15,8 +15,7 @@ and naturally gives relatively little acidity. Those traits explain its long
 use in warm Mediterranean vineyards, but also why harvest timing, blending, and
 oxygen control matter.
 
-The variety is easy to overlook because it appears in several roles rather
-than one signature wine. It can be bottled alone in parts of the Languedoc and
+It can be bottled alone in parts of the Languedoc and
 southern Rhône, contribute shape and regional character to blends, or support
 sparkling wines in the Diois. Its weaknesses are part of that history: growers
 and winemakers have repeatedly used place, picking decisions, and other grapes
@@ -28,9 +27,8 @@ Plantgrape identifies Clairette as Provençal in origin. The precise first
 appearance of the vine is not documented, so claims that it was introduced by
 the Romans should be treated as historical tradition rather than established
 varietal history. An Australian Wine Research Institute overview places the
-variety in the south of France and records it by the late sixteenth century.
-That is firm evidence for its early modern presence, not proof of an unbroken
-vine from antiquity.[^1]
+variety in the south of France and records it by the late sixteenth
+century.[^1]
 
 Its historical importance is regional and practical. Clairette was planted
 widely across southern France and was used both alone and as a blender in
@@ -43,9 +41,8 @@ every historical record.[^2]
 
 Plantings in France fell substantially during the second half of the twentieth
 century, from 14,099 hectares in 1958 to 2,115 hectares in 2018 in the
-Plantgrape series.[^3] The decline does not make Clairette an obsolete grape.
-Surviving appellations and renewed interest in regional varieties have kept its
-distinct uses visible.
+Plantgrape series.[^3] Surviving appellations and renewed interest in regional
+varieties have kept its distinct uses visible.
 
 ## Viticulture
 
@@ -55,72 +52,62 @@ phenology. It performs better on poor, dry, often calcareous ground than on
 fertile sites, and short pruning and careful shoot removal help contain its
 vigour. The vine is relatively less sensitive to powdery mildew and grey rot
 than to some other diseases. Peter Dry reports susceptibility to downy mildew
-and bunch rot. Wind, season, water supply, and crop level still alter the
-outcome, so these remain tendencies rather than a fixed recipe for every
-vineyard.[^1]
+and bunch rot. Wind, season, water supply, and crop level also affect disease
+pressure.[^1]
 
 Late ripening in a warm climate creates a linked harvest decision. Waiting can
 build sugar and alcohol while acidity remains limited; picking earlier can
 protect freshness but may give less ripe flavour and weight. Clairette’s
 official varietal record describes its wines as relatively low in acidity and
-often apple-scented, with occasional bitterness at the finish. The result is
-not necessarily dull: dry sites, an earlier harvest, sparkling-wine production,
-or a blending partner can change the balance. But the grape rarely supplies a
-firm acid line by itself in the way that a naturally high-acid variety does.
+often apple-scented, with occasional bitterness at the finish. Dry sites, an
+earlier harvest, sparkling-wine production, or a blending partner can bring
+more freshness.
 
 ## Wine character and oxidation
 
 Clairette’s wines can be moderately full and alcoholic, with aromas commonly
-associated with apple, fennel, lime blossom, apricot, or peach. These
-descriptors vary with ripeness and production, so they are more useful as a
-small map of possibilities than as a tasting checklist. Low acidity makes the
-wine feel broad when alcohol and ripeness rise, while a touch of bitterness can
-add length or counterweight.
+associated with apple, fennel, lime blossom, apricot, or peach. Low acidity
+makes the wine feel broad when alcohol and ripeness rise, while a touch of
+bitterness can add length or counterweight.
 
 Oxidation is a separate but important vulnerability. The Australian Wine
 Research Institute describes Clairette as very prone to oxidation during
 vinification. Oxygen can consume fresh aromas and alter a white wine’s colour
-and flavour; the speed and severity depend on the must and wine, sulfur dioxide,
-temperature, oxygen exposure, and later storage, not on the grape name alone.[^4]
-Clairette’s low acidity can make the loss of freshness more obvious, but it is
-not sufficient evidence that acidity itself causes the oxidation.
+and flavour; the speed and severity depend on the must and wine, sulfur
+dioxide, temperature, oxygen exposure, and later storage.[^4] Clairette’s low
+acidity can make the loss of freshness more obvious.
 
 This combination helps explain why traditional Clairette wines were not always
 intended for long, reductive storage. Some were made for early drinking, while
-over-ripe fruit could be used for rancio-style wines in the Languedoc. The
-latter is a deliberate oxidative tradition in some local accounts, not a reason
-to treat every oxidized bottle as successful rancio. A fresh style calls for
-sound fruit, a controlled harvest, and protection from avoidable oxygen; an
-oxidative style requires a different intention and degree of control.
+over-ripe fruit could be used for rancio-style wines in the Languedoc. A fresh
+style calls for sound fruit, a controlled harvest, and protection from
+avoidable oxygen; an oxidative style requires a different intention and degree
+of control.
 
 ## Regional roles
 
 Clairette remains particularly associated with the southern Rhône and the
 Diois. Inter Rhône lists it among the authorized grapes of many southern
 appellations. Clairette is a principal variety of white Gigondas.[^5] In the
-southern Rhône it may be bottled alone, as in Clairette de
-Bellegarde, but more often contributes to blends. Its relatively soft acidity,
-late-ripening Mediterranean character, and light bitterness can broaden a
-white blend; [Grenache Blanc](grenache-blanc.md) is a useful comparison because
-it often plays a similarly generous structural role, though the two grapes are
-not interchangeable.
+southern Rhône it may be bottled alone, as in Clairette de Bellegarde, but
+more often contributes to blends. Its relatively soft acidity, late-ripening
+Mediterranean character, and light bitterness can broaden a white blend;
+[Grenache Blanc](grenache-blanc.md) is a useful comparison because it often
+plays a similarly generous structural role.
 
-In the Languedoc, Clairette du Languedoc is a single-variety appellation created
-in 1948. Its range includes dry and gently sweet wines, while a smaller rancio
-tradition remains.[^6] The existence of a named appellation does not mean
-all Clairette from the region tastes alike: harvest date, sweetness, vessel,
-and oxygen exposure lead to different results.[^2]
+In the Languedoc, Clairette du Languedoc is a single-variety appellation
+created in 1948. Its range includes dry and gently sweet wines, while a
+smaller rancio tradition remains.[^6] Harvest date, sweetness, vessel, and
+oxygen exposure lead to different results.[^2]
 
 The Diois gives Clairette a second, sparkling identity. Under the adopted
 Clairette de Die specification, wines made by the “méthode ancestrale” are led
 by [Muscat Blanc à Petits Grains](muscat-blanc-a-petits-grains.md), with
-Clairette among the permitted
-complementary grapes. Other wines in the appellation are made solely from
-Clairette by second fermentation in the bottle. Crémant de Die likewise keeps
-Clairette in the region’s sparkling tradition. In these wines, acidity, carbon
-dioxide, sweetness, and lees contact alter the perception of freshness, so the
-grape’s naturally soft acid structure does not make sparkling production
-contradictory.[^7]
+Clairette among the permitted complementary grapes. Other wines in the
+appellation are made solely from Clairette by second fermentation in the
+bottle. Crémant de Die likewise keeps Clairette in the region’s sparkling
+tradition. In these wines, acidity, carbon dioxide, sweetness, and lees
+contact alter the perception of freshness.[^7]
 
 ## In the cellar
 
@@ -132,15 +119,12 @@ higher-acid partner such as [Piquepoul Blanc](picpoul-blanc.md) is a documented
 French response to
 Clairette’s low acidity. Fermentation and maturation in a neutral vessel can
 keep the focus on the grape, while deliberate oxidative handling can develop a
-rancio style. Neither approach is automatically better; each must match the
-wine’s purpose.
+rancio style.
 
 Sparkling production adds another route to balance. In [traditional-method
 sparkling wine](../styles/traditional-method-sparkling-wine.md), the second
 fermentation and dissolved carbon dioxide change texture and freshness, while
 the base wine still has to arrive with enough acid and stability for the method.
-Clairette’s continued presence in the Diois therefore reflects adaptation, not
-a contradiction of its still-wine profile.
 
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro Montpellier,
     [“Clairette B”](https://www.plantgrape.fr/fr/varietes/varietes-a-fruits/70/export),

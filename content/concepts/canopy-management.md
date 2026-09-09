@@ -5,19 +5,17 @@ title: Canopy management
 # Canopy management
 
 Canopy management is the deliberate arrangement or removal of a grapevine's
-shoots and leaves during the growing season. Shoot thinning, shoot positioning,
-leaf removal, hedging, and control of lateral shoots all change the small-scale
-environment around leaves and bunches. They can also change how much leaf area
-supports the crop. The aim is not simply to expose grapes to as much sun as
-possible, but to create a canopy suited to the vine, site, season, and intended
-harvest.
+shoots and leaves during the growing season. Shoot thinning, shoot
+positioning, leaf removal, hedging, and control of lateral shoots all change
+the small-scale environment around leaves and bunches. They can also change
+how much leaf area supports the crop. Growers adjust the canopy to suit the
+vine, site, season, and intended harvest.
 
-This distinction matters because the same opening in a canopy changes several
-things at once. It admits light, may expose berries to direct solar heating,
+Opening a canopy admits light, may expose berries to direct solar heating,
 allows wind and spray material to enter more readily, and can shorten the time
-that leaves and bunches remain wet. In a cool, humid vineyard those changes may
-help fruit ripen and limit disease. In a hot, dry vineyard, retaining shade may
-instead protect berries from overheating, sunburn, and dehydration.
+that leaves and bunches remain wet. In a cool, humid vineyard those changes
+may help fruit ripen and limit disease. In a hot, dry vineyard, retaining
+shade may instead protect berries from overheating, sunburn, and dehydration.
 
 ![Dormant grapevines are pruned and trained in rows on either side of a vineyard track.](../../media/images/concepts/canopy-management-pruned-vines.jpg "Pruned and trained vines before the growing season.")
 
@@ -25,45 +23,38 @@ instead protect berries from overheating, sunburn, and dehydration.
 
 Leaves intercept light for photosynthesis, but leaves layered on top of one
 another do not contribute equally. A dense canopy shades its interior leaves,
-fruit, and the buds that may bear the following year's crop. Crowded shoots also
-restrict air movement and spray penetration. Moisture can therefore persist
-longer around compact bunches, favouring diseases such as grey rot when the
-pathogen, variety, and weather are otherwise conducive. An open canopy does not
-prevent infection, but it can make the environment less favourable and improve
-the coverage of protective treatments.
+fruit, and the buds that may bear the following year's crop. Crowded shoots
+also restrict air movement and spray penetration. Moisture can therefore
+persist longer around compact bunches, favouring diseases such as grey rot
+when the pathogen, variety, and weather are otherwise conducive. An open
+canopy can reduce this risk and improve the coverage of protective treatments.
 
-Light and heat must not be treated as the same effect. A sunlit berry can become
-substantially warmer than the surrounding air, with the difference shaped by
-wind, time of day, row direction, and which side of the canopy it occupies. In a
-two-season Washington experiment, east-exposed [Merlot](../grapes/merlot.md) had
-more skin anthocyanin
-than shaded fruit, while the hotter west-exposed fruit had less than the eastern
-fruit. Cooling and heating treatments showed that light promoted some
-pigments, whereas excessive berry temperature worked against their
-accumulation.[^1] The useful conclusion is a compromise: moderate exposure may
-produce a different result from either deep shade or prolonged afternoon sun.
+A sunlit berry can become substantially warmer than the surrounding air, with
+the difference shaped by wind, time of day, row direction, and which side of
+the canopy it occupies. In a two-season Washington experiment, east-exposed
+[Merlot](../grapes/merlot.md) had more skin anthocyanin than shaded fruit,
+while the hotter west-exposed fruit had less than the eastern fruit. Cooling
+and heating treatments showed that light promoted some pigments, whereas
+excessive berry temperature worked against their accumulation.[^1]
 
 Exposure also changes ripening in more than one dimension. Better-lit leaves
 can support sugar accumulation, while warmer berries generally lose malic acid
 more quickly. Light and temperature affect pigments, aroma precursors, and
-other metabolites through partly separate pathways, so sugar concentration
-alone cannot describe the response. Variety matters: red and pale-skinned
-grapes do not share the same pigment chemistry, and compounds important to
-[Sauvignon Blanc](../grapes/sauvignon-blanc.md) or
-[Riesling](../grapes/riesling.md) may respond differently from those in a dark
-grape.
+other metabolites through partly separate pathways. Varieties differ in
+pigment chemistry, and compounds important to [Sauvignon
+Blanc](../grapes/sauvignon-blanc.md) or [Riesling](../grapes/riesling.md) may
+respond differently from those in a dark grape.
 
 ## The main interventions
 
 **Shoot thinning** removes surplus shoots early, usually while they are still
 easy to detach. It can reduce crowding and separate bunches, but removing
 fruitful shoots can also reduce the crop. The remaining shoots may grow more
-strongly, so thinning is not merely subtraction. **Shoot positioning** instead
-directs growth into the space provided by the training system. In vertical
-shoot positioning, catch wires hold shoots upright in a narrow wall; other
-systems may direct them downward or divide vigorous growth into separate
-curtains. Good positioning spreads leaves and bunches rather than allowing
-shoots to cross and form dense pockets.
+strongly. **Shoot positioning** directs growth into the space provided by the
+training system. In vertical shoot positioning, catch wires hold shoots
+upright in a narrow wall; other systems may direct them downward or divide
+vigorous growth into separate curtains. Good positioning spreads leaves and
+bunches to limit dense pockets.
 
 **Fruit-zone leaf removal** opens the area immediately around the bunches. Its
 effect depends especially on timing and degree. Removal after fruit set can
@@ -85,13 +76,13 @@ retain more cover during a hot season. Earlier exposure can allow berries to
 acclimate, but it does not make them immune to an extreme heat event.
 
 **Hedging**, also called shoot trimming, cuts growth that extends beyond the
-planned canopy. It keeps shoots out of alleys, limits renewed shading, and makes
-spraying and other work practical. A moderate cut may have little effect on
-ripening when ample functional leaf area remains. An early cut can, however,
-stimulate lateral shoots and rebuild a denser canopy; a severe or late cut may
-remove enough active leaf area to slow sugar accumulation. Laterals can either
-crowd the fruit zone or supply useful young leaves, so automatically stripping
-all of them is no more universal a rule than automatically hedging.
+planned canopy. It keeps shoots out of alleys, limits renewed shading, and
+makes spraying and other work practical. A moderate cut may have little effect
+on ripening when ample functional leaf area remains. An early cut can,
+however, stimulate lateral shoots and rebuild a denser canopy; a severe or
+late cut may remove enough active leaf area to slow sugar accumulation.
+Laterals can either crowd the fruit zone or supply useful young leaves,
+depending on their position and the condition of the canopy.
 
 ## Matching practice to conditions
 
@@ -104,13 +95,12 @@ effectively, while a weak or drought-stressed vine may need its limited leaf
 area and protective shade.
 
 Climate supplies the broad constraint, but the current season supplies the
-immediate one. A wet flowering period, a disease-susceptible compact bunch, and
-a cool site strengthen the case for early opening. Drought, a heatwave, exposed
-western fruit, or a variety prone to sunburn strengthen the case for cover.
-Crop size and harvest goal matter as well: taking away shoots, leaves, or
-clusters changes the balance between photosynthetic source and fruit demand,
-not only the bunch microclimate. Effective canopy management is therefore an
-iterative adjustment, not a fixed recipe for a region or grape.
+immediate one. A wet flowering period, a disease-susceptible compact bunch,
+and a cool site strengthen the case for early opening. Drought, a heatwave,
+exposed western fruit, or a variety prone to sunburn strengthen the case for
+cover. Crop size and harvest goal matter as well: taking away shoots, leaves,
+or clusters changes both the bunch microclimate and the balance between leaf
+photosynthesis and fruit demand.
 
 [^1]: S. E. Spayd et al., “Separation of Sunlight and Temperature Effects on
     the Composition of *Vitis vinifera* cv. Merlot Berries,” *American Journal
@@ -126,8 +116,6 @@ iterative adjustment, not a fixed recipe for a region or grape.
 
 ## Related topics
 
-- [Sauvignon Blanc](../grapes/sauvignon-blanc.md)
-- [Riesling](../grapes/riesling.md)
 - [Botrytized sweet wine](../styles/botrytized-sweet-wine.md)
 
 ## Sources

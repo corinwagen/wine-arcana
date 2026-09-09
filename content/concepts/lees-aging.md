@@ -9,36 +9,31 @@ aliases:
 
 Lees aging, or *sur lie* aging, means keeping wine in contact with sediment
 formed during or after fermentation. That sediment can include yeast and
-bacteria, grape fragments, precipitated tartrates, proteins, and material added
-during clarification. The practice matters because lees are not inert: yeast
-cells can bind wine compounds, consume some dissolved oxygen, and gradually
-release cell-wall and intracellular material as they break down.
+bacteria, grape fragments, precipitated tartrates, proteins, and material
+added during clarification. Yeast cells can bind wine compounds, consume some
+dissolved oxygen, and gradually release cell-wall and intracellular material
+as they break down.
 
-Lees contact is therefore a set of cellar choices, not one flavour-producing
-recipe. Which deposit is retained, for how long, in what vessel, and whether it
-is stirred can change texture, aroma development, oxygen exposure, and
-stability. The same words also describe importantly different conditions in a
-still wine and in a traditional-method sparkling wine.
+Which deposit is retained, for how long, in what vessel, and whether it is
+stirred can change texture, aroma development, oxygen exposure, and stability.
+Conditions differ between still and traditional-method sparkling wine.
 
 ## Gross and fine lees
 
-“Gross” and “fine” are practical cellar distinctions rather than sharply
-standardized chemical fractions. Gross lees are the heavier deposit that falls
-quickly after pressing or fermentation. They commonly contain more grape pulp,
-skin and seed fragments, precipitated solids, and microorganisms. Fine lees are
-the smaller particles that settle more slowly or remain suspended longer; in a
-well-clarified wine they may consist predominantly of yeast cells. A racking
-separates wine from the first deposit, but where one winemaker draws the cut
-between gross and fine lees may differ from another's.
+Winemakers distinguish gross and fine lees by how they settle. Gross lees are
+the heavier deposit that falls quickly after pressing or fermentation. They
+commonly contain more grape pulp, skin and seed fragments, precipitated
+solids, and microorganisms. Fine lees are the smaller particles that settle
+more slowly or remain suspended longer; in a well-clarified wine they may
+consist predominantly of yeast cells. A racking separates wine from the first
+deposit, but where one winemaker draws the cut between gross and fine lees may
+differ from another's.
 
 Still wines intended for extended lees aging are commonly racked away from the
-gross fraction and kept with selected, sound fine lees. Coarse material is not
-automatically spoiled, nor are fine lees automatically beneficial. The fruit's
-condition, fermentation health, microbial population, temperature, and depth
-of the deposit all affect the risk of unwanted sulfurous or microbial
-character. The useful distinction is consequently between lees that are being
-deliberately monitored and an unmanaged sediment, not simply between “bad”
-gross lees and “good” fine lees.
+gross fraction and kept with selected, sound fine lees. The fruit's condition,
+fermentation health, microbial population, temperature, and depth of the
+deposit all affect the risk of unwanted sulfurous or microbial character. Both
+fractions need monitoring.
 
 ## What contact time changes
 
@@ -50,40 +45,37 @@ amount and age of the lees, and how often they are resuspended. Longer contact
 allows more change, but the effect is neither immediate nor linear.
 
 Yeast-derived polysaccharides can alter the wine's colloidal behaviour and its
-interactions with tannin. This may make texture seem fuller or less astringent,
-especially in a white wine with little phenolic weight of its own, but
-“creamy” is not an inevitable result. Some mannoprotein fractions can also
-inhibit potassium bitartrate crystallization or reduce the tendency of white
-wine proteins to form haze. Lees aging may therefore assist tartrate or protein
-stability; it does not prove that a wine is stable, and testing may still lead
-to cold treatment, fining, or filtration.
+interactions with tannin. This may make texture seem fuller or less
+astringent, especially in a white wine with little phenolic weight of its own.
+Some mannoprotein fractions can also inhibit potassium bitartrate
+crystallization or reduce the tendency of white wine proteins to form haze.
+Lees aging may therefore assist tartrate or protein stability. Testing
+determines whether cold treatment, [fining](wine-fining.md), or
+[filtration](wine-filtration.md) is also needed.
 
-Aroma changes are more complicated than yeast simply adding bread-like
-flavour. Lees can adsorb some volatile compounds and later release others;
-autolysis supplies precursors, while esters, aldehydes, sulfur compounds, and
-the underlying wine continue to evolve. The result may shift away from fresh
+Lees can adsorb some volatile compounds and later release others; autolysis
+supplies precursors, while esters, aldehydes, sulfur compounds, and the
+underlying wine continue to evolve. The result may shift away from fresh
 fermentation aroma toward more mature or savoury impressions, but it can also
-mute fruit or expose a fault. Time on lees is therefore not a reliable quality
-ranking.
+mute fruit or expose a fault.
 
 ## Stirring, oxygen, and risk
 
-Stirring the deposit back into a still wine is called *bâtonnage*. It increases
-contact between the wine and yeast material and can accelerate the transfer of
-lees-derived compounds. A winemaker can stir frequently, occasionally, or not
-at all, then rack when the intended balance is reached. More stirring does not
-merely reproduce a longer undisturbed aging period: it changes the distribution
-of solids, turbidity, and redox conditions as well as the rate of contact.
+Stirring the deposit back into a still wine is called *bâtonnage*. It
+increases contact between the wine and yeast material and can accelerate the
+transfer of lees-derived compounds. A winemaker can stir frequently,
+occasionally, or not at all, then rack when the intended balance is reached.
+Stirring changes the distribution of solids, turbidity, and redox conditions
+as well as the rate of contact.
 
-Opening a barrel and moving its contents can admit oxygen. Suspended yeast lees
-can consume part of that dissolved oxygen, and released compounds can also
-contribute reducing capacity, but this protection is limited and variable. In
-a study of commercial white wines, yeast lees consumed anywhere from none to
-47 percent of the dissolved oxygen under the trial conditions; chemical
-oxidation proceeded at the same time.[^1] Yeast strain, lees quantity and age,
-temperature, sulfur dioxide, vessel, headspace, and stirring technique all
-matter. Bâtonnage is consequently neither inherently oxidative nor a guarantee
-against oxidation.
+Opening a barrel and moving its contents can admit oxygen. Suspended yeast
+lees can consume part of that dissolved oxygen, and released compounds can
+also contribute reducing capacity, but this protection is limited and
+variable. In a study of commercial white wines, yeast lees consumed anywhere
+from none to 47 percent of the dissolved oxygen under the trial conditions;
+chemical oxidation proceeded at the same time.[^1] Yeast strain, lees quantity
+and age, temperature, sulfur dioxide, vessel, headspace, and stirring
+technique all matter.
 
 The opposite risk is an excessively reducing, compact deposit that favours
 unwanted volatile sulfur compounds. Resuspension may help a winemaker manage
@@ -104,26 +96,20 @@ In [traditional-method sparkling
 wine](../styles/traditional-method-sparkling-wine.md), a clarified still base
 wine undergoes a second fermentation in its sealed final bottle. The resulting
 deposit is principally the yeast of that second fermentation, sometimes with a
-riddling aid, rather than the mixed gross lees left after pressing. Each bottle
-then matures under carbon dioxide pressure, generally cool and closed, without
-routine bâtonnage. Riddling eventually gathers the sediment at the neck;
-disgorgement removes it and ends lees contact.
+riddling aid. Each bottle then matures under carbon dioxide pressure,
+generally cool and closed, without routine bâtonnage. Riddling eventually
+gathers the sediment at the neck; disgorgement removes it and ends lees
+contact.
 
 Those conditions give time a different role. Autolysis can affect texture,
-aroma precursors, foam, and the way carbon dioxide is perceived, while the base
-wine also ages in a relatively protected bottle. The two processes should not
-be collapsed into a claim that all mature sparkling aroma comes from yeast. A
-controlled 24-month study of [Chardonnay](../grapes/chardonnay.md) and [Pinot
-Noir](../grapes/pinot-noir.md) found that age and base
-wine composition explained much of the aroma development, with some wines
-aged without lees developing similarly to their sparkling counterparts.[^2]
-Longer bottle aging can permit further autolysis, but grape, base-wine
-production, yeast, temperature, closure, and oxygen remain consequential.
-
-## Related topics
-
-- [Traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md)
-- [Malolactic fermentation](malolactic-fermentation.md)
+aroma precursors, foam, and the way carbon dioxide is perceived, while the
+base wine also ages in a relatively protected bottle. A controlled 24-month
+study of [Chardonnay](../grapes/chardonnay.md) and [Pinot
+Noir](../grapes/pinot-noir.md) found that age and base wine composition
+explained much of the aroma development, with some wines aged without lees
+developing similarly to their sparkling counterparts.[^2] Longer bottle aging
+can permit further autolysis, but grape, base-wine production, yeast,
+temperature, closure, and oxygen remain consequential.
 
 [^1]: Volker Schneider, Jonas Müller & Dominik Schmidt, “Oxygen Consumption by
     Postfermentation Wine Yeast Lees: Factors Affecting Its Rate and Extent

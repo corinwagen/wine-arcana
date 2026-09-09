@@ -16,12 +16,12 @@ changes perception.
 
 ## Where tannin comes from
 
-Seeds contain a different profile of proanthocyanidins, with
-more galloylated material and no skin-derived prodelphinidins. The distinction
-matters because source is part of tannin's composition, not just its amount.
-A commercial-scale fermentation study found that seed and skin
-proanthocyanidins retained different subunit patterns as they entered the
-wine, allowing the researchers to estimate their contributions directly.[^1]
+Seeds contain a different profile of proanthocyanidins, with more galloylated
+material and no skin-derived prodelphinidins. Tannin composition therefore
+varies with its source. A commercial-scale fermentation study found that seed
+and skin proanthocyanidins retained different subunit patterns as they entered
+the wine, allowing the researchers to estimate their contributions
+directly.[^1]
 
 Juice made by pressing away the solids extracts little grape tannin. Red
 fermentation keeps skins and seeds in contact with the fermenting juice, so
@@ -41,63 +41,58 @@ and sometimes seeds with the juice can add phenolic texture and colour, even
 when the grape is white.
 
 [Oak](oak-maturation.md) supplies ellagitannins from the wood, alongside
-aroma-active compounds.
-Toasting degrades some of the wood's native ellagitannins while creating or
-concentrating other extractives, so a more heavily toasted barrel does not
-simply contribute more tannin. Species, tree, seasoning, toast, barrel age,
-wine composition, and contact time all matter. In a controlled study using
-French oak winewood, ellagitannin extraction was fastest in the first two or
-three months and declined later; the wines with more ellagitannins were also
-rated more bitter and astringent by the trained panel.[^3]
+aroma-active compounds. Toasting degrades some of the wood's native
+ellagitannins while creating or concentrating other extractives. Species,
+tree, seasoning, toast, barrel age, wine composition, and contact time all
+matter. In a controlled study using French oak winewood, ellagitannin
+extraction was fastest in the first two or three months and declined later;
+the wines with more ellagitannins were also rated more bitter and astringent
+by the trained panel.[^3]
 
 ## Astringency, bitterness, and colour
 
-Astringency is principally a tactile response, not a basic taste. Tannins bind
-salivary proteins and reduce lubrication in the mouth, producing the drying,
-rough or constricted sensation associated with a tannic wine. Bitterness is a
-taste response, and phenolics that contribute to it are not identical in
-effect to those that drive astringency. The two sensations can rise together,
-but they need not: a model-wine study found that pH changed astringency while
-ethanol affected both astringency and bitterness, especially at typical wine
-alcohol levels.[^4]
+Astringency is principally a tactile response. Tannins bind salivary proteins
+and reduce lubrication in the mouth, producing the drying, rough or
+constricted sensation associated with a tannic wine. Bitterness is a taste
+response, and phenolics that contribute to it are not identical in effect to
+those that drive astringency. The two sensations can rise together, but they
+need not: a model-wine study found that pH changed astringency while ethanol
+affected both astringency and bitterness, especially at typical wine alcohol
+levels.[^4]
 
-Wine's matrix changes the result. [Acidity](acidity.md), alcohol, sugars, polysaccharides,
-pigments, and other phenolics can modify tannin–protein interactions and the
-way a taster integrates taste with texture. This makes “high tannin” an
-incomplete explanation of a sensation. The same measured tannin concentration
-can feel different at another pH, alcohol level, or stage of the wine's life.
+Wine's matrix changes the result. [Acidity](acidity.md), alcohol, sugars,
+polysaccharides, pigments, and other phenolics can modify tannin–protein
+interactions and the way a taster integrates taste with texture. The same
+measured tannin concentration can feel different at another pH, alcohol level,
+or stage of the wine's life.
 
 Colour is a separate property. Red colour comes mainly from anthocyanins and
 their later derivatives, while tannin is a major partner in colour chemistry.
 A dark wine need not be highly astringent, and a pale wine can still contain
 substantial tannin. During fermentation, tannins can bind or react with
 anthocyanins, changing the amount and stability of colour. Seed and skin
-extraction can consequently affect both colour and astringency without making
-the two properties equivalent.
+extraction can consequently affect both colour and astringency.
 
 ## What ageing changes
 
-During maturation, grape tannins can react with anthocyanins, acetaldehyde and
+During [bottle aging](bottle-aging.md) and other maturation, grape tannins can
+react with anthocyanins, acetaldehyde and
 other wine constituents. Some products remain dissolved, some bind into larger
 or differently structured material, and some become insoluble and form
 sediment. Oak ellagitannins can also react with wine phenolics or decline as
 they are transformed. Oxygen, sulfur dioxide, temperature, vessel, and
 storage determine which paths matter.
 
-“Polymerization” is therefore a useful shorthand for some reactions, but a
-poor complete story of ageing. It suggests that small tannins simply join into
-ever-larger, softer chains. Wine studies instead find several simultaneous
-processes: direct tannin–anthocyanin products, acetaldehyde-linked compounds,
-[oxidation](oxidation.md), adsorption, and precipitation. In a fermentation experiment,
-adding acetaldehyde increased polymeric pigments and reduced protein–tannin
-precipitation, but that result describes a specific treatment and does not
-show that all bottle ageing follows the same route.[^5]
+Wine studies identify several simultaneous processes during ageing: direct
+tannin–anthocyanin products, acetaldehyde-linked compounds,
+[oxidation](oxidation.md), adsorption, and precipitation. In a fermentation
+experiment, adding acetaldehyde increased polymeric pigments and reduced
+protein–tannin precipitation.[^5]
 
-As these reactions and losses proceed, a mature red may seem less drying even
-though its tannin has not simply “turned soft.” Some reactive compounds have
-left solution, some have changed their affinity for salivary proteins, and
-fruit, acidity, aroma, and colour have changed around them. The direction and
-pace vary with the starting wine and storage.
+As these reactions and losses proceed, a mature red may seem less drying. Some
+reactive compounds have left solution, some have changed their affinity for
+salivary proteins, and fruit, acidity, aroma, and colour have changed around
+them. The direction and pace vary with the starting wine and storage.
 
 ## Related topics
 
@@ -135,5 +130,4 @@ pace vary with the starting wine and storage.
 [^4]: Fontoin et al. (2008). The findings came from grape-seed tannin oligomers
     in model wine solutions assessed by a 16-person sensory panel.
 [^5]: Sheridan & Elias (2015). Acetaldehyde was added during fermentation; the
-    result is evidence for one reaction pathway, not a general model of all
-    ageing.
+    result documents one reaction pathway under those conditions.

@@ -6,16 +6,14 @@ title: Chablis
 
 Chablis is a wine district in the Yonne department of northern Burgundy and
 the name of its principal appellation. Its dry white wines are made exclusively
-from [Chardonnay](../grapes/chardonnay.md), yet they are not simply a northern
-version of white Burgundy from the Côte d'Or. A cooler setting, a landscape cut
+from [Chardonnay](../grapes/chardonnay.md). A cool setting, a landscape cut
 by the Serein river, and distinct local traditions make site and season
 especially visible; pressing, fermentation, malolactic conversion, lees contact,
 and maturation can then redirect the same raw material.
 
 The familiar sequence—Petit Chablis, Chablis, Chablis Premier Cru, and Chablis
 Grand Cru—describes delimited origins with different production conditions.
-It is useful for reading a label, but it is not an automatic ranking of every
-bottle. Vineyard position, weather, farming, harvest decisions, and the producer
+Vineyard position, weather, farming, harvest decisions, and the producer
 remain consequential within each category.
 
 ## Landscape and climate
@@ -35,20 +33,18 @@ while Chablis parcels can locally reach the harder plateau or lower limestone.
 The names are fixed by parcel boundaries rather than by a rule assigning every
 outcrop to one category.
 
-Geology matters through soil depth, drainage, water supply, and the way a site
-warms; it does not supply a literal rock flavour. Aspect and slope alter light
+Geology affects soil depth, drainage, water supply, and the way a site warms.
+Aspect and slope alter light
 and heat, while the folded network of valleys creates sheltered and exposed
 positions over short distances. A sunnier slope may advance ripening in a cool
-year, but it can also produce riper fruit in a warm one. “Mineral” can be a
-meaningful description of a wine's impression, not evidence that limestone or
-fossil shells have passed into the glass.
+year, but it can also produce riper fruit in a warm one.
 
 Chablis has a cool climate with oceanic weather modified by continental
 influences. Chardonnay ripens early enough to succeed here, but its early
 budbreak exposes young shoots to spring frost. Enclosed valleys can intensify
 the hazard, and growers use measures including water sprinkling and vineyard
-heating when conditions threaten. Warming does not simply remove this risk:
-earlier budbreak can offset an earlier last frost. A national modelling study
+heating when conditions threaten. Earlier budbreak can offset an earlier last
+frost as the climate warms. A national modelling study
 projected increasing late-frost risk in Burgundy under two of three phenological
 models, while the third gave the opposite result, so the direction and scale of
 future risk remain model-dependent.[^1]
@@ -66,18 +62,13 @@ Chablis Grand Cru is confined to one right-bank hillside immediately north of
 the town. Its seven official climats are Blanchot, Bougros, Grenouilles, Les
 Clos, Preuses, Valmur, and Vaudésir. They share a generally southwest-facing
 slope but differ in orientation, elevation, soil depth, and proportion of clay
-and stone. A Grand Cru bottle may name one of them, but the classification does
-not make the seven interchangeable or rank them internally.
+and stone. A Grand Cru bottle may name one of them.
 
 The rules become more selective in several measurable ways. Minimum natural
 alcohol rises from Petit Chablis through Chablis and Premier Cru to Grand Cru;
 permitted base yield is lower for Premier Cru and lower again for Grand Cru.
 Grand Cru must also mature at least until 15 March after harvest and cannot be
-released to consumers before 31 March.[^3] These provisions shape the potential
-raw material and the earliest release date. They do not require old vines, hand
-harvesting, a particular fermentation vessel, or a fixed sensory character.
-A carefully farmed Chablis from a favourable unclassified parcel may therefore
-be more compelling than a poorly handled wine carrying a narrower origin.
+released to consumers before 31 March.[^3]
 
 ## Wine and cellar choices
 
@@ -98,14 +89,9 @@ stirring the lees changes both contact and oxygen exposure. A producer may use
 these tools to broaden a naturally firm wine or handle them conservatively to
 retain a more direct expression.
 
-The result is a spectrum rather than a house style imposed by classification.
 Cooler sites and seasons often emphasize acidity and restraint; warmer
 conditions, later harvest, extended lees contact, or barrel fermentation can
 give broader texture and earlier openness. Bottle age adds another variable.
-Higher classifications often provide fruit with the concentration and balance
-for longer maturation, but neither longevity nor quality follows from the label
-alone. Reading Chablis well means considering place, vintage, and producer
-together.
 
 [^1]: Giovanni Sgubin et al., “The risk of tardive frost damage in French
     vineyards in a changing climate,” *Agricultural and Forest Meteorology*

@@ -46,12 +46,11 @@ modern Pinot in Burgundy since Roman times.[^1]
 Growers normally propagate vines by cuttings or grafting, not by seed. Each new
 vine retains its parent's identity, but mutations in growing tissue can be
 preserved in later cuttings. Repeated over centuries, this process has made
-Pinot especially diverse within the variety. France currently certifies 48
-Pinot Noir clones, while conservatory collections established in Alsace,
-Burgundy, and Champagne hold nearly 800 accessions. A clone is not a different
-grape or a guaranteed style: clonal material can differ in crop, bunch
-compactness, berry size, ripening, and phenolic potential, and its performance
-still depends on site and season.[^2]
+Pinot especially diverse within the variety. France currently certifies 48 Pinot
+Noir clones, while conservatory collections established in Alsace, Burgundy, and
+Champagne hold nearly 800 accessions. Clonal material can differ in crop, bunch
+compactness, berry size, ripening, and phenolic potential; its performance also
+depends on site and season.[^2]
 
 Genetic work indicates that [Pinot Blanc](pinot-blanc.md) and [Pinot Gris](pinot-gris.md) arose
 independently from Pinot Noir through different mutations affecting berry
@@ -84,11 +83,10 @@ and crop load change the heat, light, and water experienced by the fruit. In a
 controlled study, researchers harvested the same clone from twelve vineyards in
 California and Oregon and made the wines with a standard protocol. The wines
 differed in sensory and chemical composition, and many differences persisted
-with ageing.[^3] The study shows that place affects the grapes, though it cannot
-isolate the cause. It covered one clone and one vintage across a large distance,
-where latitude and longitude also stand in for many climatic and management
-variables. Clone, rootstock, vintage, farming, and harvest date can strengthen
-or blur any site pattern.
+with ageing.[^3] The study covered one clone and one vintage across a large
+distance, with climatic and management differences that prevent isolating the
+effect of place. Clone, rootstock, vintage, farming, and harvest date can
+strengthen or blur any site pattern.
 
 ## Wine character and cellar choices
 
@@ -136,9 +134,8 @@ same early-ripening grape.
 In Germany, Spätburgunder is important in Baden, the Pfalz, Rheinhessen,
 Württemberg, the Rheingau, and the Ahr. The German Wine Institute distinguishes
 an older pattern of pale, mild wines from a more recent pattern with deeper
-colour, more tannin, and small-barrel maturation. Those are changing production
-choices, not two biological types, and German Pinot is also used for sparkling
-wine.
+colour, more tannin, and small-barrel maturation. German Pinot is also used for
+sparkling wine.
 
 Beyond Europe, the Willamette Valley and cool parts of coastal California have
 become major American centres. New Zealand grows Pinot Noir principally in its

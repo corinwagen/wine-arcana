@@ -15,16 +15,12 @@ become scarce in France.
 
 ## History and identity
 
-Plantgrape identifies Terret noir as originating in the Languedoc. The source
-records a pattern of cultivation and use rather than a sequence of famous names:
-French plantings reached 1,149 hectares in 1979, then fell to 808 hectares in
-1988, 623 in 1998, 273 in 2008, and 65 in 2018.[^1]
+Plantgrape identifies Terret noir as originating in the Languedoc. French
+plantings reached 1,149 hectares in 1979, then fell to 808 hectares in 1988, 623
+in 1998, 273 in 2008, and 65 in 2018.[^1]
 
-The comparison with other southern grapes also needs care. Terret noir is a
-separate variety from [Cinsault](cinsault.md) and [Grenache](grenache.md), even
-where a wine tradition brings them together. No officially recognized synonym
-is listed for the variety in France or elsewhere in the European Union, so this
-article uses Terret noir as the canonical name.
+Plantgrape lists no officially recognized synonym for the variety in France
+or elsewhere in the European Union.
 
 ## Viticulture
 
@@ -36,33 +32,26 @@ while the harvest date will affect the balance between sugar, acidity, and berry
 condition.
 
 The vine has an erect growth habit and suits either gobelet or cordon training.
-Its bunches are large, with medium-sized berries. Plantgrape records
-sensitivity to downy mildew, powdery mildew, and wood diseases. These
-observations describe the variety’s known tendencies, not a complete planting
-prescription; site, weather, crop level, and vineyard care still shape the
-result.
+Its bunches are large, with medium-sized berries. Plantgrape records sensitivity
+to downy mildew, powdery mildew, and wood diseases. Site, weather, crop level,
+and vineyard care also shape the result.
 
 ## Wine character
 
 Terret noir’s pale colour is one of its most useful practical traits. Although
 the berries are dark-skinned, Plantgrape characterizes the wines as lightly
 coloured and not very alcoholic. Colour depends on the amount of pigment
-extracted from the skins as well as on ripeness and cellar handling, so a pale
-wine should not be treated as a fixed sensory outcome for every bottle.
+extracted from the skins, ripeness, and cellar handling.
 
 Acidity is the other central part of its present reputation. Inter Rhône
 explicitly describes Terret noir as fresh and as having good acidity, and says
-that this helps it in blends and rosé wines. That is an attributed regional
-assessment rather than a published chemical measurement in the varietal record.
-It supports understanding the grape’s role: Terret noir can contribute
+that this helps it in blends and rosé wines. Terret noir can contribute
 freshness and a lighter frame, while other varieties may supply more colour,
 alcohol, or tannin.
 
-The same source gives plum and redcurrant as possible aromas. They belong to
-Inter Rhône’s description of wines made with the grape, not a guarantee that
-every Terret noir bottling will show those notes. Blending, harvest timing,
-extraction, and the conditions of the vineyard can all change the wine’s balance
-and aroma.
+The same source gives plum and redcurrant as possible aromas. Blending, harvest
+timing, extraction, and the conditions of the vineyard can all change the wine’s
+balance and aroma.
 
 ## Where it is grown
 
@@ -70,9 +59,7 @@ Terret noir remains associated with southern France, especially the southern
 Rhône. Inter Rhône lists it in blends of Côtes du Rhône, Côtes du Rhône
 Villages, and southern Rhône wines, as well as in rosé and still dry red styles.
 The current Châteauneuf-du-Pape specification lists `terret noir N` among the
-varieties for red and white wines.[^2] That legal permission documents a place
-for the grape in the appellation’s framework; it does not show how much is
-planted or imply that it dominates the wines.
+varieties for red and white wines.[^2]
 
 ## Sources
 

@@ -10,10 +10,9 @@ aliases:
 
 Grenache is a dark-skinned *Vitis vinifera* variety grown under several major
 regional names: Garnacha in Spanish, Garnatxa in Catalan, and Cannonau in
-Sardinia. These are not separate grapes, but neither do they imply one uniform
-wine. Long propagation in different places has preserved local plant material,
-while climate, crop level, harvest date, and cellar practice can pull the wines
-in markedly different directions.
+Sardinia. Long propagation in different places has preserved local plant
+material, while climate, crop level, harvest date, and cellar practice can
+pull the wines in markedly different directions.
 
 This article concerns the dark-berried form often specified as Grenache Noir or
 Garnacha Tinta. The pale-berried [Grenache Blanc](grenache-blanc.md) and Grenache
@@ -28,9 +27,7 @@ Grenache, but elsewhere may refer to Alicante Bouschet.
 Microsatellite analysis has confirmed that several Spanish Garnacha Tinta
 accessions and Sardinian Cannonau are synonyms. The same research found genetic
 and morphological variation within the wider Garnacha group, probably reflecting
-somatic mutation and closely related material.[^1] Canonicalizing the names
-therefore resolves varietal identity without erasing clonal or regional
-diversity.
+somatic mutation and closely related material.[^1]
 
 The birthplace remains disputed. Spain, especially Aragón, is commonly given as
 the origin, but the documentary argument is less decisive than that statement
@@ -52,11 +49,9 @@ capacity to accumulate sugar and its generally modest acidity make harvest
 timing especially consequential: waiting may improve phenolic maturity while
 also increasing potential alcohol and reducing freshness.
 
-The variety has a long association with warm, dry, windy vineyards, but drought
-adaptation is not a fixed immunity. A study of nine Grenache genotypes found
-differences in water-use efficiency as well as a strong environmental influence.
-Plant material and growing conditions therefore qualify any simple claim that
-Grenache is “drought-proof.”
+The variety has a long association with warm, dry, windy vineyards. A study of
+nine Grenache genotypes found differences in water-use efficiency as well as a
+strong environmental influence.
 
 Warmth helps a late variety reach maturity, but heat does not improve every part
 of ripening in parallel. A three-year Sardinian field study found that high berry
@@ -69,24 +64,23 @@ even in a variety strongly associated with dry climates.
 
 ## Wine character and cellar choices
 
-Grenache often gives wines with substantial alcohol, moderate acidity, and less
-depth of colour than their ripeness might lead a drinker to expect. Those are
-tendencies, not a structural recipe. A Rhône vineyard study found large,
-persistent differences in grape anthocyanins and tannins among sites, with
-climate more influential than soil in that particular comparison. Fruit can
-seem fresher and the palate more taut when grapes come from cooler or elevated
-sites or are picked earlier; warmer sites and later harvests tend toward broader
-texture and riper fruit character.
+Grenache often gives wines with substantial alcohol, moderate acidity, and
+less depth of colour than their ripeness might lead a drinker to expect. A
+Rhône vineyard study found large, persistent differences in grape anthocyanins
+and tannins among sites, with climate more influential than soil in that
+particular comparison. Fruit can seem fresher and the palate more taut when
+grapes come from cooler or elevated sites or are picked earlier; warmer sites
+and later harvests tend toward broader texture and riper fruit character.
 
-Cellar choices can reinforce or counter the raw material. Blending Grenache with
-varieties that contribute acidity, tannin, or colour is traditional in several
-regions, but varietal wines are equally established. Rosé limits extraction from
-the skins, while fortification can stop fermentation and retain grape sugar. In
-one controlled trial, riper Grenache produced more anthocyanin and
-proanthocyanidin; including stems generally increased tannin but also raised pH
-and could reduce colour. [Whole-cluster
-fermentation](../concepts/whole-cluster-fermentation.md) is therefore a stylistic
-and structural choice, not an automatic route to greater freshness or depth.
+Cellar choices can reinforce or counter the raw material. Blending Grenache
+with varieties that contribute acidity, tannin, or colour is traditional in
+several regions, but varietal wines are equally established. Rosé limits
+extraction from the skins, while fortification can stop fermentation and
+retain grape sugar. In one controlled trial, riper Grenache produced more
+anthocyanin and proanthocyanidin; including stems generally increased tannin
+but also raised pH and could reduce colour. These effects are discussed
+further under
+[whole-cluster fermentation](../concepts/whole-cluster-fermentation.md).
 
 ## Where it is grown
 
@@ -100,8 +94,7 @@ Across southern France, Grenache is central to many dry red and rosé blends in
 the southern Rhône and Mediterranean vineyards. Roussillon also preserves a
 different use of the grape in *vin doux naturel*: Banyuls Grand Cru, for example,
 requires Grenache Noir as the base of the blend and retains sweetness by adding
-grape spirit during fermentation. The grape's ability to accumulate sugar thus
-supports both dry and fortified traditions rather than dictating one style.
+grape spirit during fermentation.
 
 In Sardinia, Cannonau is both a regional name and the basis of a geographically
 protected wine tradition. The Cannonau di Sardegna specification encompasses
@@ -109,8 +102,7 @@ red, rosé, dried-grape *passito*, and fortified *liquoroso* wines. In Australia
 Grenache was historically important in fortified wine and remains concentrated
 in warm regions such as Barossa Valley and McLaren Vale; current dry wines range
 from varietal bottlings to blends, often with [Shiraz](syrah.md) and
-[Mataro](mourvedre.md). These traditions share a cultivar, not a single model of
-what its wine should be.
+[Mataro](mourvedre.md).
 
 [^1]: Federico De Mattia et al., “Genetic relationships between Sardinian and
     Spanish viticulture: the case of ‘Cannonau’ and ‘Garnacha’,” *The Journal of

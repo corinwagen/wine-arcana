@@ -24,44 +24,39 @@ and grey rot.[^1] Maturity classifications differ: Inter Rhône places Roussanne
 in the early-to-mid-ripening range, while a 2022 Plantgrape record calls it
 mid-season. Specialist wine writing describes late and uneven ripening in some
 settings, alongside irregular yields and poor tolerance of some disease
-pressure.[^2][^7] These are tendencies, not a fixed outcome: clone, site,
-season, canopy, and crop level all change the risk.
+pressure.[^2][^7] Clone, site, season, canopy, and crop level all change the
+risk.
 
-The harvest decision is unusually important. Roussanne needs enough time for
-its characteristic aroma and texture to develop, yet fruit that hangs too long
-can lose acid balance. In a warm site or season, picking may therefore be a
-choice between a more developed, fuller wine and a fresher one with less
-weight. The grape's good acidity is most useful when the grower preserves that
-balance; it should not be treated as an automatic guarantee of a sharp wine.
+The harvest decision is unusually important. Roussanne needs enough time for its
+characteristic aroma and texture to develop, yet fruit that hangs too long can
+lose acid balance. In a warm site or season, picking may therefore be a choice
+between a more developed, fuller wine and a fresher one with less weight.
 Sorting and gentle handling matter in the winery as well. Roussanne juice can
 oxidise readily, so protection from unnecessary oxygen is one practical cellar
 choice, especially when the aim is to keep floral aromas and a pale colour.[^2]
 
 ## Wine character
 
-Roussanne is highly aromatic without being defined by one mandatory descriptor.
-Young wines can show honeysuckle, iris, and other floral notes, with stone
-fruit and peach-like impressions. With ripeness and age, dried fruit, honey,
-and nutty tones become more prominent. Inter Rhône describes wines that are
-fine, complex, structured, and capable of ageing.[^1]
+Young wines can show honeysuckle, iris, and other floral notes, with stone fruit
+and peach-like impressions. With ripeness and age, dried fruit, honey, and nutty
+tones become more prominent. Inter Rhône describes wines that are fine, complex,
+structured, and capable of ageing.[^1]
 
-The palate is usually more important than a list of aromas. Roussanne can give
-white wine a rounded, almost creamy breadth, but its acidity can keep that
-weight from becoming merely soft when the fruit was harvested in balance. The
-result depends on climate, crop level, harvest date, blending, fermentation,
-and maturation. Lees contact or oak can make the texture seem broader and add
-their own flavours; a cooler site, earlier harvest, or a less conspicuous
-vessel can leave more room for the grape's perfume and freshness.
+Roussanne can give white wine a rounded, almost creamy breadth, but its acidity
+can keep that weight from becoming merely soft when the fruit was harvested in
+balance. The result depends on climate, crop level, harvest date, blending,
+fermentation, and maturation. Lees contact or oak can make the texture seem
+broader and add their own flavours; a cooler site, earlier harvest, or a less
+conspicuous vessel can leave more room for the grape's perfume and freshness.
 
 ## Northern Rhône
 
 In the northern Rhône, Roussanne is most often understood alongside
-[Marsanne](marsanne.md) in white wines. Adopted specifications name Marsanne
-and Roussanne as the
-white-wine varieties for Hermitage, Crozes-Hermitage, Saint-Joseph, and
-Saint-Péray; Saint-Péray uses the pair for still and sparkling wines.[^8][^9][^10][^11]
-Roussanne can appear on its own in practice, but the regional tradition is one
-of complementary blending rather than a single universal recipe.
+[Marsanne](marsanne.md) in white wines. Adopted specifications name Marsanne and
+Roussanne as the white-wine varieties for Hermitage, Crozes-Hermitage,
+Saint-Joseph, and Saint-Péray; Saint-Péray uses the pair for still and sparkling
+wines.[^8][^9][^10][^11] Roussanne can appear on its own in practice, alongside
+the regional blending tradition.
 
 Hermitage shows the grape in a site where richness and development are central
 to the style. The appellation's white wines are made from Marsanne and
@@ -70,12 +65,11 @@ with the capacity to develop further aromas over time.[^3] Crozes-Hermitage
 offers a broader set of sites and a generally more accessible expression: its
 white wines are dry and full-bodied, with floral and dried-fruit notes.[^4]
 Saint-Péray gives the pairing a distinct sparkling role as well as still wines,
-showing that Roussanne's texture and aroma do not require one production style.
+using the grapes' texture and aroma in both forms.
 
-These appellations are regional frameworks, not tasting guarantees. A parcel's
-climate, soil, exposure, and water supply affect ripening, while the proportion
-of each grape and the cellar regime change the balance between Marsanne's
-weight and Roussanne's perfume, texture, and freshness.
+A parcel's climate, soil, exposure, and water supply affect ripening, while the
+proportion of each grape and the cellar regime change the balance between
+Marsanne's weight and Roussanne's perfume, texture, and freshness.
 
 ## Southern Rhône
 
@@ -93,16 +87,6 @@ in white Châteauneuf-du-Pape, where the
 regional body describes the wines as ample, expressive, and aromatically fresh.
 The appellation permits a much wider group of grapes than the northern crus,
 so Roussanne's contribution varies substantially from one blend to another.[^6]
-It is also authorised in other southern Rhône appellations, but authorisation
-alone does not tell us how much of it a particular wine contains.
-
-Roussanne's Rhône identity therefore has two linked parts. In the north it is a
-traditional partner for Marsanne in named white crus, where its perfume and
-capacity to age can sit within a relatively focused blend. In the south it is a
-more flexible blending tool, used to add aromatic and textural detail to wines
-made in a warmer, broader Mediterranean setting. In both places, its success
-depends on getting the fruit to the cellar with enough freshness and without
-the disease or oxidation problems that make the variety demanding.
 
 [^1]: Inter Rhône, [“Roussanne”](https://www.vins-rhone.com/en/roussanne-grape-variety),
     accessed 7 September 2026.

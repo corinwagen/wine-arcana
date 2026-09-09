@@ -26,38 +26,28 @@ local names still carry regional context.[^1]
 
 The French name Rolle is especially familiar in Provence, while Vermentinu is
 used in Corsica. Pigato is associated with Liguria and Favorita with parts of
-north-western Italy, but the names do not by themselves prove that the vines
-are different cultivars. Plantgrape's varietal record treats these names as
-official designations of Vermentino in their respective national systems.[^1]
+north-western Italy, as regional names for the variety. Plantgrape's varietal
+record treats these names as official designations of Vermentino in their
+respective national systems.[^1]
 
-A 2010 record in Italy's CNR research repository likewise describes the
-synonymy of Vermentino, Pigato, and Favorita as established and reports
-selections from Sardinia, Tuscany, and Liguria. It also notes distinctive
-clonal traits within the cultivar. That is useful evidence for a shared
-catalogue identity and for regional variation, but it is not a DNA study that
-settles every fine-scale question about local populations.[^2]
-
-The practical lesson is modest. A bottle labelled Rolle or Pigato can still
-be a Vermentino wine, but the local name carries information about place,
-selection, and tradition. It should not be used to predict a fixed aroma or
-structure without knowing the vineyard and the way the wine was made.
+A 2010 record in Italy's CNR research repository likewise describes the synonymy
+of Vermentino, Pigato, and Favorita as established and reports selections from
+Sardinia, Tuscany, and Liguria. It also notes distinctive clonal traits within
+the cultivar.[^2]
 
 ## A Mediterranean distribution
 
-Plantgrape describes Vermentino as long established in Corsica and Provence
-and suggests an Italian origin, while stopping short of presenting a settled
+Plantgrape describes Vermentino as long established in Corsica and Provence and
+suggests an Italian origin, while stopping short of presenting a settled
 historical birthplace. The CNR record places important Italian cultivation in
-Sardinia, Tuscany, and Liguria. Together, these records support a Mediterranean
-cultivation history centred on islands and the western Italian and French
-coasts, rather than a precise origin story.[^1][^2]
+Sardinia, Tuscany, and Liguria. These records place its cultivation history on
+islands and the western Italian and French coasts.[^1][^2]
 
 The distribution is also broader than the best-known coastal regions. Its
-appearance in the catalogues of Bulgaria, Italy, Malta, and Spain shows that
-the variety has travelled within Europe, but catalogue presence does not tell
-us how much is planted or whether local wines follow a single style. Within
-Italy alone, Sardinian, Ligurian, and Tuscan examples sit in different
-climates and wine cultures. “Vermentino” therefore names a vine; Rolle and
-Pigato can add a regional frame.
+appearance in the catalogues of Bulgaria, Italy, Malta, and Spain shows that the
+variety has travelled within Europe, with local planted areas varying. Within
+Italy alone, Sardinian, Ligurian, and Tuscan examples sit in different climates
+and wine cultures.
 
 ## Agronomy
 
@@ -67,16 +57,12 @@ productive, with short pruning and [careful training](../concepts/canopy-managem
 vegetation in order. It also reports some sensitivity to grey rot and sour rot,
 and considerable sensitivity to powdery mildew.[^1]
 
-These traits help explain its success in Mediterranean vineyards. The CNR
-record also reports regional selections and distinctive clonal traits, so the
-catalogue identity does not imply a single uniform expression.[^2]
-
 ## Wine character
 
 Plantgrape describes Vermentino's wines as balanced and full-bodied, with
 aromatic richness that includes floral and pear-like associations, though they
-can sometimes lack acidity.[^1] These broad traits are more useful than a fixed
-tasting list, since local selection and growing conditions can vary.
+can sometimes lack acidity.[^1] Local selection and growing conditions influence
+that balance.
 
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro
     Montpellier, “Vermentino B,” Plantgrape varietal record, accessed 7

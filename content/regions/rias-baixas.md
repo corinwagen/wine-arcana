@@ -5,15 +5,15 @@ title: Rías Baixas
 # Rías Baixas
 
 Rías Baixas is a protected wine denomination in Atlantic Galicia, in
-northwestern Spain. Its vineyards do not form one continuous coastal block.
-They occupy five subzones around estuaries and the lower reaches of rivers from
+northwestern Spain. Its vineyards occupy five subzones around estuaries and
+the lower reaches of rivers from
 the Ulla in the north to the Miño on the Portuguese border. White wine from
 [Albariño](../grapes/albarino.md) overwhelmingly dominates production, but the
 region also permits other white grapes, reds, and [traditional-method sparkling
 wine](../styles/traditional-method-sparkling-wine.md).
 
-The five subzones are useful geographical names, not five fixed wine styles or
-quality levels. Distance from the ocean, shelter, slope, soil depth, season,
+The five subzones identify different origins. Distance from the ocean,
+shelter, slope, soil depth, season,
 farming, and harvest date can vary within each one. Blending and maturation can
 then make wines from nearby vineyards diverge more than their subzone names
 suggest.
@@ -25,8 +25,7 @@ the year, although summer is usually drier, and moist spring conditions promote
 vigorous growth. The estuaries and river valleys carry maritime air inland,
 while hills create differences in exposure and shelter over short distances.
 Coastal Val do Salnés generally receives a more direct ocean influence than
-inland Condado do Tea, but neither can be reduced to a single temperature or
-rainfall figure.
+inland Condado do Tea.
 
 Granite is the principal parent rock. Weathered granitic soils are commonly
 acidic, sandy to sandy-loam, fairly shallow, and low in nutrients. Their drainage
@@ -34,8 +33,7 @@ can be valuable in a wet climate, yet limited water retention means that a dry
 summer can still restrict the vine. Schist and other metamorphic material also
 occur, while rivers have left alluvial and colluvial deposits containing
 varying mixtures of clay, silt, sand, and gravel. These differences affect
-drainage, rooting, vine growth, and ripening. They do not justify treating a
-soil name as a flavor added directly to wine.
+drainage, rooting, vine growth, and ripening.
 
 ## The five subzones
 
@@ -56,8 +54,6 @@ coastal-to-inland sequence across these last two areas.
 A subzone on a label is a legal statement of origin: the grapes must come
 entirely from that subzone and the wine must be made there. The rules also set
 different permitted combinations of grapes for several named subzone wines.[^1]
-These boundaries make provenance legible, but they do not guarantee that all
-wines within a boundary share a flavor, structure, or level of quality.
 
 ## Grapes and wet-climate viticulture
 
@@ -71,8 +67,8 @@ mildew susceptibility among clones.
 Traditional *emparrado*, or pergola, training lifts the vine on a high
 horizontal framework. Moving foliage and bunches away from damp ground improves
 air movement and light interception, helps growers manage vigorous canopies,
-and historically left room for vegetables or other crops below. The system
-reduces some disease risk rather than removing it. Canopy density, rain near
+and historically left room for vegetables or other crops below. Canopy
+density, rain near
 flowering or harvest, and the timing of protective work remain consequential.
 Newer vineyards may use vertical or divided trellises that are easier to work,
 but the fruiting zone is still generally kept well above the soil.
@@ -83,8 +79,7 @@ Torrontés, and Ratiño Gallega. They may broaden aroma, texture, or ripening
 options in blends, depending on grape and site. A wine labeled “Rías Baixas
 Albariño,” however, must be entirely Albariño. Dark-skinned grapes such as
 [Caíño Tinto](../grapes/caino-tinto.md), Espadeiro, and
-[Sousón](../grapes/souson.md) survive in much smaller quantities and show that
-the denomination is not legally restricted to white wine.
+[Sousón](../grapes/souson.md) survive in much smaller quantities.
 
 ## Wine and maturation
 
@@ -97,18 +92,16 @@ aroma, acidity, phenolic texture, and body.
 
 [Lees aging](../concepts/lees-aging.md) can range from short settling time to
 extended contact with fine yeast sediment, with or without stirring. It can
-alter texture and the course of aroma development without requiring oak or
-making every wine taste alike. Producers may instead or additionally use
+alter texture and the course of aroma development. Producers may instead or
+additionally use
 barrels, larger wooden vessels, concrete, or prolonged bottle maturation. The
 regulated term “Rías Baixas Barrica” applies to white wine matured in wooden
 containers no larger than 600 litres, with the time in wood stated on the
 label.[^2]
 
-These methods also unsettle the idea that Albariño must be consumed immediately.
 Many wines are designed for directness and early drinking, while sound fruit,
 lees contact, careful oxygen management, and time can support a slower
-development. Subzone, grape composition, and cellar method should therefore be
-read together rather than used as shortcuts to a ranking.
+development.
 
 [^1]: Ministerio de Agricultura, Pesca y Alimentación, *Pliego de condiciones
     de la DOP Rías Baixas*, in force 30 September 2024, sections 3.3 and 8.2;

@@ -12,13 +12,6 @@ Blanc](../grapes/sauvignon-blanc.md), dominates its modern identity, but the
 appellation also covers red and rosé wines made from [Pinot
 Noir](../grapes/pinot-noir.md).
 
-The name is often reduced to a formula: Sauvignon plus one of three soils
-equals a predictable flavour. The soils are real and consequential, but the
-formula is not. Slope, aspect, soil depth and water supply, season, farming,
-harvest date, and cellar practice act together. Sancerre is more useful as an
-example of those interactions than as proof that limestone or flint gives a
-wine one fixed taste.
-
 ## Geography and climate
 
 The delimited area extends across parts of 14 communes in a hilly zone roughly
@@ -30,21 +23,21 @@ marl, limestone, clay, and flint.
 
 Sancerre has an ocean-influenced climate modified by its inland position. The
 Pays Fort gives some shelter from wet western air, and the Loire helps drain
-cold air from valleys running toward it. Neither effect removes the risks of a
-northerly site: Sauvignon Blanc and Pinot Noir begin growth early enough to be
+cold air from valleys running toward it. Sauvignon Blanc and Pinot Noir begin
+growth early enough to be
 vulnerable to spring frost, while rain, disease pressure, summer heat, and
 water deficit vary substantially by year. The many slope orientations also
 mean that two nearby parcels can receive different amounts of sun and wind.
 
-## Soils without a flavour formula
+## Soils and vine growth
 
 Three local names provide a practical introduction to Sancerre's geology.
 *Terres blanches* are clay-rich Kimmeridgian marls, often containing small
 fossil oyster shells. *Caillottes* are stony soils developed over Oxfordian or
 Portlandian limestone. *Silex*, also called *chailloux*, refers to clay-silica
-soils containing flint, especially toward the eastern hills. These are broad
-families rather than three uniform media: depth, clay content, stones,
-drainage, and position on the slope vary within each.
+soils containing flint, especially toward the eastern hills. Depth, clay
+content, stones, drainage, and position on the slope vary
+within each family.
 
 Those properties can change the vine's environment. A shallow, stony surface
 may warm and drain differently from a deeper marl; clay content and rooting
@@ -55,13 +48,10 @@ permitted.
 
 Local accounts often associate caillottes with earlier, lighter wines, terres
 blanches with greater breadth, and silex with smoky or mineral impressions.
-These can be useful observations about recurring patterns, not laws of sensory
-cause and effect. Research on vineyard soils emphasizes water, temperature,
+These are observations about recurring patterns. Research on vineyard soils
+emphasizes water, temperature,
 nutrition, and management as plausible pathways, while finding little evidence
 that geological minerals pass through the vine as literal rock flavour.[^1]
-A tasting term such as “flinty” therefore does not identify the soil by itself,
-and wines from the same soil family need not resemble one another when their
-exposure, crop, harvest date, or vinification differs.
 
 ## Grapes and wine
 
@@ -71,8 +61,8 @@ management. Earlier picking can retain more acidity and green character;
 later harvest generally shifts the balance toward riper fruit, though hot or
 dry conditions may complicate that progression. The familiar dry, direct
 style is commonly made by pressing, settling the juice, fermenting it at
-controlled temperature in tank, and maturing it on fine lees. It is not the
-only approach. Producers may use larger or smaller oak vessels, avoid or allow
+controlled temperature in tank, and maturing it on fine lees. Producers may
+use larger or smaller oak vessels, avoid or allow
 [malolactic fermentation](../concepts/malolactic-fermentation.md), extend lees
 ageing, blend sites, or bottle individual parcels. Vessel, microbial choices,
 and time on lees can change texture and aroma without changing the vineyard.
@@ -92,8 +82,7 @@ dominated by dark-skinned varieties before phylloxera devastated it in the
 late nineteenth century. Replanting consolidated Sauvignon Blanc for white
 wine and Pinot Noir for red and rosé. White Sancerre received appellation
 recognition in 1936; the regional wine bureau dates recognition for red and
-rosé to 1959.[^2] That history helps explain why Pinot Noir is not a modern
-exception to an otherwise single-grape region.
+rosé to 1959.[^2]
 
 ## Current appellation rules
 
@@ -107,12 +96,10 @@ and 59 for red, with separate higher ceiling yields.
 
 The same specification sets minimum grape sugar and natural alcohol levels,
 limits fermentable sugar in finished wines, forbids continuous presses and
-wood chips, and requires the red maturation period noted above. These rules
-define origin and minimum production conditions, not a cru hierarchy or a
-single house style. A cadastral *lieu-dit* may appear on the label when the
+wood chips, and requires the red maturation period noted above. A cadastral
+*lieu-dit* may appear on the label when the
 grapes come from it and it is declared, but Sancerre has no official premier
-or grand cru tier. A vineyard name may narrow the stated origin; it does not
-override vintage and producer variation.
+or grand cru tier.
 
 [^1]: Cristina Lazcano, Charlotte Decock & Stewart G. Wilson, “Defining and
     Managing for Healthy Vineyard Soils, Intersections With the Concept of
