@@ -14,6 +14,8 @@ the berries can accumulate substantial sugar while retaining high [acidity](../c
 the resulting wine can support both fresh, topped-up whites and the long,
 yeast-influenced élevage of [vin jaune](../styles/vin-jaune.md).
 
+![A golden grape cluster hangs below a broad green leaf on a vine shoot.](../../media/images/grapes/savagnin-ampelography.jpg "Savagnin, labelled ‘Savagnin jaune’ in Viala and Vermorel's Ampélographie.")
+
 ## History and identity
 
 Savagnin blanc belongs to the old Traminer group. Plantgrape lists it under

@@ -14,6 +14,8 @@ deeper-colored place in the Jura red-wine spectrum than [Poulsard](poulsard.md).
 variety is called Bastardo in Portugal and Merenzao in Spain, names that show
 how far this relatively regional French grape has traveled.
 
+![A dark grape cluster hangs beneath a green vine leaf with reddish edges.](../../media/images/grapes/trousseau-ampelography.jpg "Trousseau, labelled ‘Bastardo’ in Viala and Vermorel's Ampélographie.")
+
 ## History and identity
 
 Plantgrape identifies Trousseau as originating in the Jura. Published genetic

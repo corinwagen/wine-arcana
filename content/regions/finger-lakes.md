@@ -20,6 +20,8 @@ central fact about the region: its lakes make vinifera possible in many sites,
 but they do not remove winter injury, spring frost, or the challenge of
 ripening later varieties.
 
+![Long, narrow lakes lie amid snow-covered terrain in a view from space.](../../media/images/regions/finger-lakes.jpg "The Finger Lakes from the International Space Station, December 2004.")
+
 ## Lakes, slopes, and climate
 
 The larger Finger Lakes occupy deep glacial troughs. Cornell's Finger Lakes

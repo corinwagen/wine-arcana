@@ -258,3 +258,78 @@ images:
     height: 1200
     sha256: 313ee02d6e5353b221bf249f784dc231bab2d58f3d6a5950940962695bb40f08
     changes: Resized to 1,600 pixels on the long edge and recompressed as JPEG.
+
+  - path: media/images/regions/chateau-chalon.jpg
+    title: Château-Chalon village and vineyards
+    creator: Tangopaso
+    creator_url: https://commons.wikimedia.org/wiki/User:Tangopaso
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Chateau-Chalon.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/5/57/Chateau-Chalon.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 1600
+    height: 1200
+    sha256: 4bf3bf56bef4ed8a4184139c95efb4cf264f053741fa341b0e3fea9cade616fe
+    changes: Resized to 1,600 pixels on the long edge and recompressed as JPEG.
+  - path: media/images/regions/finger-lakes.jpg
+    title: New York’s Finger Lakes
+    creator: NASA
+    creator_url: https://www.nasa.gov/
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:New_York%27s_Finger_Lakes.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/c/c1/New_York%27s_Finger_Lakes.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 1000
+    height: 693
+    sha256: 3b2f0ddc3bca9b639b14563ce801eda31b1c9f3986495308579c1cb0474f653c
+  - path: media/images/grapes/savagnin-ampelography.jpg
+    title: Savagnin jaune — Ampélographie
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Savagnin_jaune_-_Amp%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/9/95/Savagnin_jaune_-_Amp%C3%A9lographie.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    width: 748
+    height: 1167
+    sha256: 2a56521aa808b30c090abb7af53940ca282ecce7d698203c97b2f0ad2191eea9
+  - path: media/images/grapes/poulsard-ampelography.jpg
+    title: Poulsard — Ampélographie
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Poulsard_-_Amp%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/0/0a/Poulsard_-_Amp%C3%A9lographie.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    width: 820
+    height: 1181
+    sha256: 8dedddfe714bf1a4bae852abc9bc446798334b19de631db6d6bd24ab0339273b
+  - path: media/images/grapes/aligote-ampelography.jpg
+    title: Aligoté — Ampélographie
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Aligot%C3%A9_Viala_Vermorel.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/b/b3/Aligot%C3%A9_Viala_Vermorel.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 978
+    height: 1600
+    sha256: be7b064dcc1475206db8fff2a4dfe3cacfd7ed31bb9d751c1b7591ccf520c6e7
+    changes: Resized to 1,600 pixels on the long edge and recompressed as JPEG.
+  - path: media/images/grapes/trousseau-ampelography.jpg
+    title: Bastardo — Ampélographie
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Bastardo.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/f/f8/Bastardo.jpg
+    license: Public-Domain
+    license_url: https://commons.wikimedia.org/wiki/Commons:Public_domain
+    width: 783
+    height: 1175
+    sha256: a1c79bd0f76950293a4ca40355cffc2322b2153d4c453d50a7f22546f5e09bd9

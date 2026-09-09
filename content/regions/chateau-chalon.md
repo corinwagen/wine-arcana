@@ -10,6 +10,8 @@ limestone promontory north of Lons-le-Saunier. The name joins a particular set
 of slopes to a demanding cellar practice: making a dry white wine and maturing
 it for years beneath a surface veil of yeast.
 
+![Vineyard rows climb toward wooded cliffs and a hilltop village.](../../media/images/regions/chateau-chalon.jpg "Château-Chalon above its vineyard slopes, August 2011.")
+
 ## Vineyard and grape
 
 South- and west-facing slopes catch the sun beneath cliffs that shelter the

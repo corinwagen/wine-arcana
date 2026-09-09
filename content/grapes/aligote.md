@@ -9,6 +9,8 @@ Burgundy. Its wines are defined by lively [acidity](../concepts/acidity.md), whi
 and refreshing. The grape is particularly important in Bouzeron, the only
 Burgundian village appellation made exclusively from Aligoté.
 
+![A pale grape cluster sits against a broad green leaf beneath a vine shoot.](../../media/images/grapes/aligote-ampelography.jpg "Aligoté, illustrated by Jules Troncy for Viala and Vermorel's Ampélographie.")
+
 ## History
 
 Bourgogne Wines
