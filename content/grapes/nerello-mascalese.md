@@ -56,18 +56,28 @@ can both express the variety.
 ## In blends and other styles
 
 Etna Rosso and Rosato require at least 80% Nerello Mascalese. Nerello
-Cappuccio is a distinct grape permitted as a blending partner. The
+Cappuccio is permitted as a blending partner. The
 specification also requires at least 80% Nerello Mascalese for Etna's
 sparkling wines, which can be white or pink.[^1] Pressing the dark grapes
 with little skin contact allows a pale juice to form the base of a white
 sparkling wine.
 
+A vineyard survey discussed in a 2021 genetic study found several varieties
+grown under the name Nerello Cappuccio, chiefly [Carignan](carignan.md).
+The name therefore needs care when identifying plant material.[^2]
+
 [^1]: Ministero dell'agricoltura, della sovranità alimentare e delle
     foreste, Etna production specification, consolidated January 2022 and
     corrected March 2022, articles 1–2, accessed 9 September 2026.
+[^2]: Claudio D'Onofrio et al., “Parentage Atlas of Italian Grapevine
+    Varieties as Inferred From SNP Genotyping,” *Frontiers in Plant Science*
+    11 (2021), article 605934, discussion of Nerello Cappuccio identity.
 
 ## Sources
 
+- Claudio D'Onofrio et al., [“Parentage Atlas of Italian Grapevine Varieties
+  as Inferred From SNP Genotyping”](https://doi.org/10.3389/fpls.2020.605934),
+  *Frontiers in Plant Science* 11 (2021), article 605934.
 - G. Ansaldi et al., [“Nerello Mascalese”](https://vitisdb.it/varieties/show/987),
   Italian Vitis Database, 2015, Italian-language record.
 - Vivai Cooperativi Rauscedo, [“Nerello Mascalese”](https://www.vivairauscedo.com/scheda-prodotto/nerello-mascalese/),

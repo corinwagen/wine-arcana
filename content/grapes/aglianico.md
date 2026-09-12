@@ -5,7 +5,8 @@ title: Aglianico
 # Aglianico
 
 Aglianico is a dark-skinned *Vitis vinifera* grape central to the red wines
-of Campania and Basilicata. Its main reference points include Taurasi,
+of Campania and Basilicata. Its main reference points include
+[Taurasi](../regions/taurasi.md),
 Taburno, and the Vulture area. The wines often combine substantial
 [tannin](../concepts/tannin.md) with freshness, giving producers material
 for both firm, ageworthy reds and fruitier wines released younger.

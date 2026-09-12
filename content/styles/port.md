@@ -17,7 +17,8 @@ certification rules.[^1]
 Most Port is sweet and relatively high in alcohol because grape spirit is added
 while alcoholic fermentation is still under way. Yet this common method leads
 to markedly different wines. Grape colour and composition, the timing of
-fortification, extraction, blending, vessel, oxygen exposure, filtration, and
+[fortification](../concepts/fortification.md), extraction, blending, vessel,
+oxygen exposure, filtration, and
 bottle age all matter. Ruby, tawny, vintage, late-bottled vintage, white, and
 rosé therefore mark legal and production categories.
 

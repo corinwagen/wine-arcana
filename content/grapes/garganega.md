@@ -22,7 +22,8 @@ the cellar.
 
 The Italian Vitis Database confirms Garganega's identity with Grecanico Dorato
 through molecular analysis. It also records parent–offspring relationships
-with several Italian grapes, including Trebbiano Toscano and Catarratto.
+with several Italian grapes, including Trebbiano Toscano and
+[Catarratto](catarratto.md).
 Those relationships establish its place in a large family of varieties; its
 own parents and precise geographical origin remain uncertain.[^1]
 
@@ -61,7 +62,8 @@ Cellar choices develop that range further. A wine kept in tank can retain a
 direct fruit profile; [lees ageing](../concepts/lees-aging.md) can add texture,
 and wood introduces another influence according to vessel size and age.
 
-For Recioto di Soave, growers select sound bunches for *appassimento*, drying
+For [Recioto di Soave](../styles/recioto-di-soave.md), growers select sound
+bunches for *appassimento*, drying
 after harvest. Water loss concentrates the juice before fermentation. Leaving
 some grape sugar unfermented produces a sweet wine with greater concentration
 and a different aromatic development from fresh-grape Soave.

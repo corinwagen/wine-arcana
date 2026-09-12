@@ -22,7 +22,8 @@ the least dependence on appearance.
 
 ## Where the category begins
 
-Maceration means keeping the liquid and solid parts of the grape in contact so
+[Maceration](../concepts/maceration.md) means keeping the liquid and solid
+parts of the grape in contact so
 that substances in the solids can dissolve into the juice or wine. A few hours
 before pressing may extract aroma precursors in otherwise conventional white
 winemaking; fermenting on the skins or keeping dry wine on its pomace extends

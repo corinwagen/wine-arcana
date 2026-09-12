@@ -9,7 +9,8 @@ aliases:
 Madeira is a fortified wine whose maturation uses heat and oxidative ageing
 to develop its character. The protected origin covers Portugal's Madeira
 archipelago, including Madeira and Porto Santo. Wines range from relatively
-dry to richly sweet, with grape variety, fortification timing, and maturation
+dry to richly sweet, with grape variety,
+[fortification](../concepts/fortification.md) timing, and maturation
 all contributing to the result.
 
 Its combination of acidity, retained sugar, and developed aroma makes Madeira
@@ -26,8 +27,9 @@ training spreads vines horizontally overhead. Fragmented holdings and steep
 terrain make vineyard work and harvesting labour-intensive.
 
 The familiar white-grape names also help orient a reader to sweetness.
-Sercial is associated with dry Madeira and particularly marked acidity.
-Verdelho generally gives a somewhat fuller, medium-dry style. Boal is
+[Sercial](../grapes/sercial.md) is associated with dry Madeira and particularly
+marked acidity. [Verdelho](../grapes/verdelho.md) generally gives a somewhat
+fuller, medium-dry style. Boal is
 associated with medium-rich wine, while Malvasia produces rich, sweet styles.
 The island grows both Malvasia-Cândida and Malvasia de São Jorge, so Malvasia
 on a Madeira label should be understood in its local varietal context.

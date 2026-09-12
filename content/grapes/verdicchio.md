@@ -10,9 +10,10 @@ aliases:
 # Verdicchio
 
 Verdicchio is a white *Vitis vinifera* variety closely associated with Marche
-in central Italy. Its two principal local expressions, Verdicchio dei Castelli
-di Jesi and Verdicchio di Matelica, show how the same grape can respond to
-different relationships between hills, mountains, and sea.
+in central Italy. Its two principal local expressions,
+[Verdicchio dei Castelli di Jesi](../regions/castelli-di-jesi.md) and
+[Verdicchio di Matelica](../regions/matelica.md), show how the same grape can
+respond to different relationships between hills, mountains, and sea.
 
 The wines commonly retain marked acidity alongside enough substance for
 ageing. Citrus and orchard-fruit impressions and an almond-like finish are
@@ -29,10 +30,10 @@ viticultural histories within that shared identity.[^1]
 
 Trebbiano di Soave contributes to [Soave](../regions/soave.md) blends alongside
 [Garganega](garganega.md). Around the southern end of Lake Garda, the names
-Turbiana and
-Trebbiano di Lugana connect the grape with Lugana wine. These geographical
-names help explain why a variety associated with Marche also has an important
-life in northern Italy.
+Turbiana and Trebbiano di Lugana connect the grape with
+[Lugana](../regions/lugana.md) wine.
+These geographical names help explain why a variety associated with Marche
+also has an important life in northern Italy.
 
 ## Jesi and Matelica
 
@@ -72,8 +73,8 @@ weight and development.
     cultivar identity,” *Advances in Horticultural Science* 26 (2012),
     pp. 92–99, <https://oaj.fupress.net/index.php/ahs/article/download/2980/2980>.
 [^2]: Italian Ministry of Agriculture, Verdicchio dei Castelli di Jesi DOC
-    specification, amended 8 April 2022, and Verdicchio di Matelica DOC
-    specification, amended 24 June 2025; accessed 9 September 2026.
+    specification, amended 23 September 2025, and Verdicchio di Matelica DOC
+    specification, amended 24 June 2025; accessed 11 September 2026.
 
 ## Related topics
 
@@ -90,8 +91,8 @@ weight and development.
   [“Verdicchio di Matelica DOC”](https://imtdoc.it/vino/verdicchio-di-matelica/),
   regional and stylistic descriptions, accessed 9 September 2026.
 - Italian Ministry of Agriculture, [Verdicchio dei Castelli di Jesi DOC
-  specification](https://imtdoc.it/wp-content/uploads/2025/09/Verdicchio-dei-Castelli-di-Jesi-1.pdf),
-  amended 8 April 2022, accessed 9 September 2026.
+  specification](https://www.masaf.gov.it/flex/cm/pages/ServeAttachment.php/L/IT/D/1%252F8%252F3%252FD.cb678f5f508d98965ca3/P/BLOB:ID=22762/E/pdf?mode=download),
+  amended 23 September 2025, accessed 11 September 2026.
 - Italian Ministry of Agriculture, [Verdicchio di Matelica DOC
   specification](https://imtdoc.it/wp-content/uploads/2025/09/DOC_Verdicchio_di_Matelica___DM_24_giugno_2025___GURI_n._156_del_08.07.2025.pdf),
   amended 24 June 2025, accessed 9 September 2026.

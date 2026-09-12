@@ -42,7 +42,7 @@ partly on the selection planted, alongside soil, climate, and farming.
 
 Nero d'Avola's anthocyanins give young wines substantial colour. Its grapes
 can also supply firm tannins, so the intensity of
-maceration helps determine the eventual texture.
+[maceration](../concepts/maceration.md) helps determine the eventual texture.
 Gentler extraction can favour supple, approachable wines; more extraction
 requires fruit capable of supporting the additional grip.
 
@@ -60,7 +60,8 @@ choices about extraction and ageing.
 
 ## Cerasuolo di Vittoria
 
-Cerasuolo di Vittoria pairs Nero d'Avola with Frappato. Its specification
+[Cerasuolo di Vittoria](../regions/cerasuolo-di-vittoria.md) pairs Nero d'Avola
+with [Frappato](frappato.md). Its specification
 requires 50–70% Nero d'Avola and 30–50% Frappato, from a defined area spanning
 parts of the provinces of Ragusa, Caltanissetta, and Catania.[^2] The resulting
 red wine has a regional identity built around this blend. The name
