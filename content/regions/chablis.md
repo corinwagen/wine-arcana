@@ -93,6 +93,23 @@ Cooler sites and seasons often emphasize acidity and restraint; warmer
 conditions, later harvest, extended lees contact, or barrel fermentation can
 give broader texture and earlier openness. Bottle age adds another variable.
 
+## Benchmark producers
+
+**Domaine William Fèvre** is useful for comparing named climats across a
+broad range of premier and grand cru holdings. Its modern cellar approach
+uses seasoned barrels in place of new oak, a change documented in Andy
+Howard's account of the domaine and maintained in its current description.
+The wines illustrate how wood can contribute to maturation without making
+new-oak flavour the defining feature.[^4]
+
+**Domaine Louis Michel & Fils** provides a contrasting reference through its
+exclusive use of stainless steel for vinification. Howard identifies the
+domaine among Chablis growers attentive to individual terroirs. Comparing
+its wines from different climats offers a view of those origins under a
+consistent vessel choice; comparing the same climat across Michel and Fèvre
+also brings producer decisions into the picture. Neither approach makes
+one wine a purer expression of its site by definition.[^4]
+
 [^1]: Giovanni Sgubin et al., “The risk of tardive frost damage in French
     vineyards in a changing climate,” *Agricultural and Forest Meteorology*
     250–251 (2018), pp. 226–242.
@@ -101,6 +118,10 @@ give broader texture and earlier openness. Bottle age adds another variable.
     IV, and X.
 [^3]: French Ministry of Agriculture, current specifications for Petit Chablis,
     Chablis, and Chablis Grand Cru, sections VII–IX.
+[^4]: Andy Howard MW, “Chablis spotlight: William Fèvre,” *Decanter*;
+    Domaines Barons de Rothschild (Lafite), “Domaine William Fèvre,” and
+    Domaine Louis Michel & Fils, estate and winemaking overview, accessed
+    14 September 2026.
 
 ## Related topics
 
@@ -136,3 +157,11 @@ give broader texture and earlier openness. Bottle age adds another variable.
   vineyards in a changing
   climate”](https://doi.org/10.1016/j.agrformet.2017.12.253), *Agricultural and
   Forest Meteorology* 250–251 (2018), pp. 226–242.
+- Andy Howard MW, [“Chablis spotlight: William
+  Fèvre”](https://www.decanter.com/premium/chablis-spotlight-william-fevre-437895/),
+  *Decanter*, accessed 14 September 2026.
+- Domaines Barons de Rothschild (Lafite), [“Domaine William
+  Fèvre”](https://www.lafite.com/fr/domaines/william-fevre/lire/), estate and
+  cellar description, accessed 14 September 2026.
+- Domaine Louis Michel & Fils, [estate and winemaking
+  overview](https://www.louismicheletfils.com/en), accessed 14 September 2026.

@@ -103,12 +103,34 @@ closure. A young multi-vintage blend built around fresh base wines, an
 oxidatively handled blend with old reserves, and a long-aged single-vineyard
 vintage wine may all satisfy the same appellation.
 
+## Benchmark producers
+
+**Bollinger** is a useful reference for Pinot Noir-led blending and the role
+of mature reserves. Its Special Cuvée combines the latest harvest with a
+majority of reserve wines, including a portion kept for years in magnums under
+cork. Those reserves contribute a developed aromatic component before the
+finished blend begins its own bottle ageing. Independent coverage has singled
+out this reserve-wine contribution to the house's broad, mature style.[^3]
+
+**Pierre Péters**, based in Le Mesnil-sur-Oger, offers a grower's perspective
+on Côte des Blancs Chardonnay. Small steel tanks preserve separate origins
+and press fractions before blending. Cuvée de Réserve draws on several
+harvests, while Les Chétillons is a vintage wine from a single vineyard in
+Le Mesnil. The contrast makes Péters useful for comparing a sustained
+blending tradition with a more tightly defined origin, within one estate's
+Blanc de Blancs range.[^4]
+
 [^1]: French Ministry of Agriculture, *Cahier des charges de l'appellation
     d'origine contrôlée « Champagne »*, approved 31 July 2025, sections IV–V
     and X.
 [^2]: Ibid., sections IX.2 and IX.5. Vintage base wines must come from the
     stated harvest, apart from authorized winemaking products and the contents
     of tirage or expedition liqueurs.
+[^3]: *La Revue du vin de France*, “Champagne : Bollinger, Special Cuvée”;
+    Champagne Bollinger, current “Special Cuvée” and “Reserve magnums” pages,
+    accessed 14 September 2026.
+[^4]: *Le Figaro Vin*, “Pierre Péters”; Champagne Pierre Péters, current
+    estate, winemaking, and wine-range pages, accessed 14 September 2026.
 
 ## Related topics
 
@@ -138,3 +160,18 @@ vintage wine may all satisfy the same appellation.
 - Tom Hewson, [“Champagne Report: The two faces of the Montagne de
   Reims”](https://www.decanter.com/wine/wine-regions/champagne-report-the-two-faces-of-the-montagne-de-reims/),
   *Decanter*, 13 April 2026.
+- *La Revue du vin de France*, [“Champagne : Bollinger, Special
+  Cuvée”](https://www.larvf.com/,vin-champagne-bollinger-special-cuvee,4510618.asp),
+  accessed 14 September 2026.
+- Champagne Bollinger,
+  [“Special Cuvée”](https://www.champagne-bollinger.com/en/wine/special-cuvee/)
+  and [“Reserve
+  magnums”](https://www.champagne-bollinger.com/en/news/reserve-magnums/),
+  accessed 14 September 2026.
+- *Le Figaro Vin*, [“Pierre
+  Péters”](https://avis-vin.lefigaro.fr/vins-champagne/champagne/d10783-pierre-peters),
+  accessed 14 September 2026.
+- Champagne Pierre Péters, [estate overview](https://champagne-peters.com/en/home),
+  [“Winemaking”](https://champagne-peters.com/en/winemaking), and
+  [wine range](https://champagne-peters.com/en/vintage), accessed
+  14 September 2026.

@@ -75,6 +75,23 @@ are central to the appellation's identity. Crozes-Hermitage contains a much
 larger and more varied area, so its wines can express a wider range of terrain
 and production scale.
 
+## Benchmark producers
+
+**Domaine Jean-Louis Chave** is a reference for Hermitage as a blend of
+complementary sites. Parcels in climats including Les Bessards and Le Méal
+are harvested and matured separately before assembly. The work preserves
+differences long enough to decide how they fit together; a blended Hermitage
+can therefore express a deliberate interpretation of the hill rather than
+a loss of geographical precision.[^4]
+
+**M. Chapoutier** makes the comparison with separate-site bottlings especially
+clear. Le Pavillon comes from the Les Bessards sector, while Le Méal and
+L'Ermite explore other parts of the hill. For Le Pavillon, the house specifies
+destemming, fermentation in concrete, and maturation in oak with a portion of
+new barrels. These wines offer a way to examine site and cellar choices
+together. Chapoutier also makes blends, so the comparison with Chave describes
+particular wines rather than two incompatible philosophies.[^4]
+
 ## Related topics
 
 - [Côte-Rôtie](cote-rotie.md)
@@ -88,6 +105,11 @@ and production scale.
     des charges de l’appellation d’origine contrôlée « Crozes-Hermitage »*,
     sections III, IV, V, and X.
 
+[^4]: James Lawther, “Understanding Hermitage,” *Decanter*, updated
+    10 July 2019; Matt Walls, “Hermitage 2023: Report and top-scoring wines,”
+    *Decanter*, 6 December 2024; M. Chapoutier, “Le Pavillon” technical sheet,
+    accessed 14 September 2026.
+
 ## Sources
 
 - Ministère de l’Agriculture et de la Souveraineté alimentaire, [*Cahier des
@@ -100,3 +122,12 @@ and production scale.
   2024, sections III–X.
 - Inter Rhône, [“Côtes du Rhône Cru AOC Hermitage”](https://www.vins-rhone.com/en/cotes-du-rhone-cru-aoc-hermitage),
   geography and named-site overview, accessed 7 September 2026.
+- James Lawther, [“Understanding
+  Hermitage”](https://www.decanter.com/premium/understanding-hermitage-248139/),
+  *Decanter*, updated 10 July 2019.
+- Matt Walls, [“Hermitage 2023: Report and top-scoring
+  wines”](https://www.decanter.com/premium/hermitage-2023-report-and-top-scoring-wines-543883/),
+  *Decanter*, 6 December 2024, including Chave and Chapoutier estate tastings.
+- M. Chapoutier, [“Le
+  Pavillon”](https://www.chapoutier.com/media/produit_ft_import/FT_FacSpera_Le_Pavillon.pdf),
+  technical sheet dated 21 September 2020, accessed 14 September 2026.

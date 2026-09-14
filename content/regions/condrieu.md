@@ -48,6 +48,22 @@ disappearing during the twentieth century. Its later recovery required
 replanting and renewed commitment to terrace cultivation. Appellation
 recognition came in 1940, followed by an extension southward in 1967.[^2]
 
+## Benchmark producers
+
+**Domaine Georges Vernay** connects the appellation's recovery with its
+present-day wines. Georges was among the growers who sustained and replanted
+Viognier when the vineyards were in retreat. Under Christine Vernay, the
+range includes the earlier-drinking Terrasses de l'Empire and the more
+concentrated Coteau de Vernon. The latter is a useful reference for Condrieu
+capable of developing in bottle, beyond the grape's immediate perfume.[^3]
+
+**Yves Cuilleron** offers a broad view of the appellation's geography.
+La Petite Côte combines parcels in Chavanay, while Les Chaillets draws from
+Condrieu, Vérin, and Saint-Michel-sur-Rhône. His range also includes named-site
+Verlieu and Vernon bottlings and, when conditions permit, the sweet Essence
+d'Automne. These provide concrete examples of the choices between parcel
+blending, a single origin, and concentrated sweet wine.[^3]
+
 ## Sources
 
 - Ministère de l'Agriculture, [*Cahier des charges de l'AOC « Condrieu »*](https://info.agriculture.gouv.fr/boagri/document_administratif-babefc65-b6a8-4533-a502-3cf8e7469cb6/telechargement),
@@ -58,7 +74,21 @@ recognition came in 1940, followed by an extension southward in 1967.[^2]
 - Syndicat des Vignerons de l'AOC Condrieu,
   [“The Condrieu Vineyards”](https://vin-condrieu.fr/en/vineyards/),
   account of soils and vineyard work, accessed 9 September 2026.
+- Stephen Brook, [“Viognier”](https://www.decanter.com/features/viognier-246278/),
+  *Decanter*, on the appellation's revival and differences among producers,
+  accessed 14 September 2026.
+- Matt Walls, [“Regional profile: Condrieu plus 12 wines to seek
+  out”](https://www.decanter.com/premium/regional-profile-condrieu-plus-12-wines-to-seek-out-509967/),
+  *Decanter*, 19 September 2023.
+- Domaine Georges Vernay, [“Nos vins”](https://domainevernay.com/nos_vins/),
+  accessed 14 September 2026.
+- Cave Yves Cuilleron, [“Les appellations de nos
+  vins”](https://www.cuilleron.com/en/appellations), Condrieu section,
+  accessed 14 September 2026.
 
 [^1]: Condrieu specification, sections V, VII, and IX. The sugar threshold
     refers to glucose and fructose in the wine.
 [^2]: Condrieu specification, section X.1(b).
+[^3]: Stephen Brook, “Viognier,” and Matt Walls, “Regional profile:
+    Condrieu,” *Decanter*; current Vernay and Cuilleron wine-range pages,
+    accessed 14 September 2026.

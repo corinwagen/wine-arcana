@@ -101,6 +101,23 @@ wood chips, and requires the red maturation period noted above. A cadastral
 grapes come from it and it is declared, but Sancerre has no official premier
 or grand cru tier.
 
+## Benchmark producers
+
+**Domaine Vacheron** is a reference for parcel wines and for Sancerre's
+development beyond an exclusively white-wine reputation. Its longstanding
+work with both Sauvignon Blanc and Pinot Noir, together with biodynamic
+farming, features in Jim Budd's account of the region's influential estates.
+Les Romains gives a concrete white-wine example: fruit from flint soils is
+fermented in tank and matured in neutral oak, according to the estate's
+importer. Site and maturation therefore both enter the comparison.[^4]
+
+**Henri Bourgeois**, based in Chavignol, provides another sustained reference
+for distinguishing Sancerre origins. La Côte des Monts Damnés comes from
+Kimmeridgian marls, while the wider range includes wines from limestone and
+flint soils. Comparing these bottlings can help give substance to the
+regional soil vocabulary, provided differences in harvest, fermentation,
+and ageing are considered alongside the vineyard name.[^4]
+
 [^1]: Cristina Lazcano, Charlotte Decock & Stewart G. Wilson, “Defining and
     Managing for Healthy Vineyard Soils, Intersections With the Concept of
     Terroir,” *Frontiers in Environmental Science* 8 (2020), article 68,
@@ -110,6 +127,11 @@ or grand cru tier.
 [^3]: Ministère de l'Agriculture, *Cahier des charges de l'appellation
     d'origine contrôlée “Sancerre”*, homologated 25 August 2011; INAO product
     record and ministry publication status checked 1 September 2026.
+[^4]: Jim Budd, “How to pick the best Sancerre wine,” *Decanter*, updated
+    24 June 2021; current Centre-Loire producer listing for Vacheron,
+    European Cellars' Les Romains technical page, and Famille Bourgeois'
+    estate and La Côte des Monts Damnés 2024 pages, accessed
+    14 September 2026.
 
 ## Related topics
 
@@ -138,3 +160,16 @@ or grand cru tier.
   [*Dossier Vins du
   Centre-Loire*](https://www.vins-centre-loire.com/files/Dossier-Vins-Centre-Loire-FR.pdf),
   regional viticulture and vinification dossier, accessed 1 September 2026.
+- Jim Budd, [“How to pick the best Sancerre
+  wine”](https://www.decanter.com/premium/sancerre-wine-region-best-247588/),
+  *Decanter*, updated 24 June 2021.
+- Bureau interprofessionnel des vins du Centre-Loire, [“Domaine
+  Vacheron”](https://www.vins-centre-loire.com/fr/domaine-vacheron/), accessed
+  14 September 2026.
+- European Cellars, [“Sancerre Les
+  Romains”](https://www.europeancellars.com/wine/sancerre-les-romains/),
+  importer technical page for Domaine Vacheron, accessed 14 September 2026.
+- Famille Bourgeois, [estate and wine-range
+  overview](https://famillebourgeois-sancerre.com/en) and [“La Côte des Monts
+  Damnés 2024”](https://famillebourgeois-sancerre.com/en/products/la-cote-des-monts-damnes-2024),
+  accessed 14 September 2026.

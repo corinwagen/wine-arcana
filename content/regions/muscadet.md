@@ -76,6 +76,24 @@ between 1 March after harvest and 30 June of the second year after harvest. The
 setting 30 June of year N+2 as the deadline and replacing its former
 estate-cellar restriction.[^3]
 
+## Benchmark producers
+
+**Domaine Luneau-Papin** is a useful reference for the depth and longevity
+possible in Muscadet from named sites. Excelsior comes from old Melon vines
+on schist and mica-schist in Goulaine. Its maturation has evolved: the
+producer records twelve months in an underground lined concrete tank followed
+by twelve in a large wooden cask for the 2021 vintage. The example shows
+why “long ageing” should prompt attention to the vessels as well as the
+calendar.[^4]
+
+**Jo Landron's Domaines Landron** offers another longstanding exploration
+of individual parcels and extended lees contact. Le Fief du Breil comes
+from quartz-bearing orthogneiss ground; its published 2016 sheet records
+thirty months on lees in lined concrete tanks. Beverley Blanning's account
+of the region describes Landron's continuing experiments with maturation
+length. Together these producers show that lees ageing is a set of choices
+adapted to a wine, rather than a rule that longer always means better.[^4]
+
 ## Related topics
 
 - [Lees aging](../concepts/lees-aging.md)
@@ -101,6 +119,17 @@ estate-cellar restriction.[^3]
 - European Commission, [“Muscadet Coteaux de la Loire: communication of an
   approved standard amendment”](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:C_202602069),
   C/2026/2069, *Official Journal of the European Union*, 7 April 2026.
+- Beverley Blanning MW, [“Muscadet's crus
+  communaux”](https://lefaydhomme.fr/wp-content/uploads/2022/06/Decanter-June-2022-1.pdf),
+  *Decanter*, June 2022, pp. 46–51; clipping hosted by Domaine Le Fay d'Homme.
+- Domaine Luneau-Papin, [“Excelsior
+  2021”](https://domaineluneaupapin.com/nos-cuvees/excelsior-2021/), accessed
+  14 September 2026.
+- Domaines Landron, [“Le Fief du
+  Breil”](https://domaines-landron.fr/portfolio_page/fief-du-breil-muscadet-sur-lie/)
+  and [2016 technical
+  sheet](https://domaines-landron.fr/pdf/techniques/Fiches%20Techniques%20Fief%20du%20Breil.pdf),
+  accessed 14 September 2026.
 
 [^1]: Ministère de l’Agriculture et de la Souveraineté alimentaire, *Cahier des
     charges de l’appellation d’origine contrôlée “Muscadet”*, sections V and
@@ -111,3 +140,6 @@ estate-cellar restriction.[^3]
     gives the additional 1 October N+2 rule for its geographical names.
 [^3]: European Commission, C/2026/2069, approved standard amendment, pp. 3 and
     8–9; the adopted Coteaux de la Loire specification is also cited above.
+[^4]: Beverley Blanning MW, “Muscadet's crus communaux,” *Decanter*, June
+    2022; Luneau-Papin's Excelsior 2021 page and Landron's Le Fief du Breil
+    page and 2016 technical sheet, accessed 14 September 2026.

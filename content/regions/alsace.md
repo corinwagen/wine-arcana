@@ -98,6 +98,23 @@ not a general quality adjective that a producer can add to an Alsace wine.
 area but is defined by sparkling-wine categories, permitted grapes, and
 traditional-method production.
 
+## Benchmark producers
+
+**Trimbach** provides a sustained reference for dry Riesling. Its range
+extends from regional blends to Frédéric Emile, drawn from Geisberg and
+Osterberg, and Clos Sainte Hune within Rosacker. These wines show how a
+consistent preference for dryness can coexist with differences of origin
+and concentration. The house also makes late-harvest wines, so this dry
+stylistic reference should not be extended to every Trimbach bottling.[^4]
+
+**Domaine Zind-Humbrecht** is particularly useful for comparing sites and
+grapes under one estate's organic and biodynamic farming. Its range spans
+Brand, Rangen, Clos Windsbuhl, and other named vineyards, with slow
+fermentations and extended lees contact. The estate publishes sweetness
+information for individual wines: its Rangen Clos Saint Urbain Riesling and
+Pinot Gris from 2024 are both described as dry. The example helps separate
+concentration and ripe flavour from an assumption that a wine must be sweet.[^5]
+
 [^1]: Ministère de l'Agriculture, *Cahier des charges de l'appellation
     d'origine contrôlée « Alsace »*, 2026, sections II, IV, VIII, and X.
 [^2]: Ministère de l'Agriculture, *Cahier des charges de l'appellation
@@ -105,6 +122,11 @@ traditional-method production.
 [^3]: Ministère de l'Agriculture, *Cahier des charges des cinquante et une
     appellations d'origine contrôlées « Alsace grand cru »*, 2026, chapters I
     and VII–IX.
+[^4]: Stephen Brook, “Dry Alsace Riesling: Expert's Choice,” *Decanter*,
+    updated 4 July 2019; Trimbach, “Our Wines,” accessed 14 September 2026.
+[^5]: Yohan Castaing, “Alsace's Domaine Zind-Humbrecht: 2019 releases tasted,”
+    *Decanter*, 9 January 2022; Zind-Humbrecht's estate overview and 2024
+    Rangen wine sheets, accessed 14 September 2026.
 
 ## Sources
 
@@ -123,3 +145,18 @@ traditional-method production.
 - Institut national de l'origine et de la qualité, [“Crémant d'Alsace
   blanc”](https://www.inao.gouv.fr/produit/cremant-dalsace-blanc), product page
   and designation overview, accessed 7 September 2026.
+- Stephen Brook, [“Dry Alsace Riesling: Expert's
+  Choice”](https://www.decanter.com/wine-reviews-tastings/dry-alsace-riesling-experts-choice-110302/),
+  *Decanter*, updated 4 July 2019.
+- Trimbach, [“Our Wines”](https://www.trimbach.fr/en/vins-alsace), accessed
+  14 September 2026.
+- Yohan Castaing, [“Alsace's Domaine Zind-Humbrecht: 2019 releases
+  tasted”](https://www.decanter.com/premium/alsaces-domaine-zind-humbrecht-2019-releases-tasted-471895/),
+  *Decanter*, 9 January 2022.
+- Domaine Zind-Humbrecht,
+  [estate overview](https://www.zindhumbrecht.fr/en/page/1-the-domaine-zind-humbrecht),
+  [Rangen Clos Saint Urbain Riesling
+  2024](https://www.zindhumbrecht.fr/en/our-bio-dynamic-wines/928-riesling-grand-cru-rangen-thann-clos-saint-urbain-2024.html),
+  and [Rangen Clos Saint Urbain Pinot Gris
+  2024](https://www.zindhumbrecht.fr/en/our-bio-dynamic-wines/920-pinot-gris-grand-cru-rangen-de-thann-clos-saint-urbain-2024.html),
+  accessed 14 September 2026.

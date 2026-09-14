@@ -131,6 +131,24 @@ production calculation excludes land delimited for the ten crus. These rules
 encourage rapid vinification and an immediately approachable wine, but they do
 not require one precise carbonic recipe.[^5]
 
+## Benchmark producers
+
+**Domaine Marcel Lapierre** in Morgon is a reference for the region's
+movement toward organic farming and restrained additions, shaped by Marcel's
+work with Jules Chauvet and continued by his family. The domaine sorts fruit
+carefully, uses whole-bunch semi-carbonic maceration, and completes its
+Morgon's fermentation and ageing in used barrels. Some bottlings receive
+sulfur dioxide and others do not; the practice is more specific than a
+blanket claim that all its wines are made without added sulfites.[^8]
+
+**Château Thivin** offers a contrasting reference centred on Côte de
+Brouilly and the craft of parcel blending. Les Sept Vignes assembles seven
+parcels across different faces of Mont Brouilly, principally on the local
+blue-rock formations. Whole-bunch proportions vary with the vintage, and
+the component wines mature in large oak casks before blending. It illustrates
+how differences within one cru can be combined in a single wine, rather than
+necessarily bottled as separate sites.[^9]
+
 [^1]: French Ministry of Agriculture, *Cahier des charges de l'appellation
     d'origine contrôlée « Beaujolais »*, approved 5 August 2026, sections
     IV and X.1.a.
@@ -153,6 +171,12 @@ not require one precise carbonic recipe.[^5]
     *International Code of Oenological Practices*, II.1.7; Inter Beaujolais,
     “The Grower's Work”; James Lawther, “Beaujolais: revival of the fittest,”
     *Decanter*, updated 17 October 2016.
+[^8]: Jérôme Gautheret, report on the Lapierre family, *Le Monde*, 8 August
+    2023; Domaine Marcel Lapierre, “Viticulture and vinification,” accessed
+    14 September 2026.
+[^9]: James Lawther, “Beaujolais: revival of the fittest,” *Decanter*, updated
+    17 October 2016; Château Thivin, “Les sept vignes,” accessed
+    14 September 2026.
 
 ## Related topics
 
@@ -203,3 +227,12 @@ not require one precise carbonic recipe.[^5]
 - James Lawther, [“Beaujolais: revival of the
   fittest”](https://www.decanter.com/features/beaujolais-revival-of-the-fittest-245534/),
   *Decanter*, updated 17 October 2016.
+- Jérôme Gautheret, [report on the Lapierre family, “Vins d'exception en
+  héritage” series](https://www.marcel-lapierre.com/wp-content/uploads/2023/09/08-08-23-Lapierre_Vins-dexception-en-heritage-LE-MONDE.pdf),
+  *Le Monde*, 8 August 2023, p. 21; clipping hosted by the domaine.
+- Domaine Marcel Lapierre, [“Viticulture and
+  vinification”](https://www.marcel-lapierre.com/en/viticulture-and-vinification/),
+  accessed 14 September 2026.
+- Château Thivin, [“Les sept
+  vignes”](https://www.chateau-thivin.com/vin/cote-brouilly-sept-vignes-8.php),
+  current parcel and winemaking description, accessed 14 September 2026.
