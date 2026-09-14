@@ -46,10 +46,10 @@ further role in developing the wine.
 Dry Sherry offers a different sequence. Producers first ferment the base wine
 and assess the resulting batches. In the traditional fortification route,
 wines selected for fino or manzanilla are brought to about 15% alcohol. This
-supports *flor*, the film of yeast that grows on the surface and modifies the
-wine during biological ageing. Wines selected for oloroso are fortified to at
-least 17%, a level that prevents sustained flor development under these cellar
-conditions.[^3]
+supports [*flor*](flor.md), the film of yeast that grows on the surface and
+modifies the wine during biological ageing. Wines selected for oloroso are
+fortified to at least 17%, a level that prevents sustained flor development
+under these cellar conditions.[^3]
 
 Without that surface film, the oloroso follows an
 [oxidative maturation](oxidation.md). Fortification thus helps determine which

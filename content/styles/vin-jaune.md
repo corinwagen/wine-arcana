@@ -16,12 +16,13 @@ areas and, in their adopted specifications, do not have identical grape rules.
 ## How it is made
 
 The wine begins as a dry white. After fermentation, it is put into oak without
-being topped up. *Ouillage* means replacing wine lost to evaporation; vin jaune
-is deliberately aged without that replenishment, leaving headspace in the
-barrel. A naturally developing film of wine yeasts, the *voile*, grows at the
-surface. It supports biological ageing while allowing a measured oxidative
-transformation, so the wine's character comes from the interaction of yeast,
-air, wood, and time rather than from [oxidation](../concepts/oxidation.md) alone.
+being topped up. *Ouillage* means replacing wine lost to evaporation; vin
+jaune is deliberately aged without that replenishment, leaving headspace in
+the barrel. A naturally developing film of wine yeasts, the
+[*voile*](../concepts/flor.md), grows at the surface. It supports biological
+ageing while allowing a measured oxidative transformation, so the wine's
+character comes from the interaction of yeast, air, wood, and time rather than
+from [oxidation](../concepts/oxidation.md) alone.
 
 The appellation rules require this élevage to continue until 15 December of the
 sixth year after the harvest, with at least 60 months under the veil. The wine

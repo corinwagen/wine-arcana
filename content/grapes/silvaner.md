@@ -7,10 +7,11 @@ aliases:
 
 # Silvaner
 
-Silvaner is a white grape closely associated with Germany's Franken and
-Rheinhessen regions and, under the spelling Sylvaner, with
-[Alsace](../regions/alsace.md). Its restrained fruit and herbal aromas accompany
-wines ranging from light and brisk to broad and concentrated.
+Silvaner is a white grape closely associated with Germany's
+[Franken](../regions/franken.md) and Rheinhessen regions and, under the
+spelling Sylvaner, with [Alsace](../regions/alsace.md). Its restrained fruit
+and herbal aromas accompany wines ranging from light and brisk to broad and
+concentrated.
 
 ## Identity and vineyard behaviour
 

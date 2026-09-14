@@ -29,13 +29,13 @@ best understood through its ageing path as well as its origin in
 [Jerez](../regions/jerez.md).
 
 After fermentation, cellars commonly classify lots by their apparent fitness
-for biological or oxidative ageing. A wine intended to retain *flor* is
-traditionally fortified to around 15 percent alcohol by volume; a lot directed
-toward oxidative ageing is commonly brought to around 17 percent, a level less
-favourable to the veil. These figures describe established working practice.
-Current law instead controls
-the finished wine's category, analytical range, method, and minimum average
-age, and allows dry *vino generoso* with or without fortification.[^1]
+for biological or oxidative ageing. A wine intended to retain
+[*flor*](../concepts/flor.md) is traditionally fortified to around 15 percent
+alcohol by volume; a lot directed toward oxidative ageing is commonly brought
+to around 17 percent, a level less favourable to the veil. These figures
+describe established working practice. Current law instead controls the
+finished wine's category, analytical range, method, and minimum average age,
+and allows dry *vino generoso* with or without fortification.[^1]
 
 Naturally sweet Sherry follows another route. Must from overripe or partly
 raisined grapes is fortified before fermentation begins or while it is under
@@ -64,14 +64,14 @@ The seasoned oak *bota* provides the vessel and headspace for either path; see
 
 ## Criaderas y solera
 
-In the dynamic *criaderas y solera* system, casks are grouped into scales of
-similar maturity. A periodic *saca* removes part of the wine from the oldest
-scale, the *solera*, for bottling or blending. It is replaced by a *rocío* from
-the next-younger scale, which is replenished in turn until young wine enters
-the youngest *criadera*. Repeated fractional blending moderates vintage
-differences and supplies biologically ageing wine with younger material that
-can help sustain flor. Each cask therefore holds wines of different ages,
-regardless of the solera's founding date.
+In the dynamic [*criaderas y solera*](../concepts/solera.md) system, casks are
+grouped into scales of similar maturity. A periodic *saca* removes part of the
+wine from the oldest scale, the *solera*, for bottling or blending. It is
+replaced by a *rocío* from the next-younger scale, which is replenished in
+turn until young wine enters the youngest *criadera*. Repeated fractional
+blending moderates vintage differences and supplies biologically ageing wine
+with younger material that can help sustain flor. Each cask therefore holds
+wines of different ages, regardless of the solera's founding date.
 
 This system is customary, but Sherry law also permits static *añada* ageing, in
 which harvests remain separate. Both methods use oak casks and protected wines

@@ -57,6 +57,7 @@ rounded mouthfeel.[^5]
 
 ## Related topics
 
+- [Pico](../regions/pico.md)
 - [Acidity](../concepts/acidity.md)
 - [Residual sugar](../concepts/residual-sugar.md)
 

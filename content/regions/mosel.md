@@ -57,7 +57,8 @@ harvest date that maximizes all of these qualities at once.
 The grape is not equally dominant everywhere. The slate-influenced Middle and
 Lower Mosel, Saar, and Ruwer provide the region's familiar Riesling reference,
 but the shell-limestone soils of the Upper Mosel support significant Elbling
-and Pinot-family plantings. Müller-Thurgau, [Pinot Blanc](../grapes/pinot-blanc.md), and [Pinot Noir](../grapes/pinot-noir.md) also
+and Pinot-family plantings. [Müller-Thurgau](../grapes/muller-thurgau.md),
+[Pinot Blanc](../grapes/pinot-blanc.md), and [Pinot Noir](../grapes/pinot-noir.md) also
 matter across the growing area.
 
 ## Sweetness, Prädikat, and production choices

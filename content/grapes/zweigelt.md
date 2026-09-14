@@ -8,11 +8,11 @@ aliases:
 
 # Zweigelt
 
-Zweigelt is an Austrian red *Vitis vinifera* grape created by crossing
-St. Laurent and [Blaufränkisch](blaufrankisch.md). It makes wines ranging
-from fresh, cherry-scented reds for early drinking to concentrated examples
-matured in oak. Its productive vines and adaptability helped it become
-widely planted across Austria.
+Zweigelt is an Austrian red *Vitis vinifera* grape created by crossing [St.
+Laurent](st-laurent.md) and [Blaufränkisch](blaufrankisch.md). It makes wines
+ranging from fresh, cherry-scented reds for early drinking to concentrated
+examples matured in oak. Its productive vines and adaptability helped it
+become widely planted across Austria.
 
 ## Breeding and name
 

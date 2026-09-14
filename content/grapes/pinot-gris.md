@@ -24,15 +24,14 @@ Alsace Pinot Gris both exist.
 
 ## A gray member of the Pinot family
 
-Vines are propagated by cuttings or grafting, so a mutation in a shoot can be
-preserved as a new cultivated form. Layer-specific genetic analysis found that
-Pinot Gris arose from ancestral [Pinot Noir](pinot-noir.md) through a somatic
-mutation affecting
-berry colour. The mutation is present in one cell layer, making the vine a
-chimera: adjacent layers of its growing tissue have different genetic
-constitutions. The same research indicates that [Pinot Blanc](pinot-blanc.md)
-arose independently from Pinot Noir, not through a simple sequence from Noir to
-Gris to Blanc.[^1]
+Vines are propagated by cuttings or [grafting](../concepts/grafting.md), so a
+mutation in a shoot can be preserved as a new cultivated form. Layer-specific
+genetic analysis found that Pinot Gris arose from ancestral [Pinot
+Noir](pinot-noir.md) through a somatic mutation affecting berry colour. The
+mutation is present in one cell layer, making the vine a chimera: adjacent
+layers of its growing tissue have different genetic constitutions. The same
+research indicates that [Pinot Blanc](pinot-blanc.md) arose independently from
+Pinot Noir, not through a simple sequence from Noir to Gris to Blanc.[^1]
 
 France's official catalogue describes Pinot Gris as matching Pinot Noir in its
 main identifying features except for ripe skin colour, and notes that white

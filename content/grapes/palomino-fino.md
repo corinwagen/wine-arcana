@@ -62,16 +62,16 @@ treatment increased volatile compounds in Palomino Fino wines.[^1]
 In the Sherry region, base wine is normally fermented dry. Its comparative
 restraint is an advantage when later ageing is intended to become the dominant
 voice. The wine may be biologically aged, oxidatively aged, blended through a
-solera, or follow some combination of those paths.
+[solera](../concepts/solera.md), or follow some combination of those paths.
 
 ## Biological ageing and Sherry
 
 Biological ageing begins only when a suitable base wine, cellar environment,
 and strains of *Saccharomyces cerevisiae* come together. After fermentation,
-flor yeasts can form a living film at the wine's surface. Sugar depletion and
-access to oxygen favour their shift from fermentation toward oxidative
-metabolism. The film moderates direct oxidation while relying on oxygen for the
-yeasts' metabolism.[^6]
+[flor](../concepts/flor.md) yeasts can form a living film at the wine's
+surface. Sugar depletion and access to oxygen favour their shift from
+fermentation toward oxidative metabolism. The film moderates direct oxidation
+while relying on oxygen for the yeasts' metabolism.[^6]
 
 Under flor, yeast metabolism consumes or changes wine constituents and produces
 acetaldehyde from ethanol; biologically aged wines also show lower glycerol and
