@@ -13,6 +13,8 @@ to dried-grape Vin Santo. Its productivity, late ripening, and ability to
 provide acidity have supported these different uses; a relatively restrained
 aroma is often useful rather than a defect.
 
+![A branching bunch of golden-green grapes beneath a woody shoot and lobed leaf.](../../media/images/grapes/ugni-blanc-ampelography.jpg "Ugni Blanc, illustrated by Jules Troncy for Viala and Vermorel’s Ampélographie, published 1901–1910.")
+
 ## Identity
 
 Plantgrape identifies Ugni Blanc with Tuscany's Trebbiano Toscano.[^1]

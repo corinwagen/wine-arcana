@@ -10,6 +10,8 @@ and acidity. Those properties give winemakers considerable material to work
 with, from firm wines intended for maturation to gentler, earlier-drinking
 expressions.
 
+![A long bunch of dark purple grapes beside a broad green leaf.](../../media/images/grapes/tannat-ampelography.jpg "Tannat, illustrated by Jules Troncy for Viala and Vermorel’s Ampélographie, published 1901–1910.")
+
 ## From the Pyrenees to Uruguay
 
 Plantgrape locates Tannat's origin in the Pyrenean vineyards. Madiran remains

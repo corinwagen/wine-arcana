@@ -13,6 +13,8 @@ alcohol with marked [acidity](../concepts/acidity.md) is useful in both
 settings. Its susceptibility to rot helps explain why a once-dominant
 distilling grape became a much smaller part of those vineyards.
 
+![A compact bunch of pale green grapes in front of a broad green leaf.](../../media/images/grapes/folle-blanche-ampelography.jpg "Folle Blanche, illustrated by Jules Troncy for Viala and Vermorel’s Ampélographie, published 1901–1910.")
+
 ## History and names
 
 Plantgrape places Folle Blanche's likely origin in the Charentes. Near Nantes

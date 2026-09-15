@@ -333,3 +333,45 @@ images:
     width: 783
     height: 1175
     sha256: a1c79bd0f76950293a4ca40355cffc2322b2153d4c453d50a7f22546f5e09bd9
+
+  - path: media/images/grapes/folle-blanche-ampelography.jpg
+    title: Folle Blanche — Ampélographie
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Folle_blanche_-_Amp%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/8/81/Folle_blanche_-_Amp%C3%A9lographie.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    openverse_id: 8a42343c-165d-47db-9eb5-7faa50f00c51
+    width: 789
+    height: 1173
+    sha256: e35f27157b79b9b63204f3d3b11fc049de8a5a0f4f3eca515d4d238793ad8731
+
+  - path: media/images/grapes/ugni-blanc-ampelography.jpg
+    title: Ugni Blanc — Ampélographie
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Ugni_blanc_%28Trebbiano%29_-_Amp%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/2/2b/Ugni_blanc_%28Trebbiano%29_-_Amp%C3%A9lographie.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    openverse_id: ad5c42df-4c4d-492e-aebe-b1b2f856fefd
+    width: 789
+    height: 1173
+    sha256: aaf17308212204d352f1d14ee307e8622c03b64eb15c39fa16b85609dfd5c290
+
+  - path: media/images/grapes/tannat-ampelography.jpg
+    title: Tannat — Ampélographie
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Tannat_-_Amp%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/9/91/Tannat_-_Amp%C3%A9lographie.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    openverse_id: ee392b3e-4ad8-425c-b506-4902d404f3e4
+    width: 767
+    height: 1169
+    sha256: 58b4a9620fa946470776868021fe095064ea4e7bf30bb08d9419ccf917ff3fff
