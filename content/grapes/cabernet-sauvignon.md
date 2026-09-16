@@ -108,7 +108,7 @@ On Bordeaux's Left Bank, Cabernet Sauvignon is central to the blends of the
 Médoc, including Pauillac, Saint-Julien, Margaux, and Saint-Estèphe, and to
 those of Graves and Pessac-Léognan. The current Médoc specification describes
 it as the principal variety on gravel soils and frames the area's red wines as
-blends with Merlot and smaller amounts of Cabernet Franc and Petit Verdot.
+blends with Merlot and smaller amounts of Cabernet Franc and [Petit Verdot](petit-verdot.md).
 Proportions vary with estate, site, and vintage.
 
 California demonstrates adaptation to a generally sunnier, drier growing

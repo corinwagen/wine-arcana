@@ -75,7 +75,7 @@ adjust freshness, texture, aroma, and development in bottle.
 
 Bordeaux uses Sémillon for both dry and sweet wine. In dry Pessac-Léognan, the
 current specification permits Sémillon, Sauvignon Blanc, Sauvignon Gris, and
-Muscadelle; its account of the appellation identifies Sauvignon Blanc and
+[Muscadelle](muscadelle.md); its account of the appellation identifies Sauvignon Blanc and
 Sémillon as the principal pair.[^3] Picking decisions, barrel fermentation or
 maturation, and lees contact can emphasize Sémillon's volume and ageing
 capacity. The result may show the familiar waxy breadth, but fresher,

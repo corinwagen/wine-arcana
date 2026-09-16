@@ -375,3 +375,29 @@ images:
     width: 767
     height: 1169
     sha256: 58b4a9620fa946470776868021fe095064ea4e7bf30bb08d9419ccf917ff3fff
+
+  - path: media/images/grapes/muscadelle-ampelography.jpg
+    title: Muscadelle — Ampélographie
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Muscadelle_-_Amp%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/2/21/Muscadelle_-_Amp%C3%A9lographie.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    width: 789
+    height: 1173
+    sha256: a02c8f3fe6d2a8c881309ab737da7feef7a382ad65882babcc996b971e794e1a
+
+  - path: media/images/grapes/petit-verdot-ampelography.jpg
+    title: Petit Verdot — Ampélographie
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source: Wikimedia Commons
+    source_url: https://commons.wikimedia.org/wiki/File:Petit_verdot_-_Amp%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/3/34/Petit_verdot_-_Amp%C3%A9lographie.jpg
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    width: 825
+    height: 1167
+    sha256: d8353a9bbacb873dddf8a2fd877aca21ba53cf6634e760c7fa2ee9dcc00beda1

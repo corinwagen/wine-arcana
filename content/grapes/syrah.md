@@ -31,7 +31,7 @@ inference rather than a documented event.
 
 Shiraz is the established Australian name and Sérine is an older regional name
 still associated with the northern Rhône. Petite Sirah is not another synonym:
-it usually denotes Durif, a distinct variety whose parents are Syrah and
+it usually denotes [Durif](durif.md), a distinct variety whose parents are Syrah and
 Peloursin.
 
 ## Viticulture and climate

@@ -75,7 +75,7 @@ examples. “Mineral” and “smoky” are sensory impressions whose causes var
 
 In Bordeaux, Sauvignon Blanc commonly forms part of a blend. The current
 Pessac-Léognan specification permits Sauvignon Blanc, [Sémillon](semillon.md),
-Sauvignon Gris, and Muscadelle in its dry whites and describes Sauvignon and
+Sauvignon Gris, and [Muscadelle](muscadelle.md) in its dry whites and describes Sauvignon and
 Sémillon as the principal pair.[^4] Their proportions change aroma, acidity,
 texture, and development in bottle. Cellar practice widens the range further:
 dry white Bordeaux may mature in tank, concrete, amphora, or barrel, with or

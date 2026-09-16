@@ -97,7 +97,7 @@ stabilisation, closure, and storage.
 ## Regional traditions
 
 Sauternes in Bordeaux is based chiefly on Sémillon, with Sauvignon Blanc,
-Sauvignon Gris, and Muscadelle also permitted. The current specification
+Sauvignon Gris, and [Muscadelle](../grapes/muscadelle.md) also permitted. The current specification
 connects nocturnal moisture near the Ciron and Garonne with rapid
 daytime ventilation, and requires overripe grapes showing noble rot to be
 harvested by successive manual selections.[^2] Producers may ferment and mature

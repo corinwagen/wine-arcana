@@ -35,7 +35,7 @@ Its role as a parent is much clearer. Microsatellite analysis identified
 Cabernet Franc and [Sauvignon Blanc](sauvignon-blanc.md) as the parents of
 [Cabernet Sauvignon](cabernet-sauvignon.md). Separate work established Cabernet
 Franc and Magdeleine Noire des Charentes as the parents of [Merlot](merlot.md)
-and proposed Cabernet Franc and Gros Cabernet as those of Carménère. The
+and proposed Cabernet Franc and Gros Cabernet as those of [Carménère](carmenere.md). The
 Carménère analysis contained discrepancies at three genetic markers, making it
 less secure than the other two parentages.[^1] These relationships help explain
 shared family traits, including methoxypyrazine production. Each grape also

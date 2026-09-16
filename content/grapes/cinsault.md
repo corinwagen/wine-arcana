@@ -20,7 +20,7 @@ character to red and rosé wines.
 Cinsault can make varietal wine, but it is often combined with grapes that add
 colour, tannin, or a different aromatic profile. In South Africa, where it was
 long called Hermitage, it is historically important both as a widely established
-Cape vine and as the parent of Pinotage.
+Cape vine and as the parent of [Pinotage](pinotage.md).
 
 ## Identity and history
 
