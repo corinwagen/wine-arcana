@@ -98,6 +98,23 @@ hardness associated with high-yield production. Inter Rhône describes a similar
 shift in the Rhône Valley from productive plains toward preserved old vines on
 better-exposed hillside sites.[^6]
 
+## Maule and VIGNO
+
+In Chile's Maule, old dry-farmed bush vines have become the basis of a
+producer-led Carignan revival. The VIGNO collective gives these wines a shared
+identity and has helped draw attention and better grape prices to vineyards
+previously supplying inexpensive bulk wine. The change is economic and
+cultural as well as stylistic: keeping an old vineyard becomes more practical
+when its fruit can earn recognition as a particular wine.
+
+VIGNO's own production rules require at least 85% Carignan and specify old,
+dry-farmed, head-trained vines in Maule's interior dryland area, with at least
+24 months of ageing before release.[^vigno] This is a collective's standard,
+rather than a rule for every Maule Carignan. Within it, differences in coastal
+exposure, harvest timing, extraction, and maturation still produce wines of
+varying weight. Acidity and tannin can give ripe fruit definition; restrained
+extraction and neutral wood can avoid adding unnecessary severity.
+
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro
     Montpellier, “Carignan N,” Plantgrape varietal record, edited 19 August
     2026, <https://www.plantgrape.fr/en/varieties/fruit-varieties/53/export>.
@@ -114,6 +131,9 @@ better-exposed hillside sites.[^6]
 [^6]: Inter Rhône, [“The second birth of
     Carignan”](https://www.vins-rhone.com/en/second-birth-carignan), 20
     February 2025, accessed 3 September 2026.
+
+[^vigno]: VIGNO, [“The Wines”](https://vigno.info/the-wines/), production rules
+    accessed 17 September 2026.
 
 ## Sources
 
@@ -133,3 +153,10 @@ better-exposed hillside sites.[^6]
 - Inter Rhône, [“The second birth of
   Carignan”](https://www.vins-rhone.com/en/second-birth-carignan), 20 February
   2025, accessed 3 September 2026.
+- VIGNO, [“The Wines”](https://vigno.info/the-wines/), accessed 17 September
+  2026.
+- Lisse Garnett & Jamie Goode, [“Dry-farmed Chile, the exciting wines of the
+  South (1) VIGNO in
+  Maule”](https://wineanorak.com/2022/10/15/dry-farmed-chile-the-exciting-wines-of-the-south-1-vigno-in-maule/),
+  Wine Anorak, 15 October 2022. Used for the revival and producer practices;
+  VIGNO's own rules supply the current requirements.

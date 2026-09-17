@@ -154,6 +154,14 @@ excessive vigour remain real limits. Ontario's appellation authority lists it
 among the common varieties in Niagara and among the popular grapes for Vintners
 Quality Alliance table wines.[^6]
 
+New York State deserves particular attention for varietal Cabernet Franc.
+The [Finger Lakes](../regions/finger-lakes.md) and Long Island offer different
+settings for wines that can emphasize acidity, herbal fragrance, and moderate
+weight. Interviews with growers in both regions document choices ranging from
+unoaked, partly carbonic wines to longer-macerated, barrel-aged examples.
+That range reflects deliberate stylistic choices as well as the conditions in
+which the fruit ripens.[^7]
+
 In drier regions, the challenge often shifts from completing ripening to
 preserving acidity and avoiding excessive heat or water stress. Argentina's
 official 2024 report recorded Cabernet Franc in 17 wine-producing provinces,
@@ -188,6 +196,10 @@ timing provide the useful basis for comparison.
     Davis Foundation Plant Services, 2018; Ontario Wine Appellation Authority,
     “Wine Categories and Labelling” and “Niagara Peninsula”; Instituto Nacional
     de Vitivinicultura, “Informe de variedad: Cabernet Franc,” 2024.
+
+[^7]: Britt Karlsson, “Cabernet Franc in Finger Lakes and Long Island in New
+    York,” *BKWine Magazine*, 28 March 2022, interviews and tastings with three
+    regional producers.
 
 ## Related topics
 
@@ -246,3 +258,6 @@ timing provide the useful basis for comparison.
 - Instituto Nacional de Vitivinicultura, [“Informe de variedad: Cabernet
   Franc”](https://www.argentina.gob.ar/noticias/informe-de-variedad-cabernet-franc-0),
   3 December 2024.
+- Britt Karlsson, [“Cabernet Franc in Finger Lakes and Long Island in New
+  York”](https://www.bkwine.com/features/wine-regions/cabernet-franc-in-new-york/),
+  *BKWine Magazine*, 28 March 2022.

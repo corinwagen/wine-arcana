@@ -110,8 +110,19 @@ later-ripening districts including Yarra Valley and Canberra District. In Hunter
 Valley, humidity, rainfall timing, and the shape of the season also affect the
 fruit.
 
-Syrah is now planted widely in Spain, South Africa, the United States,
-Argentina, Chile, and other wine-producing countries.
+Washington State gives Syrah another substantial regional context. Walla Walla
+and Yakima Valley include contrasting sites: warmer parts of the Columbia
+Valley can give generous fruit and weight, while cooler sites allow a different
+balance of ripeness and acidity. Some producers also pick earlier and pursue
+lighter wines, so a change in style can reflect intention as much as location.
+The regional name alone does not determine whether a wine will be dense,
+savoury, or relatively restrained.
+
+Chile adds a useful coastal comparison. In Limarí, morning fog and maritime air
+moderate conditions in an otherwise dry northern landscape; Syrah is one of the
+region's established varieties. San Antonio also supplies cooler-climate
+examples. These settings make national labels such as “warm-climate Chile”
+poor guides to the conditions experienced by a particular vineyard.
 
 [^1]: J. E. Bowers et al., “A Single Pair of Parents Proposed for a Group of
     Grapevine Varieties in Northeastern France,” *Acta Horticulturae* 528
@@ -170,3 +181,10 @@ Argentina, Chile, and other wine-producing countries.
 - Wine Australia, [“Shiraz—The Classic Australian Red
   Wine”](https://www.wineaustralia.com/market-insights/regions-and-varieties/shiraz),
   accessed 1 September 2026.
+- Ani Duzdabanyan, with contributions from Gwendolyn Elliott, [“Syrah will
+  become Washington's defining red
+  wine”](https://www.decanter.com/wine/washington/this-is-syrah-will-become-washingtons-defining-red-wine/),
+  Decanter, 27 July 2026.
+- Wines of Chile, [“Winegrowing
+  Regions”](https://www.winesofchile.org/es/winegrowing-regions/), Limarí and
+  San Antonio entries, accessed 17 September 2026.

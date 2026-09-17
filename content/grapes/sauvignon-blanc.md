@@ -95,19 +95,26 @@ intensely fruity and green than selected Loire wines.[^5] Vintage, subregion,
 harvest method, juice solids, yeast, residual sugar, and lees all redirect that
 profile.
 
-### Warmer regions
+### Coastal Chile and Constantia
 
-In warmer parts of California, Australia, South Africa, Chile, and elsewhere,
-faster sugar accumulation and lower retained acidity often shift Sauvignon
-Blanc toward riper fruit, broader texture, and less obvious pyrazine. Growers
-may answer with earlier picking, managed crop load, irrigation where permitted,
-or canopies that shade fruit through the hottest part of the day. Coastal air,
-elevation, aspect, and cool nights can also make a nominally warm region behave
-quite differently from an inland valley.
+Chile's Casablanca and San Antonio, including Leyda, are important references
+for Sauvignon Blanc beyond Marlborough and France. Pacific influence and
+morning fog moderate Casablanca's growing conditions; San Antonio's coastal
+sites likewise support wines with pronounced freshness. The comparison is
+between particular maritime settings, rather than between uniformly warm or
+cool countries.
 
-Warmth can favour thiol precursors or riper fruit expression in some conditions,
-while severe heat or drought can reduce aromatic development. Fermentation then
-shapes how the resulting compounds are expressed.
+In South Africa, Constantia's mountain slopes and summer sea winds make
+Sauvignon Blanc a regional focus. Changes in altitude and exposure across a
+small area give growers different ripening conditions. Cellar choices widen
+the range further: tank-made wines, wooded bottlings, and blends with Sémillon
+all occur. Some producers also bottle individual vineyard blocks or release
+wines with bottle age, demonstrating ambitions beyond an aromatic white made
+only for immediate drinking.
+
+In warmer sites, faster sugar accumulation and acid loss can still
+shift the balance toward broader wines. Harvest timing and canopy management
+help explain that variation more precisely than a country's latitude alone.
 
 [^1]: John E. Bowers & Carole P. Meredith, “The Parentage of a Classic Wine
     Grape, Cabernet Sauvignon,” *Nature Genetics* 16 (1997), pp. 84–87,
@@ -158,3 +165,9 @@ shapes how the resulting compounds are expressed.
   d'origine contrôlée
   “Pessac-Léognan”*](https://info.agriculture.gouv.fr/boagri/document_administratif-eafa5b1a-119b-4042-814b-a0a10646c996/telechargement),
   homologated 10 December 2024.
+- Wines of Chile, [“Winegrowing
+  Regions”](https://www.winesofchile.org/es/winegrowing-regions/), Casablanca
+  and San Antonio entries, accessed 17 September 2026.
+- Angela Lloyd, [“Cool climate
+  Constantia”](https://www.wosa.co.za/WOSA-News/Blogs/Cape-Chatter/Cool-climate-Constantia/),
+  Wines of South Africa, accessed 17 September 2026.

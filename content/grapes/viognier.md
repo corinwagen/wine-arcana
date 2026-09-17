@@ -75,6 +75,21 @@ Condrieu is legally a still white wine made from Viognier alone. Producers
 elsewhere also bottle varietal dry wines, make white blends, and occasionally
 use later-picked fruit for wines with residual sugar.
 
+## Virginia and Eden Valley
+
+Virginia has made Viognier one of its signature varieties, giving it a visible
+role as a varietal white in the state's wine identity. Its
+range includes relatively fresh, fruit-led bottlings and fuller wines with
+creamy texture or oak influence. That regional commitment makes the grape's
+harvest and cellar trade-offs especially useful to compare: a perfumed dry
+white need not pursue maximum weight to express Viognier.
+
+Australia's Eden Valley offers a well-established example of deliberate
+adoption outside France. Yalumba planted Viognier there in 1980, when the
+variety was still rare internationally, and helped build an enduring regional
+association. Eden Valley is now an established reference for varietal Viognier
+alongside Condrieu, extending the grape's identity beyond its Rhône origins.
+
 ## With Syrah
 
 Co-fermentation means that grapes share alcoholic fermentation, rather than
@@ -145,3 +160,8 @@ co-fermentation to alter the wine's aroma and texture.
   post-malolactic fermentation blending of Syrah with selected Rhône white
   cultivars”](https://doi.org/10.1111/ajgw.12413), *Australian Journal of Grape
   and Wine Research* 26 (2020), pp. 41–52.
+- Virginia Wine, [“Viognier”](https://blog.virginiawine.org/blog/2023/07/27/viognier/),
+  27 July 2023, accessed 17 September 2026.
+- Decanter, [“International Viognier
+  Day”](https://www.decanter.com/decanter-world-wine-awards/international-viognier-day-dwwa-474125/),
+  23 April 2026.

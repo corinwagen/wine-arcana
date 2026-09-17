@@ -69,7 +69,7 @@ continuity across the palate. Harvest date and cellar practice can also make
 Sauvignon broad or Sémillon brisk. Changing the proportions lets a producer
 adjust freshness, texture, aroma, and development in bottle.
 
-## Bordeaux and Hunter Valley
+## Regional expressions
 
 ### Bordeaux
 
@@ -108,6 +108,24 @@ builds texture through blending, later harvest, botrytis, and cellar maturation;
 Hunter Valley commonly begins with early-picked varietal wine and asks time in
 bottle to supply complexity.
 
+### Franschhoek
+
+South Africa's Franschhoek adds another reference for dry Sémillon. Surviving
+vineyards from the early twentieth century have become a focus of renewed
+producer interest, with efforts to retain their fruit for wines identified
+with the valley. That heritage supports a contemporary regional identity;
+it does not prescribe a single style.
+
+Barrel-made, broad, waxy wines remain one expression, but earlier picking and
+less oak can bring a different emphasis. The collaborative GD1 project, whose
+first vintage was 2019, used a single vineyard, avoided oak, and prevented
+[malolactic fermentation](../concepts/malolactic-fermentation.md) to retain a
+firmer acid line.[^franschhoek] Other approaches combine
+lees contact with restrained wood or no wood. Franschhoek therefore extends the
+Bordeaux–Hunter comparison: old-vine Sémillon can be explored through contrasting
+harvest and maturation choices within one region, as well as through
+contrasting climates.
+
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro
     Montpellier, “Semillon B,” Plantgrape, edited 21 August 2026.
 [^2]: Barbara Blanco-Ulate et al., “Developmental and Metabolic Plasticity of
@@ -122,6 +140,10 @@ bottle to supply complexity.
 [^4]: John W. Blackman et al., “Sensory Characterization of Hunter Valley
     Semillon Aged in Bottle,” *Flavour and Fragrance Journal* 29 (2014), pp.
     340–349, <https://doi.org/10.1002/ffj.3211>.
+
+[^franschhoek]: Angela Lloyd, [“Franschhoek
+    semillon”](https://www.wosa.co.za/WOSA-News/Blogs/Cape-Chatter/Franschhoek-semillon/),
+    Wines of South Africa, accessed 17 September 2026.
 
 ## Related topics
 
@@ -151,3 +173,6 @@ bottle to supply complexity.
 - John W. Blackman et al., [“Sensory Characterization of Hunter Valley Semillon
   Aged in Bottle”](https://doi.org/10.1002/ffj.3211), *Flavour and Fragrance
   Journal* 29 (2014), pp. 340–349.
+- Angela Lloyd, [“Franschhoek
+  semillon”](https://www.wosa.co.za/WOSA-News/Blogs/Cape-Chatter/Franschhoek-semillon/),
+  Wines of South Africa, accessed 17 September 2026.

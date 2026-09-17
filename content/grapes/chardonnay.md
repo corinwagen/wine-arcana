@@ -113,8 +113,12 @@ Champagne demonstrates both blending and varietal expression. Chardonnay may
 be combined with Pinot Noir and [Meunier](pinot-meunier.md) or used alone for
 *blanc de blancs*. The appellation's production sequence requires the second
 fermentation in the bottle and subsequent maturation on its lees.[^6]
-Chardonnay is also used in traditional-method sparkling wines elsewhere. The
-production method supplies the effervescence and lees-derived character.
+England is another important contemporary setting. Chardonnay is used for
+blanc de blancs and blends with Pinot Noir and Meunier, with cool growing
+conditions supporting fresh base wines. Producers' increasing stocks of
+reserve wine allow more non-vintage blending alongside vintage releases.
+English Chardonnay also makes still wine, extending the regional comparison
+beyond sparkling production.[^7]
 
 ## Where it is grown
 
@@ -158,6 +162,10 @@ ripening season even at relatively warm latitudes.
     <https://doi.org/10.1111/j.1365-2621.2004.00890.x>.
 [^6]: Comité Champagne, “Bottling and second fermentation” and “Maturation on
     lees,” accessed 1 September 2026.
+
+[^7]: WineGB, “Sparkling Wines” and “Our wine styles,” accessed 17 September
+    2026; “Record performance for still wines at this year's WineGB Awards,”
+    24 June 2025, documents both blanc de blancs and still Chardonnay entries.
 
 ## Sources
 
@@ -204,3 +212,9 @@ ripening season even at relatively warm latitudes.
   and [“Maturation on
   lees”](https://www.champagne.fr/en/about-champagne/how-champagne-is-made/maturation),
   accessed 1 September 2026.
+- WineGB, [“Sparkling Wines”](https://winegb.co.uk/wines/styles/sparkling-wines/)
+  and [“Our wine styles”](https://winegb.co.uk/wines/styles/), accessed
+  17 September 2026.
+- WineGB, [“Record performance for still wines at this year's WineGB
+  Awards”](https://winegb.co.uk/2025/06/24/winegb-awards-2025-medals-announced/),
+  24 June 2025.

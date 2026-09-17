@@ -89,6 +89,13 @@ Institute recorded 1,664 hectares in 2023, including 1,175 hectares in
 Württemberg.[^6] Smaller plantings elsewhere are used for both sparkling and
 still wine.
 
+England and Wales also use Meunier alongside Chardonnay and Pinot Noir for
+traditional-method sparkling wine. The variety's later budbreak and early
+maturity offer useful options in a cool climate, while the site and season
+still determine frost exposure and fruit health. Here its contemporary role
+is chiefly as a sparkling-wine grape, contrasting with the still-red tradition
+of Württemberg.[^7]
+
 [^1]: Comité Champagne, “Champagne and its grape varieties,” current online
     overview, accessed 1 September 2026.
 [^2]: Toshi M. Foster & Maria José Aranzana, “Attention sports fans! The
@@ -105,6 +112,10 @@ still wine.
     2021.
 [^6]: Deutsches Weininstitut, “Schwarzriesling,” 2023 vineyard figures,
     accessed 1 September 2026.
+
+[^7]: WineGB, “Sparkling Wines,” accessed 17 September 2026, identifies
+    Meunier among the principal traditional-method grapes. The viticultural
+    comparison draws on Plantgrape's Meunier record cited above.
 
 ## Related topics
 
@@ -137,3 +148,6 @@ still wine.
 - Deutsches Weininstitut,
   [“Schwarzriesling”](https://www.winesofgermany.com/our-wine/grape-varieties/grape-variety/93/schwarzriesling),
   with 2023 vineyard figures, accessed 1 September 2026.
+- WineGB, [“Sparkling
+  Wines”](https://winegb.co.uk/wines/styles/sparkling-wines/), accessed
+  17 September 2026.

@@ -28,9 +28,13 @@ winemaking, and age where relevant.
 
 ## Where it is grown
 
-Major regions and important secondary regions. Link only to existing canonical
-region articles. When useful, name documented benchmark producers within their
-regional context; do not compile a global ranking or roll call.
+Historical homes and contemporary regions with meaningful stylistic, cultural,
+or viticultural importance. Check recent regional evidence, including changes
+in production and climate where supported, and explain why selected regions
+matter for this grape. Include relevant revivals and new regional styles as
+well as newer growing areas. Link only to existing canonical region articles.
+When useful, name documented benchmark producers within their regional context;
+do not compile a global ranking or roll call.
 
 ## In the cellar
 

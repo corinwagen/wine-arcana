@@ -91,6 +91,23 @@ varieties must be present and none may exceed 90%.[^5] Individual sites, blend
 proportions, and cellar choices determine whether Cinsault is a background
 component or more visible in the finished wine.
 
+## Cape varietal wines and Itata
+
+South Africa's renewed interest in old vineyards has given Cinsault a more
+visible life as a named red wine. Stellenbosch and the Swartland offer useful
+examples: old bush vines supply wines in which moderate extraction, [whole
+bunches](../concepts/whole-cluster-fermentation.md), and older wood can preserve
+perfume and a supple texture. The choices
+vary by producer; neither old vines nor whole bunches guarantee delicacy.
+These wines make the grape's own character easier to see than its historical
+role in Cape blends or Pinotage's parentage.
+
+Chile's Itata provides another regional home. Its surviving dry-farmed
+vineyards include Cinsault alongside País and Muscat, placing the grape within
+a long-established farming culture now attracting renewed attention. Varietal
+bottlings give this heritage a distinct expression alongside the region's
+other wines.
+
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro Montpellier,
     [“Cinsaut N”](https://www.plantgrape.fr/en/varieties/fruit-varieties/69/export),
     Plantgrape varietal record, edited 31 August 2026.
@@ -126,3 +143,12 @@ component or more visible in the finished wine.
 - Ministère de l'Agriculture, [*Cahier des charges de l'AOP « Côtes de
   Provence »*](https://info.agriculture.gouv.fr/boagri/document_administratif-87705d16-5cc6-4a06-b9a6-0d72813a3371/telechargement),
   homologated 27 April 2026.
+- International Wine Review, [“Old Vine Cinsault from Lodi, Stellenbosch and
+  the Swartland”](https://i-winereview.com/blog/index.php/2018/01/29/old-vine-cinsault-from-lodi-stellenbosch-and-the-swartland/),
+  29 January 2018.
+- Decanter, [“Get to know South Africa's old vines in six
+  wines”](https://www.decanter.com/learn/get-to-know-south-africas-old-vines-in-six-wines/),
+  17 April 2026.
+- Wines of Chile, [“Winegrowing
+  Regions”](https://www.winesofchile.org/es/winegrowing-regions/), Itata entry,
+  accessed 17 September 2026.

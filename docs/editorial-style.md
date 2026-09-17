@@ -102,6 +102,25 @@ Comparisons can illuminate a subject when the comparison is specific:
 Avoid equivalences that erase important differences, such as calling one grape
 "the [better-known grape] of [country]."
 
+## Contemporary regional relevance
+
+Grape articles should explain both historical homes and regions that matter
+in contemporary wine. Consider regional significance through distinctive
+styles, sustained producer activity, cultural influence, and changing growing
+conditions as well as acreage. Give useful examples enough context to explain
+why the grape matters there. Apply this review to every grape, including
+regional varieties whose contemporary importance may involve a local revival
+or a new style within their historical home.
+
+Check recent regional sources during each grape assignment. Select a few
+meaningful comparisons instead of extending a list of countries. Distinguish
+established regional practice from experimental plantings and predictions.
+Explain changes in taste, producer choices, investment, or climate when the
+evidence supports them. Climate claims should distinguish observed change
+from projections and account for continuing frost, disease, and water risks.
+Date changing figures and avoid letting a single vintage or fashionable wine
+stand for a lasting regional shift.
+
 ## Sensory language
 
 Mention an aroma, flavor, texture, or structural trait when it is characteristic

@@ -119,9 +119,25 @@ residual sugar by titratable acidity.[^7] Sweet Austrian Prädikat wines also
 exist.
 
 Clare and Eden valleys are Australia's principal references, usually for dry
-wine in neutral vessels. New Zealand and cooler parts of North America span dry,
-off-dry, late-harvest, and sweet forms. Autumn weather, sunlight, and local
-traditions create distinct balances among acidity, aroma, sugar, and TDN.
+wine in neutral vessels. New Zealand also spans dry, off-dry, and sweet forms.
+Autumn weather, sunlight, and local traditions create distinct balances among
+acidity, aroma, sugar, and TDN.
+
+In New York's [Finger Lakes](../regions/finger-lakes.md), Riesling is central
+to the region's contemporary identity. Nearby lake water can delay spring
+warming and supply heat in autumn, helping suitable slopes support a longer
+ripening season. Exposure and distance from the water still matter. Producers'
+attention to dry, single-vineyard wines makes those differences increasingly
+visible: North American Riesling is not adequately described by sweetness
+alone.
+
+Ontario's Niagara Peninsula offers a complementary comparison. Riesling helped
+shape the region's modern vinifera revival, and growers work with sites on the
+Niagara Escarpment's benches as well as nearer Lake Ontario. Dry and off-dry
+table wines sit alongside late-harvest wines and Icewine. Their differing
+harvest aims direct the same acid-retaining variety toward everyday freshness,
+site-focused dry wine, or concentrated sweetness; Canada's frozen-grape wines
+represent only one part of that range.
 
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro
     Montpellier, “Riesling B,” Plantgrape, edited 19 August 2026.
@@ -190,3 +206,8 @@ traditions create distinct balances among acidity, aroma, sugar, and TDN.
   consolidated 18 September 2024, and [*DAC-Verordnung
   “Kamptal”*](https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40265239/NOR40265239.pdf),
   in force 17 September 2024.
+- New York Wine & Grape Foundation, [“Finger
+  Lakes”](https://newyorkwines.org/avas/finger-lakes/), accessed 17 September
+  2026.
+- Wine Country Ontario, [“Riesling”](https://winecountryontario.ca/wp-content/uploads/2020/04/RIESLING.pdf),
+  varietal profile, accessed 17 September 2026.

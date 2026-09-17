@@ -113,11 +113,23 @@ as Steen. Across the Western Cape, Chenin is used for dry still wines of very
 different weight and maturation, sparkling wine, sweet wine, blends, and
 distillation. Warm inland sites, cooler maritime influence, water
 availability, vine age, yields, and harvest date produce widely varying
-profiles. The International Organisation of Vine and Wine's 2017 survey, based
-largely on country data from around 2015, recorded Chenin as South Africa's
-most planted variety at that time.
+profiles.
 
-Chenin is also grown beyond these two centres.
+The Swartland's warm, dry conditions and surviving dry-farmed bush vines have
+made it particularly important to the renewed interest in Cape Chenin. Its dry
+wines can combine substantial fruit and texture with the grape's acid
+structure. Stellenbosch provides another useful reference, including wines
+whose brief or restrained oak maturation adds breadth while retaining a clear
+fruit profile. These are approaches within each region, not fixed regional
+recipes: picking decisions and cellar work remain essential to the comparison.
+
+The old-vine movement also changes the economics of these wines. Identifying
+and promoting established parcels gives growers a reason to preserve vineyards
+that might otherwise be replaced. South Africa's Old Vine Project documents
+planting history and supports that recognition. Vine age supplies historical
+context, not a quality guarantee; the contemporary achievement is the attention
+to individual sites, farming, and wines that previously could disappear into
+anonymous volume.
 
 [^1]: Ministère de l'Agriculture et de la Souveraineté alimentaire, *Cahier des
     charges de l'appellation d'origine contrôlée “Vouvray”*, homologated 29
@@ -159,10 +171,12 @@ Chenin is also grown beyond these two centres.
 - Ildikó Magyar, [“Botrytized
   Wines”](https://doi.org/10.1016/B978-0-12-384927-4.00006-3), *Advances in Food
   and Nutrition Research* 63 (2011), pp. 147–206.
-- International Organisation of Vine and Wine, [*Distribution of the World's
-  Grapevine
-  Varieties*](https://www.oiv.int/sites/default/files/2022-09/en-distribution-of-the-worlds-grapevine-varieties-2017.pdf),
-  2017.
 - Wines of South Africa, [“Cape Heritage and Chenin
   Blanc”](https://www.wosa.co.za/WOSA-News/Blogs/Cape-Chatter/Cape-heritage-and-Chenin-Blanc/),
   3 September 2014, accessed 1 September 2026.
+- Gosia Young, [“Chenin heyday: How one grape became South Africa's star at
+  DWWA 2026”](https://www.decanter.com/decanter-awards/chenin-heyday-how-one-grape-became-south-africas-star-at-dwwa-2026/),
+  Decanter, 21 July 2026.
+- Decanter, [“Get to know South Africa's old vines in six
+  wines”](https://www.decanter.com/learn/get-to-know-south-africas-old-vines-in-six-wines/),
+  17 April 2026.

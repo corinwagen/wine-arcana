@@ -26,7 +26,9 @@ maintenance run rather than disguised as article drafting.
 4. Read directly related existing articles to avoid contradiction and
    unnecessary repetition.
 5. Assemble a small source set appropriate to the claims the article needs.
-6. Identify uncertainty, disputed history, and changing quantitative facts
+6. For grape articles, check contemporary regional relevance alongside
+   historical coverage, following the editorial guide.
+7. Identify uncertainty, disputed history, and changing quantitative facts
    before writing confident prose.
 
 Research notes may be kept outside the article during a run, but unpublished
@@ -59,6 +61,8 @@ Review in this order:
 
 1. **Identity:** canonical title, aliases, path, and subject boundaries.
 2. **Substance:** accuracy, explanation, meaningful variation, and omissions.
+   For grapes, check that regional coverage reflects contemporary significance
+   as well as historical importance; revisit this during later revisions.
 3. **Evidence:** source quality, claim-to-source fit, uncertainty, and dates.
 4. **Style:** clarity, concision, terminology, and descriptor discipline.
 5. **Connections:** useful canonical links with no broken destinations.
