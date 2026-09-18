@@ -17,7 +17,8 @@
     "lint:markdown": "rumdl check . --no-cache",
     "test": "node --test",
     "validate": "node scripts/validate-content.js",
-    "validate:images": "node scripts/validate-images.js"
+    "validate:images": "node scripts/validate-images.js",
+    "links:check": "node scripts/check-unlinked-mentions.js"
   },
   "dependencies": {
     "markdown-it": "^15.0.1",

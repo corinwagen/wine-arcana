@@ -37,7 +37,7 @@ and vintage determine how strongly either influence is expressed.
 
 ## Verdicchio through the harvest
 
-Verdicchio retains enough acidity to support several harvest and winemaking
+Verdicchio retains enough [acidity](../concepts/acidity.md) to support several harvest and winemaking
 choices. Earlier-picked fruit can give lighter wines with a sharper outline.
 Longer ripening can develop greater weight and riper fruit, provided that the
 acidity remains in balance. Producers seeking sparkling base wine or a

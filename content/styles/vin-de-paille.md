@@ -33,7 +33,7 @@ because concentrated must becomes difficult for yeast to finish—the wine is
 sweeter and usually lower in alcohol than a fully fermented version of the same
 must. Yeast, temperature, nutrients, [acidity](../concepts/acidity.md),
 oxygen exposure, and the desired endpoint all affect whether fermentation is
-completed, arrested, or left with residual sugar.
+completed, arrested, or left with [residual sugar](../concepts/residual-sugar.md).
 
 ## The Jura example
 

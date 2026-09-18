@@ -30,7 +30,7 @@ Sanlúcar tend to experience more maritime moderation and humidity than sites
 farther inland, while slope, exposure, distance from marsh or sea, and the
 weather of a particular year create further differences. Airflow also matters
 inside an ageing bodega, where temperature and humidity affect the survival
-and activity of the surface yeast known as *flor*.
+and activity of the surface yeast known as *[flor](../concepts/flor.md)*.
 
 Albariza, the region's conspicuous white earth, encompasses a family of soft,
 calcareous marl-derived soils. Their fine textures, abundant carbonate,
@@ -52,7 +52,7 @@ vineyards.
 
 Palomino—especially the locally named [Palomino Fino](../grapes/palomino-fino.md) or Listán Blanco—is the
 principal grape and supplies most dry base wine. Its importance lies partly in
-what happens after harvest: pressing choices, fermentation, fortification or
+what happens after harvest: pressing choices, fermentation, [fortification](../concepts/fortification.md) or
 its omission, the development of flor, and years of maturation can reshape a
 comparatively discreet young wine. [Pedro Ximénez](../grapes/pedro-ximenez.md)
 and [Moscatel de Alejandría](../grapes/moscatel-de-alejandria.md) are
@@ -108,7 +108,7 @@ seasoned casks chiefly support biological or oxidative [oak
 maturation](../concepts/oak-maturation.md). Conspicuous new-oak flavour is
 secondary.
 
-Both static vintage ageing and the dynamic *criaderas y solera* system are
+Both static vintage ageing and the dynamic *[criaderas y solera](../concepts/solera.md)* system are
 permitted. In the latter, periodic withdrawals from older casks are replaced
 with younger wine through successive scales. Blending across vineyards and
 years can foreground house style while grape source, coastal or inland cellar

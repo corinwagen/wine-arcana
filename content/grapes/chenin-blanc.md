@@ -10,7 +10,7 @@ aliases:
 
 Chenin Blanc is a white *Vitis vinifera* variety with historic roots in the
 Loire Valley and a second major home in South Africa. Its capacity to retain
-substantial natural acidity as the grapes accumulate sugar gives growers and
+substantial natural [acidity](../concepts/acidity.md) as the grapes accumulate sugar gives growers and
 winemakers room to make markedly different choices. Growers can pick fruit for
 dry sparkling wine, allow it to ripen for dry or off-dry still wine, or leave it
 to concentrate for sweet wine.
@@ -86,7 +86,8 @@ limits of these cellar choices.
 Off-dry and sweet wines retain unfermented grape sugar. A winemaker may stop and
 stabilise fermentation, or fermentation may slow in a highly concentrated must;
 botrytised musts are especially demanding to ferment cleanly.[^4] Noble rot
-itself does not create residual sugar: it dehydrates and transforms the berries
+itself does not create [residual sugar](../concepts/residual-sugar.md): it
+dehydrates and transforms the berries
 before yeast converts part of their sugar to alcohol. High natural acidity can
 keep sweetness from feeling shapeless, but the balance varies with harvest
 concentration, fermentation, and final composition.
@@ -119,7 +120,7 @@ The Swartland's warm, dry conditions and surviving dry-farmed bush vines have
 made it particularly important to the renewed interest in Cape Chenin. Its dry
 wines can combine substantial fruit and texture with the grape's acid
 structure. Stellenbosch provides another useful reference, including wines
-whose brief or restrained oak maturation adds breadth while retaining a clear
+whose brief or restrained [oak maturation](../concepts/oak-maturation.md) adds breadth while retaining a clear
 fruit profile. These are approaches within each region, not fixed regional
 recipes: picking decisions and cellar work remain essential to the comparison.
 

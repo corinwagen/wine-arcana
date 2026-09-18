@@ -7,10 +7,11 @@ title: Dão
 Dão is an inland wine region in central Portugal, centred on granite uplands
 around the Dão and Mondego rivers. Mountain ranges partly shelter it from both
 Atlantic weather and the harsher continental air of the interior. This setting
-can help grapes retain acidity through a hot summer.
+can help grapes retain [acidity](../concepts/acidity.md) through a hot summer.
 
 The name refers both to the historical region and to the protected designation
-of origin (DOP) for qualifying wines. Modern Dão includes red, white, rosé, and
+of origin (DOP) for qualifying wines. Modern Dão includes red, white,
+[rosé](../styles/rose.md), and
 sparkling wine. Blends remain important, especially where old vineyards mix
 several varieties, while varietal bottlings have made grapes such as Touriga
 Nacional and Encruzado more visible.
@@ -54,7 +55,8 @@ The principal red grapes are
 [Touriga Nacional](../grapes/touriga-nacional.md), Alfrocheiro,
 [Jaen](../grapes/mencia.md), and
 [Tinta Roriz](../grapes/tempranillo.md).
-Touriga Nacional can supply aroma, colour, and tannin, yet it need not dominate
+Touriga Nacional can supply aroma, colour, and [tannin](../concepts/tannin.md),
+yet it need not dominate
 a blend. Earlier-ripening Alfrocheiro and Jaen can bring different fruit, colour,
 and texture, while Tinta Roriz adds another balance of ripeness and structure.
 Their proportions vary with the vineyard and the wine sought; the DOP rules
@@ -70,7 +72,8 @@ components may reinforce acidity.
 ## Red, white, and sparkling wine
 
 Dão reds range from fragrant, gently extracted wines to firmer blends shaped by
-longer maceration and maturation. Varietal Touriga Nacional or Jaen can make one
+longer [maceration](../concepts/maceration.md) and maturation. Varietal Touriga
+Nacional or Jaen can make one
 grape easier to read, while a field or cellar blend can join grapes with different
 ripening patterns and structures. Oak, large older vats, concrete, and inert tanks
 all change texture and aroma. The current DOP specification requires red Dão to

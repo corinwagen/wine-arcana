@@ -7,7 +7,7 @@ aliases:
 # Pineau d’Aunis
 
 Pineau d’Aunis is a dark-skinned Loire grape used for light-coloured red and
-rosé wines, and sometimes for sparkling-wine base. The name also carries an
+[rosé](../styles/rose.md) wines, and sometimes for sparkling-wine base. The name also carries an
 unusually tangled history: for part of the late nineteenth century, the
 variety was more often called *Chenin noir*.
 

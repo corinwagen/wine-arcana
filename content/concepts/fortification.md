@@ -27,7 +27,7 @@ sudden increase in alcohol interrupts fermentation at the chosen sweetness.[^1]
 The resulting wine contains alcohol made by the yeast and alcohol supplied by
 the spirit, together with [residual sugar](residual-sugar.md) from the grapes.
 
-For red Port, colour and tannin extraction must fit into this shortened
+For red Port, colour and [tannin](tannin.md) extraction must fit into this shortened
 fermentation. Contact with skins and techniques such as treading or pumping
 juice over the solids help extract material before fortification. Subsequent
 maturation then separates the styles: more protected storage preserves the

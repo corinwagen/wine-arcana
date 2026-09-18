@@ -70,7 +70,8 @@ greater oceanic influence and many clay-rich or sandy sites.
 
 Like Pinot Noir, Meunier has dark skins and pale pulp. Prompt, controlled
 pressing can therefore yield a light base wine; longer skin contact can produce
-rosé or red wine. It may be blended across grapes, places, and years before the
+[rosé](../styles/rose.md) or red wine. It may be blended across grapes, places,
+and years before the
 [traditional method](../styles/traditional-method-sparkling-wine.md), or used
 alone for a white *blanc de noirs*, rosé Champagne, or still Coteaux Champenois.
 

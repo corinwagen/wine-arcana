@@ -40,10 +40,10 @@ while still acting differently from an airtight steel tank.
 
 Limited oxygen can help reshape red-wine tannins and pigments, sometimes
 stabilising colour and changing astringency. These reactions depend on the
-wine's starting phenolics, sulfur dioxide, temperature, and the timing and
+wine's starting phenolics, [sulfur dioxide](sulfur-dioxide.md), temperature, and the timing and
 amount of exposure. Excessive oxygen can consume protective sulfur dioxide,
 diminish fresh aroma, brown a white wine, or support spoilage. Oak maturation
-is controlled oxidation only when the vessel and wine are well managed.
+is controlled [oxidation](oxidation.md) only when the vessel and wine are well managed.
 
 ## Species, seasoning, and toast
 
@@ -82,7 +82,7 @@ evaporation, and provide a microbial habitat.
 
 Some volatile compounds accumulate rapidly, are transformed by yeast or
 bacteria, adsorb to lees, or later decline. Slower changes in red-wine pigment
-and tannin can continue after the most conspicuous wood extraction has eased.
+and [tannin](tannin.md) can continue after the most conspicuous wood extraction has eased.
 Wine composition also affects what dissolves and how it is perceived.
 
 ## Fermentation in wood

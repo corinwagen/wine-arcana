@@ -6,7 +6,7 @@ title: Négrette
 
 Négrette is a dark-skinned southwestern French grape most closely associated
 with Fronton, near Toulouse. It can combine deep colour and a distinctive
-floral perfume with relatively gentle tannin and acidity. Its usefulness in
+floral perfume with relatively gentle [tannin](../concepts/tannin.md) and acidity. Its usefulness in
 both red and [rosé](../styles/rose.md) wine comes from that combination of
 aromatic presence and supple structure.
 

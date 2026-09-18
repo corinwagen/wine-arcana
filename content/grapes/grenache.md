@@ -45,7 +45,7 @@ identify a modern cultivar or demonstrate continuous cultivation of Cannonau.[^3
 Grenache is vigorous, upright, and generally suited to short pruning, including
 traditional bush-vine training. It begins growth relatively early and ripens
 late, so spring frost and a long enough growing season can both matter. Its high
-capacity to accumulate sugar and its generally modest acidity make harvest
+capacity to accumulate sugar and its generally modest [acidity](../concepts/acidity.md) make harvest
 timing especially consequential: waiting may improve phenolic maturity while
 also increasing potential alcohol and reducing freshness.
 
@@ -73,9 +73,9 @@ grapes come from cooler or elevated sites or are picked earlier; warmer sites
 and later harvests tend toward broader texture and riper fruit character.
 
 Cellar choices can reinforce or counter the raw material. Blending Grenache
-with varieties that contribute acidity, tannin, or colour is traditional in
-several regions, but varietal wines are equally established. Rosé limits
-extraction from the skins, while fortification can stop fermentation and
+with varieties that contribute acidity, [tannin](../concepts/tannin.md), or colour is traditional in
+several regions, but varietal wines are equally established. [Rosé](../styles/rose.md) limits
+extraction from the skins, while [fortification](../concepts/fortification.md) can stop fermentation and
 retain grape sugar. In one controlled trial, riper Grenache produced more
 anthocyanin and proanthocyanidin; including stems generally increased tannin
 but also raised pH and could reduce colour. These effects are discussed

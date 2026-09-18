@@ -31,7 +31,8 @@ styles.
 The current Rueda product specification still recognizes *Dorado* among the
 appellation's wine types. It describes a historical practice of ageing wines in
 underground cellars and large vessels to develop the colour and aromas of
-oxidation. Dorado therefore uses oxidation as an intentional part of its style.
+[oxidation](../concepts/oxidation.md). Dorado therefore uses oxidation as an
+intentional part of its style.
 
 A different course began in 1970, when Marqués de Riscal arrived in the area
 with the œnologist Émile Peynaud to explore a high-quality dry white based on
@@ -51,7 +52,7 @@ temperature shifts. The official specification places the production area at
 roughly 700 to 870 metres above sea level and describes gravelly, stony soils
 across much of it.[^2] Seasons and sites vary across that range; water
 availability, crop level, and harvest date all affect the balance between
-acidity, alcohol, and aroma.
+[acidity](../concepts/acidity.md), alcohol, and aroma.
 
 Outside Rueda, Verdejo is grown elsewhere in Spain and has travelled farther
 afield. Rueda likewise permits several white varieties, including [Sauvignon
@@ -84,8 +85,9 @@ softened or masked bitterness. The finding applies to the trial wines.[^4]
 Verdejo's aromatic appeal is closely tied to careful protection from oxygen.
 Oxidation can deepen colour and move the aroma away from fresh fruit and herbs;
 the risk is especially important from crushing through bottling. In the same
-Rueda study, grapes were handled cool, under nitrogen during maceration, and
-with sulfur dioxide to limit must oxidation. Those are examples of a protective
+Rueda study, grapes were handled cool, under nitrogen during [maceration](../concepts/maceration.md), and
+with [sulfur dioxide](../concepts/sulfur-dioxide.md) to limit must oxidation.
+Those are examples of a protective
 approach. Time in bottle also matters: the study found that several fruity ester
 compounds and the panel's tropical-fruit impression declined over seven months.
 

@@ -40,7 +40,7 @@ even at a pale colour. Blend, picking date, and the amount of contact with
 skins help determine their weight and texture.
 
 White Bandol centres on [Clairette](../grapes/clairette-blanche.md), alongside
-[Bourboulenc](../grapes/bourboulenc.md) and Ugni Blanc. Clairette must account
+[Bourboulenc](../grapes/bourboulenc.md) and [Ugni Blanc](../grapes/ugni-blanc.md). Clairette must account
 for 30–95 percent of the blend.[^1] The wines often combine floral or
 white-fruit aromas with a rounded palate.
 

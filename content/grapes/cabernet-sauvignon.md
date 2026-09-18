@@ -8,11 +8,11 @@ Cabernet Sauvignon is a dark-skinned *Vitis vinifera* variety associated with
 Bordeaux and now grown across much of the wine-producing world. Its reach owes
 something to reputation, but the vine itself helps explain where it works: it
 buds relatively late, needs a long season to ripen, and carries small berries
-whose skins and seeds can provide substantial colour and tannin.
+whose skins and seeds can provide substantial colour and [tannin](../concepts/tannin.md).
 
 A cool or wet finish to the
 season can leave the fruit herbaceous and the tannins especially firm; adequate
-warmth can make ripening more dependable, while excessive heat can lower acidity
+warmth can make ripening more dependable, while excessive heat can lower [acidity](../concepts/acidity.md)
 and reduce skin pigmentation. Site, crop level, harvest date, extraction,
 blending, and maturation determine where a particular wine falls within that
 range.

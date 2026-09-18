@@ -43,7 +43,7 @@ The vine is moderately vigorous, with an upright or semi-upright habit, and is
 commonly short-pruned. Plantgrape places ripening in the middle of the season,
 about two weeks after Chasselas in its reference conditions. Heat, crop, water
 supply, exposure, and the season all alter the pace. The variety can
-accumulate substantial sugar while retaining useful acidity, which gives
+accumulate substantial sugar while retaining useful [acidity](../concepts/acidity.md), which gives
 growers options but makes picking consequential. Later harvest can support
 sweeter or stronger wines, while also increasing exposure to grey rot, powdery
 mildew, mites, and insects attracted to ripe berries.
@@ -57,14 +57,14 @@ these compounds can make a wine recall fresh grapes and flowers.
 
 As with
 [Gewürztraminer](gewurztraminer.md), a fully fermented wine can smell sweet
-while containing little residual sugar. Ripeness, fermentation, and maturation
+while containing little [residual sugar](../concepts/residual-sugar.md). Ripeness, fermentation, and maturation
 change the strength and balance of the perfume, so not every example is equally
 overt. Alcohol, acidity, carbon dioxide, and actual residual sugar then shape
 how broad, fresh, or sweet the finished wine seems.
 
 ## From dry wine to fortified Muscat
 
-For dry still wine, yeast converts most grape sugar to alcohol. Alsace
+For dry still wine, yeast converts most grape sugar to alcohol. [Alsace](../regions/alsace.md)
 provides a useful example, although “Muscat d'Alsace” is often a blend of
 Muscat Blanc à Petits Grains and Muscat Ottonel rather than a pure varietal
 statement. Austria also makes dry Gelber Muskateller. Earlier picking and
@@ -76,7 +76,7 @@ same time. In Piedmont, Moscato Bianco supplies Asti sparkling wine and the
 usually gentler effervescence of Moscato d'Asti. The Asti protected
 designation also encompasses late-harvest and drier expressions.[^4]
 
-Fortification creates a different balance. In Muscat de Beaumes-de-Venise,
+[Fortification](../concepts/fortification.md) creates a different balance. In Muscat de Beaumes-de-Venise,
 grape spirit is added to fermenting must in a process called *mutage*. The
 added alcohol stops yeast before all the grape sugar is consumed, leaving both
 sweetness and fortified strength. The appellation's homologated specification

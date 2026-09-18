@@ -15,10 +15,10 @@ material and is common in wine writing. Its large, very juicy berries and
 ability to remain productive in dry conditions
 have made it a useful grape for volume as well as for blends. At restrained
 crop levels, it can contribute a relatively soft texture and open fruit
-character to red and rosé wines.
+character to red and [rosé](../styles/rose.md) wines.
 
 Cinsault can make varietal wine, but it is often combined with grapes that add
-colour, tannin, or a different aromatic profile. In South Africa, where it was
+colour, [tannin](../concepts/tannin.md), or a different aromatic profile. In South Africa, where it was
 long called Hermitage, it is historically important both as a widely established
 Cape vine and as the parent of [Pinotage](pinotage.md).
 
@@ -51,7 +51,7 @@ according to the Rhône valley's interprofessional body. In this sense it is
 heat-tolerant: it suits Mediterranean summers better than a grape that needs
 cooler or more reliably watered conditions. Water supply, soil depth, crop
 load, [canopy management](../concepts/canopy-management.md), and harvest date
-still shape sugar, acidity, and berry condition. Cinsault is also susceptible
+still shape sugar, [acidity](../concepts/acidity.md), and berry condition. Cinsault is also susceptible
 to grey rot, grape moths, mites, and trunk diseases.[^1]
 
 Its relatively early-to-middle ripening offers another useful fit with hot

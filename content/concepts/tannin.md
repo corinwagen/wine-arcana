@@ -30,7 +30,7 @@ which compounds dissolve and how much remains in the wine. Ethanol can
 increase extraction from seeds as fermentation progresses, while extraction
 from skins follows a different pattern. Ripeness and berry condition also
 change the material available and its extractability. A longer or more
-forceful maceration therefore changes a wine's phenolic composition.
+forceful [maceration](maceration.md) therefore changes a wine's phenolic composition.
 
 A controlled [Cabernet Sauvignon](../grapes/cabernet-sauvignon.md) experiment illustrates the interaction. Wines
 fermented with added seeds contained more seed-derived flavan-3-ol compounds
@@ -80,7 +80,7 @@ react with anthocyanins, acetaldehyde and
 other wine constituents. Some products remain dissolved, some bind into larger
 or differently structured material, and some become insoluble and form
 sediment. Oak ellagitannins can also react with wine phenolics or decline as
-they are transformed. Oxygen, sulfur dioxide, temperature, vessel, and
+they are transformed. Oxygen, [sulfur dioxide](sulfur-dioxide.md), temperature, vessel, and
 storage determine which paths matter.
 
 Wine studies identify several simultaneous processes during ageing: direct

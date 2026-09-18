@@ -36,7 +36,7 @@ separates liquid juice from ice.
 ## Fermentation and character
 
 The concentrated juice is difficult for yeast to ferment and leaves substantial
-residual sugar. German examples often combine this sweetness with modest
+[residual sugar](../concepts/residual-sugar.md). German examples often combine this sweetness with modest
 alcohol. Their acidity can keep the finish lively even when the texture is
 viscous. Grape variety, fruit condition, and the amount of sugar fermented all
 affect the finished balance.

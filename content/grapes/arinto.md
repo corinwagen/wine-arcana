@@ -10,7 +10,8 @@ aliases:
 Arinto is a pale-skinned Portuguese grape cultivated from the cool, rainy
 north to the hot, dry south. It is closely associated with Bucelas, north of
 Lisbon, and is called *Pedernã* in much of northern Portugal. Its broad role is
-less about a forceful aroma than about acidity: Arinto can remain firm as sugar
+less about a forceful aroma than about [acidity](../concepts/acidity.md): Arinto
+can remain firm as sugar
 accumulates, so it works as a varietal wine, a sparkling base, and a component
 that gives warm-region white blends more freshness and room to mature.
 
@@ -87,7 +88,7 @@ white grapes in still and sparkling wines in [Bairrada](../regions/bairrada.md).
 Official data recorded 6,084 hectares of Arinto/Pedernã on mainland Portugal
 in 2024, about 4% of the vineyard area.[^5] Bucelas remains its clearest local
 reference: current DO rules require Arinto to make up at least 75% of Bucelas
-wine, with Sercial and Rabo de Ovelha also admitted.
+wine, with [Sercial](sercial.md) and Rabo de Ovelha also admitted.
 
 Elsewhere the grape has a different role. Under the name Pedernã it is
 established in [Vinho Verde](../regions/vinho-verde.md); it is also important in

@@ -15,12 +15,12 @@ Porto* are reserved for wine that meets the region's production and
 certification rules.[^1]
 
 Most Port is sweet and relatively high in alcohol because grape spirit is added
-while alcoholic fermentation is still under way. Yet this common method leads
+while [alcoholic fermentation](../concepts/alcoholic-fermentation.md) is still under way. Yet this common method leads
 to markedly different wines. Grape colour and composition, the timing of
 [fortification](../concepts/fortification.md), extraction, blending, vessel,
 oxygen exposure, filtration, and
 bottle age all matter. Ruby, tawny, vintage, late-bottled vintage, white, and
-rosé therefore mark legal and production categories.
+[rosé](rose.md) therefore mark legal and production categories.
 
 ## How it is made
 
@@ -28,7 +28,8 @@ Port begins as fermenting grape must. Red Port commonly uses blends that may
 include [Touriga Franca](../grapes/touriga-franca.md),
 [Touriga Nacional](../grapes/touriga-nacional.md),
 [Tinta Roriz](../grapes/tempranillo.md), and many other authorized varieties.
-Because fortification follows only a short fermentation, colour and tannin must
+Because fortification follows only a short fermentation, colour and
+[tannin](../concepts/tannin.md) must
 be extracted quickly. Traditional foot treading in shallow stone *lagares* is
 one method. Mechanical treading and pump-overs pursue the same goal but extract
 differently.
@@ -103,7 +104,8 @@ logic used for mature tawny Port. Colour alone can become an unreliable guide:
 an old white Port may approach an old tawny in appearance.
 
 **Rosé Port** is made from red grapes with limited skin contact and restricted
-oxidation before bottling. It is generally intended to retain pink colour and a
+[oxidation](../concepts/oxidation.md) before bottling. It is generally intended
+to retain pink colour and a
 young fruit-led character. Legally and technically, it is a distinct Port
 category.
 

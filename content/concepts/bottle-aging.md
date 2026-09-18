@@ -34,7 +34,7 @@ increasing proportion of pigmented tannins.[^1]
 
 Wine carries some dissolved oxygen into the bottle, and more may remain in the
 headspace above the liquid. The closure affects subsequent oxygen entry.
-[Oxidation](oxidation.md) consumes protective sulfur dioxide and changes aroma
+[Oxidation](oxidation.md) consumes protective [sulfur dioxide](sulfur-dioxide.md) and changes aroma
 and colour; the response depends on the wine's phenolics and other reactive
 compounds. Limited oxygen exposure can preserve fruit, while some wines develop
 sulfurous aromas under [low-oxygen conditions](reduction.md). Closure

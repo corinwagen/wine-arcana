@@ -66,7 +66,8 @@ another experiment, several esters and terpenes declined when small samples of
 two wines stood in open bottles for days.[^5]
 
 Oxygen that dissolves can also take part in chemical reactions. The rate
-depends on phenolics, sulfur dioxide, metals, and other components, so two wines
+depends on phenolics, [sulfur dioxide](sulfur-dioxide.md), metals, and other
+components, so two wines
 in the same decanter need not consume oxygen alike. Vessel geometry controls
 the opportunity for transfer, while the wine controls much of what follows.
 Temperature further complicates the comparison: colder wine can hold more
@@ -75,7 +76,7 @@ faster chemical change. A decanter left on a warm table may therefore alter
 aroma and texture through temperature as well as air exposure.[^6]
 
 The familiar claim that decanting “softens tannins” reaches beyond the direct
-evidence. Oxygen exposure during fermentation and maturation can alter tannin
+evidence. Oxygen exposure during fermentation and maturation can alter [tannin](tannin.md)
 structure and astringency, but those treatments unfold under controlled cellar
 conditions over much longer periods. Service-time studies show that people can
 perceive differences after decanting; they do not establish rapid tannin

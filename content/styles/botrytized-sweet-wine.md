@@ -31,14 +31,15 @@ A three-year study of
 naturally infected [Sémillon](../grapes/semillon.md) found changes in sugars, sugar alcohols, organic
 acids, phenolic pathways, terpenes, and aroma precursors; several of the altered
 compound classes remained distinguishable in the finished wines.[^1] Noble rot
-can therefore modify acidity, texture, colour, and aroma as it concentrates the
+can therefore modify [acidity](../concepts/acidity.md), texture, colour, and
+aroma as it concentrates the
 berry. These effects are not uniform: the fungus consumes some grape compounds,
 the berry mounts stress responses, and the degree of dehydration changes their
 final concentrations.
 
 Persistent rain or high humidity instead favours rapid, destructive bunch rot.
 Fruit may split and support other fungi, yeasts, and bacteria before useful
-dehydration occurs, bringing oxidation and difficult flavours into the must.
+dehydration occurs, bringing [oxidation](../concepts/oxidation.md) and difficult flavours into the must.
 The boundary is not set by a single weather measurement. Ripeness, berry
 integrity, bunch compactness, canopy airflow, cultivar, infection timing, and
 the wider microbial community all influence the outcome. Scientific comparisons
@@ -68,9 +69,10 @@ yeast under osmotic stress,
 while the altered nutrients, polysaccharides, enzymes, and microbial population
 of botrytized must add further complications. Fermentation may proceed slowly or
 stop with considerable grape sugar remaining. Yeast choice, temperature,
-clarification, nutrient and sulfur dioxide management, and the decision to
-arrest and stabilise fermentation all affect alcohol, sweetness, volatile
-acidity, and aroma. Extremely concentrated must can be more difficult to
+clarification, nutrient and [sulfur dioxide](../concepts/sulfur-dioxide.md) management, and the decision to
+arrest and stabilise fermentation all affect alcohol, sweetness, [volatile
+acidity](../concepts/volatile-acidity.md), and aroma. Extremely concentrated
+must can be more difficult to
 ferment cleanly and may leave a heavier balance.
 
 ## Character and variation
@@ -105,7 +107,9 @@ parcels separately, often using barrels, so grape mix, selection severity,
 vintage, and élevage prevent the appellation from representing one uniform
 style.
 
-[Tokaj](../regions/tokaj.md) follows a different logic. Furmint and Hárslevelű are central among its
+[Tokaj](../regions/tokaj.md) follows a different logic.
+[Furmint](../grapes/furmint.md) and [Hárslevelű](../grapes/harslevelu.md) are
+central among its
 permitted varieties. A proposed Union amendment published in March 2026
 describes Aszú as individually selected botrytized berries macerated in must,
 fermenting must, or wine; Szamorodni instead processes bunches containing both
@@ -115,7 +119,7 @@ minimum periods by category.[^3]
 Germany's Beerenauslese and Trockenbeerenauslese traditions commonly rely on
 overripe, noble-rotted berries, especially [Riesling](../grapes/riesling.md),
 whereas [Eiswein](icewine.md) concentrates juice by freezing and is a separate process. In
-Alsace, *Sélection de Grains
+[Alsace](../regions/alsace.md), *Sélection de Grains
 Nobles* denotes hand-picked noble-rotted berries from Riesling, Muscat, Pinot
 Gris, or Gewürztraminer. The Loire also makes botrytized [Chenin
 Blanc](../grapes/chenin-blanc.md), but its sweet wines may derive from noble rot,

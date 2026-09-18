@@ -65,7 +65,7 @@ category.
 Vinea Wachau reserves these registered trademarks for its members. Its current
 description specifies dry wines without perceptible oak influence. Steinfeder
 has up to 11.5% alcohol; Federspiel has no more than 12.5%; Smaragd starts at
-12.5%. Steinfeder and Federspiel can also be used for rosé.[^2]
+12.5%. Steinfeder and Federspiel can also be used for [rosé](../styles/rose.md).[^2]
 
 The terms give a practical indication of weight. Steinfeder occupies the
 lighter end, while Smaragd is associated with grapes left longer on the vine

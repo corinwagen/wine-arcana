@@ -45,7 +45,7 @@ and selective harvesting to turn susceptibility into an advantage.
 In Bordeaux, Muscadelle commonly accompanies [Sémillon](semillon.md) and
 [Sauvignon Blanc](sauvignon-blanc.md) in both dry and sweet white wines. Its
 floral aroma and rounded contribution can be perceptible in a modest share of
-the blend. Its relatively modest acidity makes the balance supplied by the
+the blend. Its relatively modest [acidity](../concepts/acidity.md) makes the balance supplied by the
 other grapes useful. Ripeness and the proportion used matter more than the
 mere presence of Muscadelle on a technical sheet.
 

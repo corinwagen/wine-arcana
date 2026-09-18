@@ -78,7 +78,8 @@ basic geographic boundary and grape framework:[^1]
 - **Valpolicella Ripasso DOC** is made by refermenting eligible Valpolicella
   wine once on the pomace left after Amarone and/or Recioto has been drawn off.
   The pomace still carries wine, sugar, skins, and other extract, so this second
-  contact can add alcohol, colour, tannin, and body. The result varies with the
+  contact can add alcohol, colour, [tannin](../concepts/tannin.md), and body.
+  The result varies with the
   base wine, the pomace, and contact.
 
 [^1]: Ministero dell'agricoltura, della sovranità alimentare e delle foreste,

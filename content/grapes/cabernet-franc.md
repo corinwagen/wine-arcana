@@ -10,7 +10,7 @@ aliases:
 Cabernet Franc is a dark-skinned *Vitis vinifera* variety long established in
 southwestern France and the Loire Valley. It is a parent of better-known grapes
 and a component of Bordeaux blends. In the central Loire, northeastern Italy,
-and several New World regions, it also makes red and rosé wines under its own
+and several New World regions, it also makes red and [rosé](../styles/rose.md) wines under its own
 name.
 
 It commonly combines red-fruit and floral aromas with a leafy or
@@ -69,7 +69,7 @@ in a wet Loire season, maritime Bordeaux, or an irrigated dry region.
 ## Wine character and cellar choices
 
 Cabernet Franc often produces less deeply coloured and less densely tannic wine
-than Cabernet Sauvignon, while retaining enough acidity and tannin to make
+than Cabernet Sauvignon, while retaining enough [acidity](../concepts/acidity.md) and [tannin](../concepts/tannin.md) to make
 structured wines. Red-cherry or raspberry-like fruit and floral impressions
 are common reference points. A key aroma compound is
 3-isobutyl-2-methoxypyrazine (IBMP). This potent grape-derived compound can

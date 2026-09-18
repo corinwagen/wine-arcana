@@ -9,7 +9,7 @@ aliases:
 Godello is a pale-skinned *Vitis vinifera* variety of northwestern Iberia. The
 name is most closely associated with Galicia, especially Valdeorras, while the
 same variety is called Gouveio in Portugal, an identity confirmed by
-microsatellite comparison.[^1] Its wines can combine clear acidity and direct
+microsatellite comparison.[^1] Its wines can combine clear [acidity](../concepts/acidity.md) and direct
 fruit with enough alcohol, extract, and phenolic presence to feel substantial.
 
 Fruit from a warm, exposed slope and a later harvest can give a broad wine,

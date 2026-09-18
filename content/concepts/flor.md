@@ -9,7 +9,7 @@ aliases:
 Flor is a film of yeast that develops on the surface of certain wines during
 maturation. It drives the biological ageing associated with fino and
 manzanilla [Sherry](../styles/sherry.md), while related yeast veils develop in
-wines such as the Jura's [vin jaune](../styles/vin-jaune.md). The film changes
+wines such as the [Jura](../regions/jura.md)'s [vin jaune](../styles/vin-jaune.md). The film changes
 both the wine's exposure to oxygen and its chemical composition.
 
 The principal organisms are specialized strains of *Saccharomyces cerevisiae*,
@@ -62,7 +62,7 @@ in partly filled casks without the repeated replenishment characteristic of a
 Sherry solera. Its unfortified base wine and static maturation create a
 different environment for the yeast.
 
-A study of Savagnin wines from two Jura cellars found substantial variation in
+A study of [Savagnin](../grapes/savagnin.md) wines from two Jura cellars found substantial variation in
 veil colour and structure, although *S. cerevisiae* predominated. Different
 strains could share a veil, and the dominant strain could change during ageing.
 The same strain also produced different-looking films in different wines.[^4]

@@ -28,7 +28,7 @@ It is evidence of a late-medieval dispute over variety, yield, and place, not a
 complete origin story for modern Beaujolais.[^2]
 
 Gamay nevertheless became the defining red grape of Beaujolais. Current
-appellation rules name Gamay as the principal variety for red and rosé
+appellation rules name Gamay as the principal variety for red and [rosé](../styles/rose.md)
 Beaujolais, while the ten communal appellations known as the Beaujolais crus
 are red-wine areas centered on the same grape. Regional commerce and cellar
 practice reinforced that link: wines for nearby Lyon encouraged an accessible,
@@ -63,8 +63,8 @@ bunches in a sealed vessel from which oxygen has been displaced by added carbon
 dioxide. Inside the unbroken
 berries, grape enzymes metabolize some sugar and malic acid without yeast.
 After this intracellular phase, the fruit is pressed and yeast completes the
-alcoholic fermentation. Because the initial berries remain whole, extraction
-from skins and seeds can be limited, especially when the maceration is short.
+[alcoholic fermentation](../concepts/alcoholic-fermentation.md). Because the initial berries remain whole, extraction
+from skins and seeds can be limited, especially when the [maceration](../concepts/maceration.md) is short.
 
 Traditional Beaujolais practice is more accurately described as
 *semi-carbonic*. Whole bunches enter the vat without an initial blanket of
@@ -75,7 +75,7 @@ intracellular metabolism consequently occur in the same vat.[^4]
 
 The proportion of intact
 bunches, stem ripeness, temperature, time before pressing, pumping over, and
-the treatment of press wine all change color, tannin, and aroma. A short
+the treatment of press wine all change color, [tannin](../concepts/tannin.md), and aroma. A short
 semi-carbonic maceration can emphasize immediate fruit and distinctive
 fermentation-derived aromas; a longer maceration can extract more structure.
 Some producers destem partly or entirely, and cru wines can still be made by

@@ -14,7 +14,8 @@ Catalonia, particularly Penedès. It is one of the three classic grapes of Cava,
 alongside [Macabeo](macabeo.md) and [Parellada](parellada.md), and is also made as a still
 white wine. Cava
 sources emphasize its structure and freshness. Site and harvest determine how
-much acidity remains, while pressing, skin contact, and maturation can make its
+much [acidity](../concepts/acidity.md) remains, while pressing, skin contact,
+and maturation can make its
 texture more or less prominent.
 
 In a Cava blend, Xarel·lo can supply shape beneath the effects of the
@@ -62,21 +63,21 @@ depends partly on pressing and skin contact. One limited study of 32
 production-stage samples from a single producer used measured phenolic profiles
 to distinguish Xarel·lo from [Pinot Noir](pinot-noir.md). The authors treated it
 as a proof of concept across two varieties and four internal quality
-classes.[^4] Vineyard, harvest, pressing, and oxidation management all affect
+classes.[^4] Vineyard, harvest, pressing, and [oxidation](../concepts/oxidation.md) management all affect
 the finished result.
 
 ## Still wines and the cellar
 
 The Institut Català de la Vinya i el Vi describes Penedès Xarel·lo as suitable
 for young white wine and relatively long maturation. It also notes examples made
-with lower additions of sulfur dioxide.[^5]
+with lower additions of [sulfur dioxide](../concepts/sulfur-dioxide.md).[^5]
 
 Young, protectively made wine can foreground fresh fruit and acidity. Work with
 fine [lees](../concepts/lees-aging.md) can broaden the palate and soften the edge
 without masking the grape; barrel fermentation or maturation can add weight but
 can also dominate its restrained aroma. [Skin-contact white
 wine](../styles/skin-contact-white-wine.md) extracts more material from the
-skins, while the duration and temperature of maceration help determine how
+skins, while the duration and temperature of [maceration](../concepts/maceration.md) help determine how
 pronounced the effect becomes.
 
 [^1]: Ministerio de Agricultura, Pesca y Alimentación, *Listado de clones de

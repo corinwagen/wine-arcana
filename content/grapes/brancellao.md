@@ -15,8 +15,8 @@ Albarello is also used, but it has a wider Galician history extending through
 Ribeiro, Valdeorras, the Atlantic coast, and smaller inland districts. In
 Portugal the same variety is generally known as Alvarelhão.
 
-The wines often combine moderate colour and relatively soft tannin with clear
-acidity and a lifted aroma. Brancellao can be fragrant without being dense,
+The wines often combine moderate colour and relatively soft [tannin](../concepts/tannin.md) with clear
+[acidity](../concepts/acidity.md) and a lifted aroma. Brancellao can be fragrant without being dense,
 and it can bring freshness and perfume to a blend led by [Mencía](mencia.md)
 or other local red grapes.
 
@@ -74,10 +74,10 @@ showed more aroma-active compounds and stronger fruit, spice, balsamic, and
 herbal impressions; the result demonstrates variation within the cultivar.[^3]
 
 Low phenolic content makes extraction a particularly visible cellar choice.
-Gentle handling and shorter or cooler maceration can keep the wine translucent
+Gentle handling and shorter or cooler [maceration](../concepts/maceration.md) can keep the wine translucent
 and aromatic. More forceful extraction may deepen colour and grip, but pressing
 hard can also introduce coarser or more herbal material. This helps explain
-Brancellao's use in young varietal reds and rosé as well as in blends: it can
+Brancellao's use in young varietal reds and [rosé](../styles/rose.md) as well as in blends: it can
 add aroma, acidity, and mid-palate volume, while grapes such as [Caíño
 Tinto](caino-tinto.md) or [Sousón](souson.md) alter the blend's acidity, colour,
 and tannin.

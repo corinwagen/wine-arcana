@@ -9,7 +9,7 @@ Terret noir is a rare dark-berried *Vitis vinifera* variety from the Languedoc.
 The grape matters because it combines a pale wine with the freshness that
 southern French blends can need. Plantgrape describes its wines as light, low in
 alcohol, and lightly coloured. Inter Rhône, the Rhône wine industry body, values
-it for acidity and low alcohol in blends, especially where a lighter, fresher
+it for [acidity](../concepts/acidity.md) and low alcohol in blends, especially where a lighter, fresher
 component is useful. That role survives in the Rhône even as the variety has
 become scarce in France.
 
@@ -45,9 +45,9 @@ extracted from the skins, ripeness, and cellar handling.
 
 Acidity is the other central part of its present reputation. Inter Rhône
 explicitly describes Terret noir as fresh and as having good acidity, and says
-that this helps it in blends and rosé wines. Terret noir can contribute
+that this helps it in blends and [rosé](../styles/rose.md) wines. Terret noir can contribute
 freshness and a lighter frame, while other varieties may supply more colour,
-alcohol, or tannin.
+alcohol, or [tannin](../concepts/tannin.md).
 
 The same source gives plum and redcurrant as possible aromas. Blending, harvest
 timing, extraction, and the conditions of the vineyard can all change the wine’s
@@ -58,7 +58,7 @@ balance and aroma.
 Terret noir remains associated with southern France, especially the southern
 Rhône. Inter Rhône lists it in blends of Côtes du Rhône, Côtes du Rhône
 Villages, and southern Rhône wines, as well as in rosé and still dry red styles.
-The current Châteauneuf-du-Pape specification lists `terret noir N` among the
+The current [Châteauneuf-du-Pape](../regions/chateauneuf-du-pape.md) specification lists `terret noir N` among the
 varieties for red and white wines.[^2]
 
 ## Sources

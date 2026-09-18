@@ -64,14 +64,14 @@ blend. [Viognier](../grapes/viognier.md) is optional and may also be interplante
 among Syrah, up to 20 percent of the vines in a parcel. When both grapes are
 used, the rules require the corresponding grapes to be vinified together in
 the same proportion.[^1] This is co-fermentation: red and white grapes share
-alcoholic fermentation, rather than separately finished wines being combined
+[alcoholic fermentation](../concepts/alcoholic-fermentation.md), rather than separately finished wines being combined
 later. Many wines contain much less Viognier than the ceiling, or none.
 
 Viognier can change aroma and texture, but its effect depends on proportion,
 ripeness, and fermentation conditions. It should not be treated as an automatic
 colour enhancer. In a controlled California trial using 10 percent white-grape
 solids, Syrah–Viognier co-fermentation increased some aromatic dimensions and
-tannin but lowered the concentration of most anthocyanin pigments compared
+[tannin](../concepts/tannin.md) but lowered the concentration of most anthocyanin pigments compared
 with Syrah alone.[^2] One experiment outside Côte-Rôtie cannot prescribe a
 regional outcome; it does show why colour enhancement depends on the
 fermentation conditions.
@@ -80,14 +80,15 @@ The grapes must be harvested by hand and transported to the winery as whole
 bunches, a practical response to the slopes and a way to limit damage in
 transit. This does not require [whole-cluster
 fermentation](../concepts/whole-cluster-fermentation.md). Producers may destem,
-retain some or all stems, crush lightly, and vary maceration and cap management.
+retain some or all stems, crush lightly, and vary
+[maceration](../concepts/maceration.md) and cap management.
 Each choice changes extraction and fermentation conditions, so stem inclusion
 is another source of difference among wines from similar sites.
 
 ## Wine and maturation
 
 Côte-Rôtie's balance varies with site, vintage, and production. Cooler
-conditions may preserve acidity and favour peppery or savoury aspects; warmer
+conditions may preserve [acidity](../concepts/acidity.md) and favour peppery or savoury aspects; warmer
 sites or seasons can bring riper fruit and more potential alcohol. Viognier,
 whole clusters, extraction, and harvest timing may redirect those tendencies.
 

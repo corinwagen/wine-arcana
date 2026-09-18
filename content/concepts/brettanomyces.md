@@ -34,7 +34,8 @@ Smell alone gives limited information about that risk.
 
 ## Conditions that favour growth
 
-Brett can exploit residual sugar and persist in the winery through contaminated
+Brett can exploit [residual sugar](residual-sugar.md) and persist in the winery
+through contaminated
 wine and equipment. Barrels are one possible reservoir, but transfers and wine
 used to top up casks can also spread cells. Control consequently includes the
 whole route the wine takes through the cellar.[^2]

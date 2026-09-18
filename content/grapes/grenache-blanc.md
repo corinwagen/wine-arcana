@@ -10,7 +10,7 @@ aliases:
 Grenache Blanc is a white *Vitis vinifera* grape of the Mediterranean west. It
 is called Garnacha Blanca in Spain and Garnatxa Blanca in Catalan. Its useful
 place in a wine is often structural: the grape can ripen fully in warm, dry
-vineyards and make a generous, textured white, while its acidity is usually
+vineyards and make a generous, textured white, while its [acidity](../concepts/acidity.md) is usually
 moderate rather than sharply driving. That combination explains both its role
 in southern French blends and the interest in varietal wines from Catalonia.
 
@@ -61,12 +61,12 @@ Rhône rules, alongside [Bourboulenc](bourboulenc.md), [Clairette](clairette-bla
 mostly from that group, without requiring any one of its members.[^2] It is an
 important component of the region's white-blend vocabulary.
 
-In Châteauneuf-du-Pape, the INAO's overview highlights Grenache Blanc,
+In [Châteauneuf-du-Pape](../regions/chateauneuf-du-pape.md), the INAO's overview highlights Grenache Blanc,
 Clairette, and Roussanne among the principal grapes used for white wine.[^3]
 Those warm Rhône settings make Grenache Blanc's combination of ripeness and
 texture especially useful, while blending can adjust the wine's acid profile.
 Sweet styles elsewhere depend on regional methods and may involve riper fruit,
-concentration, or arresting fermentation through fortification.
+concentration, or arresting fermentation through [fortification](../concepts/fortification.md).
 
 ## Catalonia and Spain
 

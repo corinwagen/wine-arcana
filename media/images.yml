@@ -401,3 +401,43 @@ images:
     width: 825
     height: 1167
     sha256: d8353a9bbacb873dddf8a2fd877aca21ba53cf6634e760c7fa2ee9dcc00beda1
+
+  - path: media/images/grapes/syrah-ampelography.jpg
+    title: Syrah — Ampélographie
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source_url: https://commons.wikimedia.org/wiki/File:Syrah_-_Amp%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/a/a6/Syrah_-_Amp%C3%A9lographie.jpg
+    width: 789
+    height: 1173
+    source: Wikimedia Commons
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    sha256: 37af2679ab1f0b0061bf6f1132462f24e5dd76243a14751eb630c42d48db3782
+
+  - path: media/images/grapes/merlot-ampelography.jpg
+    title: Merlot — Ampélographie
+    creator: Jules Troncy
+    creator_url: https://commons.wikimedia.org/wiki/Category:Jules_Troncy
+    source_url: https://commons.wikimedia.org/wiki/File:Merlot_-_Ampl%C3%A9lographie.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/2/26/Merlot_-_Ampl%C3%A9lographie.jpg
+    width: 825
+    height: 1167
+    source: Wikimedia Commons
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    sha256: 756b1fec759a76f26893631676371bb7db7e7c63fd1e5b239bbe468a1d815444
+
+  - path: media/images/grapes/riesling-johannisberg.jpg
+    title: Riesling grapes at Schloss Johannisberg
+    creator: Gerda Arendt
+    creator_url: https://commons.wikimedia.org/wiki/User:Gerda_Arendt
+    source_url: https://commons.wikimedia.org/wiki/File:Riesling_grapes_at_Schloss_Johannisberg.jpg
+    original_url: https://upload.wikimedia.org/wikipedia/commons/9/90/Riesling_grapes_at_Schloss_Johannisberg.jpg
+    width: 1600
+    height: 1200
+    changes: Resized and recompressed as JPEG.
+    source: Wikimedia Commons
+    license: CC0-1.0
+    license_url: https://creativecommons.org/publicdomain/zero/1.0/
+    sha256: 2e11425ed44cf234e5366e60e68f9455686587e6bc8f113244dbf51cd57ffbd3

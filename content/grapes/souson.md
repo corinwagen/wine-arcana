@@ -10,7 +10,7 @@ aliases:
 
 Sousón is a dark-skinned *Vitis vinifera* variety of northwestern Iberia, grown
 in Galicia under its Spanish name and in northern Portugal principally as
-Vinhão. It combines abundant colour and pronounced acidity. This makes it
+Vinhão. It combines abundant colour and pronounced [acidity](../concepts/acidity.md). This makes it
 especially useful in the multi-grape reds of Atlantic-influenced Galicia and the
 [Vinho Verde](../regions/vinho-verde.md) region, where it can deepen a blend
 without sacrificing freshness.
@@ -18,7 +18,7 @@ without sacrificing freshness.
 Sousón can give a relatively pale, fragrant partner such as
 [Brancellao](brancellao.md) a darker frame, or add both pigment and tension to a
 blend led by [Mencía](mencia.md). Varietal wines also exist, but they expose the
-same balance directly: fruit must ripen far enough for tannin and acidity to
+same balance directly: fruit must ripen far enough for [tannin](../concepts/tannin.md) and acidity to
 feel integrated, while extraction must be controlled so that colour does not
 arrive with unnecessary hardness.
 

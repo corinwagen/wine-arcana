@@ -11,7 +11,7 @@ centred on Langenlois. Its principal wines are dry whites from
 influences from the Waldviertel meet across a landscape of loess-covered
 hills, rocky slopes, and terraced vineyards.
 
-That combination permits ripe fruit while preserving acidity. The range
+That combination permits ripe fruit while preserving [acidity](../concepts/acidity.md). The range
 extends from relatively light regional wines to concentrated wines from
 named vineyards, with differences in water supply, exposure, and cellar
 practice contributing to their character.

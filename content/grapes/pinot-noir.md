@@ -12,14 +12,14 @@ aliases:
 Pinot Noir is a dark-skinned *Vitis vinifera* variety that ripens early and has
 an unusually long history of vegetative propagation. Burgundy is its principal
 historical association. [Champagne](../regions/champagne.md) is a major home for
-sparkling-wine production. The fruit can yield still red or rosé wine, or be
+sparkling-wine production. The fruit can yield still red or [rosé wine](../styles/rose.md), or be
 pressed quickly for pale sparkling-wine juice.
 
 Pinot Noir's sensitivity has physical and genetic causes. Small berries with
 relatively thin skins often sit in compact bunches; its old clonal population
 varies in yield, bunch form, ripening, and composition; and modest changes in
 heat, water, exposure, crop, or harvest date can alter the balance of sugar,
-acidity, and phenolics. Together, these factors help explain why Pinot Noir
+[acidity](../concepts/acidity.md), and phenolics. Together, these factors help explain why Pinot Noir
 ranges from light, brisk wines to deeper, firmer reds even within the broad
 category of cool-climate wine.
 
@@ -43,7 +43,8 @@ Noir but have not been shown to be the same variety. The evidence supports an
 old, widely connected lineage but cannot establish a continuous record of
 modern Pinot in Burgundy since Roman times.[^1]
 
-Growers normally propagate vines by cuttings or grafting, not by seed. Each new
+Growers normally propagate vines by cuttings or
+[grafting](../concepts/grafting.md), not by seed. Each new
 vine retains its parent's identity, but mutations in growing tissue can be
 preserved in later cuttings. Repeated over centuries, this process has made
 Pinot especially diverse within the variety. France currently certifies 48 Pinot
@@ -93,7 +94,7 @@ strengthen or blur any site pattern.
 Pinot Noir often gives paler wine than many dark-skinned varieties. Its grapes
 tend to contain relatively modest phenolics and lack the acylated anthocyanins
 that help stabilize colour in some other red grapes. Small berries can still
-provide substantial skin relative to juice. Tannin and pigment are distinct
+provide substantial skin relative to juice. [Tannin](../concepts/tannin.md) and pigment are distinct
 parts of the phenolic composition, and extraction determines how much of each
 enters the wine.
 

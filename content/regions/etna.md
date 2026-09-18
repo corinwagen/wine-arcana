@@ -45,7 +45,7 @@ shape of the landscape an immediate influence on vineyard labour.
 ## Grapes and styles
 
 Nerello Mascalese produces reds that can combine relatively pale colour with
-firm tannin and acidity. Its late ripening makes elevation, crop size, and
+firm [tannin](../concepts/tannin.md) and [acidity](../concepts/acidity.md). Its late ripening makes elevation, crop size, and
 the autumn season particularly important. Nerello Cappuccio is a traditional
 partner, contributing a different balance of colour, fruit, and structure.
 Extraction and [oak maturation](../concepts/oak-maturation.md) further alter
@@ -57,7 +57,7 @@ character. They can develop greater breadth during maturation, with the
 producer's handling of the lees and oxygen helping determine the result.
 
 The official specification consolidated in 2022 requires at least 80%
-Nerello Mascalese in Etna Rosso and Rosato. Etna Bianco requires at least
+Nerello Mascalese in Etna Rosso and [Rosato](../styles/rose.md). Etna Bianco requires at least
 60% Carricante. Bianco Superiore raises that share to 80% and restricts the
 grapes to the delimited area within Milo.[^1]
 

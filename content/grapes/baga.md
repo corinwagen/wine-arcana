@@ -11,7 +11,8 @@ Baga is a dark-skinned Portuguese grape most closely associated with
 [Bairrada](../regions/bairrada.md), on the Atlantic side of central Portugal. It
 is also grown in [Dão](../regions/dao.md) and is known regionally as Tinta
 Bairrada and Poeirinho. The variety is best understood through a tension in its
-growing season: it ripens late and can retain firm acidity and tannin, yet its
+growing season: it ripens late and can retain firm
+[acidity](../concepts/acidity.md) and [tannin](../concepts/tannin.md), yet its
 compact bunches are vulnerable to rot before the fruit is fully mature.
 
 This combination explains Baga's range. Early-picked or heavily cropped fruit
@@ -56,7 +57,7 @@ conspicuous acidity and tannin.
 Including stems or extending contact with skins can reinforce an already firm
 tannic structure; destemming and gentler extraction can make it less severe.
 Both choices depend on sound fruit: unripe or rotten grapes limit the result.
-Baga is also used for rosé and [traditional-method sparkling
+Baga is also used for [rosé](../styles/rose.md) and [traditional-method sparkling
 wine](../styles/traditional-method-sparkling-wine.md) in Bairrada, where retained
 acidity contributes freshness.
 

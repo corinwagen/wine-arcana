@@ -14,6 +14,8 @@ date. Merlot begins its growing season fairly early. Fermentation and maturation
 further shape whether the wine is fruit-led and made for early drinking or more
 tannic and suited to bottle development.
 
+![A dark grape bunch and lobed green leaves in a botanical illustration.](../../media/images/grapes/merlot-ampelography.jpg "Merlot, illustrated by Jules Troncy for Viala and Vermorel's Ampélographie (1901–1910).")
+
 ## History and identity
 
 DNA parentage analysis identified [Cabernet Franc](cabernet-franc.md) and
@@ -56,7 +58,8 @@ In a Bordeaux study of
 Merlot and the two Cabernets across gravel, clay, and sand, year and soil both
 altered vine growth and berry composition, with many effects mediated by vine
 water status.[^3] A warm, dry season may advance sugar accumulation and reduce
-acidity but can also impose damaging water stress; a cooler or wetter season may
+[acidity](../concepts/acidity.md) but can also impose damaging water stress; a
+cooler or wetter season may
 slow development and increase disease pressure. Rootstock, rooting depth,
 canopy, yield, and harvest decisions all modify the result.
 
@@ -70,7 +73,7 @@ higher in alcohol as acidity falls.
 
 Merlot skins and seeds contain ample phenolic material, and extraction determines
 how much reaches the wine. In controlled Merlot trials, longer skin contact
-increased seed-derived tannin and astringency; fruit maturity also changed
+increased seed-derived [tannin](../concepts/tannin.md) and astringency; fruit maturity also changed
 colour, aroma, and mouthfeel.[^4] Gentle extraction and earlier pressing can
 emphasize roundness, while longer or more forceful extraction can build a firmer
 frame. [Oak maturation](../concepts/oak-maturation.md) and bottle age can

@@ -45,7 +45,7 @@ amount and age of the lees, and how often they are resuspended. Longer contact
 allows more change, but the effect is neither immediate nor linear.
 
 Yeast-derived polysaccharides can alter the wine's colloidal behaviour and its
-interactions with tannin. This may make texture seem fuller or less
+interactions with [tannin](tannin.md). This may make texture seem fuller or less
 astringent, especially in a white wine with little phenolic weight of its own.
 Some mannoprotein fractions can also inhibit potassium bitartrate
 crystallization or reduce the tendency of white wine proteins to form haze.
@@ -73,8 +73,8 @@ lees can consume part of that dissolved oxygen, and released compounds can
 also contribute reducing capacity, but this protection is limited and
 variable. In a study of commercial white wines, yeast lees consumed anywhere
 from none to 47 percent of the dissolved oxygen under the trial conditions;
-chemical oxidation proceeded at the same time.[^1] Yeast strain, lees quantity
-and age, temperature, sulfur dioxide, vessel, headspace, and stirring
+chemical [oxidation](oxidation.md) proceeded at the same time.[^1] Yeast strain, lees quantity
+and age, temperature, [sulfur dioxide](sulfur-dioxide.md), vessel, headspace, and stirring
 technique all matter.
 
 The opposite risk is an excessively reducing, compact deposit that favours
@@ -85,8 +85,9 @@ timely racking remain part of lees management.
 
 ## Still and traditional-method sparkling wine
 
-In still wine, the relevant lees usually follow the primary alcoholic
-fermentation. The winemaker can separate coarse solids, choose tank or barrel,
+In still wine, the relevant lees usually follow the primary [alcoholic
+fermentation](alcoholic-fermentation.md). The winemaker can separate coarse
+solids, choose tank or barrel,
 retain or transfer fine lees, stir them, and end contact by racking or
 filtration. [Malolactic fermentation](malolactic-fermentation.md) may overlap
 with this period. Vessel permeability and repeated cellar operations can make

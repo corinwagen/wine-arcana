@@ -31,7 +31,7 @@ commune's supplementary geographical designation.[^2]
 anchor the white wines. The cellar method is especially useful information
 when choosing between them. *Ouillé* means topped up: wine lost during
 maturation is replaced to keep the vessel full. These wines can show the
-grapes' fruit and acidity clearly, with further differences from site, barrel
+grapes' fruit and [acidity](../concepts/acidity.md) clearly, with further differences from site, barrel
 use, and [time on the lees](../concepts/lees-aging.md).
 
 For *sous voile* wines, producers allow a yeast veil to develop on the surface

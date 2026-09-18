@@ -5,7 +5,7 @@ title: Petit Verdot
 # Petit Verdot
 
 Petit Verdot is a red southwestern French grape that contributes colour,
-[tannin](../concepts/tannin.md), and acidity to Bordeaux blends. Its relatively
+[tannin](../concepts/tannin.md), and [acidity](../concepts/acidity.md) to Bordeaux blends. Its relatively
 late ripening helps explain its limited role there and its wider possibilities
 in warmer growing regions. Where it matures reliably, it can also make a
 varietal wine with considerable structure.

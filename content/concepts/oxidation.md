@@ -89,7 +89,7 @@ but it can also convert some mercaptans into harder-to-remove disulfides.[^6]
 Biological ageing under a yeast veil is another distinct process. In Sherry
 and the [Jura](../regions/jura.md)'s [vin jaune](../styles/vin-jaune.md),
 specialised *Saccharomyces cerevisiae* strains form a surface biofilm, or
-*flor*. The wine is left with headspace so the yeast can shift to
+*[flor](flor.md)*. The wine is left with headspace so the yeast can shift to
 oxygen-supported oxidative metabolism and use ethanol and other non-sugar
 carbon sources. The veil limits direct air contact while the living cells make
 acetaldehyde and other metabolites.[^7]

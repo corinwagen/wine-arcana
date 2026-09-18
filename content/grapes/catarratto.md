@@ -22,7 +22,7 @@ differences.[^1] *Lucido* refers to the berries' glossy appearance.
 
 Catarratto's considerable variation matters to growers. The regional
 collection includes material differing in bunch size, productivity, and
-the balance of alcohol and acidity in its wines. Some selections produce
+the balance of alcohol and [acidity](../concepts/acidity.md) in its wines. Some selections produce
 larger crops more consistently than others. Short pruning and systems
 that retain a replacement fruiting cane are both used.
 

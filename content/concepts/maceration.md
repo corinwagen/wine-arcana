@@ -41,7 +41,7 @@ A *cold soak* holds crushed red grapes at a low temperature before alcoholic
 fermentation. This extends contact in a largely aqueous liquid. The intended
 effects commonly include colour and aroma extraction, but the Australian Wine
 Research Institute's review finds that outcomes vary with grape variety and
-growing conditions. A cold soak also extends the time during which oxidation
+growing conditions. A cold soak also extends the time during which [oxidation](oxidation.md)
 and unwanted microbial activity must be controlled.[^2]
 
 *Extended maceration* usually refers to retaining skins and seeds with the
@@ -62,7 +62,7 @@ White-grape skin contact can add aroma and body before fermentation. Some
 contact already occurs when mechanically harvested or crushed fruit waits for
 pressing. Deliberately extending it changes how much the juice extracts.
 
-Skins also release potassium, which can raise pH and reduce titratable acidity.
+Skins also release potassium, which can raise pH and reduce titratable [acidity](acidity.md).
 Longer or warmer contact generally increases extraction, including phenolics
 that contribute bitterness. Fruit condition matters: damaged or botrytized
 fruit can introduce enzymes that accelerate oxidation. The useful duration

@@ -6,9 +6,9 @@ title: Picardan
 
 Picardan is a rare white *Vitis vinifera* grape of the Rhône Valley. Its
 importance is chiefly historical and legal: it remains one of the varieties
-named in the Châteauneuf-du-Pape specification, although it is a very small
+named in the [Châteauneuf-du-Pape](../regions/chateauneuf-du-pape.md) specification, although it is a very small
 presence in the vineyards. It is a late-budding, mid-ripening, vigorous vine
-that can produce fruity wines with moderate acidity.
+that can produce fruity wines with moderate [acidity](../concepts/acidity.md).
 
 ## Identity and history
 

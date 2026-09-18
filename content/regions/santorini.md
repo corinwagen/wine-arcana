@@ -8,7 +8,7 @@ aliases:
 
 Santorini is a wine region in the southern Aegean, encompassing the Greek
 islands of Santorini, or Thira, and neighbouring Thirasia. Its dry whites
-centre on [Assyrtiko](../grapes/assyrtiko.md), combining firm acidity with
+centre on [Assyrtiko](../grapes/assyrtiko.md), combining firm [acidity](../concepts/acidity.md) with
 substantial flavour and body. Sweet Vinsanto develops another expression of
 the local grapes through sun-drying and prolonged ageing in wood.
 

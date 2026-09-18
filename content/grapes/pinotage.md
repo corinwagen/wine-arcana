@@ -47,7 +47,7 @@ regional identity.
 
 ## Wine character and reputation
 
-Pinotage can give substantial colour and firm tannin. Plum and cherry
+Pinotage can give substantial colour and firm [tannin](../concepts/tannin.md). Plum and cherry
 characters occur across different styles; oak can add coffee, chocolate, or
 smoky impressions. Recent reporting on South African producers also describes
 fresher, more lightly handled wines whose appeal rests on fruit and

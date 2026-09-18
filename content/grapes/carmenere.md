@@ -44,7 +44,7 @@ it as midseason against its French reference variety, Chasselas. Ripening
 categories depend on the reference and conditions; they are not universal
 harvest dates.
 
-Ripe fruit can yield deeply coloured, tannic wines with relatively low acidity.
+Ripe fruit can yield deeply coloured, tannic wines with relatively low [acidity](../concepts/acidity.md).
 Plantgrape also notes possible bitterness and herbal character when maturity
 is inadequate. Waiting longer has to be weighed against the balance of the
 fruit already on the vine.

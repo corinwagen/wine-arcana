@@ -14,8 +14,8 @@ Valpolicella](../styles/amarone-della-valpolicella.md), for which harvested
 grapes undergo *appassimento*—a prolonged
 period of partial drying before fermentation.
 
-Fresh Corvina generally supplies moderate colour and tannin together with
-conspicuous acidity and a red-fruit profile. Drying removes water and changes
+Fresh Corvina generally supplies moderate colour and [tannin](../concepts/tannin.md) together with
+conspicuous [acidity](../concepts/acidity.md) and a red-fruit profile. Drying removes water and changes
 the living berry, supporting more concentrated and alcoholic wines such as Amarone.
 
 ## Identity and blending partners

@@ -53,7 +53,7 @@ is dry.[^1]
 Citrus and tropical-fruit expression also depends on winemaking. The IFV
 identifies volatile thiols among the compounds relevant to Gros Manseng's
 aroma. Yeast can release these from odourless precursors during fermentation;
-juice handling, yeast choice, and subsequent oxidation therefore affect how
+juice handling, yeast choice, and subsequent [oxidation](../concepts/oxidation.md) therefore affect how
 strongly they appear. This helps explain why two Gros Manseng wines can differ
 even before their blending partners or sweetness are considered.
 

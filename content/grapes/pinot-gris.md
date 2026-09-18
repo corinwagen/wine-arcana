@@ -15,7 +15,7 @@ unusual among familiar white-wine grapes is the skin: ripe berries can be
 gray-pink, brownish pink, or blue-gray rather than green or yellow.
 
 The two best-known names nevertheless suggest a useful, if imperfect,
-stylistic divide. Alsace Pinot Gris is commonly made from riper fruit as a
+stylistic divide. [Alsace](../regions/alsace.md) Pinot Gris is commonly made from riper fruit as a
 broader, more concentrated wine and ranges from dry to sweet. Much northern
 Italian Pinot Grigio is picked earlier and made as a lighter, dry wine that
 emphasizes freshness. These are production traditions rather than properties
@@ -51,7 +51,7 @@ cellar decision.
 Pinot Gris buds and ripens early. Its bunches and berries are usually small,
 and the compact clusters can be vulnerable to grey rot in wet conditions.
 Official French observations describe a strong capacity to accumulate sugar
-while retaining low to moderate acidity, although site, crop, weather, and
+while retaining low to moderate [acidity](../concepts/acidity.md), although site, crop, weather, and
 harvest date can shift that balance. The early season helps it ripen in cool
 and moderate regions, but it also makes the picking decision consequential.
 
@@ -67,7 +67,7 @@ grapes still need enough acidity and sound fruit to avoid a heavy or dull wine.
 Alsace provides the reference point for the richer Pinot Gris model. Fruit is
 often harvested later and at lower yields than for the widely produced light
 Pinot Grigio model, giving more potential alcohol and concentration.[^2]
-Fermentation may carry the wine to dryness or leave residual sugar, so the
+Fermentation may carry the wine to dryness or leave [residual sugar](../concepts/residual-sugar.md), so the
 region's Pinot Gris spans dry, off-dry, and sweet forms. Riper dry wines can
 feel broad without tasting sweet; later-picked wines may add greater density
 and, depending on the season and fruit condition, honeyed or smoky

@@ -6,12 +6,12 @@ title: Xinomavro
 
 Xinomavro is a dark-skinned *Vitis vinifera* grape central to northern
 Greek wine. Its name combines the Greek words for sour and black. The
-wines often have marked acidity and tannin, with relatively modest colour,
+wines often have marked [acidity](../concepts/acidity.md) and tannin, with relatively modest colour,
 and can develop for years in bottle. Naoussa and Amyndeon are important
 centres for varietal wines; Goumenissa and Rapsani have established blending
 traditions.
 
-The grape's uses extend to rosé, sparkling wine, and white wine pressed
+The grape's uses extend to [rosé](../styles/rose.md), sparkling wine, and white wine pressed
 from dark grapes. These styles draw on its acidity while extracting less
 of the skins' and seeds' tannin than a full red-wine fermentation.
 

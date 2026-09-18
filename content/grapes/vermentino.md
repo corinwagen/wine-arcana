@@ -61,7 +61,8 @@ and considerable sensitivity to powdery mildew.[^1]
 
 Plantgrape describes Vermentino's wines as balanced and full-bodied, with
 aromatic richness that includes floral and pear-like associations, though they
-can sometimes lack acidity.[^1] Local selection and growing conditions influence
+can sometimes lack [acidity](../concepts/acidity.md).[^1] Local selection and
+growing conditions influence
 that balance.
 
 [^1]: Institut français de la vigne et du vin, INRAE & Institut Agro

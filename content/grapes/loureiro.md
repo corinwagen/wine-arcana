@@ -10,7 +10,7 @@ Loureiro is a pale-skinned *Vitis vinifera* variety of Atlantic northwest
 Iberia, best known in Portugal's [Vinho Verde](../regions/vinho-verde.md) region and especially in the Lima
 subregion. Across the border in Galicia it is called Loureira; the two names
 refer to the same cultivar. The grape combines pronounced floral and citrus
-aromatic potential with firm acidity, qualities that have long made it useful
+aromatic potential with firm [acidity](../concepts/acidity.md), qualities that have long made it useful
 in blends.
 
 Loureiro is also increasingly bottled on its own. The change matters because

@@ -15,7 +15,7 @@ in central Italy. Its two principal local expressions,
 [Verdicchio di Matelica](../regions/matelica.md), show how the same grape can
 respond to different relationships between hills, mountains, and sea.
 
-The wines commonly retain marked acidity alongside enough substance for
+The wines commonly retain marked [acidity](../concepts/acidity.md) alongside enough substance for
 ageing. Citrus and orchard-fruit impressions and an almond-like finish are
 useful reference points. Harvest timing, site, and maturation determine
 whether the result is a brisk young white or a broader, more developed wine.

@@ -6,7 +6,7 @@ title: Chianti Classico
 
 Chianti Classico is a red-wine denomination in the hills between Florence and
 Siena in Tuscany. [Sangiovese](../grapes/sangiovese.md) supplies its foundation,
-bringing acidity and tannin to wines whose weight and ripeness vary across
+bringing [acidity](../concepts/acidity.md) and [tannin](../concepts/tannin.md) to wines whose weight and ripeness vary across
 the region's elevations, exposures, and soils.
 
 Chianti Classico and Chianti are separate denominations with distinct
@@ -40,7 +40,7 @@ wine's origin.
 The specification consolidated on 22 June 2023 requires ordinary Chianti
 Classico and Riserva to contain 80–100% Sangiovese. The remainder may come
 from authorized red varieties. This permits both pure Sangiovese and blends
-with grapes such as Canaiolo, Colorino, Merlot, or Cabernet Sauvignon.[^1]
+with grapes such as Canaiolo, Colorino, [Merlot](../grapes/merlot.md), or [Cabernet Sauvignon](../grapes/cabernet-sauvignon.md).[^1]
 
 The proportions can change the wine's colour, tannin, and fruit profile.
 Extraction during fermentation then determines how much material passes

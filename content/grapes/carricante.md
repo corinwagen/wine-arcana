@@ -5,7 +5,7 @@ title: Carricante
 # Carricante
 
 Carricante is a white *Vitis vinifera* grape associated above all with
-[Mount Etna](../regions/etna.md) in eastern Sicily. Its wines can combine firm acidity with
+[Mount Etna](../regions/etna.md) in eastern Sicily. Its wines can combine firm [acidity](../concepts/acidity.md) with
 substantial body and citrus or floral impressions. That combination makes
 it valuable both as a varietal white and as a source of freshness in
 local blends.
@@ -55,7 +55,7 @@ choices.
 Etna Bianco requires at least 60% Carricante. Etna Bianco Superiore requires
 at least 80%, and its grapes must come from the defined part of the commune
 of Milo. These are separate composition and origin requirements.[^2]
-Catarratto and other permitted white grapes can contribute to the blends.
+[Catarratto](catarratto.md) and other permitted white grapes can contribute to the blends.
 A wine made entirely from Carricante therefore represents one choice within
 a broader local tradition of white winemaking.
 

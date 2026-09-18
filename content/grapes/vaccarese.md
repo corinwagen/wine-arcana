@@ -8,7 +8,9 @@ aliases:
 
 Vaccarèse is the local southern Rhône name for the dark-skinned grape that the
 French varietal catalogue calls Brun argenté N. It is a minor variety in the
-Rhône. Its clearest legal home is Châteauneuf-du-Pape, whose specification lists
+Rhône. Its clearest legal home is
+[Châteauneuf-du-Pape](../regions/chateauneuf-du-pape.md), whose specification
+lists
 “brun argenté N (localement dénommé ‘vaccarèse’)” among the permitted grapes for
 both red and white wines.[^1]
 

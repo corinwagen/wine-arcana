@@ -29,7 +29,7 @@ Wet spring weather can produce uneven berry development, while powdery
 mildew deserves particular attention.
 
 Harvest timing varies with site and season. Rauscedo's clonal descriptions
-also differ in acidity and suitability for longer maturation, reflecting
+also differ in [acidity](../concepts/acidity.md) and suitability for longer maturation, reflecting
 the variation in plant material available to growers.
 
 ## Aroma and development
@@ -53,7 +53,7 @@ aroma can occur in a dry wine.
 
 The production specification published by the Irpinia consortium requires
 at least 85% Fiano, with a limited balance of [Greco](greco.md), Coda di Volpe, and
-Trebbiano Toscano. Its area includes Lapio, Montefredane, Summonte, and other
+[Trebbiano Toscano](ugni-blanc.md). Its area includes Lapio, Montefredane, Summonte, and other
 communes around Avellino.[^2]
 
 [^1]: Regione Campania and Università degli Studi di Napoli Federico II,

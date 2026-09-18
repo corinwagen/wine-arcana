@@ -7,7 +7,7 @@ title: Rioja
 Rioja is a protected wine region along the Ebro and its tributaries in northern
 Spain. The name belongs to a Denominación de Origen Calificada (DOCa), whose
 rules cover origin, authorized grapes, production, and labelling. Rioja
-includes red, white, rosé, and
+includes red, white, [rosé](../styles/rose.md), and
 [traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md),
 although oak-matured red wine has shaped its international image most strongly.
 
@@ -27,7 +27,7 @@ and distance from the Ebro create important differences within each zone.
 
 Rioja Alta occupies most of the western and central part of the denomination.
 Its generally cooler, wetter, more Atlantic-influenced conditions tend to slow
-ripening and help grapes retain acidity, though lower and warmer sites do not
+ripening and help grapes retain [acidity](../concepts/acidity.md), though lower and warmer sites do not
 behave like high, exposed ones. Rioja Alavesa lies mainly north of the Ebro,
 between the river and the Sierra de Cantabria. It also receives Atlantic
 influence but sits where Atlantic and Mediterranean patterns meet; its small
@@ -45,7 +45,7 @@ neat climatic blocks.[^1]
 ## Grapes and wine
 
 [Tempranillo](../grapes/tempranillo.md) is the principal red grape and ripens
-relatively early. It can supply colour and tannin for long maturation, but its
+relatively early. It can supply colour and [tannin](../concepts/tannin.md) for long maturation, but its
 balance changes with heat, water, crop level, and harvest date. Garnacha is
 later-ripening and has a particularly strong association with warmer eastern
 sites, although it is grown elsewhere and may lead a wine. Graciano and

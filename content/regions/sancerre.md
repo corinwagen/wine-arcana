@@ -9,7 +9,7 @@ department of central France. It lies in the Centre-Loire, at the eastern end
 of the Loire wine region and on the river's left bank, opposite
 Pouilly-sur-Loire. White Sancerre, made from [Sauvignon
 Blanc](../grapes/sauvignon-blanc.md), dominates its modern identity, but the
-appellation also covers red and rosé wines made from [Pinot
+appellation also covers red and [rosé](../styles/rose.md) wines made from [Pinot
 Noir](../grapes/pinot-noir.md).
 
 ## Geography and climate
@@ -55,7 +55,7 @@ that geological minerals pass through the vine as literal rock flavour.[^1]
 
 ## Grapes and wine
 
-Sauvignon Blanc combines naturally firm acidity with aroma compounds whose
+Sauvignon Blanc combines naturally firm [acidity](../concepts/acidity.md) with aroma compounds whose
 expression changes with ripeness, bunch exposure, fermentation, and oxygen
 management. Earlier picking can retain more acidity and green character;
 later harvest generally shifts the balance toward riper fruit, though hot or
@@ -68,8 +68,8 @@ ageing, blend sites, or bottle individual parcels. Vessel, microbial choices,
 and time on lees can change texture and aroma without changing the vineyard.
 
 Pinot Noir provides a smaller but important counterpoint. Red Sancerre depends
-on skin contact for colour and tannin, so destemming, the inclusion of whole
-clusters, maceration length, extraction, and maturation can move it from a
+on skin contact for colour and [tannin](../concepts/tannin.md), so destemming, the inclusion of whole
+clusters, [maceration](../concepts/maceration.md) length, extraction, and maturation can move it from a
 light, early-drinking form toward a firmer wine. Rosé is usually made by direct
 pressing and sometimes by a short maceration, limiting extraction from the
 dark skins. The current rules require red wine to complete malolactic

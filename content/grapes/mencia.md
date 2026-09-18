@@ -17,7 +17,7 @@ The variety is often described through its fragrance: young wines can suggest
 red cherry or raspberry, sometimes with a floral or herbal accent. Season,
 exposure, water supply, crop, and harvest date can move it from bright and
 light-footed to ripe and broad, while extraction determines how much colour
-and tannin frame the fruit.
+and [tannin](../concepts/tannin.md) frame the fruit.
 
 ## Identity and history
 
@@ -47,7 +47,7 @@ of the modern variety.
 Mencía is capable of regular, substantial crops and ripens early to mid-season,
 depending on the site and the reference used. That timing can help it mature in
 Atlantic-influenced districts, but rapid sugar accumulation in a warm parcel
-can leave a narrow interval between aromatic ripeness and declining acidity.
+can leave a narrow interval between aromatic ripeness and declining [acidity](../concepts/acidity.md).
 
 The vine has medium-sized, often compact bunches. In humid Galician conditions
 it is susceptible to powdery mildew and vulnerable to bunch rot; in the drier
@@ -74,7 +74,7 @@ acidity. Healthy, fully developed grapes can still make a fragrant wine without
 high extraction.
 
 Skin contact changes both the structure and the aromatic frame. Shorter,
-gentler maceration can preserve a more direct fruit impression and limit
+gentler [maceration](../concepts/maceration.md) can preserve a more direct fruit impression and limit
 tannin. More active or extended extraction can deepen colour and build grip,
 but it may also make seed or stem tannin more conspicuous.
 

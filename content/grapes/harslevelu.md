@@ -47,7 +47,7 @@ fruit, while riper examples have greater breadth.
 
 Hárslevelű often feels softer than Furmint in Tokaj. In a blend it can add
 perfume and round out the palate, with the result depending on each wine's
-acidity, ripeness, and proportions. It also makes substantial varietal dry
+[acidity](../concepts/acidity.md), ripeness, and proportions. It also makes substantial varietal dry
 wines, including vineyard selections that develop with bottle age.
 
 Sweet examples gain another layer from concentrated fruit and botrytis.

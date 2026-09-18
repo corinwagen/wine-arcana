@@ -11,7 +11,7 @@ geographical and production categories, so the part of the region and the
 method of making the wine both matter.
 
 Fresh-grape Soave usually emphasizes dry white wine with gentle fruit, a
-floral character, and an almond-like finish. Recioto di Soave develops a
+floral character, and an almond-like finish. [Recioto di Soave](../styles/recioto-di-soave.md) develops a
 separate tradition of sweet wine from grapes dried after harvest.
 
 ## Hills, valleys, and vineyards
@@ -58,7 +58,7 @@ Soave DOC requires at least 70% Garganega.
 [Chardonnay](../grapes/chardonnay.md) may contribute within the remaining 30%,
 with a limited allowance for other authorized white varieties.[^1] Some
 producers work entirely with Garganega; others use the partners to adjust the
-blend's acidity, texture, and aromatic balance.
+blend's [acidity](../concepts/acidity.md), texture, and aromatic balance.
 
 Garganega's vigour and long ripening season make crop and canopy decisions
 important. Harvesting a larger crop from fertile ground, selecting ripe

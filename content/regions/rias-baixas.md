@@ -58,7 +58,7 @@ different permitted combinations of grapes for several named subzone wines.[^1]
 ## Grapes and wet-climate viticulture
 
 Albariño accounts for more than 96 percent of the harvest data cited in the
-current specification. Its ability to retain acidity while ripening and its
+current specification. Its ability to retain [acidity](../concepts/acidity.md) while ripening and its
 relatively thick berry skins help explain its central place. The protection
 offered by those skins is limited: sustained humidity still raises fungal
 pressure, and research on Albariño has found meaningful differences in downy

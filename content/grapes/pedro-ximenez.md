@@ -35,7 +35,7 @@ different cultivars and found no genetic relationship between them in the
 markers examined; it instead supported Pedro Giménez as offspring of [Muscat of
 Alexandria](moscatel-de-alejandria.md) and Criolla Chica.[^2]
 
-On a label, Pedro Ximénez may name a naturally sweet fortified wine under a
+On a label, Pedro Ximénez may name a naturally sweet [fortified wine](../concepts/fortification.md) under a
 regional appellation as well as the grape. Pedro Ximénez can also be made dry:
 Montilla-Moriles permits it in unaged and aged white wines, as well as in its
 Fino style. The legal category and production method explain the finished wine.
@@ -57,7 +57,7 @@ made from at least 95% Pedro Ximénez; the dried-grape must must contain at leas
 After pressing, the concentrated must is fortified early enough that much of
 its sugar remains. Some Montilla-Moriles PX is sold without ageing; other lots
 age oxidatively in cask, either as a vintage wine or through fractional
-*criaderas y solera* blending. Oxidative maturation darkens the wine and can
+*[criaderas y solera](../concepts/solera.md)* blending. Oxidative maturation darkens the wine and can
 move it beyond fresh-grape notes toward raisin, caramelized, roasted, or
 coffee-like impressions. Duration, cask history, oxygen exposure, strength,
 and the starting fruit all affect the balance.

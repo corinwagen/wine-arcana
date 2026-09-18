@@ -7,8 +7,8 @@ aliases:
 # Counoise
 
 Counoise is a dark-skinned *Vitis vinifera* variety from southern France. It
-is a minor grape in the southern Rhône, but its modest color, moderate tannin,
-acidity, fruit, and spice give it a distinctive blending role. A small
+is a minor grape in the southern Rhône, but its modest color, moderate [tannin](../concepts/tannin.md),
+[acidity](../concepts/acidity.md), fruit, and spice give it a distinctive blending role. A small
 proportion can make a blend feel more open and lively beside denser varieties
 such as [Grenache](grenache.md), [Syrah](syrah.md), and
 [Mourvèdre](mourvedre.md).
@@ -23,7 +23,7 @@ the Rhône Valley. The name Moustardier survives in accounts of older vineyards
 in Gigondas and Tavel, but Plantgrape lists no official synonym in France or
 elsewhere in the European Union.[^1]
 
-The variety has a long association with Châteauneuf-du-Pape. An account
+The variety has a long association with [Châteauneuf-du-Pape](../regions/chateauneuf-du-pape.md). An account
 preserved by Tablas Creek says that a papal officer brought it from Spain to
 Pope Urban V when the papacy was based in Avignon in the fourteenth century.
 That story is legendary rather than a documented origin. Tablas Creek also
@@ -73,7 +73,7 @@ a scale that may be more perceptible in the blend's balance than as a distinct
 varietal flavor. The adopted Vinsobres specification lists Counoise N as an
 accessory grape for red wines.[^4]
 
-It is also suitable for rosé. Limited skin contact makes its pale color an
+It is also suitable for [rosé](../styles/rose.md). Limited skin contact makes its pale color an
 advantage, while its fruit and acidity can keep the wine from feeling flat. A
 varietal red is possible, but the grape's regional identity remains tied to
 assemblage: it is a small ingredient whose purpose is often clearest in
@@ -89,7 +89,7 @@ Skin contact must be judged with the raw material in mind. Longer extraction
 can add phenolic weight. Rosé production uses the opposite logic, limiting
 contact to preserve its lighter structure. Tablas Creek, which has worked with
 the grape in California since importing cuttings from Château de Beaucastel in
-1990, reports that its Counoise is prone to oxidation and uses closed
+1990, reports that its Counoise is prone to [oxidation](../concepts/oxidation.md) and uses closed
 fermenters and foudre aging.[^2]
 
 ## California's small revival

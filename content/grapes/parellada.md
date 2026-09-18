@@ -63,7 +63,7 @@ still wine, but it is more often valued as a blending grape in Penedès.[^3]
 Its traditional Cava role makes that logic clearest. The current specification
 authorizes Parellada for both base wine and Cava, and identifies Macabeo,
 Xarel·lo, and Parellada as the three most cultivated varieties. It describes
-Parellada base wines as lower in alcohol, medium in acidity, light-bodied, and
+Parellada base wines as lower in alcohol, medium in [acidity](../concepts/acidity.md), light-bodied, and
 often floral. In its account of the traditional blend, Parellada contributes
 lightness and softness, Xarel·lo more structure, and Macabeo light fruit and
 floral character.[^4] Individual wines still vary with site, harvest, blending,

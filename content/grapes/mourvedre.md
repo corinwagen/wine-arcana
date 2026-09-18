@@ -48,8 +48,8 @@ French observations place both budbreak and maturity late. At the reference
 collection used by Plantgrape, Mourvèdre buds about two weeks after Chasselas
 and reaches maturity about four and a half weeks after it.[^2] A site must
 supply sustained warmth, including warm nights late in the season. In a
-marginal site or cool year, sugar can lag and tannin remain severe. In a very
-hot site, waiting can instead raise potential alcohol while acidity falls.
+marginal site or cool year, sugar can lag and [tannin](../concepts/tannin.md) remain severe. In a very
+hot site, waiting can instead raise potential alcohol while [acidity](../concepts/acidity.md) falls.
 
 Mourvèdre's upright growth suits short pruning and traditional bush-vine or
 cordon training. Its relatively sparse foliage means repeated trimming can
@@ -79,7 +79,8 @@ reds as tannic.
 Fruit picked before the skins and seeds have matured can give an especially hard
 texture. Later harvest may soften that impression but also bring more sugar and
 less acidity. Longer or more forceful skin contact can extract more tannin,
-while rosé production limits it. Mourvèdre can add structure to blends with the
+while [rosé](../styles/rose.md) production limits it. Mourvèdre can add
+structure to blends with the
 broader fruit and softer texture of [Grenache](grenache.md) or complement
 [Syrah](syrah.md)'s color and aroma. Site, harvest date, and cellar practice also
 create wide variation among varietal reds.

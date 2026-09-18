@@ -31,7 +31,7 @@ the available sugar. A fermentation that has stopped changing can therefore
 still contain appreciable fermentable sugar. Monitoring sugar consumption
 helps distinguish completion from a stalled fermentation.
 
-In fortified wine, the timing of spirit addition offers deliberate control.
+In [fortified wine](fortification.md), the timing of spirit addition offers deliberate control.
 [Madeira](../styles/madeira.md) producers, for example, interrupt fermentation
 according to the desired sweetness. Earlier interruption preserves more of the
 grape sugar; longer

@@ -15,7 +15,7 @@ grown in the Weinviertel sits alongside site-specific wines from the Danube
 regions. The variety spans light, early-drinking dry wines and ripe,
 concentrated wines that can develop in bottle.
 
-Pepper, savory character, and firm acidity are common points of recognition,
+Pepper, savory character, and firm [acidity](../concepts/acidity.md) are common points of recognition,
 but clone, crop, water supply, season, harvest date, and cellar handling alter
 them. The vine is fruitful enough to make light wine in quantity; on a suitable
 site and at restrained yields, it can also ripen to substantial sugar and

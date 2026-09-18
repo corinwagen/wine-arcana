@@ -49,7 +49,7 @@ identified.
 Falanghina commonly makes dry whites with floral and citrus impressions,
 while riper examples can suggest tropical fruit and feel fuller. The
 Benevento selections described by Rauscedo combine fruit aroma with enough
-acidity for fresh-tasting wines, and some are also suited to dried-grape
+[acidity](../concepts/acidity.md) for fresh-tasting wines, and some are also suited to dried-grape
 production. Harvest maturity and the intended style both matter to the
 balance of fruit, alcohol, and acidity.
 

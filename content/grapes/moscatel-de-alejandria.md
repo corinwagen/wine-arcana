@@ -21,7 +21,7 @@ Muscat of Alexandria and [Muscat Blanc à Petits
 Grains](muscat-blanc-a-petits-grains.md) are closely related and important
 parents within the wider group. Their pronounced grape-and-flower perfume comes
 largely from monoterpenes,
-aroma compounds already present in the fruit. Dryness, sweetness, fortification,
+aroma compounds already present in the fruit. Dryness, sweetness, [fortification](../concepts/fortification.md),
 and bottle age can nevertheless make their wines seem very different.
 
 ## History and identity
@@ -65,7 +65,8 @@ Linalool, geraniol, nerol, and related monoterpenes are important to the grape's
 characteristic muscat profile. Their concentration and form vary with ripeness,
 and many are concentrated in the skins. Fermentation and ageing then alter what
 remains perceptible.[^4] A dry Moscatel can therefore remain strongly aromatic while
-containing little residual sugar; a sweet version may gain weight from retained
+containing little [residual sugar](../concepts/residual-sugar.md); a sweet
+version may gain weight from retained
 grape sugar without losing all sense of freshness.
 
 In southern Spain, Moscatel de Alejandría is associated with sweet wines and

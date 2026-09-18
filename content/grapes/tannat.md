@@ -6,7 +6,7 @@ title: Tannat
 
 Tannat is a red grape from southwestern France whose main associations are
 Madiran and Uruguay. It supplies substantial colour, [tannin](../concepts/tannin.md),
-and acidity. Those properties give winemakers considerable material to work
+and [acidity](../concepts/acidity.md). Those properties give winemakers considerable material to work
 with, from firm wines intended for maturation to gentler, earlier-drinking
 expressions.
 
@@ -25,7 +25,7 @@ adoption gave Uruguay a durable varietal identity, while France retained
 the grape within a culture more commonly organized around appellation names.
 Both countries therefore provide useful contexts for understanding it.
 
-Uruguayan production includes substantial dry reds, but also rosé and
+Uruguayan production includes substantial dry reds, but also [rosé](../styles/rose.md) and
 sparkling interpretations. The wine institute's account emphasizes differences
 among regions and families in blending and maturation. A national label alone
 is consequently a poor guide to how firm or soft a particular Tannat will be.

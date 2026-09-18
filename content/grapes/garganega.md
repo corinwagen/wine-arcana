@@ -22,7 +22,7 @@ the cellar.
 
 The Italian Vitis Database confirms Garganega's identity with Grecanico Dorato
 through molecular analysis. It also records parent–offspring relationships
-with several Italian grapes, including Trebbiano Toscano and
+with several Italian grapes, including [Trebbiano Toscano](ugni-blanc.md) and
 [Catarratto](catarratto.md).
 Those relationships establish its place in a large family of varieties; its
 own parents and precise geographical origin remain uncertain.[^1]
@@ -52,10 +52,10 @@ to powdery mildew and grey rot, with lower susceptibility to downy mildew.
 
 Garganega supplies the majority of Soave DOC. The specification available from
 the consortium, consolidated through 2019, requires at least 70%, with
-[Trebbiano di Soave](verdicchio.md) and Chardonnay among the permitted
+[Trebbiano di Soave](verdicchio.md) and [Chardonnay](chardonnay.md) among the permitted
 partners.[^2] This leaves
 room for both varietal wines and blends. Trebbiano di Soave can contribute
-acidity, while the site's ripening conditions and the producer's harvest
+[acidity](../concepts/acidity.md), while the site's ripening conditions and the producer's harvest
 choices affect how broad the Garganega component becomes.
 
 Cellar choices develop that range further. A wine kept in tank can retain a

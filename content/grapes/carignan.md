@@ -21,8 +21,8 @@ Its
 vigour and dependable fertility made it valuable for large-volume wine in
 twentieth-century southern France, where production from fertile sites helped
 give it a durable reputation for hard, plain wine. In suitable dry sites, with
-crop level controlled and the fruit fully ripe, it can instead bring acidity,
-tannin, and a firm shape to a blend or a varietal red. The recent interest in
+crop level controlled and the fruit fully ripe, it can instead bring [acidity](../concepts/acidity.md),
+[tannin](../concepts/tannin.md), and a firm shape to a blend or a varietal red. The recent interest in
 old-vine Carignan reflects that latter possibility, while site and vineyard
 management remain decisive.
 

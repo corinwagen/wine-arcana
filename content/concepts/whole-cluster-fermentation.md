@@ -10,7 +10,7 @@ Whole-cluster fermentation, also called whole-bunch fermentation, is a
 red-wine practice in which some or all grape bunches enter the fermenter with
 their berries attached to the stems. The rest of the fruit, if any, may be
 destemmed or crushed. This changes more than one variable at once: stems become
-part of the maceration, while many berries remain unbroken at first.
+part of the [maceration](maceration.md), while many berries remain unbroken at first.
 
 A whole-cluster lot may be open or closed, lightly trodden or actively worked,
 pressed early or kept on its solids after yeast fermentation. Those choices
@@ -72,7 +72,7 @@ cap work, and pressing.
 Stems contain tannins, other phenolic compounds, potassium, and aroma-active
 material. Their contribution depends on variety, vintage, growing conditions,
 stem-to-berry ratio, the proportion retained, and the duration and manner of
-contact. Studies often find more tannin and a higher pH when stems are
+contact. Studies often find more [tannin](tannin.md) and a higher pH when stems are
 included, but colour responses are inconsistent: stems can contribute
 phenolics while also changing pigment extraction and stability.[^2]
 
@@ -103,7 +103,7 @@ become excessive relative to a producer's aim.
 
 Fruit health and microbial management remain important. Whole-cluster wine can
 be inoculated or fermented with the organisms present on the fruit and in the
-cellar. Sulfur dioxide use, temperature, oxygen, vessel closure, and the speed
+cellar. [Sulfur dioxide](sulfur-dioxide.md) use, temperature, oxygen, vessel closure, and the speed
 at which yeast establishes itself also remain independent decisions. In one
 uninoculated, unsulfited winery comparison, whole-grape carbonic maceration
 delayed fermentation and supported greater microbial diversity, including

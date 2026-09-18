@@ -16,7 +16,7 @@ of Tuscany and much of central Italy. Chianti,
 Montepulciano, and Morellino di Scansano each situate the grape in a
 distinct geography, blending tradition, and regulatory frame.
 
-The variety commonly retains conspicuous acidity alongside tannin even when
+The variety commonly retains conspicuous [acidity](../concepts/acidity.md) alongside [tannin](../concepts/tannin.md) even when
 fully ripe. Both vary with clone, crop level, site, season, harvest date,
 blending, extraction, and maturation. The resulting wines range from relatively
 light, brisk reds to deeper wines built for long ageing.
@@ -77,7 +77,7 @@ tannin, and acid are separate components. Red-fruit and savoury impressions are
 common reference points. Warmer sites, riper harvests, bottle age, blending, and
 wood can shift them substantially.
 
-Maceration controls extraction from skins and seeds. [Malolactic
+[Maceration](../concepts/maceration.md) controls extraction from skins and seeds. [Malolactic
 fermentation](../concepts/malolactic-fermentation.md) softens malic acidity;
 [large casks and small barriques](../concepts/oak-maturation.md) offer different
 paths for oxygen and wood influence. Bottle age can integrate tannin and develop

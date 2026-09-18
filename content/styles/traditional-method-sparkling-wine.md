@@ -4,7 +4,7 @@ title: Traditional-method sparkling wine
 
 # Traditional-method sparkling wine
 
-Traditional-method sparkling wine undergoes a second alcoholic fermentation in
+Traditional-method sparkling wine undergoes a second [alcoholic fermentation](../concepts/alcoholic-fermentation.md) in
 the bottle. Yeast converts an added fermentable sugar into alcohol and carbon
 dioxide; because the bottle is sealed, much of the gas dissolves in the wine.
 The wine then matures on the resulting yeast lees, which are moved to the
@@ -22,7 +22,8 @@ method.
 ## How it is made
 
 The process starts with a still base wine. Grapes are commonly picked with less
-sugar and more retained acidity than fruit intended for many still wines because
+sugar and more retained [acidity](../concepts/acidity.md) than fruit intended
+for many still wines because
 the second fermentation will add alcohol and the finished wine must balance both
 carbon dioxide and any residual or added sugar. Climate, variety, fruit
 health, intended ageing, and local
@@ -30,7 +31,7 @@ rules determine a suitable harvest point.
 
 Pressing and first fermentation establish much of the wine's identity. Rapid,
 gentle pressing can produce pale juice from dark-skinned grapes such as [Pinot
-Noir](../grapes/pinot-noir.md), while longer skin contact can make rosé. A
+Noir](../grapes/pinot-noir.md), while longer skin contact can make [rosé](rose.md). A
 producer may keep parcels and varieties separate, ferment in steel or wood,
 allow or prevent [malolactic
 fermentation](../concepts/malolactic-fermentation.md), and blend across

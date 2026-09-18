@@ -49,11 +49,11 @@ Increasing Frappato's share can bring its perfume further forward. Riper
 Nero d'Avola may give a broader middle palate. Producers can also adjust
 [maceration](../concepts/maceration.md), including the time on skins and the
 movement of fermenting juice through them. These choices determine how much
-colour and tannin the blend acquires alongside its fruit.
+colour and [tannin](../concepts/tannin.md) the blend acquires alongside its fruit.
 
 Planeta's 2024 Cerasuolo used 60% Nero d'Avola and 40% Frappato. Its technical
 sheet describes brief pump-overs during fermentation, followed by further
-skin contact, malolactic fermentation, and maturation in stainless steel.
+skin contact, [malolactic fermentation](../concepts/malolactic-fermentation.md), and maturation in stainless steel.
 This is a concrete example of developing texture through extraction and time
 while keeping wood aromas out of the wine's profile.
 

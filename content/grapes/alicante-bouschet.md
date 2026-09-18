@@ -47,7 +47,7 @@ the fruit starts with an unusual reservoir of colour before a winemaker chooses
 how much skin extraction to use.
 
 Ripeness, vineyard conditions, crop level, and berry health affect the pigment
-available at harvest. Fermentation time, temperature, oxygen exposure, acidity,
+available at harvest. Fermentation time, temperature, oxygen exposure, [acidity](../concepts/acidity.md),
 and maturation determine how much colour is extracted, altered, or retained in
 the wine. Alicante Bouschet can deepen a blend at a modest proportion, while
 the other grapes and cellar work shape its eventual colour and texture.
@@ -64,7 +64,7 @@ pressure of a particular year.
 Its most characteristic contribution in the cellar is colour, which can appear
 across a range of tannic weight, acidity, and fruit expression depending on
 fruit maturity and extraction. In a blend, Alicante Bouschet may supply visual depth
-while another variety supplies aromatic detail, acidity, or a different tannin
+while another variety supplies aromatic detail, acidity, or a different [tannin](../concepts/tannin.md)
 shape. Varietal examples put the same decisions in clearer view: gentle handling
 can favour freshness and fruit, while longer skin contact builds more structure
 alongside the available colour.

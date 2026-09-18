@@ -9,7 +9,7 @@ aliases:
 
 Trincadeira is a dark-skinned Portuguese grape associated above all with
 Alentejo and, under the name Tinta Amarela, with the
-[Douro](../regions/douro.md). It can bring colour, acidity, and a distinctive
+[Douro](../regions/douro.md). It can bring colour, [acidity](../concepts/acidity.md), and a distinctive
 herbal-spicy character to dry reds and to blends for [Port](../styles/port.md).
 Its regional success rests on warm, dry conditions: dry weather reduces rot
 pressure on its fragile berries, while severe water stress and extreme heat can
@@ -74,10 +74,12 @@ other mature-fruit notes, while fruit picked too early can make the herbal side
 seem raw or dominant. Site, vintage, fermentation, extraction, and maturation
 all alter the aroma.
 
-The grape can supply deep colour, noticeable acidity, and appreciable tannin, but
+The grape can supply deep colour, noticeable acidity, and appreciable
+[tannin](../concepts/tannin.md), but
 none is fixed. Crop level and water status affect concentration, while skin
 contact controls how much pigment and tannin enter the wine. Its must and wine
-are also prone to oxidation, so sound fruit and careful handling matter. It can
+are also prone to [oxidation](../concepts/oxidation.md), so sound fruit and
+careful handling matter. It can
 be bottled alone when ripeness and fruit health align, although blending is
 common; in Alentejo it often joins [Aragonez](tempranillo.md), [Alicante
 Bouschet](alicante-bouschet.md),

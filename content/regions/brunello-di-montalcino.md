@@ -11,7 +11,7 @@ combines that varietal identity with a long maturation period, including time
 in oak and bottle before release.[^1]
 
 Within those requirements, wines vary with the hillside, vintage, extraction,
-and choice of ageing vessel. Sangiovese can retain marked acidity and tannin
+and choice of ageing vessel. Sangiovese can retain marked [acidity](../concepts/acidity.md) and [tannin](../concepts/tannin.md)
 at full ripeness, giving producers substantial material to work with over
 that extended period.
 

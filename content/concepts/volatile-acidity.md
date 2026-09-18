@@ -50,7 +50,7 @@ an acid in the VA measurement.
 
 Their proportions matter. Two wines with similar acetic acid can smell quite
 different if one contains more ethyl acetate. Sugar can mask some of the
-impression, while acidity and tannin affect the perceived harshness. The
+impression, while acidity and [tannin](tannin.md) affect the perceived harshness. The
 Australian Wine Research Institute (AWRI) therefore treats the sensory
 interpretation of VA as dependent on the wine matrix and the accompanying
 ethyl acetate.[^1] A single analytical value cannot

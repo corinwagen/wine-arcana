@@ -11,7 +11,7 @@ Drying concentrates the fruit before pressing, while fermentation leaves
 substantial sweetness in the finished wine.
 
 The style joins ripe and dried-fruit impressions with a broad texture and
-acidity that keeps the sweetness lively. Harvest selection, the conditions
+[acidity](../concepts/acidity.md) that keeps the sweetness lively. Harvest selection, the conditions
 in the drying room, and subsequent fermentation and maturation all influence
 its character.
 
@@ -71,7 +71,7 @@ texture and aromas alongside its fruit.
 
 ## The denomination
 
-Recioto di Soave DOCG requires at least 70% Garganega. Trebbiano di Soave can
+Recioto di Soave DOCG requires at least 70% Garganega. [Trebbiano di Soave](../grapes/verdicchio.md) can
 supply the remainder, with a small allowance for other authorized white
 varieties within that share. The specification consolidated on 24 October
 2019 sets a minimum residual reducing sugar content of 70 grams per litre

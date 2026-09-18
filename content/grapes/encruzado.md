@@ -10,7 +10,7 @@ Encruzado is a pale-skinned Portuguese grape whose identity is closely bound
 to [Dão](../regions/dao.md). It can be blended with other local white varieties, but varietal
 bottlings have made it an increasingly visible name in its own right. The
 grape's particular interest lies less in an extravagant aroma than in its
-ability to combine weight, acidity, and a firm shape that can remain clear in
+ability to combine weight, [acidity](../concepts/acidity.md), and a firm shape that can remain clear in
 both unoaked and more elaborately matured wines.
 
 That balance helps explain Encruzado's association with lees and oak. Lees
@@ -68,8 +68,8 @@ a broader wine; earlier harvesting and inert vessels can preserve a tighter,
 more direct expression.
 
 Acidity provides contrast to that breadth and can support bottle development,
-with development depending on fruit condition, protection from oxidation,
-sulfur dioxide management, closure, and storage. This is especially relevant
+with development depending on fruit condition, protection from [oxidation](../concepts/oxidation.md),
+[sulfur dioxide](../concepts/sulfur-dioxide.md) management, closure, and storage. This is especially relevant
 because one Portuguese varietal record describes both must and wine as
 oxidation-sensitive.
 

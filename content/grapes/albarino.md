@@ -14,7 +14,7 @@ regional names for the same cultivar. Its principal reference points are
 e Melgaço on the south side of the Minho River.
 
 The variety combines relatively thick skins, marked aromatic potential, and an
-ability to retain substantial acidity as it ripens. Rain and humidity increase
+ability to retain substantial [acidity](../concepts/acidity.md) as it ripens. Rain and humidity increase
 fungal pressure and vigorous growth, while site, season, harvest date, and
 cellar choices determine whether the resulting wine is lean and citrus-led,
 ripe and broad, or somewhere between.

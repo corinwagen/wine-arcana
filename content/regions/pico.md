@@ -57,7 +57,7 @@ Arinto dos Açores supplies a clear example of the range within contemporary
 dry production. Azores Wine Company's 2025 bottling uses whole-bunch pressing,
 followed by fermentation in small horizontal tanks and maturation on fine
 [lees](../concepts/lees-aging.md). The producer describes citrus fruit,
-pronounced acidity, and a saline finish.
+pronounced [acidity](../concepts/acidity.md), and a saline finish.
 
 Picowines takes a different cellar route for its 2023 Arinto dos Açores:
 fermentation in a 5,000-litre wooden vat, followed by six months there with

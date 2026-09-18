@@ -64,7 +64,8 @@ as still wine throughout the same broader territory.
 ## From young white to long-aged wine
 
 Macabeo's aroma is often discreet, particularly when it is picked before full
-aromatic ripeness to preserve acidity. In a protected, inert vessel and bottled
+aromatic ripeness to preserve [acidity](../concepts/acidity.md). In a protected,
+inert vessel and bottled
 young, that restraint can suit a clean, neutral white or a sparkling base wine.
 Riper fruit and careful work with [fine lees](../concepts/lees-aging.md) can give
 greater texture, while barrel fermentation or [oak

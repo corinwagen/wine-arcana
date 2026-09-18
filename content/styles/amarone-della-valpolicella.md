@@ -12,7 +12,7 @@ fermented rather than vinified fresh. Water loss gives the must more sugar and
 a higher ratio of skins to juice, so fermentation can produce substantial
 alcohol, extract, and body. “Dry” distinguishes Amarone above all from sweet
 Recioto della Valpolicella; it does not mean that every bottle contains almost
-no residual sugar.
+no [residual sugar](../concepts/residual-sugar.md).
 
 Amarone is both a method-defined style and a protected denomination of origin.
 The current specification controls its production zone, grape framework,
@@ -65,7 +65,7 @@ November of the harvest year. The specification does not prescribe one barrel
 size or wood regime for this period. Producers commonly use wood, but large
 casks, smaller barrels, blending, and further bottle age can lead in different
 directions. Newer or smaller wood can contribute more wood-derived flavour and
-tannin, while larger or older vessels generally make [oak maturation](../concepts/oak-maturation.md)
+[tannin](../concepts/tannin.md), while larger or older vessels generally make [oak maturation](../concepts/oak-maturation.md)
 less overt.
 
 ## Amarone, Recioto, and Ripasso
@@ -77,7 +77,7 @@ specification requires at least 2.8% potential alcohol to remain after
 fermentation.[^4] Amarone ferments much farther. At release it must contain at
 least 14% actual alcohol, while total residual sugar is capped at 9 g/L at 14%
 alcohol and may rise incrementally as alcohol increases.[^1] Amarone can
-therefore taste dry or gently sweet depending on alcohol, acidity, fruit,
+therefore taste dry or gently sweet depending on alcohol, [acidity](../concepts/acidity.md), fruit,
 serving conditions, and where its sugar falls below that ceiling.
 
 Valpolicella Ripasso follows another route. It starts as eligible Valpolicella
@@ -93,7 +93,7 @@ an appassimento wine.[^4]
 
 Water loss
 can intensify sound, balanced fruit, but it can also magnify overripeness,
-oxidation, rot, or difficult fermentation. More drying may increase potential
+[oxidation](../concepts/oxidation.md), rot, or difficult fermentation. More drying may increase potential
 alcohol and extract while reducing juice yield and making a clean dry finish
 harder to achieve. A slower process gives the berry more time for metabolic
 change, yet slow drying is useful only while the fruit remains healthy.

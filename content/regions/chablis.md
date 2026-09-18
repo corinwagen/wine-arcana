@@ -89,7 +89,7 @@ stirring the lees changes both contact and oxygen exposure. A producer may use
 these tools to broaden a naturally firm wine or handle them conservatively to
 retain a more direct expression.
 
-Cooler sites and seasons often emphasize acidity and restraint; warmer
+Cooler sites and seasons often emphasize [acidity](../concepts/acidity.md) and restraint; warmer
 conditions, later harvest, extended lees contact, or barrel fermentation can
 give broader texture and earlier openness. Bottle age adds another variable.
 

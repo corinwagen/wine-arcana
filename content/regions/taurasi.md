@@ -8,7 +8,7 @@ Taurasi is a red-wine appellation in Irpinia, the inland part of Campania
 around Avellino. It takes its name from the town of Taurasi and extends across
 seventeen communes in the hills around the Calore valley. Its principal grape,
 [Aglianico](../grapes/aglianico.md), ripens late and produces wines with enough
-acidity and tannin to sustain prolonged maturation.
+[acidity](../concepts/acidity.md) and [tannin](../concepts/tannin.md) to sustain prolonged maturation.
 
 This is a mountain-influenced setting for southern Italian red wine. Elevation,
 exposure, and autumn weather shape the growing season, with some vineyards

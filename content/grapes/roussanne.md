@@ -9,7 +9,7 @@ aliases:
 Roussanne is a white *Vitis vinifera* grape of the Rhône Valley. Its name is
 often connected with the russet or reddish-gold colour of ripe berries, and
 that colour change is a useful vineyard sign. The variety matters because it
-can combine perfume, a broad texture, and a firm line of acidity. It is also a
+can combine perfume, a broad texture, and a firm line of [acidity](../concepts/acidity.md). It is also a
 capricious vine: ripening and yields can be irregular, disease pressure is
 important, and a late harvest can trade freshness for alcohol and softness.
 
@@ -83,7 +83,7 @@ blends whose other components supply different kinds of fruit, acidity, or
 weight.
 
 [Grenache Blanc](grenache-blanc.md) and Roussanne are among the principal grapes
-in white Châteauneuf-du-Pape, where the
+in white [Châteauneuf-du-Pape](../regions/chateauneuf-du-pape.md), where the
 regional body describes the wines as ample, expressive, and aromatically fresh.
 The appellation permits a much wider group of grapes than the northern crus,
 so Roussanne's contribution varies substantially from one blend to another.[^6]

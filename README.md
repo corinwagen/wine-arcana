@@ -77,6 +77,30 @@ To validate the corpus without rerunning the validator tests, use
 `npm run validate`. Use `npm run lint:markdown` for RUMDL alone, or
 `npm run format:markdown` to apply its safe Markdown fixes.
 
+## Find missed internal links
+
+Scan article prose for unlinked titles and aliases of existing pages:
+
+```sh
+npm run links:check
+```
+
+After adding pages, restrict the suggested destinations to that batch while
+still scanning the whole corpus:
+
+```sh
+npm run links:check -- content/grapes/robola.md content/grapes/vidiano.md
+```
+
+The script reports the source paragraph's line, a relative destination, and
+context. It reads each article once and matches against a shared name index.
+It skips self-links, destinations already linked anywhere in the article,
+ambiguous names, headings, existing links, images, code, footnotes, and source
+lists. Matching is case-insensitive and accent-sensitive, using whole names
+and preferring longer names. Review each suggestion in context; ordinary words
+such as “Port” can still be false positives. The script never edits articles
+and candidate links do not fail validation.
+
 ## Static site
 
 Build the complete static site from the Markdown corpus with:

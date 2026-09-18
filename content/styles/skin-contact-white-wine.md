@@ -37,7 +37,7 @@ tannic.[^1] This technical standard is narrower than everyday usage, which often
 calls wines with shorter fermentative skin contact orange or amber.
 
 Skin contact is also independent of the loosely defined natural-wine movement.
-A producer may inoculate, control temperature, add sulfur dioxide, fine, or
+A producer may inoculate, control temperature, add [sulfur dioxide](../concepts/sulfur-dioxide.md), fine, or
 filter; another may do none of these. Clay vessels are optional, and a wine made
 or aged in clay is not necessarily a skin-contact wine.
 
@@ -65,13 +65,13 @@ Gris](../grapes/pinot-gris.md), can give conspicuous colour relatively quickly,
 while paler skins may still contribute substantial phenolic material. Aromatic
 varieties such as [Gewürztraminer](../grapes/gewurztraminer.md) place abundant
 skin-derived compounds into a different fermentation matrix from a less
-aromatic variety. Ripeness, skin and seed maturity, acidity, and fruit health
+aromatic variety. Ripeness, skin and seed maturity, [acidity](../concepts/acidity.md), and fruit health
 matter alongside varietal identity. A method suited to one harvest or grape may
 make another wine coarse, unstable, or muted.
 
 ## Oxygen, vessels, and maturation
 
-Skin contact and oxidation are separate variables. Maceration supplies more
+Skin contact and [oxidation](../concepts/oxidation.md) are separate variables. Maceration supplies more
 phenolic substrates that can oxidize and brown, but exposure depends on
 crushing, transfers, cap management, vessel closure and headspace, sulfur
 dioxide, and later handling. Active fermentation produces carbon dioxide;

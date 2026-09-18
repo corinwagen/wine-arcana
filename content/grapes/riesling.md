@@ -9,7 +9,7 @@ aliases:
 # Riesling
 
 Riesling is a white *Vitis vinifera* variety historically centred on the Rhine
-and its tributaries. It combines pronounced natural acidity with an aromatic
+and its tributaries. It combines pronounced natural [acidity](../concepts/acidity.md) with an aromatic
 character that develops during ripening and in the bottle. Those properties
 support wines from fully dry to intensely sweet. Sweetness reflects harvest and
 fermentation.
@@ -81,18 +81,19 @@ obtrusive fault.
 ## Sweetness and cellar choices
 
 Dry wine results when yeast ferments nearly all available grape sugar. Cooling,
-filtration, and sulfur dioxide can arrest fermentation and preserve some;
+filtration, and [sulfur dioxide](../concepts/sulfur-dioxide.md) can arrest fermentation and preserve some;
 concentrated must may also stop fermenting. Noble rot or dehydration concentrates
 the starting fruit enough to support intensely sweet wine.
 
-Acidity changes the perception of residual sugar without changing its amount.
+Acidity changes the perception of [residual sugar](../concepts/residual-sugar.md) without changing its amount.
 Alcohol, extract, temperature, and carbonation matter too, so a lightly sweet,
 acid-driven Riesling may taste drier than its sugar figure suggests. Riesling's
 acid retention gives winemakers room to stop fermentation at different points,
 much as it does for [Chenin Blanc](chenin-blanc.md).
 
 Most still Riesling is pressed promptly and matured in steel or neutral vessels.
-Large old casks remain important in Germany and Alsace, while some producers use
+Large old casks remain important in Germany and [Alsace](../regions/alsace.md),
+while some producers use
 [skin contact](../styles/skin-contact-white-wine.md), lees, or smaller wood for
 texture. [Malolactic fermentation](../concepts/malolactic-fermentation.md) is
 often limited to retain malic acidity.
@@ -106,6 +107,8 @@ primarily to grape maturity and minimum must weight, so examples can be dry or
 sweet. *Trocken* describes finished sugar, while *feinherb* is commonly used but
 not legally defined.[^5]
 
+![Pale green and golden grape bunches hang beneath leaves on a trellised vine.](../../media/images/grapes/riesling-johannisberg.jpg "Riesling grapes at Schloss Johannisberg, photographed in September 2025.")
+
 Alsace has a more strongly dry convention for ordinary varietal Riesling. Its
 current appellation rules cap fermentable sugar after fermentation for wine
 labelled Riesling, with allowances tied to acidity. Separate *vendanges
@@ -113,7 +116,7 @@ tardives* and *sélection de grains nobles* categories use hand-harvested,
 sugar-rich grapes under specific conditions.[^6]
 
 In Austria, Riesling is concentrated in the Danube regions of Lower Austria,
-including Wachau, Kremstal, and Kamptal. Dry wine predominates: Kremstal DAC
+including [Wachau](../regions/wachau.md), Kremstal, and [Kamptal](../regions/kamptal.md). Dry wine predominates: Kremstal DAC
 Riesling must meet the legal definition of *trocken*, while Kamptal DAC limits
 residual sugar by titratable acidity.[^7] Sweet Austrian Prädikat wines also
 exist.

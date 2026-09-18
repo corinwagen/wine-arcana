@@ -16,7 +16,7 @@ is Argentina: nineteenth-century cuttings became the basis of a large planting
 in the dry vineyards beside the Andes and, eventually, of wines commonly sold
 under the grape's own name.
 
-Malbec can provide deep colour and substantial tannin, but climate, water,
+Malbec can provide deep colour and substantial [tannin](../concepts/tannin.md), but climate, water,
 crop level, harvest date, extraction, and maturation alter the balance. In
 Argentina, elevation changes temperature and ultraviolet radiation.
 
@@ -48,7 +48,7 @@ Bordeaux, but its historical role was much larger than its present one.[^2]
 Cahors followed a different course. There Malbec, traditionally Auxerrois or
 Cot, remained the defining variety despite phylloxera and the 1956 frost. The
 appellation recognized in 1971 now requires Cot to account for at least 70% of
-vineyard plantings and blends; Merlot and Tannat are the accessory varieties.
+vineyard plantings and blends; Merlot and [Tannat](tannat.md) are the accessory varieties.
 Cahors may be entirely Malbec or a blend, and extraction and
 maturation can make either form more or less firm.[^3]
 
@@ -86,7 +86,7 @@ a sunny climate.[^5]
 
 Much of western Argentina is dry enough that irrigation is fundamental.
 Snowmelt, soil water holding, and irrigation decisions therefore shape the
-vine's climate response. Heat can advance sugar accumulation and lower acidity;
+vine's climate response. Heat can advance sugar accumulation and lower [acidity](../concepts/acidity.md);
 severe heat can also slow photosynthesis,
 scorch fruit, and impede colour development. A two-season Mendoza field trial
 that warmed Malbec and two other red varieties advanced their seasonal stages,
@@ -140,7 +140,7 @@ Argentina accounts for Malbec's largest modern planting, concentrated in
 Mendoza and especially Luján de Cuyo and the three Uco Valley departments.
 Important smaller areas include San Juan and the high Calchaquí Valleys of
 Salta, with plantings extending into Patagonia and other provinces. This broad
-range supports varietal wine as well as blends and rosé.
+range supports varietal wine as well as blends and [rosé](../styles/rose.md).
 
 In France, Cahors is the principal stronghold. Smaller plantings persist in
 Bordeaux and the Loire, where the grape is usually called Cot. Malbec is also

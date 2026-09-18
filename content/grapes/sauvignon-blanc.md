@@ -47,7 +47,7 @@ its French reference collection. Early spring growth can meet frost, while
 humid weather near harvest can turn compact bunches into a liability.
 
 Warmth usually advances sugar accumulation, malic-acid loss, and the decline of
-methoxypyrazines. Cooler sites can retain acidity and green character longer,
+methoxypyrazines. Cooler sites can retain [acidity](../concepts/acidity.md) and green character longer,
 while delayed harvest increases exposure to autumn rain and rot. Severe heat or
 water deficit can interrupt ripening and sunburn exposed berries.
 
@@ -64,7 +64,7 @@ hot, sunny vineyards may need afternoon shade.
 In the central Loire, Sauvignon Blanc is often made as an unblended, dry wine.
 [Sancerre](../regions/sancerre.md)'s specification makes the distinction
 explicit: its white wine must come solely from Sauvignon, while [Pinot Noir](pinot-noir.md) is
-reserved for its red and rosé wines.[^4] Pouilly-Fumé, Menetou-Salon, Quincy,
+reserved for its red and [rosé](../styles/rose.md) wines.[^4] Pouilly-Fumé, Menetou-Salon, Quincy,
 Reuilly, and Touraine provide other reference points. Moderated temperatures
 and harvest decisions can support firm acidity and restrained fruit. Tank
 fermentation is common, while lees contact, older or new
@@ -92,7 +92,8 @@ pungent expression widely recognizable. Research wines from seven subregions
 contained thiols, methoxypyrazines, C6 alcohols, and esters in differing
 combinations; a sensory comparison found selected Marlborough wines more
 intensely fruity and green than selected Loire wines.[^5] Vintage, subregion,
-harvest method, juice solids, yeast, residual sugar, and lees all redirect that
+harvest method, juice solids, yeast,
+[residual sugar](../concepts/residual-sugar.md), and lees all redirect that
 profile.
 
 ### Coastal Chile and Constantia

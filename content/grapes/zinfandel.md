@@ -63,7 +63,8 @@ Zinfandel is early-ripening relative to many wine grapes—the name *Primitivo*
 refers to that precocity—and often ripens unevenly. A bunch can reach harvest
 with firm, less mature berries beside fully ripe and shriveled ones. Waiting for
 the lagging berries allows the advanced fruit to lose water and concentrate
-sugar; picking sooner can preserve more acidity and fresh-fruit character while
+sugar; picking sooner can preserve more [acidity](../concepts/acidity.md) and
+fresh-fruit character while
 bringing a greater proportion of less mature fruit into the winery. The grower
 is often choosing among imperfect distributions of ripeness rather than one
 ideal date.
@@ -81,10 +82,10 @@ Those results concern particular clones under the trial conditions.[^3]
 ## Wine character and cellar choices
 
 Zinfandel's range begins with extraction. Prompt pressing and little skin
-contact can make rosé; White Zinfandel is a pink wine from a dark grape, not a
+contact can make [rosé](../styles/rose.md); White Zinfandel is a pink wine from a dark grape, not a
 white-berried form of the variety. It may be dry, but the name became especially
 associated with wines retaining some grape sugar. Fermenting on the skins makes
-red wine, and the length and force of extraction influence color and tannin.
+red wine, and the length and force of extraction influence color and [tannin](../concepts/tannin.md).
 
 Ripeness pulls those reds in different directions. Earlier-picked fruit can give
 a lighter, more acid-defined wine with fresh red-fruit character. Later harvest

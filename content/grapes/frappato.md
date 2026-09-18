@@ -21,7 +21,7 @@ centres include the provinces of Ragusa and Syracuse.
 
 Frappato can give rose or violet impressions alongside red berries and spice.
 Its aromatic intensity can be striking in a wine with modest colour and
-weight. [Tannin](../concepts/tannin.md), acidity, and alcohol still vary
+weight. [Tannin](../concepts/tannin.md), [acidity](../concepts/acidity.md), and alcohol still vary
 considerably with the material planted and the way the grapes are grown
 and fermented.
 

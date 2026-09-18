@@ -9,7 +9,7 @@ aliases:
 Colombard is a white grape associated with the Charentes and Gascony in western
 France. Historically used for distilling wine, it also produces fresh,
 aromatic table wines, particularly in Côtes de Gascogne. Its fertility,
-productivity, and useful acidity explain part of that versatility. The aroma
+productivity, and useful [acidity](../concepts/acidity.md) explain part of that versatility. The aroma
 of the finished wine depends strongly on vineyard and cellar choices.
 
 ## Identity and changing uses

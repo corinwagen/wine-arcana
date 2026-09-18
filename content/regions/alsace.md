@@ -38,7 +38,7 @@ The principal white grapes are [Riesling](../grapes/riesling.md),
 [Gewürztraminer](../grapes/gewurztraminer.md), [Pinot Gris](../grapes/pinot-gris.md), [Pinot Blanc](../grapes/pinot-blanc.md),
 Auxerrois, Muscat, and [Sylvaner](../grapes/silvaner.md).
 [Pinot Noir](../grapes/pinot-noir.md) is the
-important red grape and is also used for rosé and for some sparkling wine.
+important red grape and is also used for [rosé](../styles/rose.md) and for some sparkling wine.
 [Chardonnay](../grapes/chardonnay.md) has a smaller but legally recognized role, especially in Crémant
 d'Alsace.
 

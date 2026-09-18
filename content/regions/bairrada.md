@@ -20,7 +20,7 @@ indication (PGI) overlaps this setting but extends well beyond the DO.
 The region lies west of the Buçaco and Caramulo ranges, largely on low plains,
 plateaus, and gentle hills. Its proximity to the ocean brings moderate average
 temperatures, substantial rainfall, and west or northwest winds that temper
-summer heat. These conditions often slow the loss of grape acidity, which is
+summer heat. These conditions often slow the loss of grape [acidity](../concepts/acidity.md), which is
 useful for both still and sparkling wines. They can also complicate ripening:
 humidity and rain near harvest increase disease pressure, especially for a
 late-ripening, rot-susceptible variety such as [Baga](../grapes/baga.md).
@@ -34,12 +34,12 @@ in drainage and water retention affect vine growth and ripening.
 ## Grapes
 
 Baga has historically anchored Bairrada's red vineyards and reputation. The
-grape ripens late, retains acidity, and can contribute substantial tannin. Its
+grape ripens late, retains acidity, and can contribute substantial [tannin](../concepts/tannin.md). Its
 compact bunches are particularly exposed to rot in wet weather, so crop load,
 airflow, exposure, harvest timing, and fruit health help determine whether a
 wine is severe or balanced. Extraction and maturation then broaden the range
 from relatively approachable reds to wines that require bottle age. Baga is
-also used for rosé and sparkling wine, not only for long-lived still reds.
+also used for [rosé](../styles/rose.md) and sparkling wine, not only for long-lived still reds.
 
 The principal traditional white grapes are [Fernão Pires](../grapes/fernao-pires.md)—locally called Maria
 Gomes—[Bical](../grapes/bical.md), [Arinto](../grapes/arinto.md), and Cercial.

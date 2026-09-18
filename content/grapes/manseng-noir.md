@@ -9,7 +9,7 @@ aliases:
 
 Manseng Noir is a red grape of the western Pyrenees that has returned to
 commercial use in southwestern France after almost disappearing from its
-vineyards. Its deep colour, retained acidity, and relatively late ripening
+vineyards. Its deep colour, retained [acidity](../concepts/acidity.md), and relatively late ripening
 have drawn interest in Gascony, where growers are reconsidering varieties
 for warmer seasons.
 

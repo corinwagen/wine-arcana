@@ -39,7 +39,8 @@ late-ripening crop enough exposure and support.
 ## Acidity and wine character
 
 Plantgrape describes Bourboulenc's wines as fine, low in alcohol, and moderately
-aromatic.[^1] Inter Rhône gives the variety's acidity greater emphasis, calling
+aromatic.[^1] Inter Rhône gives the variety's [acidity](../concepts/acidity.md)
+greater emphasis, calling
 it very good and presenting it as a source of freshness and structure. Read
 together, these descriptions suggest a grape whose value is often felt in the
 shape of a wine rather than in an assertive aroma profile.
@@ -53,7 +54,7 @@ the lower-alcohol, lighter style associated with the variety.
 
 Bourboulenc remains principally a southern French grape, especially in the
 Southern Rhône. Inter Rhône places it in a range of southern Rhône appellations,
-including Luberon, Vacqueyras, Ventoux, Lirac, and Châteauneuf-du-Pape. The
+including Luberon, Vacqueyras, Ventoux, Lirac, and [Châteauneuf-du-Pape](../regions/chateauneuf-du-pape.md). The
 current French varietal record gives a sense of its limited scale: the area
 recorded in France was 1,279 hectares in 1958 and 509 hectares in 2018, with
 fluctuations between those dates rather than a perfectly continuous decline.[^1]

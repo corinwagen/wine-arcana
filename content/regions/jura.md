@@ -9,7 +9,7 @@ the Jura mountains. Its vineyards run through the Revermont, the uneven strip
 between the Bresse plain and the first limestone plateau. The region is known
 for Savagnin, [vin jaune](../styles/vin-jaune.md), and unusual cellar
 traditions, and also produces fresh white wines, pale and darker reds,
-rosé, [traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md), and sweet [vin de paille](../styles/vin-de-paille.md).
+[rosé](../styles/rose.md), [traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md), and sweet [vin de paille](../styles/vin-de-paille.md).
 
 The name Jura describes this wider region. **Côtes du Jura** is a separate,
 delimited appellation that runs through much of it. [Arbois](arbois.md),

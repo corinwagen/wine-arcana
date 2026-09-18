@@ -9,7 +9,7 @@ aliases:
 Carbonic maceration is a way of beginning vinification with intact grapes in
 an oxygen-poor, carbon-dioxide-rich atmosphere. While the berries remain
 unbroken, living grape cells change their metabolism and transform part of
-their own contents. This intracellular phase can alter acidity, aroma, and the
+their own contents. This intracellular phase can alter [acidity](acidity.md), aroma, and the
 movement of phenolic compounds before ordinary [yeast fermentation](alcoholic-fermentation.md) completes
 the conversion of sugar into alcohol.
 
@@ -67,7 +67,7 @@ combines them.
 Keeping grapes intact initially limits the washing and mechanical working of
 skins and seeds that drive conventional red-wine extraction. If the fruit is
 pressed after a short carbonic phase and fermentation finishes off the skins,
-the wine will generally receive less skin and seed tannin. Longer vatting,
+the wine will generally receive less skin and seed [tannin](tannin.md). Longer vatting,
 higher temperature, pumping over, punching down, fermenting further on the
 solids can all increase extraction. Pressing regime and the decision to blend
 free-run and press fractions further shape the result. Retaining stems can add
@@ -100,7 +100,7 @@ over, pressing, blending free-run and press wine, and completing fermentation
 together.[^3]
 
 For Beaujolais Nouveau, short vatting and rapid release can put supple
-structure and fermentation-derived aroma in the foreground. Longer maceration
+structure and fermentation-derived aroma in the foreground. Longer [maceration](maceration.md)
 and more active extraction can give Beaujolais and Beaujolais-Villages firmer
 wines, while producers in the ten crus may use semi-carbonic practice for
 wines intended to develop in bottle. Other vinification methods are also used,

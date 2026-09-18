@@ -11,10 +11,11 @@ whites with a faint prickle alongside still and
 sparkling wines in all three colours.
 
 The words *vinho verde* literally mean “green wine,” yet accounts of *verde*
-differ. Some relate it to the wine's traditional youth and fresh acidity;
+differ. Some relate it to the wine's traditional youth and fresh [acidity](../concepts/acidity.md);
 others to the green, wet landscape. Whatever the name's origin, its present
 legal meaning is geographical. The designation covers still and sparkling
-white, red, and rosé wines, including wines made for development in bottle.[^1]
+white, red, and [rosé](../styles/rose.md) wines, including wines made for
+development in bottle.[^1]
 
 ## Atlantic geography and wet viticulture
 
@@ -80,7 +81,8 @@ Each grape can also appear alone.
 
 [Vinhão](../grapes/souson.md), the
 regional name for Sousón, can give deeply colored wines with pronounced
-acidity and tannin. Espadeiro and Padeiro are also used for rosé and less dense
+acidity and [tannin](../concepts/tannin.md). Espadeiro and Padeiro are also used
+for rosé and less dense
 reds. [Borraçal](../grapes/caino-tinto.md), Amaral, and
 [Alvarelhão](../grapes/brancellao.md) add further differences in color,
 acidity, aroma, and ripening season. Their importance varies by subregion, and
@@ -92,7 +94,7 @@ markets.
 Red wines appear to have led the region's early reputation; white production
 rose during the twentieth century as vineyard training and cellar equipment
 changed.[^4] The familiar modern export style is usually a youthful white
-blend, sometimes with a little residual sugar and dissolved carbon dioxide.
+blend, sometimes with a little [residual sugar](../concepts/residual-sugar.md) and dissolved carbon dioxide.
 Historically, quick transfer or bottling could retain fermentation-derived
 gas. Some current bottlings instead use added carbon dioxide to preserve the
 expected prickle. The PDO rules do not require still Vinho Verde to have it.

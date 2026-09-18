@@ -8,7 +8,7 @@ Beaujolais is a wine region on the eastern edge of the Massif Central, between
 Lyon and Mâcon, and the name of its broad regional appellation. It is closely
 identified with [Gamay](../grapes/gamay.md), Beaujolais Nouveau, and
 [carbonic maceration](../concepts/carbonic-maceration.md). The region also
-produces non-nouveau red and rosé wine,
+produces non-nouveau red and [rosé wine](../styles/rose.md),
 white wine from [Chardonnay](../grapes/chardonnay.md), Beaujolais carrying the
 *Villages* mention, and the red wines of ten separate cru appellations.
 
@@ -116,7 +116,7 @@ metabolism and yeast fermentation thus proceed together. The proportion of
 whole fruit, temperature, vatting time, pumping over, cap management, pressing,
 and the treatment of free-run and press wine all change the result.
 
-Producers are not confined to that approach. They may extend maceration and
+Producers are not confined to that approach. They may extend [maceration](../concepts/maceration.md) and
 work the cap for greater extraction, destem some or all of the crop, or mature
 wine in concrete, steel, large cask, or smaller barrel. Semi-carbonic practice
 can produce a cru intended to age, while destemmed vinification can make a
@@ -138,7 +138,7 @@ movement toward organic farming and restrained additions, shaped by Marcel's
 work with Jules Chauvet and continued by his family. The domaine sorts fruit
 carefully, uses whole-bunch semi-carbonic maceration, and completes its
 Morgon's fermentation and ageing in used barrels. Some bottlings receive
-sulfur dioxide and others do not; the practice is more specific than a
+[sulfur dioxide](../concepts/sulfur-dioxide.md) and others do not; the practice is more specific than a
 blanket claim that all its wines are made without added sulfites.[^8]
 
 **Château Thivin** offers a contrasting reference centred on Côte de

@@ -19,7 +19,7 @@ sparkling rosé.
 
 In direct pressing, grapes enter the press without a preceding soak. Contact
 during pressing supplies some colour, and the separated juice then ferments.
-In a short maceration, crushed berries first soak together so that skins
+In a short [maceration](../concepts/maceration.md), crushed berries first soak together so that skins
 release more pigment and other compounds. The winemaker drains and presses
 the fruit when the desired extraction has been reached. Provence uses both
 methods extensively.
@@ -33,7 +33,7 @@ colour, so the shade of freshly pressed juice is only an intermediate stage.
 skin contact. When the remaining contents become red wine, removing juice
 raises the proportion of skins to liquid in that vat. The drawn juice ferments
 separately as rosé. Harvest decisions made for the red wine also determine
-the rosé's starting sugar, acidity, and ripeness.
+the rosé's starting sugar, [acidity](../concepts/acidity.md), and ripeness.
 
 Grapes grown specifically for rosé give the producer more freedom to pick for
 a lighter style. Earlier harvesting can retain acidity and limit potential
@@ -45,7 +45,7 @@ explain differences between wines made with similar periods of skin contact.
 Once the juice has been separated, winemakers can manage [fermentation](../concepts/alcoholic-fermentation.md) much as
 they would for white wine. Protection from [oxidation](../concepts/oxidation.md),
 juice clarification, yeast choice, and fermentation temperature shape the
-aroma. Fermenting to dryness or retaining residual sugar determines sweetness.
+aroma. Fermenting to dryness or retaining [residual sugar](../concepts/residual-sugar.md) determines sweetness.
 [Lees aging](../concepts/lees-aging.md) can add texture to wines intended for
 a fuller expression.
 

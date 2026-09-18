@@ -14,11 +14,13 @@ intention, but they are not a dependable code for climate, ripeness, or
 winemaking.
 
 Temperature explains much of Syrah's range. Relatively cool ripening conditions
-can preserve acidity and favor the compound responsible for a pepper aroma.
+can preserve [acidity](../concepts/acidity.md) and favor the compound responsible for a pepper aroma.
 Warmer conditions usually advance ripening and can bring more sugar and less
 acidity, giving the winemaker the potential for more alcohol and a broader
 texture. Water supply, sun exposure, crop level, harvest date, and cellar
 choices can reinforce or complicate each tendency.
+
+![A dark grape bunch and lobed green leaves in a botanical illustration.](../../media/images/grapes/syrah-ampelography.jpg "Syrah, illustrated by Jules Troncy for Viala and Vermorel's Ampélographie (1901–1910).")
 
 ## History and identity
 
@@ -62,7 +64,7 @@ meaningful differences among clones.
 
 ## Wine character and cellar choices
 
-Syrah commonly provides substantial color and tannin, with weight and aroma
+Syrah commonly provides substantial color and [tannin](../concepts/tannin.md), with weight and aroma
 varying by harvest and cellar decisions. Grapes harvested with more sugar can
 yield more alcohol if fermented dry, while retained acidity can make a wine feel
 more taut. Extraction determines how much skin and seed material reaches the
@@ -88,7 +90,8 @@ the results establish associations: cooler examples often emphasize pepper,
 freshness, and savory character, whereas warmer examples can lean toward riper
 fruit and a broader palate, with many wines falling between those poles.
 
-Fermentation on the skins extracts both phenolics and rotundone. Rosé made with
+Fermentation on the skins extracts both phenolics and rotundone.
+[Rosé](../styles/rose.md) made with
 limited skin contact therefore has much less of the pepper compound than a
 comparable red wine. For reds, extraction may be kept gentle or extended, [whole
 clusters](../concepts/whole-cluster-fermentation.md) may be included or removed,

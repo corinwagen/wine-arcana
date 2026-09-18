@@ -7,14 +7,15 @@ title: Douro
 Douro is a wine region in northeastern Portugal that follows the Douro River
 and its tributaries upstream toward the Spanish border. The Douro Demarcated
 Region contains two protected designations: Douro for a broad range of wines and
-[Porto](../styles/port.md), or Port, for fortified wine.[^1] Both draw on the
+[Porto](../styles/port.md), or Port, for [fortified wine](../concepts/fortification.md).[^1] Both draw on the
 same difficult landscape
 and many of the same grapes, but their differences extend beyond fortification.
 
 The region follows a network of river valleys. Elevation, slope, aspect, soil
 depth, and distance
 from the Atlantic vary sharply, sometimes within one property. These differences
-help explain why Douro can produce dry red, white, and rosé wines, sparkling and
+help explain why Douro can produce dry red, white, and [rosé](../styles/rose.md)
+wines, sparkling and
 sweet wines, and diverse styles of Port.
 
 ![Terraced vineyards rise beyond trees and the Douro River.](../../media/images/regions/douro-terraced-vineyards.jpg "Terraced vineyards along the Douro River.")
@@ -79,7 +80,8 @@ together they occupied well over half the vineyard area.[^4]
 [Touriga Nacional](../grapes/touriga-nacional.md) can contribute concentrated
 skin material and marked aroma.
 Tinto Cão, [Sousão](../grapes/souson.md), and [Tinta Amarela](../grapes/trincadeira.md), among many
-others, can change acidity, colour, tannin, ripening time, or performance in a
+others, can change [acidity](../concepts/acidity.md), colour,
+[tannin](../concepts/tannin.md), ripening time, or performance in a
 particular site.
 
 Older vineyards may be field blends: different varieties are interplanted, then
@@ -102,7 +104,7 @@ distinguish fresh early-drinking whites from more structured wines.
 Port and unfortified Douro wine share many vineyards and grapes but diverge
 during fermentation. For Port, grape spirit is added before all the sugar has
 fermented. This stops fermentation, raises the alcohol, and usually leaves
-appreciable residual sugar. Because red Port has only a short fermentation
+appreciable [residual sugar](../concepts/residual-sugar.md). Because red Port has only a short fermentation
 before fortification, colour and tannin must be extracted quickly, whether by
 foot treading in a traditional *lagar* or by modern equipment. Blending and
 maturation can then produce youthful ruby styles, long wood-aged tawny styles,

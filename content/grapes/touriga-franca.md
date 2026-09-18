@@ -11,13 +11,15 @@ Touriga Franca is a dark-skinned Portuguese grape. In the
 Nacional](touriga-nacional.md) and a major component of both
 [Port](../styles/port.md) and dry red blends. Its value is practical as well as
 sensory: the vine crops more regularly than Touriga Nacional, its fruit copes
-well with the Douro's heat, and its wines can add colour, tannin, fruit, and a
+well with the Douro's heat, and its wines can add colour, [tannin](../concepts/tannin.md), fruit, and a
 distinctly floral lift.
 
 A blend may contain either Touriga in a leading or supporting proportion, and
 site, crop level, harvest date, extraction, and maturation all change the
 result. Touriga Franca is also bottled alone, but its large area and affinity
 with other Douro grapes make blending its central regional role.
+
+![Terraced vineyards rise beyond trees and the Douro River.](../../media/images/regions/douro-terraced-vineyards.jpg "Terraced vineyards along the Douro River, the principal region for Touriga Franca.")
 
 ## History and identity
 
@@ -80,7 +82,7 @@ and phenolic material can give substantial colour and structure, but neither is
 constant; the specialist varietal record reports especially large year-to-year
 variation in colour intensity. Extraction choices matter as well. A short,
 vigorous extraction before Port is fortified expresses the raw material
-differently from a complete dry fermentation or an extended maceration.
+differently from a complete dry fermentation or an extended [maceration](../concepts/maceration.md).
 
 ## Its place in the Douro blend
 
@@ -93,7 +95,7 @@ crops give growers a more dependable supply; heat-resistant fruit suits many
 warm parcels; and colour, tannin, fruit, and floral aroma remain useful in both
 fortified and dry wines. Touriga Nacional may contribute a different aromatic
 intensity and more concentrated skin material, while Tinta Roriz, Tinta Barroca,
-Tinto Cão, and numerous older field-blend varieties alter ripening, acidity,
+Tinto Cão, and numerous older field-blend varieties alter ripening, [acidity](../concepts/acidity.md),
 texture, or volume. Douro and Port rules allow a much broader set of grapes.
 
 Outside the Douro, Touriga Franca is grown elsewhere in Portugal, including

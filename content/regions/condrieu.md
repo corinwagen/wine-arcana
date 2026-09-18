@@ -28,7 +28,7 @@ its early budbreak exposes it to spring frost.
 ## Ripeness and wine
 
 Viognier can accumulate considerable sugar while retaining relatively modest
-acidity. This helps explain Condrieu's combination of aromatic intensity and
+[acidity](../concepts/acidity.md). This helps explain Condrieu's combination of aromatic intensity and
 weight. Ripeness, water supply, and the growing season affect that balance;
 the grape can also give a slight bitterness that contributes to the wine's
 finish.

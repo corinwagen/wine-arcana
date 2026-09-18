@@ -47,7 +47,7 @@ while increasing heat, drought, and extreme-weather risks elsewhere.[^3]
 ## Riesling and the problem of ripeness
 
 Riesling occupies roughly three-fifths of the region's vineyards. Its late
-ripening and capacity to retain acidity suit a long autumn, provided that the
+ripening and capacity to retain [acidity](../concepts/acidity.md) suit a long autumn, provided that the
 site supplies enough warmth. Waiting can bring more sugar and aromatic
 development, but exposes grapes longer to rain and harmful rot. Picking early
 may preserve acidity and produce less potential alcohol; picking later can give

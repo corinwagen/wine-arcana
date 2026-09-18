@@ -16,7 +16,8 @@ The variety combines early ripening with a pronounced floral and citrus-like
 aromatic character. Those traits make it adaptable: Fernão Pires can be a
 varietal wine, an aromatic part of a blend, or fruit picked early for sparkling
 wine. They also create a tension in warm conditions. Sugar can accumulate
-quickly while acidity softens, so a delay intended to gain ripeness can instead
+quickly while [acidity](../concepts/acidity.md) softens, so a delay intended to
+gain ripeness can instead
 produce a broader, more alcoholic wine with less freshness.
 
 ## History and names
@@ -71,8 +72,8 @@ can give a fragrant but lively dry white. In hotter sites or after a later
 harvest, the same aromatic intensity may sit in a broader wine with more
 alcohol and less definition. Fermentation temperature, oxygen exposure, yeast,
 lees contact, and blending all reshape the result. Portuguese varietal records
-also describe both must and wine as oxidation-sensitive, one reason many
-examples emphasize youthful fruit rather than prolonged bottle ageing.
+also describe both must and wine as [oxidation](../concepts/oxidation.md)-sensitive, one reason many
+examples emphasize youthful fruit rather than prolonged [bottle ageing](../concepts/bottle-aging.md).
 
 The grape's regional partners clarify its role. In Bairrada it may be blended
 with [Bical](bical.md), [Arinto](arinto.md), and other white varieties.

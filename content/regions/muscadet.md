@@ -55,7 +55,7 @@ second year after harvest, followed by bottling in the vinification cellar.[^2]
 
 ## What “sur lie” means here
 
-Lees are the fine yeast sediments left after alcoholic fermentation. Keeping a
+Lees are the fine yeast sediments left after [alcoholic fermentation](../concepts/alcoholic-fermentation.md). Keeping a
 wine on them without an early transfer can change texture and preserve some
 fermentation-derived carbon dioxide; compounds released as yeast cells break
 down can contribute to a rounder, more layered impression. “Sur lie” is both an

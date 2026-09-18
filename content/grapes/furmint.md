@@ -41,7 +41,7 @@ restrained varietal perfume leaves fermentation and maturation choices
 readily apparent.
 
 [Acidity](../concepts/acidity.md) is an important part of its structure.
-A small amount of residual sugar can soften the impression of sharpness,
+A small amount of [residual sugar](../concepts/residual-sugar.md) can soften the impression of sharpness,
 while fully dry wines may feel particularly taut. Riper grapes can yield
 more alcohol and weight. [Oak maturation](../concepts/oak-maturation.md)
 can add spice and alter texture, and some concentrated dry wines develop

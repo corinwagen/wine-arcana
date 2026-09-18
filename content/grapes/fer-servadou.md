@@ -21,7 +21,7 @@ traditions.[^1] Marcillac, in Aveyron, gives Mansois a central role. A report
 from the Institut national de l'origine et de la qualité (INAO)
 describes the grape's long association with the valley's vineyards
 and the revival of local winegrowing from the 1960s. Its account emphasizes
-both red wine and a smaller rosé tradition.
+both red wine and a smaller [rosé](../styles/rose.md) tradition.
 
 In Gaillac, Braucol is part of a more varied local repertoire. Farther west,
 Plaimont uses the name Pinenc for the grape in Saint Mont and specifically
@@ -62,7 +62,7 @@ why a fresh herbal aroma is not always perceived simply as green pepper.
 These findings describe contributors within a mixture, rather than a fixed
 aroma formula for every bottle.
 
-Fer's [tannin](../concepts/tannin.md) and acidity provide structure around
+Fer's [tannin](../concepts/tannin.md) and [acidity](../concepts/acidity.md) provide structure around
 those aromas. The INAO's Marcillac account describes young reds with present
 but unaggressive tannin, alongside wines capable of developing with age.
 This regional example is useful beside the IFV's broader description of a

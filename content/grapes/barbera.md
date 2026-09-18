@@ -5,8 +5,8 @@ title: Barbera
 # Barbera
 
 Barbera is a dark-skinned grape associated above all with Piedmont in
-northwestern Italy. It commonly combines substantial acidity and deep colour
-with less grape tannin than [Nebbiolo](nebbiolo.md). That structure suits both
+northwestern Italy. It commonly combines substantial [acidity](../concepts/acidity.md) and deep colour
+with less grape [tannin](../concepts/tannin.md) than [Nebbiolo](nebbiolo.md). That structure suits both
 fresh, early-drinking reds and more concentrated wines, depending on crop level,
 site, harvest date, extraction, and maturation.
 
@@ -60,7 +60,8 @@ and purple pigment, while tannins are different phenolic compounds found mainly
 in skins and seeds. A study comparing four Piedmontese varieties found Barbera's
 fresh skins and seeds richer in anthocyanins but lower in several measures of
 condensed tannin than those of Nebbiolo and Uvalino. Vineyard conditions, fruit
-maturity, maceration, pressing, and age affect how this contrast appears in the
+maturity, [maceration](../concepts/maceration.md), pressing, and age affect how
+this contrast appears in the
 bottle.[^3]
 
 Acidity can therefore define a Barbera more strongly than astringency. Red-fruit

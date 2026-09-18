@@ -13,11 +13,13 @@ Touriga Nacional is a dark-skinned Portuguese grape central to both
 [Port](../styles/port.md) and dry red wine. It has strong historical
 associations with the [Douro](../regions/douro.md) and [Dão](../regions/dao.md)
 and is now grown across Portugal. Small berries, relatively thick skins, and
-marked aromatic potential allow it to contribute colour, tannin, and perfume to
+marked aromatic potential allow it to contribute colour,
+[tannin](../concepts/tannin.md), and perfume to
 a blend without necessarily providing most of the volume.
 
-Site and water supply affect berry size and ripening; maceration determines how
-much material is extracted from skins and seeds; and fortification changes the
+Site and water supply affect berry size and ripening;
+[maceration](../concepts/maceration.md) determines how
+much material is extracted from skins and seeds; and [fortification](../concepts/fortification.md) changes the
 balance entirely. Touriga Nacional can therefore appear as one component of a
 sweet fortified Port, the structural and aromatic centre of a dry blend, or a
 dry varietal wine.
@@ -73,7 +75,7 @@ and maturation can amplify, transform, or obscure that grape-derived potential.
 Young wines can consequently be intensely aromatic, often with a floral lift
 over dark-fruit character, but structure is just as important. Thick skins and
 seeds can supply substantial tannin, while the berries can accumulate ample
-sugar and colour. Earlier picking may retain more acidity but leave firmer,
+sugar and colour. Earlier picking may retain more [acidity](../concepts/acidity.md) but leave firmer,
 less-developed tannin; waiting can improve phenolic maturity while increasing
 potential alcohol and the risk of heat or dehydration. Gentle extraction can
 make a more immediately open wine, whereas longer maceration may build a firmer

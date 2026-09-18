@@ -8,7 +8,7 @@ Matelica is an inland white-wine area in Marche, central Italy, centred on the
 upper Esino valley. Its principal grape is
 [Verdicchio](../grapes/verdicchio.md), grown between mountain ridges in a setting
 with cold winters, warm summers, and pronounced changes between daytime and
-night-time temperatures. The wines often combine firm acidity with ample
+night-time temperatures. The wines often combine firm [acidity](../concepts/acidity.md) with ample
 fruit and body.
 
 The appellation extends beyond the town of Matelica into parts of eight

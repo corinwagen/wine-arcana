@@ -48,7 +48,7 @@ entirely from Turbiana are common.
 
 Compact bunches make fruit health important during humid harvest weather.
 Waiting for greater ripeness means weighing the gain in fruit weight against
-disease pressure and changes in acidity.
+disease pressure and changes in [acidity](../concepts/acidity.md).
 
 ## Five expressions
 

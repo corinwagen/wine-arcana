@@ -44,7 +44,7 @@ with deep, draining soils and humid maritime influence. In its account, those
 conditions help the late variety mature while preserving the floral, citrus, and
 fresh qualities associated with the appellation.
 
-The grape's high apparent acidity is therefore partly a harvest and site
+The grape's high apparent [acidity](../concepts/acidity.md) is therefore partly a harvest and site
 question. Warmth can increase sugar and reduce acid in grapes generally, but a
 late variety harvested at a suitable point may retain enough acid to make a dry
 wine feel lively rather than broad. The result also depends on crop load, water
@@ -64,8 +64,8 @@ The main cellar decision is how to preserve the grape's point of difference
 while bringing it to adequate ripeness. The Picpoul de Pinet rules emphasise
 careful transport and pressing to preserve finesse and balance, and the wines
 are generally released young. That makes sense for a wine whose appeal depends
-on freshness, while oxygen exposure, oak, lees contact, or malolactic
-fermentation can produce fuller interpretations.
+on freshness, while oxygen exposure, oak, lees contact, or [malolactic
+fermentation](../concepts/malolactic-fermentation.md) can produce fuller interpretations.
 
 ## Picpoul de Pinet
 
@@ -93,7 +93,7 @@ it among the accessory white grapes, alongside the principal group of
 The white wines must be based mainly
 on the principal varieties, so Picpoul can contribute without defining the
 appellation's blend. The same rules also list it as an accessory option in red
-and rosé wines, subject to the applicable blending limits.[^4]
+and [rosé](../styles/rose.md) wines, subject to the applicable blending limits.[^4]
 
 That legal position matches the grape's practical role. In a warm blend, Picpoul
 can supply a sharper acid impression and a light, discreetly aromatic freshness,

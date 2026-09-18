@@ -32,7 +32,7 @@ taster.[^1]
 Temperature acts on taste in the mouth as well as aroma in the glass.
 Taste-cell and nerve responses vary with temperature, while sugar, acids,
 ethanol, and aroma can suppress or reinforce one another. Sweetness often
-becomes less apparent when a wine is chilled. Acidity may then occupy more of
+becomes less apparent when a wine is chilled. [Acidity](acidity.md) may then occupy more of
 the overall balance, although the acid concentration has not changed. Direct
 effects on sourness are less consistent than this contrast effect. In one
 controlled wine study, sweetness and acidity depended on an interaction
@@ -42,7 +42,7 @@ Bitterness is a taste; astringency is chiefly a drying, rough tactile
 sensation associated with tannins interacting with saliva. Cooling can alter
 their timing and their prominence relative to aroma, sweetness, and alcohol. A
 very cold, tannic wine may feel severe because its aroma and fruit-related
-impressions are muted, even when the tannin concentration and underlying
+impressions are muted, even when the [tannin](tannin.md) concentration and underlying
 protein interactions have barely changed.
 
 The warmth of alcohol is a further sensory mechanism. Ethanol activates and
@@ -79,7 +79,8 @@ production method.
 Broad service ranges work best as starting points. Professional service guidance
 places sparkling wine, sweet white wine, and light-bodied white wine around
 6–10°C; fuller whites and light reds broadly around 10–15°C; and medium- to
-full-bodied reds around 13–18°C.[^4] [Rosé](../styles/rose.md), fortified wine, and styles between
+full-bodied reds around 13–18°C.[^4] [Rosé](../styles/rose.md),
+[fortified wine](fortification.md), and styles between
 these groups overlap the bands. Their overlap leaves room to adjust for structure,
 development, and the individual bottle.
 

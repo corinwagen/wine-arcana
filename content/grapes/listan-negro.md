@@ -68,8 +68,9 @@ consequential than the visible volcanic rock.
 
 Listán Negro commonly supplies the light to medium-bodied, dry reds that form
 part of ordinary local drinking. At moderate ripeness, the wines can show red
-fruit, a savoury or herbal edge, and a refreshing line of acidity rather than
-dense colour and heavy tannin. Warmth, crop level, harvest date, and the choice
+fruit, a savoury or herbal edge, and a refreshing line of [acidity](../concepts/acidity.md) rather than
+dense colour and heavy [tannin](../concepts/tannin.md). Warmth, crop level,
+harvest date, and the choice
 to blend with Negramoll, Tintilla, Malvasía Rosada, or other grapes all alter
 the result.
 

@@ -9,8 +9,8 @@ aliases:
 Dolcetto is a dark-skinned *Vitis vinifera* variety from northwestern Italy,
 grown chiefly in Piedmont and, as Ormeasco, in western Liguria. Its name can
 mislead: the grape is sweet when ripe, but the familiar wines are dry. What
-distinguishes them structurally is a combination of modest acidity and firm
-tannin, often with deep colour.
+distinguishes them structurally is a combination of modest [acidity](../concepts/acidity.md) and firm
+[tannin](../concepts/tannin.md), often with deep colour.
 
 Dolcetto also ripens before Piedmont's other principal dark-skinned varieties.
 That timing gave it a complementary role beside acid-led [Barbera](barbera.md)
@@ -30,7 +30,7 @@ described the variety across southern Piedmont and the Ligurian hinterland.[^1]
 
 Local forms such as *Duset* and *Dosset* were associated with the ripe grape's
 sweetness and moderate acidity before the name was Italianized as Dolcetto.
-That history describes the berry rather than residual sugar in the wine.
+That history describes the berry rather than [residual sugar](../concepts/residual-sugar.md) in the wine.
 Ormeasco is an official synonym in western Liguria. Dolcetto Bianco and
 Dolcetto di Boca are distinct varieties, not colour forms or local clones of
 Dolcetto.[^1]
@@ -81,7 +81,7 @@ Barbera.[^2]
 During red-wine fermentation, pigments are extracted from the skins and
 tannins chiefly from skins and seeds. Dolcetto can therefore give dark colour
 quickly while skin contact also draws out astringency and bitterness. Shorter
-or gentler maceration may emphasize immediate fruit and soften the texture;
+or gentler [maceration](../concepts/maceration.md) may emphasize immediate fruit and soften the texture;
 longer or more forceful extraction can reinforce structure. Warm sites, high
 yields, harvest timing, and berry drop can alter the starting material, while
 vessel, oxygen exposure, and bottle age change how the tannin is perceived.

@@ -8,7 +8,7 @@ aliases:
 
 Nero d'Avola is a dark-skinned *Vitis vinifera* grape grown across Sicily.
 It can produce deeply coloured reds with substantial body, ripe fruit,
-and enough acidity to keep the palate fresh. Growers use it for varietal
+and enough [acidity](../concepts/acidity.md) to keep the palate fresh. Growers use it for varietal
 wines and blends, with styles ranging from fruit-led reds for early drinking
 to wines given extended maturation.
 

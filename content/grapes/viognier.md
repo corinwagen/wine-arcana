@@ -44,7 +44,8 @@ vine can also crop irregularly, although clone, pruning, site, and season all
 affect yield.
 
 The narrow harvest window is a question of competing forms of ripeness. Picked
-too early, the grapes may retain more acidity but lack the aromatic development
+too early, the grapes may retain more [acidity](../concepts/acidity.md) but lack
+the aromatic development
 sought from the variety. Waiting can increase aroma as well as sugar, while
 acidity generally declines; beyond the useful balance, the resulting dry wine
 may gain alcohol and weight faster than freshness. Because Viognier begins with
@@ -64,7 +65,7 @@ differences.[^4]
 The usual structural tendency is low-to-moderate acidity alongside a capacity to
 accumulate substantial sugar. That can give a dry wine breadth and alcohol,
 while a cooler site or earlier harvest may retain a firmer line. Yield,
-fermentation, residual sugar, lees contact, [malolactic
+fermentation, [residual sugar](../concepts/residual-sugar.md), lees contact, [malolactic
 fermentation](../concepts/malolactic-fermentation.md), and vessel choice all
 change the result. Oak can add its own aroma and oxygen exposure; neutral
 vessels make the grape's perfume easier to isolate. Unlike relatively neutral
@@ -92,7 +93,7 @@ alongside Condrieu, extending the grape's identity beyond its Rhône origins.
 
 ## With Syrah
 
-Co-fermentation means that grapes share alcoholic fermentation, rather than
+Co-fermentation means that grapes share [alcoholic fermentation](../concepts/alcoholic-fermentation.md), rather than
 finished red and white wines being blended afterward. Under the current
 Côte-Rôtie rules, [Syrah](syrah.md) is the principal grape and must account for
 at least 80 percent of both an estate's plantings and the blend. Viognier is

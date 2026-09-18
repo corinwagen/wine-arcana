@@ -10,7 +10,7 @@ aliases:
 Malolactic fermentation is a bacterial conversion in which malic acid becomes
 lactic acid and carbon dioxide. It commonly follows [alcoholic fermentation](alcoholic-fermentation.md),
 although the two processes can overlap. By changing one of wine's principal
-acids, it can reduce acidity, alter aroma and texture, and remove a substance
+acids, it can reduce [acidity](acidity.md), alter aroma and texture, and remove a substance
 that might otherwise support microbial activity later.
 
 The conversion is usually carried out by *Oenococcus oeni*. Producers also
@@ -26,7 +26,7 @@ although the size of the change depends on the starting malic-acid content and
 the wine's buffering capacity. This conversion leaves tartaric acid unchanged.[^1]
 
 *Oenococcus oeni* is especially important because it can function despite
-wine's low pH, alcohol, limited nutrients, and sulfur dioxide. Other lactic
+wine's low pH, alcohol, limited nutrients, and [sulfur dioxide](sulfur-dioxide.md). Other lactic
 acid bacteria can also carry out the conversion, with effects that vary by
 strain. A population already present on grapes or in the winery may begin
 spontaneously, but onset and completion can be unpredictable. Inoculating with
@@ -45,7 +45,7 @@ bacteria in combination and guide the timing.
 
 The most direct sensory effect is a different impression of acidity.
 Converting malic acid to lactic acid usually makes a wine seem less sharp and
-can change how its tannin, alcohol, and fruit are perceived. This is often
+can change how its [tannin](tannin.md), alcohol, and fruit are perceived. This is often
 described as a rounder texture. Other bacterial metabolism, yeast-lees
 contact, oak, and the wine's original composition may contribute separate
 textural effects.
@@ -74,8 +74,9 @@ also used for some white wines and
 [traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md)
 base wines.
 
-A slow or uncontrolled bacterial population may form excessive volatile
-acidity, biogenic amines, or other unwanted compounds, and the accompanying
+A slow or uncontrolled bacterial population may form excessive [volatile
+acidity](volatile-acidity.md), biogenic amines, or other unwanted compounds, and
+the accompanying
 rise in pH can make some wines more permissive to later microbial growth.
 Selected cultures, monitoring, and hygiene help manage these risks. Once the
 intended conversion is complete, producers generally clarify, cool, add sulfur

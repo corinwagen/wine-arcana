@@ -8,14 +8,14 @@ aliases:
 # Gewürztraminer
 
 Gewürztraminer is a pink-skinned *Vitis vinifera* variety grown chiefly for
-white wine. It is most closely associated with Alsace, but belongs to a wider
+white wine. It is most closely associated with [Alsace](../regions/alsace.md), but belongs to a wider
 Alpine and Central European Traminer tradition. The name changes with the
 border: Traminer Aromatico in Italy, for example, and several forms of Traminer
 farther east.
 
 The variety combines pronounced grape-derived aroma, ready sugar accumulation,
-and comparatively modest acidity. Sufficient ripeness can bring a distinctive
-perfume and broad texture, but later picking, warm conditions, residual sugar,
+and comparatively modest [acidity](../concepts/acidity.md). Sufficient ripeness can bring a distinctive
+perfume and broad texture, but later picking, warm conditions, [residual sugar](../concepts/residual-sugar.md),
 and high alcohol can leave too little freshness. Gewürztraminer can therefore
 be dry, off-dry, or sweet; its perfume does not disclose which.
 

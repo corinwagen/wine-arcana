@@ -51,7 +51,8 @@ describes Poulsard as contributing a characteristic light ruby color, while
 Trousseau is often more colored and more tannic.[^4]
 
 The contrast helps explain why the two varieties can play different roles in
-Jura red and rosé blends or as separate wines. The IVV describes young Bastardo
+Jura red and [rosé](../styles/rose.md) blends or as separate wines. The IVV
+describes young Bastardo
 with
 fruit and wild-berry aromas and says its wines can develop more complex aromas
 with ageing.[^2]

@@ -11,7 +11,7 @@ sweet wines, and blends of dry and sweet material. The related
 Manzanilla-Sanlúcar de Barrameda PDO is often discussed alongside
 Sherry, but it is legally separate.
 
-Fortification is central to how Sherry developed and remains normal practice,
+[Fortification](../concepts/fortification.md) is central to how Sherry developed and remains normal practice,
 but it is no longer a universal legal condition. The current specification
 recognizes both wine and liqueur wine. A qualifying dry wine may reach
 the required strength without added alcohol, whereas the protected naturally
@@ -21,7 +21,7 @@ sweet wines are liqueur wines whose must is fortified.[^1]
 
 Most dry Sherry begins with a fairly neutral white base wine from Palomino,
 although the rules authorize several white varieties. The must ferments dry,
-and the base wine's acidity, alcohol, pressing fraction, and clarity influence
+and the base wine's [acidity](../concepts/acidity.md), alcohol, pressing fraction, and clarity influence
 how it will age. [Pedro Ximénez](../grapes/pedro-ximenez.md) and [Moscatel de Alejandría](../grapes/moscatel-de-alejandria.md) are more
 closely associated with the sweet styles. Grape and vineyard conditions matter,
 but cellar decisions transform the base wine so extensively that Sherry is

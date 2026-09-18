@@ -6,7 +6,7 @@ title: Marsanne
 
 Marsanne is a white *Vitis vinifera* grape of the northern Rhône. It is valued
 for breadth, weight, and a distinctive ability to develop with bottle age, even
-though its acidity is usually medium to low rather than sharply refreshing.
+though its [acidity](../concepts/acidity.md) is usually medium to low rather than sharply refreshing.
 That combination makes it useful both as a substantial varietal wine and as
 the fuller partner to [Roussanne](roussanne.md) in the region's white-wine
 tradition.
@@ -50,8 +50,9 @@ harvest, the same grape can feel more lifted.
 
 Floral notes can recede as dried-fruit, nutty, honeyed, or savoury impressions
 become more apparent, and the texture may seem more integrated. The direction
-and speed of that development depend on vintage, alcohol, acidity, sulfur
-dioxide, closure, and storage. A well-made, balanced wine may mature
+and speed of that development depend on vintage, alcohol, acidity, [sulfur
+dioxide](../concepts/sulfur-dioxide.md), closure, and storage. A well-made,
+balanced wine may mature
 compellingly; a broad, low-acid wine with poor storage may simply lose
 freshness.
 
@@ -61,7 +62,7 @@ Marsanne's clearest historical and contemporary identity is northern Rhône
 white wine. It is central to the white wines of Hermitage, Crozes-Hermitage,
 Saint-Joseph, and Saint-Péray. In the Hermitage appellation
 rules, white wines are made from Marsanne and Roussanne, and the same two
-varieties are permitted for the sweet *vin de paille* style.[^2] Saint-Péray
+varieties are permitted for the sweet *[vin de paille](../styles/vin-de-paille.md)* style.[^2] Saint-Péray
 also uses Marsanne for both still and sparkling white wines.[^1]
 
 Marsanne's ripeness and

@@ -58,7 +58,7 @@ controlled experiment on five Tempranillo clones, higher temperature hastened
 ripening and sugar accumulation while accelerating the breakdown of malic
 acid; the size of the response differed among clones.[^2] A naturally short
 cycle can thus move ripening into an especially hot part of the season, giving
-high potential alcohol and falling acidity before color and other phenolic
+high potential alcohol and falling [acidity](../concepts/acidity.md) before color and other phenolic
 components reach the balance a grower wants.
 
 Tempranillo is vigorous and sufficiently fertile for short pruning, but its wine
@@ -68,12 +68,13 @@ sugar, acid, and skin compounds.
 
 ## Wine character and cellar choices
 
-Tempranillo can give well-colored wines with enough tannin and body for extended
+Tempranillo can give well-colored wines with enough
+[tannin](../concepts/tannin.md) and body for extended
 maturation, but acidity is often less secure, especially in hot sites. Recent
 analyses of Rioja clones found significant variation in anthocyanins and
 flavanols, compounds relevant respectively to color and tannin, as well as a
 strong vintage effect. Yield and water alter grape composition further, while
-maceration determines how much color and tannin reaches the wine.
+[maceration](../concepts/maceration.md) determines how much color and tannin reaches the wine.
 
 Harvest timing involves linked compromises. Picking earlier can preserve acidity
 and a fresher fruit impression but leave tannin less mature; waiting can deepen

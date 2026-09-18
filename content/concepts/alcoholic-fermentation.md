@@ -57,7 +57,7 @@ population consumes oxygen differently from a finished wine undergoing
 Winemakers follow temperature and declining density through repeated
 measurements, often plotting a fermentation curve. A slowdown gives time to
 investigate temperature, nutrition, yeast activity, or inhibitory substances.
-High starting sugar, rising alcohol, excessive sulfur dioxide, and competing
+High starting sugar, rising alcohol, excessive [sulfur dioxide](sulfur-dioxide.md), and competing
 microorganisms can each contribute to difficulty.
 
 A stuck fermentation has ceased consuming sugar before reaching the intended

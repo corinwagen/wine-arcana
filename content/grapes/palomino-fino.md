@@ -13,12 +13,13 @@ Palomino Fino is a pale-skinned *Vitis vinifera* grape most closely associated
 with [Jerez](../regions/jerez.md) and the dry wines called
 [Sherry](../styles/sherry.md). Palomino commonly gives a relatively low-acid
 base wine with little forceful varietal aroma. In Jerez, that discretion leaves
-room for fermentation, fortification where used, and years of biological or
+room for fermentation, [fortification](../concepts/fortification.md) where used, and years of biological or
 oxidative ageing to shape the finished wine.
 
 Palomino supplies a comparatively modest range of grape-derived aroma
 precursors, leaving site, ripeness, pressing, fermentation, and ageing especially
-visible. In warm Jerez conditions, low acidity can make a young wine seem broad
+visible. In warm Jerez conditions, low [acidity](../concepts/acidity.md) can
+make a young wine seem broad
 or quiet; a cooler site, an early harvest, or acidification where permitted can
 alter that balance.[^1]
 
@@ -70,12 +71,12 @@ Biological ageing begins only when a suitable base wine, cellar environment,
 and strains of *Saccharomyces cerevisiae* come together. After fermentation,
 [flor](../concepts/flor.md) yeasts can form a living film at the wine's
 surface. Sugar depletion and access to oxygen favour their shift from
-fermentation toward oxidative metabolism. The film moderates direct oxidation
+fermentation toward oxidative metabolism. The film moderates direct [oxidation](../concepts/oxidation.md)
 while relying on oxygen for the yeasts' metabolism.[^6]
 
 Under flor, yeast metabolism consumes or changes wine constituents and produces
 acetaldehyde from ethanol; biologically aged wines also show lower glycerol and
-volatile acidity than comparable unaged wines. These changes help create the
+[volatile acidity](../concepts/volatile-acidity.md) than comparable unaged wines. These changes help create the
 distinctive dry, savoury, sometimes tangy character associated with Fino and
 Manzanilla. The result depends on the health and thickness of flor, the wine's
 strength and nutrients, cask management, bodega temperature and humidity, and

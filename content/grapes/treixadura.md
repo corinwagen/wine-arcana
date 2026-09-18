@@ -52,7 +52,8 @@ and healthy.
 Site choice is especially important near the cooler limits of cultivation. Warm,
 sheltered slopes can help the variety complete ripening, whereas a cool or high
 site may leave sugar and aroma development behind. As the grapes mature, sugar
-rises and acidity tends to soften; in warm conditions a late harvest can produce
+rises and [acidity](../concepts/acidity.md) tends to soften; in warm conditions
+a late harvest can produce
 ample body but a loose finish. Earlier picking preserves more acidity but may
 sacrifice the breadth and aromatic maturity that Treixadura brings to a blend.
 

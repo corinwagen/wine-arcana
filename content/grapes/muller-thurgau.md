@@ -11,7 +11,7 @@ Müller-Thurgau is a white *Vitis vinifera* grape bred by Hermann Müller,
 a Swiss researcher from the canton of Thurgau. Early ripening, generous
 crops, and a lightly muscat-like perfume helped it spread through Germany
 and neighbouring wine countries. Its wines commonly emphasize fresh fruit
-and relatively gentle acidity, with styles spanning dry and lightly sweet.
+and relatively gentle [acidity](../concepts/acidity.md), with styles spanning dry and lightly sweet.
 
 ## Breeding and names
 

@@ -10,7 +10,7 @@ Sémillon is a white *Vitis vinifera* variety most closely associated with
 Bordeaux and Australia's Hunter Valley. It can produce dry wines on its own,
 form a complementary blend with [Sauvignon Blanc](sauvignon-blanc.md), or
 provide the base for concentrated sweet wine. These uses draw on the same
-traits—generous palate weight, often moderate acidity, and sensitivity to
+traits—generous palate weight, often moderate [acidity](../concepts/acidity.md), and sensitivity to
 *Botrytis cinerea*—but direct them toward strikingly different results.
 
 The variety is often described as waxy. That word can refer to a smooth,
@@ -51,7 +51,7 @@ selection still determine whether rot is useful or destructive.
 Selective picking is therefore essential in classic sweet-wine production.
 Several passes may be needed to take suitably affected berries while leaving
 others to develop or rejecting unhealthy fruit. The concentrated crop yields
-little juice and can be difficult to ferment. Residual sugar depends on the
+little juice and can be difficult to ferment. [Residual sugar](../concepts/residual-sugar.md) depends on the
 concentration of the must and how far fermentation proceeds.
 
 ## Texture and the Sauvignon Blanc partnership

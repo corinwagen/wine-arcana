@@ -75,14 +75,14 @@ Mencía, from the Súmmum category, which requires at least 85 percent principal
 varieties.[^1] Mencía can give fragrant, moderately coloured reds, but its
 balance changes with crop, exposure, water supply, harvest date, extraction,
 and maturation. A warm, sheltered parcel may produce riper fruit than a higher
-or wetter site, while a forceful extraction can make tannin more prominent
+or wetter site, while a forceful extraction can make [tannin](../concepts/tannin.md) more prominent
 regardless of subzone.
 
 The principal red list also includes [Brancellao](../grapes/brancellao.md),
 [Merenzao](../grapes/trousseau.md), [Sousón](../grapes/souson.md),
 [Caíño Tinto](../grapes/caino-tinto.md), Caíño Longo, and Caíño Bravo. These
 grapes can appear in blends or occasional varietal wines,
-altering colour, acidity, tannin, aroma, and ripening balance.
+altering colour, [acidity](../concepts/acidity.md), tannin, aroma, and ripening balance.
 
 Godello is the most prominent white grape, joined by
 [Treixadura](../grapes/treixadura.md), [Albariño](../grapes/albarino.md),

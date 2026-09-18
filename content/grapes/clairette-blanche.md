@@ -11,7 +11,7 @@ Clairette blanche is an old white *Vitis vinifera* variety of southern France.
 In the French catalogue it is officially called Clairette B, while “Clairette
 blanche” helps distinguish the grape from wines and appellations that use
 Clairette in their names. It ripens late, can produce fairly alcoholic wines,
-and naturally gives relatively little acidity. Those traits explain its long
+and naturally gives relatively little [acidity](../concepts/acidity.md). Those traits explain its long
 use in warm Mediterranean vineyards, but also why harvest timing, blending, and
 oxygen control matter.
 
@@ -19,7 +19,7 @@ It can be bottled alone in parts of the Languedoc and
 southern Rhône, contribute shape and regional character to blends, or support
 sparkling wines in the Diois. Its weaknesses are part of that history: growers
 and winemakers have repeatedly used place, picking decisions, and other grapes
-to make its broad, oxidation-prone material useful.
+to make its broad, [oxidation](../concepts/oxidation.md)-prone material useful.
 
 ## History and identity
 
@@ -73,8 +73,9 @@ bitterness can add length or counterweight.
 Oxidation is a separate but important vulnerability. The Australian Wine
 Research Institute describes Clairette as very prone to oxidation during
 vinification. Oxygen can consume fresh aromas and alter a white wine’s colour
-and flavour; the speed and severity depend on the must and wine, sulfur
-dioxide, temperature, oxygen exposure, and later storage.[^4] Clairette’s low
+and flavour; the speed and severity depend on the must and wine, [sulfur
+dioxide](../concepts/sulfur-dioxide.md), temperature, oxygen exposure, and later
+storage.[^4] Clairette’s low
 acidity can make the loss of freshness more obvious.
 
 This combination helps explain why traditional Clairette wines were not always

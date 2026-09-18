@@ -8,7 +8,7 @@ aliases:
 
 Poulsard is a red *Vitis vinifera* variety native to the
 [Jura](../regions/jura.md) vineyards of eastern France. It is one of the grapes
-that makes Jura's red and rosé wines recognizable: its wines are often lightly
+that makes Jura's red and [rosé](../styles/rose.md) wines recognizable: its wines are often lightly
 coloured and delicate.
 
 ![An elongated dark grape cluster hangs beside a lobed green vine leaf.](../../media/images/grapes/poulsard-ampelography.jpg "Poulsard, illustrated by Jules Troncy for Viala and Vermorel's Ampélographie.")

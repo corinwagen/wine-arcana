@@ -5,7 +5,7 @@ title: Champagne
 # Champagne
 
 Champagne is a delimited wine appellation in northeastern France and the name
-reserved for its white and rosé sparkling wines. It is not a generic term for
+reserved for its white and [rosé](../styles/rose.md) sparkling wines. It is not a generic term for
 bottle-fermented wine: grapes must come from approved parcels, and growing,
 pressing, winemaking, ageing, and release are governed by the appellation's
 rules. Within that shared framework, Champagne can differ markedly with place,
@@ -29,7 +29,7 @@ support vine growth but also raises disease pressure, while continental weather
 brings useful summer sunshine as well as damaging frost. Slopes and exposure
 help fruit receive enough light and shed excess water; differences in aspect,
 soil depth, and shelter can nevertheless change ripening over short distances.
-Retained acidity is valuable in a base wine that will undergo a second
+Retained [acidity](../concepts/acidity.md) is valuable in a base wine that will undergo a second
 fermentation. Growers balance it against sugar, fruit health, and maturity.
 The Comité Champagne reports increasingly early harvest
 starts as the climate warms, alongside continuing frost and weather risks.

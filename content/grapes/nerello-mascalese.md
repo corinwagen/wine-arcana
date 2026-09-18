@@ -6,7 +6,7 @@ title: Nerello Mascalese
 
 Nerello Mascalese is a dark-skinned *Vitis vinifera* grape most closely
 associated with the slopes of [Mount Etna](../regions/etna.md) in eastern Sicily. It can make
-relatively pale reds with substantial tannin and acidity. The Italian Vitis
+relatively pale reds with substantial tannin and [acidity](../concepts/acidity.md). The Italian Vitis
 Database reports modest anthocyanin pigmentation alongside a larger total
 phenolic content, helping explain why colour gives an incomplete impression
 of the wine's structure.
@@ -46,7 +46,7 @@ than their translucent colour suggests. Anthocyanins provide much of a
 young red wine's colour; tannins contribute a different property, the
 drying sensation called astringency.
 
-Maceration extracts both groups of compounds from the grapes. The duration
+[Maceration](../concepts/maceration.md) extracts both groups of compounds from the grapes. The duration
 and intensity of skin contact therefore help shape the balance between
 fruit and grip. [Maturation](../concepts/bottle-aging.md) changes that
 balance further as pigments and tannins react and fresh-fruit aromas
@@ -55,7 +55,7 @@ can both express the variety.
 
 ## In blends and other styles
 
-Etna Rosso and Rosato require at least 80% Nerello Mascalese. Nerello
+Etna Rosso and [Rosato](../styles/rose.md) require at least 80% Nerello Mascalese. Nerello
 Cappuccio is permitted as a blending partner. The
 specification also requires at least 80% Nerello Mascalese for Etna's
 sparkling wines, which can be white or pink.[^1] Pressing the dark grapes

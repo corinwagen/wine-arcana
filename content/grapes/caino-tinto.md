@@ -9,7 +9,7 @@ aliases:
 Caíño Tinto is a dark-skinned *Vitis vinifera* variety of Atlantic
 northwestern Iberia. It is grown in Galicia under its Spanish name and in
 northern Portugal as Borraçal. The variety is vigorous yet often gives small,
-irregular crops, ripens late, and retains substantial acidity. Those traits
+irregular crops, ripens late, and retains substantial [acidity](../concepts/acidity.md). Those traits
 make it demanding to grow but useful in the multi-grape red wines traditional
 on both sides of the lower Miño and Minho border.
 
@@ -17,7 +17,7 @@ Its role is usually complementary rather than dominant. Caíño Tinto can bring
 freshness and aromatic lift to a blend, while earlier-ripening or more deeply
 coloured grapes supply weight, alcohol, or colour. Single-variety bottlings do
 exist, but they expose the central challenge clearly: reaching enough fruit
-and tannin maturity in a mild, wet climate without losing healthy grapes while
+and [tannin](../concepts/tannin.md) maturity in a mild, wet climate without losing healthy grapes while
 waiting.
 
 ## Identity and history

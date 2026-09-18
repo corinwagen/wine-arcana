@@ -15,7 +15,7 @@ appear on ripe berries.
 
 The variety's usefulness turns on harvest timing. Bical ripens relatively
 early and can accumulate ample sugar, while fruit picked at the right point can
-retain the acidity needed for a fresh still wine or a balanced sparkling base.
+retain the [acidity](../concepts/acidity.md) needed for a fresh still wine or a balanced sparkling base.
 Waiting too long can exchange some of that freshness for more potential alcohol
 and broader texture.
 

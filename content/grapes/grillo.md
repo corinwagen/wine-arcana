@@ -14,7 +14,7 @@ ripe fruit, and sustained flavour suits these different uses, while fresh
 examples often show citrus and floral impressions.
 
 DNA analysis identifies its parents as [Catarratto](catarratto.md) and
-Zibibbo, the Sicilian name for Muscat of Alexandria.[^1] The historical
+[Zibibbo](moscatel-de-alejandria.md), the Sicilian name for Muscat of Alexandria.[^1] The historical
 circumstances of the crossing remain less certain. Grillo became
 increasingly important in western Sicily during the replanting that
 followed phylloxera in the late nineteenth and early twentieth centuries.
@@ -44,7 +44,7 @@ Ripe examples may feel broad and lightly gripping. Its skins supply
 phenolic compounds as well as aroma precursors, making pressing and skin
 contact relevant to the final texture.
 
-Harvest timing sets the starting balance of sugar, acidity, and aroma.
+Harvest timing sets the starting balance of sugar, [acidity](../concepts/acidity.md), and aroma.
 Fermenting more grape sugar to dryness increases alcohol, while earlier
 picking can favour a lighter result. [Lees ageing](../concepts/lees-aging.md)
 and the choice of tank or wood then offer ways to shape texture and

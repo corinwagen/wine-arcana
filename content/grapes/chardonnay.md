@@ -38,7 +38,7 @@ genetic study, Pinot denotes the old lineage represented by
 Chardonnay buds and ripens early. Early budbreak makes spring frost a recurring
 risk. Early maturity allows it to ripen in relatively cool districts and can
 compress the harvest window in warm ones. Its small bunches and berries can
-reach substantial sugar while retaining useful acidity in suitable conditions.
+reach substantial sugar while retaining useful [acidity](../concepts/acidity.md) in suitable conditions.
 Powdery mildew is a concern, and vigorous vines whose fruit hangs late can
 suffer damaging grey rot. Clone, crop level, [canopy
 management](../concepts/canopy-management.md), and fruit health consequently
@@ -67,11 +67,11 @@ compounds.[^1] Yeast strain, fermentation temperature, juice solids, oxygen
 management and skin contact can further change fermentation-derived aroma.
 
 Malolactic fermentation is a bacterial conversion, usually after or alongside
-alcoholic fermentation, in which malic acid becomes lactic acid and carbon
+[alcoholic fermentation](../concepts/alcoholic-fermentation.md), in which malic acid becomes lactic acid and carbon
 dioxide. The conversion lowers titratable acidity and can make the acid profile
 seem softer. The buttery-smelling compound diacetyl can also arise as bacteria
 metabolise citric acid. Its concentration depends on bacterial strain, oxygen,
-redox conditions, timing, sulfur dioxide and continued contact with active
+redox conditions, timing, [sulfur dioxide](../concepts/sulfur-dioxide.md) and continued contact with active
 yeast or bacteria; it can also be reduced to less aromatic compounds.[^3]
 Malolactic fermentation can therefore produce much, little, or no perceptible
 butter. A producer may encourage, limit or prevent the conversion according to

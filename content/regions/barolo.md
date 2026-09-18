@@ -66,10 +66,10 @@ can also blend several sites to balance their different contributions.
 
 ## Wine and maturation
 
-Nebbiolo can combine relatively modest colour with substantial acidity and
-tannin. In Barolo, the long growing season makes the balance among sugar,
+Nebbiolo can combine relatively modest colour with substantial [acidity](../concepts/acidity.md) and
+[tannin](../concepts/tannin.md). In Barolo, the long growing season makes the balance among sugar,
 acidity, and skin and seed maturity especially dependent on site and year.
-Maceration and extraction then determine how the cellar handles the grape's
+[Maceration](../concepts/maceration.md) and extraction then determine how the cellar handles the grape's
 phenolic material.
 
 The current rules require ordinary Barolo to mature for at least 38 months

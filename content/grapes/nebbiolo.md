@@ -12,7 +12,9 @@ Nebbiolo is a dark-skinned *Vitis vinifera* variety from northwestern Italy,
 most closely associated with Piedmont and the wines of
 [Barolo](../regions/barolo.md) and Barbaresco.
 Its wines can be pale and quickly develop a garnet hue while retaining
-substantial tannin and acidity. Colour, tannin, and acid derive from different
+substantial [tannin](../concepts/tannin.md) and
+[acidity](../concepts/acidity.md). Colour, tannin, and acid derive from
+different
 compounds and berry tissues and can vary independently.
 
 The variety also has a long growing season. It buds early but ripens late,
@@ -80,7 +82,7 @@ maturity while raising potential alcohol and reducing acidity; picking earlier
 can preserve acid while leaving tannin especially austere. Harvest timing
 therefore balances competing forms of maturity.
 
-Maceration and maturation reshape what the grapes provide. Longer or more
+[Maceration](../concepts/maceration.md) and maturation reshape what the grapes provide. Longer or more
 forceful skin contact can extract more tannin. Gentler extraction can limit it
 but cannot compensate for unripe fruit. During [oak maturation](../concepts/oak-maturation.md),
 vessel size and age, oxygen exposure, and time affect aroma, tannin

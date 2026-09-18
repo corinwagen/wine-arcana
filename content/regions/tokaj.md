@@ -11,7 +11,7 @@ Tokaj is both the name of one of those towns and the regional name, while
 *Tokaji* means a wine from Tokaj.
 
 The region is closely associated with Aszú, a concentrated sweet wine made
-through the selection and maceration of noble-rotted berries. Tokaj also makes
+through the selection and [maceration](../concepts/maceration.md) of noble-rotted berries. Tokaj also makes
 dry white, late-harvest,
 Szamorodni, and sparkling wines, and [botrytized sweet
 wine](../styles/botrytized-sweet-wine.md) is a much broader family made in other
@@ -49,7 +49,7 @@ Six white varieties are permitted: [Furmint](../grapes/furmint.md),
 [Hárslevelű](../grapes/harslevelu.md),
 [Sárgamuskotály](../grapes/muscat-blanc-a-petits-grains.md),
 Kövérszőlő, Zéta, and Kabar. Furmint dominates current plantings. It can
-ripen late, retain pronounced acidity, and form useful aszú berries, making it
+ripen late, retain pronounced [acidity](../concepts/acidity.md), and form useful aszú berries, making it
 suited to both dry wine and concentrated sweet wine. Hárslevelű, the principal
 secondary variety, tends to give a more openly aromatic contribution and has
 looser bunches. Sárgamuskotály—Muscat Blanc à Petits Grains—ripens earlier and
@@ -75,7 +75,7 @@ partially fermented must, fermenting must, or wine from the same vintage. After
 pressing, fermentation continues under difficult conditions: the concentrated
 must places yeast under substantial osmotic stress and may retain considerable
 grape sugar. Current rules require at least 18 months in wooden barrels, at
-least 120 grams per litre of residual sugar, and release no earlier than 1
+least 120 grams per litre of [residual sugar](../concepts/residual-sugar.md), and release no earlier than 1
 January of the third year after harvest.[^2]
 
 The familiar *puttonyos* scale began as a production ratio: a number of
