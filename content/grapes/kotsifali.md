@@ -18,7 +18,7 @@ together.
 
 ## The Cretan blending tradition
 
-Kotsifali's established partner is Mandilaria, also called Mandilari on
+Kotsifali's established partner is [Mandilaria](mandilaria.md), also called Mandilari on
 Crete. Mandilaria supplies deeper colour and firmer tannin, while Kotsifali
 adds fruit, breadth, and a more supple texture. The combination is closely
 associated with the reds of Peza and Archanes. The two grapes complement
