@@ -8,7 +8,7 @@ aliases:
 # Alicante Bouschet
 
 Alicante Bouschet is a dark-skinned *Vitis vinifera* wine grape best understood
-as a teinturier: its berry flesh, as well as its skin, contains red pigment.
+as a [teinturier](../concepts/teinturier.md): its berry flesh, as well as its skin, contains red pigment.
 Most red grapes have colourless pulp, so their colour reaches wine chiefly
 through contact with the skins. Alicante Bouschet can contribute colour from
 the juice itself and has consequently had an outsized place in blends where

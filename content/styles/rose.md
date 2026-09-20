@@ -17,6 +17,10 @@ sparkling rosé.
 
 ## Extracting colour
 
+[Teinturier](../concepts/teinturier.md) grapes have pigmented flesh as well
+as skins. Their juice can therefore retain substantial colour even with
+brief skin contact, making grape choice important when aiming for a pale wine.
+
 In direct pressing, grapes enter the press without a preceding soak. Contact
 during pressing supplies some colour, and the separated juice then ferments.
 In a short [maceration](../concepts/maceration.md), crushed berries first soak together so that skins
@@ -58,6 +62,9 @@ toward dried-fruit and spicy aromas with age.
 
 ## Sources
 
+- Institut français de la vigne et du vin, INRAE & Institut Agro Montpellier,
+  [“Alicante Henri Bouschet N”](https://www.plantgrape.fr/en/varieties/fruit-varieties/6/export),
+  coloured pulp and colour contribution, accessed 19 September 2026.
 - Institut français de la vigne et du vin, [“Quelques clés d’élaboration des
   vins rosés”](https://www.vignevin.com/publications/fiches-pratiques/quelques-cles-delaboration-des-vins-roses/),
   accessed 9 September 2026.

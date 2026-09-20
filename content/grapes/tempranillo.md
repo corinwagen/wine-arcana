@@ -89,7 +89,7 @@ change how tannin feels; bottle age develops the wine further. Barrel and
 bottle age can therefore make mature examples quite unlike young, unoaked
 Tempranillo.
 
-## Rioja, Ribera del Duero, Toro, and Portugal
+## Rioja, Ribera del Duero, and Toro
 
 [Rioja](../regions/rioja.md) shows Tempranillo across a broad stylistic range.
 The denomination extends about 100 kilometres along the Ebro and crosses cooler
@@ -121,6 +121,8 @@ weight, particularly at low yields. Altitude, soils, water supply, and
 extraction create meaningful variation within Toro. Current rules also allow
 Garnacha-led red wine; a red labelled for Tinta de Toro must contain at least
 85% of it.[^4]
+
+## Tinta Roriz and Aragonez in Portugal
 
 Portugal encompasses very different expressions. In the Douro, Tinta Roriz
 commonly joins [Touriga Franca](touriga-franca.md), [Touriga

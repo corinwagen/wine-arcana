@@ -68,7 +68,7 @@ different constraints.
 Anthocyanins are the red, purple, and blue pigments extracted principally from
 grape skins during fermentation. Sousón accumulates a large quantity of them in
 its dark blue-black skins, and Portuguese descriptions also record some pigment
-in the pulp. It is not uniformly red-fleshed like a classic teinturier grape,
+in the pulp. It is not uniformly red-fleshed like a classic [teinturier](../concepts/teinturier.md) grape,
 but the combination gives it unusual colouring capacity. A two-year comparison
 of 27 red varieties grown at one Portuguese site placed Vinhão among the
 high-anthocyanin varieties, while also finding that its total changed

@@ -20,6 +20,10 @@ solids change too.
 
 ## Extraction during red fermentation
 
+[Teinturier](teinturier.md) grapes supply pigment from their flesh as well
+as their skins, so their juice can already be coloured before prolonged
+skin contact. Maceration still changes the extraction from skins and seeds.
+
 Red winemaking commonly ferments juice together with skins and seeds. Carbon
 dioxide lifts solids into a floating cap. Cap management brings this material
 back into contact with the liquid and redistributes heat. In a punch-down,
@@ -84,6 +88,9 @@ berries as well as the extraction that occurs as they break down.
 
 ## Sources
 
+- Institut français de la vigne et du vin, INRAE & Institut Agro Montpellier,
+  [“Alicante Henri Bouschet N”](https://www.plantgrape.fr/en/varieties/fruit-varieties/6/export),
+  coloured pulp and colour contribution, accessed 19 September 2026.
 - Geoff Cowey, [“Traditional cap management
   techniques”](https://www.awri.com.au/wp-content/uploads/2023/05/s2350.pdf),
   *Australian & New Zealand Grapegrower & Winemaker* 712 (May 2023), pp. 58–59.
