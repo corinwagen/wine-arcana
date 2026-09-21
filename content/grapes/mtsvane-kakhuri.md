@@ -12,7 +12,7 @@ adding floral and peach-like fragrance to a less aromatic partner.
 Pressed white and amber versions give different expressions of that fruit.
 
 The fuller name matters. *Mtsvane*, meaning green, occurs in several
-Georgian grape names; Goruli Mtsvane is a distinct variety. “Mtsvane” on
+Georgian grape names; [Goruli Mtsvane](goruli-mtsvane.md) is a distinct variety. “Mtsvane” on
 its own can therefore require regional context, while “Kakhuri” identifies
 the Kakhetian grape discussed here.
 
