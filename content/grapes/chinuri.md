@@ -53,6 +53,10 @@ within either approach.
 [^1]: Iago's Wine, “Chinuri White” and “Chinuri Amber,” producer accounts,
     accessed 21 September 2026.
 
+## Related topics
+
+- [Shavkapito](shavkapito.md), a red grape from Kartli.
+
 ## Sources
 
 - National Wine Agency of Georgia, [“White wine grape varieties”](https://wine.gov.ge/En/VarietyWhite),

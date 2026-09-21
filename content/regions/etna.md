@@ -24,8 +24,9 @@ eastern, and southern slopes, open toward the west. Its boundaries follow
 a detailed map of places and elevations. A vineyard on Etna therefore needs
 to fall within the specified zone to produce Etna DOC.[^1]
 
-Altitude generally lowers temperatures, while exposure changes the amount
-and timing of sunlight. The sea moderates parts of the eastern slope.
+[Altitude](../concepts/altitude.md) generally lowers temperatures, while
+exposure changes the amount and timing of sunlight. The sea moderates parts
+of the eastern slope.
 Rainfall varies around the mountain, and its growing conditions can be
 considerably wetter than those of other Sicilian wine districts. For
 late-ripening grapes, the timing of autumn rain can matter as much as summer

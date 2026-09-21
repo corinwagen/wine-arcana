@@ -53,6 +53,11 @@ pressing and fermentation choices produce a white wine whose balance
 centres on fruit, acid, and sweetness, with much less extraction from grape
 solids.
 
+## Related topics
+
+- [Kangun](kangun.md), an Armenian breeding cross whose recorded pedigree
+  includes Rkatsiteli.
+
 ## Sources
 
 - Wines of Georgia, [“Grape varieties”](https://www.winesgeorgia.com/grape-varieties/),

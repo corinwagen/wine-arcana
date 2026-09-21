@@ -18,7 +18,8 @@ under the grape's own name.
 
 Malbec can provide deep colour and substantial [tannin](../concepts/tannin.md), but climate, water,
 crop level, harvest date, extraction, and maturation alter the balance. In
-Argentina, elevation changes temperature and ultraviolet radiation.
+Argentina, [elevation](../concepts/altitude.md) changes temperature and
+ultraviolet radiation.
 
 ## History and identity
 

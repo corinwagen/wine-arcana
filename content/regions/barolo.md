@@ -33,8 +33,9 @@ Barolo, and Diano d'Alba; gravel, gypsum-bearing strata, and other formations
 add further local differences. Geological boundaries therefore do not match
 commune boundaries neatly.
 
-Elevation, slope, and aspect change sunlight, temperature, wind, and water
-movement over short distances. A study using weather records from 1996–2019
+[Elevation](../concepts/altitude.md), slope, and aspect change sunlight,
+temperature, wind, and water movement over short distances. A study using
+weather records from 1996–2019
 found that maximum temperatures and the Huglin heat index declined
 consistently with elevation across the topographically complex zone, while
 minimum temperatures behaved differently.[^2] These relationships affect

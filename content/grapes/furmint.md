@@ -75,6 +75,10 @@ combination of autumn humidity, berry selection, and sweet-wine traditions.
     Culturable Microbial Communities of Grape Berries Change Strongly
     during Noble Rot Development,” *Plants* 9 (2020), article 1809.
 
+## Related topics
+
+- [Juhfark](juhfark.md), another white grape associated with Somló.
+
 ## Sources
 
 - Julius Kühn Institute, [“Furmint”](https://www.vivc.de/index.php?r=passport%2Fview&id=4292),
