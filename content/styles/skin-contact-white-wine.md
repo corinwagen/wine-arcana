@@ -56,7 +56,8 @@ proportion and condition
 of the solids, berry breakage, cap management, pressing, and sulfur dioxide all
 alter which compounds are extracted, retained, transformed, or lost.
 
-In a controlled Malvazija Istarska trial, contact periods from two to 42 days
+In a controlled [Malvazija Istarska](../grapes/malvasia-istriana.md) trial,
+contact periods from two to 42 days
 produced different balances of volatile compounds; longer treatments did not
 simply produce more of everything.[^2]
 
@@ -103,7 +104,7 @@ the Intangible Cultural Heritage of Humanity in 2013. Practice varies within
 Georgia: official descriptions contrast Kakhetian use of the full pomace with
 Imeretian use of no more than one-third.
 
-Skin-contact whites are also established in Friuli and parts of Slovenia, and
+Skin-contact whites are also established in [Friuli](../regions/friuli.md) and parts of Slovenia, and
 contemporary examples appear much farther afield.
 
 [^1]: International Organisation of Vine and Wine, Resolution OIV-ECO 647-2020,

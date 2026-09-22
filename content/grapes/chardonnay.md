@@ -35,11 +35,12 @@ genetic study, Pinot denotes the old lineage represented by
 
 ## Viticulture and site
 
-Chardonnay buds and ripens early. Early budbreak makes spring frost a recurring
+Chardonnay buds and ripens early. Early budbreak makes [spring
+frost](../concepts/spring-frost.md) a recurring
 risk. Early maturity allows it to ripen in relatively cool districts and can
 compress the harvest window in warm ones. Its small bunches and berries can
 reach substantial sugar while retaining useful [acidity](../concepts/acidity.md) in suitable conditions.
-Powdery mildew is a concern, and vigorous vines whose fruit hangs late can
+[Powdery mildew](../concepts/powdery-mildew.md) is a concern, and vigorous vines whose fruit hangs late can
 suffer damaging grey rot. Clone, crop level, [canopy
 management](../concepts/canopy-management.md), and fruit health consequently
 shape the variety's performance.
@@ -113,7 +114,7 @@ Champagne demonstrates both blending and varietal expression. Chardonnay may
 be combined with Pinot Noir and [Meunier](pinot-meunier.md) or used alone for
 *blanc de blancs*. The appellation's production sequence requires the second
 fermentation in the bottle and subsequent maturation on its lees.[^6]
-England is another important contemporary setting. Chardonnay is used for
+[England](../regions/england.md) is another important contemporary setting. Chardonnay is used for
 blanc de blancs and blends with Pinot Noir and Meunier, with cool growing
 conditions supporting fresh base wines. Producers' increasing stocks of
 reserve wine allow more non-vintage blending alongside vintage releases.

@@ -29,7 +29,7 @@ existing root system.
 
 ## Why resistant roots matter
 
-Phylloxera is a small insect that feeds on grapevine roots. On susceptible
+[Phylloxera](phylloxera.md) is a small insect that feeds on grapevine roots. On susceptible
 vines, feeding damage and secondary infection can destroy parts of the root
 system, reducing growth and yield. *Vitis vinifera*, the species containing
 most familiar wine grapes, is vulnerable. Rootstocks derived from resistant

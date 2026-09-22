@@ -45,6 +45,23 @@ async function makeProject(t, files = {}) {
   return rootDir;
 }
 
+test("features existing fundamentals guides in reading order with page-relative links", async (t) => {
+  const rootDir = await makeProject(t, {
+    "content/concepts/vineyard-year.md": article("The vineyard year"),
+    "content/concepts/from-harvest-to-bottle.md": article("From harvest to bottle"),
+  });
+  const outputDir = path.join(rootDir, "public");
+  await buildSite({ rootDir, outputDir });
+  for (const [page, prefix] of [["index.html", "concepts/"], ["concepts/index.html", ""]]) {
+    const html = await fs.readFile(path.join(outputDir, page), "utf8");
+    const section = html.match(/<section[^>]*aria-labelledby="fundamentals-heading">([\s\S]*?)<\/section>/)?.[1];
+    assert.ok(section, `${page} exposes a fundamentals entry point`);
+    assert.ok(section.includes(`href="${prefix}vineyard-year/"`));
+    assert.ok(section.includes(`href="${prefix}from-harvest-to-bottle/"`));
+    assert.ok(section.indexOf("The vineyard year") < section.indexOf("From harvest to bottle"));
+  }
+});
+
 test("builds article, category, homepage, about, and fallback pages", async (t) => {
   const rootDir = await makeProject(t, {
     "content/grapes/baga.md": article(
@@ -93,6 +110,7 @@ test("builds article, category, homepage, about, and fallback pages", async (t) 
   assert.match(homepage, /href="site\.webmanifest"/);
   assert.match(homepage, /<h1 class="visually-hidden">Wine Arcana<\/h1>/);
   assert.match(homepage, /A small encyclopædia of wine\./);
+  assert.doesNotMatch(homepage, /id="fundamentals-heading"/);
   assert.match(homepage, /rel="canonical" href="https:\/\/winearcana\.com\/"/);
   assert.match(homepage, /"@type":"WebSite"/);
   assert.match(grapeIndex, /<h1>Grapes<\/h1>/);

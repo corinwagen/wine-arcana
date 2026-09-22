@@ -129,6 +129,8 @@ acid, aroma, texture, microbial risk, and intended development.
 
 ## Related topics
 
+- [From harvest to bottle](from-harvest-to-bottle.md) explains how conversion
+  fits with racking, maturation, and bottling.
 - [Chardonnay](../grapes/chardonnay.md)
 - [Carbonic maceration](carbonic-maceration.md)
 

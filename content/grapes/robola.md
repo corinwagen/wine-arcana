@@ -10,7 +10,7 @@ character with firm [acidity](../concepts/acidity.md) and more body than a purel
 white. The island's mountain vineyards, stony soils, and differing harvest
 conditions are central to that expression.
 
-Its name resembles Italy's Ribolla Gialla and Slovenia's Rebula, but
+Its name resembles Italy's [Ribolla Gialla](ribolla-gialla.md) and Slovenia's Rebula, but
 research does not support treating those names as synonyms for Kefalonian
 Robola. A 2020 genetic study reports that the available genotyping data
 separate Ribolla Gialla from the Greek accessions called Robola.[^identity]

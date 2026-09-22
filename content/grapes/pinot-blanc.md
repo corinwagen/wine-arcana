@@ -18,7 +18,7 @@ confusion that sometimes surrounds it: it is a colour mutation related to
 The grape is used in more than one way. [Alsace](../regions/alsace.md) uses it for fresh, dry white
 wines and for Crémant; Germany has made it a substantial still-wine variety
 with examples ranging from light dry wines to richer and sweet bottlings; and
-Alto Adige treats Pinot Bianco as an important high-elevation white grape.
+[Alto Adige](../regions/alto-adige.md) treats Pinot Bianco as an important high-elevation white grape.
 
 ## Identity and regional names
 

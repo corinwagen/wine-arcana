@@ -35,14 +35,15 @@ eastern valleys belong fully to Valpolicella even though they cannot use
 [Corvina](../grapes/corvina.md) gives most Valpolicella blends their customary
 centre, alongside several other grapes. Current specifications require a
 combined 45–95%
-Corvina and/or Corvinone and 5–30% Rondinella, with restricted room for other
+Corvina and/or [Corvinone](../grapes/corvinone.md) and 5–30%
+[Rondinella](../grapes/rondinella.md), with restricted room for other
 permitted red grapes.[^1] Corvinone is a separate variety, not a large clone of
 Corvina, and a compliant blend need not contain Corvina if Corvinone supplies
 the required combined share.
 
 The region's most direct red wine is Valpolicella DOC made without prolonged
 post-harvest drying. Corvina, Corvinone, and Rondinella tend to yield less
-phenolic material than darker, more tannic permitted grapes such as Oseleta or
+phenolic material than darker, more tannic permitted grapes such as [Oseleta](../grapes/oseleta.md) or
 Croatina, according to a controlled comparison from one experimental
 vineyard. That helps explain why fresh Valpolicella can be relatively pale,
 acid-led, and light on its feet. Vineyard
@@ -51,7 +52,7 @@ all produce a firmer or fuller wine.
 
 ## Appassimento and the four denominations
 
-For *appassimento*, sound bunches are selected at harvest and held in
+For *[appassimento](../concepts/appassimento.md)*, sound bunches are selected at harvest and held in
 ventilated drying rooms, or *fruttai*, before fermentation. Water loss raises
 the concentration of sugars and other solutes and increases the ratio of skins
 to juice. The grapes also remain biologically active during drying. In a

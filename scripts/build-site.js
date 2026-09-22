@@ -365,6 +365,21 @@ function initialFor(title) {
   return [...title.normalize("NFKD").replace(/\p{Mark}/gu, "")][0]?.toUpperCase() ?? "#";
 }
 
+function fundamentalsIndex(articles, outputPath) {
+  const guides = [
+    "content/concepts/vineyard-year.md",
+    "content/concepts/from-harvest-to-bottle.md",
+  ].map((sourcePath) => articles.find((article) => article.sourcePath === sourcePath))
+    .filter(Boolean);
+  if (!guides.length) return "";
+  return `<section class="directory-section" aria-labelledby="fundamentals-heading">
+  <h2 id="fundamentals-heading">Fundamentals</h2>
+  <ol>
+${guides.map((article) => `    <li><a href="${routeHref(outputPath, article.route)}">${escapeHtml(article.title)}</a></li>`).join("\n")}
+  </ol>
+</section>`;
+}
+
 function articleIndex(articles, outputPath) {
   const groups = new Map();
   for (const article of [...articles].sort((left, right) => collator.compare(left.title, right.title))) {
@@ -529,6 +544,7 @@ export async function buildSite({
   <h1>${type.label}</h1>
   <p>${matching.length} ${matching.length === 1 ? type.singular.toLowerCase() : type.label.toLowerCase()}.</p>
 </header>
+${type.directory === "concepts" ? fundamentalsIndex(articles, outputPath) : ""}
 ${articleIndex(matching, outputPath)}`;
     const html = pageTemplate({
       body,
@@ -554,6 +570,7 @@ ${articleIndex(matching, homepageOutputPath)}
   <h1 class="visually-hidden">Wine Arcana</h1>
   <p>A small encyclopædia of wine.</p>
 </header>
+${fundamentalsIndex(articles, homepageOutputPath)}
 ${homepageSections}`,
     description: "Wine Arcana is a small encyclopædia of wine.",
     outputPath: homepageOutputPath,

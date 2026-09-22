@@ -7,7 +7,7 @@ aliases:
 # Amarone della Valpolicella
 
 Amarone della Valpolicella is the dry red branch of [Valpolicella's](../regions/valpolicella.md)
-*appassimento* tradition. Its grapes are partially dried after harvest, then
+*[appassimento](../concepts/appassimento.md)* tradition. Its grapes are partially dried after harvest, then
 fermented rather than vinified fresh. Water loss gives the must more sugar and
 a higher ratio of skins to juice, so fermentation can produce substantial
 alcohol, extract, and body. “Dry” distinguishes Amarone above all from sweet
@@ -24,8 +24,8 @@ within the same legal name.
 ## How it is made
 
 The current rules require 45–95% [Corvina](../grapes/corvina.md) and/or
-Corvinone
-combined, plus 5–30% Rondinella. Up to 25% in total may come from other
+[Corvinone](../grapes/corvinone.md)
+combined, plus 5–30% [Rondinella](../grapes/rondinella.md). Up to 25% in total may come from other
 permitted red varieties, subject to category and per-variety limits. Corvinone
 is a separate variety, and the combined range means that Corvina itself is not
 legally indispensable if Corvinone fills that share.[^1]

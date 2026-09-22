@@ -15,9 +15,9 @@ and distances from the water, and those differences matter in a cold climate.
 [Riesling](../grapes/riesling.md) is the region's best-known wine grape, yet the Finger Lakes also
 produces [Chardonnay](../grapes/chardonnay.md), [Pinot Noir](../grapes/pinot-noir.md),
 [Cabernet Franc](../grapes/cabernet-franc.md), [Gewürztraminer](../grapes/gewurztraminer.md), [Grüner Veltliner](../grapes/gruner-veltliner.md),
-and hybrid grapes such as Cayuga White. That range reflects a
+and [hybrid grapes](../concepts/hybrid-grapes.md) such as Cayuga White. That range reflects a
 central fact about the region: its lakes make vinifera possible in many sites,
-but they do not remove winter injury, spring frost, or the challenge of
+but they do not remove winter injury, [spring frost](../concepts/spring-frost.md), or the challenge of
 ripening later varieties.
 
 ![Long, narrow lakes lie amid snow-covered terrain in a view from space.](../../media/images/regions/finger-lakes.jpg "The Finger Lakes from the International Space Station, December 2004.")
@@ -57,7 +57,7 @@ grapes differ in both cold tolerance and the length of season they need to
 ripen.[^1]
 
 The lakes help in several seasons, but a sudden deep freeze can still injure
-buds and trunks. Winter hardiness also depends on how fully vines acclimated
+buds and trunks. [Winter hardiness](../concepts/winter-hardiness.md) also depends on how fully vines acclimated
 before the cold arrived. In the growing season, growers must balance the
 desire to leave fruit hanging for more maturity against autumn rain, rot, and
 the risk that a late crop will not ripen evenly. A warm site may support

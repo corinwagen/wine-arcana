@@ -66,6 +66,8 @@ the wine's alcohol and other conditions.
 
 ## Related topics
 
+- [From harvest to bottle](from-harvest-to-bottle.md) follows the full cellar
+  sequence around fermentation.
 - [Malolactic fermentation](malolactic-fermentation.md)
 - [Carbonic maceration](carbonic-maceration.md)
 - [Lees aging](lees-aging.md)

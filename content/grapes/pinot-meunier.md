@@ -47,7 +47,7 @@ Noir between half a week and one week after.[^3] Site, clone, crop, season, and
 the intended wine can narrow or alter that difference.
 
 Later budbreak reduces the chance that tender shoots will be present during an
-early spring frost. A later cold event can still damage emerged growth.
+early [spring frost](../concepts/spring-frost.md). A later cold event can still damage emerged growth.
 Plantgrape also reports good winter-frost resistance and relatively good
 fruitfulness after spring-frost injury. At the other end of the season, early
 maturity can help fruit reach a workable balance before autumn weather
@@ -90,7 +90,7 @@ Institute recorded 1,664 hectares in 2023, including 1,175 hectares in
 Württemberg.[^6] Smaller plantings elsewhere are used for both sparkling and
 still wine.
 
-England and Wales also use Meunier alongside Chardonnay and Pinot Noir for
+[England](../regions/england.md) and Wales also use Meunier alongside Chardonnay and Pinot Noir for
 traditional-method sparkling wine. The variety's later budbreak and early
 maturity offer useful options in a cool climate, while the site and season
 still determine frost exposure and fruit health. Here its contemporary role

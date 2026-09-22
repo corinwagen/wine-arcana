@@ -55,8 +55,8 @@ can both express the variety.
 
 ## In blends and other styles
 
-Etna Rosso and [Rosato](../styles/rose.md) require at least 80% Nerello Mascalese. Nerello
-Cappuccio is permitted as a blending partner. The
+Etna Rosso and [Rosato](../styles/rose.md) require at least 80% Nerello Mascalese.
+[Nerello Cappuccio](nerello-cappuccio.md) is permitted as a blending partner. The
 specification also requires at least 80% Nerello Mascalese for Etna's
 sparkling wines, which can be white or pink.[^1] Pressing the dark grapes
 with little skin contact allows a pale juice to form the base of a white

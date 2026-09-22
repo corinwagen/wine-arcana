@@ -35,7 +35,7 @@ Savagnin rose, not simply from a restrained style of Gewürztraminer. Regional
 names should consequently be read in their local legal and viticultural
 context rather than treated as a universal family tree.
 
-The village of Tramin, or Termeno, in Alto Adige is often presented as the
+The village of Tramin, or Termeno, in [Alto Adige](../regions/alto-adige.md) is often presented as the
 grape's birthplace and may have supplied the name. Medieval documents establish
 a trade in wine from Tramin, but not that the present variety made it. Local
 historical research argues that those wines were probably based on another grape
@@ -52,7 +52,7 @@ add phenolic grip, much as it can with [Pinot Gris](pinot-gris.md).
 The bunches and berries are small, and the vine is prone to *coulure*, the loss
 of flowers or young berries after flowering. Yields can therefore vary sharply.
 The variety ripens relatively early and accumulates sugar readily, but is
-somewhat susceptible to powdery mildew, grape moths, and grey rot. Site and
+somewhat susceptible to [powdery mildew](../concepts/powdery-mildew.md), grape moths, and grey rot. Site and
 timing matter: a warm, sheltered place can ripen the fruit reliably, while
 excessive heat or delay may push sugar ahead as acidity declines.
 

@@ -189,6 +189,25 @@ sub {
   margin: 1.5em auto 1.75em;
 }
 
+.article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.2em 0;
+  font-size: 0.9em;
+}
+
+.article th,
+.article td {
+  padding: 0.55em 0.65em;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.article th {
+  font-weight: 650;
+}
+
 .article-image img {
   display: block;
   width: 100%;

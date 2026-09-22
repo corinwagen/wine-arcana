@@ -441,3 +441,295 @@ images:
     license: CC0-1.0
     license_url: https://creativecommons.org/publicdomain/zero/1.0/
     sha256: 2e11425ed44cf234e5366e60e68f9455686587e6bc8f113244dbf51cd57ffbd3
+
+  - path: "media/images/grapes/durella.jpg"
+    title: "Durella bunches on the vine."
+    creator: "Consorzio soave"
+    creator_url: "https://it.wikipedia.org/wiki/Utente:Consorzio_soave"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Uva_Durella.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/1/14/Uva_Durella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "Public-Domain"
+    license_url: "https://commons.wikimedia.org/wiki/Commons:Public_domain"
+    width: 539
+    height: 404
+    sha256: "48965bc8fb310bc38b1b7182301843c284c2fc94c78841f29d42759480a79f3b"
+
+  - path: "media/images/grapes/nosiola.jpg"
+    title: "Nosiola grapes being arranged for Vino Santo."
+    creator: "Aldripa"
+    creator_url: "https://commons.wikimedia.org/wiki/User:Aldripa"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Raccolta_in_cassetta_uve_Nosiola_per_Vino_Santo.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Raccolta_in_cassetta_uve_Nosiola_per_Vino_Santo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 1200
+    height: 1600
+    sha256: "f72e9600bd726ee2d494d60f184c1082b510775a4b714f5e0a934dcbe09e6e20"
+    changes: "Resized and recompressed as JPEG."
+
+  - path: "media/images/grapes/solaris.jpg"
+    title: "Solaris at Chateaux Luna vineyard in Lysekil, Sweden."
+    creator: "W.carter"
+    creator_url: "https://commons.wikimedia.org/wiki/User:W.carter"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Solaris_grapes_growing_in_Chateaux_Luna_vineyard_1.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/5/58/Solaris_grapes_growing_in_Chateaux_Luna_vineyard_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 1600
+    height: 1210
+    sha256: "ed33d6b10b25c515274531c4a7b9aac8d926079786df82e4b03d49387770e2d5"
+    changes: "Resized and recompressed as JPEG."
+
+  - path: "media/images/concepts/phylloxera.jpg"
+    title: "Phylloxera galls on a grape leaf; leaf symptoms do not measure root damage."
+    creator: "Pinzid"
+    creator_url: "https://commons.wikimedia.org/wiki/User:Pinzid"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Daktulosphaira_vitifoliae_foglia.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Daktulosphaira_vitifoliae_foglia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "Public-Domain"
+    license_url: "https://commons.wikimedia.org/wiki/Commons:Public_domain"
+    width: 1300
+    height: 1192
+    sha256: "0d113b7bd084c63b0c231bc759b52cf534aba5dcb4de96be6b75b898308aa468"
+
+  - path: "media/images/grapes/concord.jpg"
+    title: "Concord grapes among autumn leaves."
+    creator: "Unknown; edited by Howcheng"
+    creator_url: "https://commons.wikimedia.org/wiki/User:Howcheng"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:ConcordGrapes.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/d/df/ConcordGrapes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "Public-Domain"
+    license_url: "https://commons.wikimedia.org/wiki/Commons:Public_domain"
+    width: 659
+    height: 705
+    sha256: "1af6fc9b47c3359da9aefac6b836d42bf561be550cec5ab676700d077b43d258"
+
+  - path: "media/images/regions/balaton.jpg"
+    title: "Vineyards below Kishegy, looking toward Balatonlelle and Lake Balaton."
+    creator: "BeOCeKa"
+    creator_url: "https://commons.wikimedia.org/wiki/User:BeOCeKa"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Panorama_from_Kishegy_to_Balatonlelle_(Lake_Balaton_Hungary).jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Panorama_from_Kishegy_to_Balatonlelle_%28Lake_Balaton_Hungary%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 1600
+    height: 358
+    sha256: "92fbd1b662f9db2c248119254cdff6a14ee98b62b665f70c48c45d47bbc5d9db"
+    changes: "Resized and recompressed as JPEG."
+
+  - path: "media/images/regions/alto-adige.jpg"
+    title: "Autumn vineyards around Tramin in Alto Adige."
+    creator: "Plentn"
+    creator_url: "https://commons.wikimedia.org/wiki/User:Plentn"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Tramin_1.JPG"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/3/30/Tramin_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 1600
+    height: 1200
+    sha256: "5fc836d9b41ce71b77a4cc29b98f27f67949e6c5e93edcfaa7df7318e532985d"
+    changes: "Resized and recompressed as JPEG."
+
+  - path: "media/images/regions/mendoza.jpg"
+    title: "Piedra Viva vineyard in Paraje Altamira, Mendoza."
+    creator: "PP2025"
+    creator_url: "https://commons.wikimedia.org/wiki/User:PP2025"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Piedra_Viva_Vineyard.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Piedra_Viva_Vineyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 1600
+    height: 1067
+    sha256: "5b9845d26da347f4b8818b3ed19aeb92feb729b2d9550cbddc61503f3279156f"
+    changes: "Resized and recompressed as JPEG."
+
+  - path: "media/images/regions/england.jpg"
+    title: "Nyetimber Manor vineyard in England."
+    creator: "Brianmaclondon"
+    creator_url: "https://commons.wikimedia.org/wiki/User:Brianmaclondon"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Nyetimber-Manor-Vineyard-Dusk-4000x2667.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Nyetimber-Manor-Vineyard-Dusk-4000x2667.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 1600
+    height: 1067
+    sha256: "ae435ad39982db897d933dd190720406f96ef958ed799ddab2b14147e52f4ecf"
+    changes: "Resized and recompressed as JPEG."
+
+  - path: "media/images/regions/niagara-peninsula.jpg"
+    title: "Vines on the slopes of the Niagara Escarpment."
+    creator: "Michael Pardo"
+    creator_url: "https://www.flickr.com/people/130551911@N05"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Morning_in_the_Vineyard_(20393868278).jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/7/75/Morning_in_the_Vineyard_%2820393868278%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 1600
+    height: 1059
+    sha256: "330c9cc7dd68c0d814035f8b027f9852f59e3ecc3ec3240d721fea0a29ec4fa6"
+    changes: "Resized and recompressed as JPEG."
+
+  - path: "media/images/grapes/norton.jpg"
+    title: "Norton plate from The Grapes of New York (1908)."
+    creator: "Ulysses Prentiss Hedrick, The Grapes of New York"
+    creator_url: "https://archive.org/details/grapesofnewyork00hedruoft"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Norton_grape.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/0/01/Norton_grape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "Public-Domain"
+    license_url: "https://commons.wikimedia.org/wiki/Commons:Public_domain"
+    width: 588
+    height: 819
+    sha256: "22c17e058ce6c6d9f96587a2e02bf89e522ce78a805305726fbb0d1da5ecef79"
+
+  - path: "media/images/grapes/niagara.jpg"
+    title: "Niagara plate from The Grapes of New York (1908)."
+    creator: "Ulysses Prentiss Hedrick, The Grapes of New York"
+    creator_url: "https://archive.org/details/grapesofnewyork00hedruoft"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Niagara_grape.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/9/99/Niagara_grape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "Public-Domain"
+    license_url: "https://commons.wikimedia.org/wiki/Commons:Public_domain"
+    width: 588
+    height: 819
+    sha256: "6d21d12792446179acf835b3ffb4e84e38ec5412b1f1d3f088f068fd0609951a"
+
+  - path: "media/images/regions/badacsony.jpg"
+    title: "Basalt columns on Badacsony hill record its volcanic past."
+    creator: "BeOCeKa"
+    creator_url: "https://commons.wikimedia.org/wiki/File:Badascony_basaltorgeln.jpg"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Badascony_basaltorgeln.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Badascony_basaltorgeln.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 1600
+    height: 1200
+    sha256: "66e13aa5a3392596e5d4b1bd672a6353bc49523ec3ef07ffcd61ae05ab9f6654"
+    changes: "Resized and recompressed as JPEG."
+
+  - path: "media/images/regions/somlo.jpg"
+    title: "Vineyard terraces and stone retaining walls on Somló hill."
+    creator: "Pan Peter"
+    creator_url: "https://commons.wikimedia.org/wiki/File:Soml%C3%B3-hegy_sz%C5%91l%C5%91%C3%BCltetv%C3%A9ny.JPG"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Soml%C3%B3-hegy_sz%C5%91l%C5%91%C3%BCltetv%C3%A9ny.JPG"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Soml%C3%B3-hegy_sz%C5%91l%C5%91%C3%BCltetv%C3%A9ny.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "Public-Domain"
+    license_url: "https://commons.wikimedia.org/wiki/Commons:Public_domain"
+    width: 960
+    height: 720
+    sha256: "9871388731331bfde0da6e6247ebe49398a1a1b978a7c83f9a0ddf95559fce70"
+    changes: Downloaded as a reduced-size JPEG thumbnail generated by Wikimedia Commons.
+
+  - path: "media/images/regions/thermenregion.jpg"
+    title: "Vineyards at Perchtoldsdorf, on the northern side of Thermenregion."
+    creator: "Dimitry Anikin"
+    creator_url: "https://commons.wikimedia.org/wiki/File:Vinyard_in_Perchtoldsdorf.jpg"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Vinyard_in_Perchtoldsdorf.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/7/75/Vinyard_in_Perchtoldsdorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 960
+    height: 640
+    sha256: "b62adeca8783af5dd83de7f56c1e25b3d40b49ec02e548e3b847e3f67ea715a0"
+    changes: Downloaded as a reduced-size JPEG thumbnail generated by Wikimedia Commons.
+
+  - path: "media/images/concepts/veraison.jpg"
+    title: "Colour change during ripening in the hybrid grape Georg."
+    creator: "Cartoffel"
+    creator_url: "https://commons.wikimedia.org/wiki/File:Vitis_%E2%80%98Georg%E2%80%99_veraison.jpg"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Vitis_%E2%80%98Georg%E2%80%99_veraison.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vitis_%E2%80%98Georg%E2%80%99_veraison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 960
+    height: 720
+    sha256: "73e47087af58aebdddbf2d7fde005ab12cc7de0d3672e0cb947d58b01eb61e85"
+    changes: Downloaded as a reduced-size JPEG thumbnail generated by Wikimedia Commons.
+
+  - path: "media/images/grapes/catawba.jpg"
+    title: "Catawba plate from The Grapes of New York (1908)."
+    creator: "Ulysses Prentiss Hedrick, The Grapes of New York"
+    creator_url: "https://commons.wikimedia.org/wiki/File:Catawba_grape.jpg"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Catawba_grape.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Catawba_grape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    license: "Public-Domain"
+    license_url: "https://commons.wikimedia.org/wiki/Commons:Public_domain"
+    width: 500
+    height: 689
+    sha256: "c6b25e78bd8cac516818fc09ea6edf3ea64ed8c99a9e77d79ba2d057738cede2"
+    changes: Downloaded as a reduced-size JPEG thumbnail generated by Wikimedia Commons.
+
+  - path: "media/images/grapes/inzolia.jpg"
+    title: "Inzolia botanical illustration"
+    creator: "Alexis Kreyder"
+    creator_url: "https://commons.wikimedia.org/wiki/Category:Alexis_Kreyder"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Inzolia_-_Amp%C3%A9lographie.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Inzolia_-_Amp%C3%A9lographie.jpg"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 817
+    height: 1177
+    sha256: "94ca7f6b0bfdc0153a2b84b113f14f7c00a98d89ecef049963612b08122d5661"
+    changes: "Unmodified."
+    openverse_id: "11e4ff6d-08f5-4403-948c-24c91710e6b0"
+
+  - path: "media/images/regions/trapani-vineyards.jpg"
+    title: "Vineyards around Erice, western Sicily"
+    creator: "KnedWiki"
+    creator_url: "https://commons.wikimedia.org/wiki/User:Kned_Wiki"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Trapani_Wine_Region_banner.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Trapani_Wine_Region_banner.jpg"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 1600
+    height: 228
+    sha256: "f6d2bd97fe95be2ea7412fda77eb61aea1f16611952834f418c78dc3ecf78559"
+    changes: "Resized and recompressed as JPEG."
+    openverse_id: "df70fc14-5ff3-454c-b1c8-73864f2f0b7c"
+
+  - path: "media/images/regions/valdobbiadene.jpg"
+    title: "Santo Stefano and the hills of Valdobbiadene"
+    creator: "Mruzzene; image enhancement by Sandstein"
+    creator_url: "https://en.wikipedia.org/wiki/User:Mruzzene"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Hillside_View_of_Valdobbiadene.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/0/01/Hillside_View_of_Valdobbiadene.jpg"
+    license: "Public-Domain"
+    license_url: "https://commons.wikimedia.org/wiki/Commons:Public_domain"
+    width: 1200
+    height: 1600
+    sha256: "83fd317119282240c61c6f6e2adb5b958893cbb1144c6cb07f95679d46c6ca5b"
+    changes: "Unmodified."
+
+  - path: "media/images/regions/ischia.jpg"
+    title: "Mount Epomeo, Ischia"
+    creator: "Peer.Gynt"
+    creator_url: "https://www.flickr.com/photos/25554263@N04"
+    source: "Flickr"
+    source_url: "https://www.flickr.com/photos/25554263@N04/3011491082"
+    original_url: "https://live.staticflickr.com/3196/3011491082_fccd7b5137_b.jpg"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    width: 1024
+    height: 561
+    sha256: "a73c11ab8ded7c74e1ab2d67bfafb5aa695b32081b1a1486cf83971641618bb8"
+    changes: "Unmodified."
+    openverse_id: "73b8e668-8793-4ae7-b973-695a3a402629"

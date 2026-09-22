@@ -15,7 +15,7 @@ while the western vineyards include an established red-wine tradition.
 
 The Main's bends bring differently exposed slopes into close proximity.
 Across the wider region, sandstone, shell limestone, and Keuper formations
-create distinct growing environments. Cold winters, spring frost, and hot,
+create distinct growing environments. Cold winters, [spring frost](../concepts/spring-frost.md), and hot,
 dry summers make the vine's access to warmth and water important in different
 ways over the year.
 
@@ -70,7 +70,7 @@ range. Time on [lees](../concepts/lees-aging.md) and
 and flavour.
 
 Müller-Thurgau supplies another important strand of white-wine production,
-alongside the more aromatic Bacchus. [Riesling](../grapes/riesling.md) and
+alongside the more aromatic [Bacchus](../grapes/bacchus.md). [Riesling](../grapes/riesling.md) and
 Pinot varieties broaden the region's wines. Dry styles are strongly associated
 with Franken, and the squat, flattened Bocksbeutel bottle remains a familiar
 regional emblem.

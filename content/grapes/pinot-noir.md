@@ -62,7 +62,7 @@ itself.[^2]
 ## Viticulture and site sensitivity
 
 Pinot Noir buds and ripens early. Early budbreak exposes young growth to
-spring frost, while early maturity lets the fruit complete ripening in places
+[spring frost](../concepts/spring-frost.md), while early maturity lets the fruit complete ripening in places
 where later grapes may struggle. In hot conditions, ripening can proceed very
 quickly, acidity can fall, and overripe berries can shrivel; in a cold or wet
 season, waiting for sugar and skin development can increase exposure to rot. A
@@ -143,7 +143,7 @@ become major American centres. New Zealand grows Pinot Noir principally in its
 cooler southerly regions, including Marlborough, Central Otago, Wairarapa, and
 North Canterbury; differences within those regions can be as important as the
 national label. Tasmania, Victoria's cooler districts, coastal Chile, South
-Africa's cooler sites, Canada, and England add further still and sparkling
+Africa's cooler sites, Canada, and [England](../regions/england.md) add further still and sparkling
 interpretations. Across this geography, “cool climate” covers maritime,
 continental, dry, and wet growing seasons that produce varied Pinot Noir
 styles.

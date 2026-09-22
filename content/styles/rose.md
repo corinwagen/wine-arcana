@@ -21,7 +21,7 @@ sparkling rosé.
 as skins. Their juice can therefore retain substantial colour even with
 brief skin contact, making grape choice important when aiming for a pale wine.
 
-In direct pressing, grapes enter the press without a preceding soak. Contact
+In [direct pressing](../concepts/pressing.md), grapes enter the press without a preceding soak. Contact
 during pressing supplies some colour, and the separated juice then ferments.
 In a short [maceration](../concepts/maceration.md), crushed berries first soak together so that skins
 release more pigment and other compounds. The winemaker drains and presses

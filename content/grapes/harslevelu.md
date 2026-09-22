@@ -21,7 +21,7 @@ are established regional synonyms.
 ## Water, frost, and autumn fruit
 
 Hárslevelű needs an adequate water supply and is sensitive to frost and
-powdery mildew. Site selection therefore involves both summer conditions
+[powdery mildew](../concepts/powdery-mildew.md). Site selection therefore involves both summer conditions
 and the risk of cold damage. A warm exposure can help the fruit ripen,
 while soil depth and its capacity to retain water matter during dry spells.
 
@@ -59,7 +59,7 @@ fermentation.
 ## Hungarian settings
 
 Tokaj is its principal reference point, but Hárslevelű also grows on
-Somló and in the Eger area, where the name Debrői Hárslevelű has a separate
+[Somló](../regions/somlo.md) and in the [Eger](../regions/eger.md) area, where the name Debrői Hárslevelű has a separate
 regional tradition. Loess sites and vineyards on weathered volcanic
 material provide different rooting and water conditions within its
 Hungarian range.

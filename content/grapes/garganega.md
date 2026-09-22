@@ -46,7 +46,7 @@ Its relatively long, open bunches help air circulate around the berries.
 Growers still need to manage fungal disease and autumn weather, particularly
 when keeping fruit on the vine late or selecting bunches for drying. The
 FAO agricultural-heritage nomination for Soave describes moderate susceptibility
-to powdery mildew and grey rot, with lower susceptibility to downy mildew.
+to [powdery mildew](../concepts/powdery-mildew.md) and grey rot, with lower susceptibility to [downy mildew](../concepts/downy-mildew.md).
 
 ## Dry wine and recioto
 
@@ -63,7 +63,7 @@ direct fruit profile; [lees ageing](../concepts/lees-aging.md) can add texture,
 and wood introduces another influence according to vessel size and age.
 
 For [Recioto di Soave](../styles/recioto-di-soave.md), growers select sound
-bunches for *appassimento*, drying
+bunches for *[appassimento](../concepts/appassimento.md)*, drying
 after harvest. Water loss concentrates the juice before fermentation. Leaving
 some grape sugar unfermented produces a sweet wine with greater concentration
 and a different aromatic development from fresh-grape Soave.

@@ -87,7 +87,8 @@ depending on their position and the condition of the canopy.
 ## Matching practice to conditions
 
 Canopy decisions begin before summer work. Row direction, vine spacing,
-training system, pruning, rootstock, water, and nitrogen supply influence how
+[training system and pruning](pruning-and-training.md), rootstock, water, and
+nitrogen supply influence how
 much growth must later be arranged or removed. A vigorous vine forced into a
 narrow canopy may require repeated passes yet quickly refill its shaded
 interior. Dividing the canopy or moderating vigour may address the cause more
@@ -98,7 +99,7 @@ Climate supplies the broad constraint, but the current season supplies the
 immediate one. A wet flowering period, a disease-susceptible compact bunch,
 and a cool site strengthen the case for early opening. Drought, a heatwave,
 exposed western fruit, or a variety prone to sunburn strengthen the case for
-cover. Crop size and harvest goal matter as well: taking away shoots, leaves,
+cover. [Crop load](crop-load.md) and harvest goal matter as well: taking away shoots, leaves,
 or clusters changes both the bunch microclimate and the balance between leaf
 photosynthesis and fruit demand.
 
@@ -116,6 +117,8 @@ photosynthesis and fruit demand.
 
 ## Related topics
 
+- [The vineyard year](vineyard-year.md) places canopy work within the full
+  growing cycle.
 - [Botrytized sweet wine](../styles/botrytized-sweet-wine.md)
 
 ## Sources

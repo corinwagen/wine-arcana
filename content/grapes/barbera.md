@@ -46,7 +46,7 @@ weather arrives near harvest.[^2]
 Barbera's acidity varies with growing conditions and harvest decisions.
 Tartaric and malic acid are the main grape-derived acids in wine.
 Tartaric acid changes relatively little through berry respiration, whereas
-malic acid normally declines after véraison as the fruit ripens. Barbera is
+malic acid normally declines after [véraison](../concepts/veraison.md) as the fruit ripens. Barbera is
 among the varieties prone to retaining comparatively high malic acid at
 maturity.[^2] Temperature, sunlight, canopy, crop load, potassium, water, and
 harvest timing nevertheless alter total acidity and pH. A warm site or later

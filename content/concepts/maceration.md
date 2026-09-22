@@ -57,7 +57,7 @@ produce different results in different varieties or vintages.
 Prolonged contact can increase bitterness or astringency. Exposed cap material
 also creates opportunities for spoilage, including acetic acid and ethyl
 acetate production when oxygen and suitable microorganisms are present.
-The decision to press ends this phase of contact and separates wine from much
+The decision to [press](pressing.md) ends this phase of contact and separates wine from much
 of the remaining solid material.[^3]
 
 ## White grapes and shorter contact

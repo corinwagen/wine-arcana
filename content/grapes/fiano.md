@@ -52,7 +52,8 @@ aroma can occur in a dry wine.
 ## Fiano di Avellino
 
 The production specification published by the Irpinia consortium requires
-at least 85% Fiano, with a limited balance of [Greco](greco.md), Coda di Volpe, and
+at least 85% Fiano, with a limited balance of [Greco](greco.md),
+[Coda di Volpe](coda-di-volpe.md), and
 [Trebbiano Toscano](ugni-blanc.md). Its area includes Lapio, Montefredane, Summonte, and other
 communes around Avellino.[^2]
 

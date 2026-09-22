@@ -47,7 +47,7 @@ shape of the landscape an immediate influence on vineyard labour.
 
 Nerello Mascalese produces reds that can combine relatively pale colour with
 firm [tannin](../concepts/tannin.md) and [acidity](../concepts/acidity.md). Its late ripening makes elevation, crop size, and
-the autumn season particularly important. Nerello Cappuccio is a traditional
+the autumn season particularly important. [Nerello Cappuccio](../grapes/nerello-cappuccio.md) is a traditional
 partner, contributing a different balance of colour, fruit, and structure.
 Extraction and [oak maturation](../concepts/oak-maturation.md) further alter
 the firmness and aromatic development of the finished red.

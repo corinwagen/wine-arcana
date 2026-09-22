@@ -7,7 +7,7 @@ aliases:
 # Pecorino
 
 Pecorino is a white *Vitis vinifera* variety grown chiefly in Marche and
-Abruzzo, on the Adriatic side of central Italy. Its wines often combine
+[Abruzzo](../regions/abruzzo.md), on the Adriatic side of central Italy. Its wines often combine
 conspicuous [acidity](../concepts/acidity.md) with a substantial palate. This balance helps explain
 its use both as a varietal dry white and as a component in blends.
 

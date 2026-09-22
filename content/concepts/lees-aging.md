@@ -25,7 +25,7 @@ the heavier deposit that falls quickly after pressing or fermentation. They
 commonly contain more grape pulp, skin and seed fragments, precipitated
 solids, and microorganisms. Fine lees are the smaller particles that settle
 more slowly or remain suspended longer; in a well-clarified wine they may
-consist predominantly of yeast cells. A racking separates wine from the first
+consist predominantly of yeast cells. A [racking](racking-and-topping.md) separates wine from the first
 deposit, but where one winemaker draws the cut between gross and fine lees may
 differ from another's.
 
@@ -120,6 +120,11 @@ temperature, closure, and oxygen remain consequential.
     independently influence the aroma composition of traditional method
     sparkling wine,” *Australian Journal of Grape and Wine Research* 28
     (2022), pp. 146–159, <https://doi.org/10.1111/ajgw.12527>.
+
+## Related topics
+
+- [From harvest to bottle](from-harvest-to-bottle.md) connects lees decisions
+  with the other stages of cellar work.
 
 ## Sources
 

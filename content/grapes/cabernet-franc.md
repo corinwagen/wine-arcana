@@ -126,7 +126,7 @@ and tannic mass.
 
 ### Northeastern Italy
 
-In Friuli-Venezia Giulia and Veneto, Cabernet Franc has both varietal and
+In [Friuli-Venezia Giulia](../regions/friuli.md) and Veneto, Cabernet Franc has both varietal and
 blending identities. The Friuli regional denomination permits a wine labelled
 Cabernet Franc when at least 85 percent comes from the variety; it also allows
 Cabernet Franc in *Rosso* and in a generic *Cabernet* that may combine Cabernet
@@ -151,7 +151,8 @@ including Ontario, the Finger Lakes, and Virginia, its earlier maturity and
 somewhat better cold hardiness than many dark-skinned *vinifera* varieties make
 it a practical option, although winter injury, humid-season disease, and
 excessive vigour remain real limits. Ontario's appellation authority lists it
-among the common varieties in Niagara and among the popular grapes for Vintners
+among the common varieties in [Niagara](../regions/niagara-peninsula.md) and
+among the popular grapes for Vintners
 Quality Alliance table wines.[^6]
 
 New York State deserves particular attention for varietal Cabernet Franc.
@@ -165,7 +166,8 @@ which the fruit ripens.[^7]
 In drier regions, the challenge often shifts from completing ripening to
 preserving acidity and avoiding excessive heat or water stress. Argentina's
 official 2024 report recorded Cabernet Franc in 17 wine-producing provinces,
-with most of the area in Mendoza, and documented both varietal wine and blends.
+with most of the area in [Mendoza](../regions/mendoza.md), and documented both
+varietal wine and blends.
 The category therefore spans cool lake-moderated vineyards, warm valleys, and
 high or coastal sites. Local season length, water, exposure, crop, and harvest
 timing provide the useful basis for comparison.

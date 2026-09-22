@@ -4,8 +4,8 @@ title: Juhfark
 
 # Juhfark
 
-Juhfark is a Hungarian white grape most closely associated with Somló,
-a volcanic hill west of Lake Balaton. Its firm
+Juhfark is a Hungarian white grape most closely associated with [Somló](../regions/somlo.md),
+a volcanic hill west of Lake [Balaton](../regions/balaton.md). Its firm
 [acidity](../concepts/acidity.md) and relatively restrained fruit aromas
 make structure a useful starting point for understanding the wine.
 Ripeness, residual sugar, and maturation can turn that firm foundation
@@ -16,7 +16,7 @@ into quite different expressions.
 The name means “sheep's tail,” referring to the long bunches. The Hungarian
 Wine Marketing Agency describes thin-skinned berries in dense clusters
 and identifies Somló as the principal growing district. It also records
-plantings in Balatonfüred-Csopak, the Balaton Uplands, Etyek-Buda, and Pécs.
+plantings in [Balatonfüred-Csopak](../regions/csopak.md), the Balaton Uplands, [Etyek-Buda](../regions/etyek-buda.md), and Pécs.
 Somló is the central reference point, rather than the grape's only home.
 
 ## Acidity, ripeness, and maturation

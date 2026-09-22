@@ -31,7 +31,7 @@ Later fifteenth-century references show the variety spreading through western
 German vineyards.
 
 White Riesling, Weißer Riesling, and Rhine Riesling denote this variety.
-Welschriesling, despite its name and importance in Austria and central Europe,
+[Welschriesling](olaszrizling.md), despite its name and importance in Austria and central Europe,
 is a different grape. Schwarzriesling is the German name for
 [Meunier](pinot-meunier.md), a separate variety.
 
@@ -45,7 +45,7 @@ small bunches exposed to autumn rain and grey rot.
 In a three-year comparison at matched ripening stages, Riesling berries
 contained more tartaric acid than
 [Gewürztraminer](gewurztraminer.md) and, during later sampling, more malic acid
-as well.[^2] After *véraison*, tartaric acid per berry remains comparatively
+as well.[^2] After *[véraison](../concepts/veraison.md)*, tartaric acid per berry remains comparatively
 stable, while malic acid is consumed in berry metabolism. Warmth hastens malic
 loss, though Riesling's tartaric-acid potential can preserve useful acidity
 after sugar has accumulated.
@@ -134,7 +134,7 @@ attention to dry, single-vineyard wines makes those differences increasingly
 visible: North American Riesling is not adequately described by sweetness
 alone.
 
-Ontario's Niagara Peninsula offers a complementary comparison. Riesling helped
+Ontario's [Niagara Peninsula](../regions/niagara-peninsula.md) offers a complementary comparison. Riesling helped
 shape the region's modern vinifera revival, and growers work with sites on the
 Niagara Escarpment's benches as well as nearer Lake Ontario. Dry and off-dry
 table wines sit alongside late-harvest wines and Icewine. Their differing

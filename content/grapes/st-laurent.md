@@ -12,7 +12,7 @@ aliases:
 St. Laurent is a dark-skinned *Vitis vinifera* grape associated with Austria
 and the Czech Republic. It produces deeply coloured reds with sour-cherry
 fruit and a firm yet potentially supple texture. Austrian vineyards are
-concentrated in the Thermenregion and around Lake Neusiedl; in Czech wine,
+concentrated in the [Thermenregion](../regions/thermenregion.md) and around Lake Neusiedl; in Czech wine,
 the variety is known as Svatovavřinecké.
 
 The Vitis International Variety Catalogue identifies
@@ -37,7 +37,7 @@ the vine short during summer growth and ripening.
 Its compact bunches carry oval, blue-black berries with uncoloured flesh.
 The berries have a marked tendency to split. Rain near harvest can open
 the skins and encourage sour rot, so fruit condition can become decisive
-while growers wait for ripeness. Grey rot and downy mildew also require
+while growers wait for ripeness. Grey rot and [downy mildew](../concepts/downy-mildew.md) also require
 attention.
 
 ## Colour, fruit, and maturation

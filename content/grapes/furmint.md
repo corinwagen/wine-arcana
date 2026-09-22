@@ -63,8 +63,8 @@ matters to the raw material for sweet wine.[^2]
 
 ## Beyond Tokaj
 
-Furmint also makes dry wine on Hungary's Somló hill and around the northern
-shore of Lake Balaton. Around Rust in Austria it contributes to both dry
+Furmint also makes dry wine on Hungary's [Somló](../regions/somlo.md) hill and around the northern
+shore of Lake [Balaton](../regions/balaton.md). Around Rust in Austria it contributes to both dry
 and sweet wines. These settings extend its range beyond Tokaj's particular
 combination of autumn humidity, berry selection, and sweet-wine traditions.
 

@@ -7,7 +7,7 @@ aliases:
 # Areni
 
 Areni is an Armenian red wine grape particularly associated with the
-mountain vineyards of Vayots Dzor. Often sold as Areni Noir, it can make
+mountain vineyards of [Vayots Dzor](../regions/vayots-dzor.md). Often sold as Areni Noir, it can make
 reds with fresh acidity, red-fruit flavours, and a peppery edge. Its
 contemporary range includes tank-made reds, barrel-matured wines, and
 sparkling rosé.

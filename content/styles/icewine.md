@@ -42,7 +42,7 @@ viscous. Grape variety, fruit condition, and the amount of sugar fermented all
 affect the finished balance.
 
 [Riesling](../grapes/riesling.md) is an established grape for German Eiswein.
-Ontario also has a substantial tradition built around the hybrid Vidal, which
+Ontario also has a substantial tradition built around the hybrid [Vidal](../grapes/vidal-blanc.md), which
 the provincial appellation authority identifies as its characteristic icewine
 grape.
 

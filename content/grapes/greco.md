@@ -53,7 +53,8 @@ aroma, acidity, and suitability for maturation. Some selections make
 particularly fresh wines; others provide more body. The result in a bottle
 also reflects harvest maturity and the producer's handling of the fruit.
 
-Greco di Tufo requires at least 85% Greco, with up to 15% Coda di Volpe.
+Greco di Tufo requires at least 85% Greco, with up to 15%
+[Coda di Volpe](coda-di-volpe.md).
 The defined area covers Tufo and seven neighbouring communes in the province
 of Avellino. Alongside still wines, its rules permit sparkling wines made
 by [second fermentation in bottle](../styles/traditional-method-sparkling-wine.md).

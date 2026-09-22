@@ -11,7 +11,7 @@ aliases:
 Voskehat is an old white wine grape strongly associated with Armenia.
 It supports a broad range of wines, from fragrant, textured dry whites
 to sparkling blends and historically sweet fortified styles. Modern
-Vayots Dzor examples make the relationship between mountain fruit and
+[Vayots Dzor](../regions/vayots-dzor.md) examples make the relationship between mountain fruit and
 cellar choices especially clear.
 
 The University of California, Davis grape registry lists Voskeat as its

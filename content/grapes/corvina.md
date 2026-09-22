@@ -11,7 +11,7 @@ Corvina is a dark-skinned *Vitis vinifera* variety associated above all with
 Verona in northeastern Italy. It is central to the red blends of [Valpolicella](../regions/valpolicella.md),
 including both relatively direct wines made from fresh grapes and [Amarone della
 Valpolicella](../styles/amarone-della-valpolicella.md), for which harvested
-grapes undergo *appassimento*—a prolonged
+grapes undergo *[appassimento](../concepts/appassimento.md)*—a prolonged
 period of partial drying before fermentation.
 
 Fresh Corvina generally supplies moderate colour and [tannin](../concepts/tannin.md) together with
@@ -21,9 +21,10 @@ the living berry, supporting more concentrated and alcoholic wines such as Amaro
 ## Identity and blending partners
 
 Corvina Veronese is a widely used fuller name, while Cruina is an official
-Italian synonym. Corvinone is not a large form or clone of Corvina: Italian
+Italian synonym. [Corvinone](corvinone.md) is not a large form or clone of Corvina: Italian
 vine records confirm the two as separate varieties by morphology and
-microsatellite markers. Rondinella is separate too, but genetic work identifies
+microsatellite markers. [Rondinella](rondinella.md) is separate too, but genetic
+work identifies
 Corvina as one of its parents.[^1]
 
 The three varieties meet in the vineyard and the blend. Under the Italian
@@ -68,7 +69,7 @@ In Valpolicella made without prolonged grape drying, Corvina's moderate colour
 and tannin can support a relatively light, acid-led red. A standardized study
 of monovarietal wines from one experimental vineyard found Corvina, Corvinone,
 and Rondinella among the less phenolic and less deeply pigmented varieties
-when compared with grapes such as Oseleta and Croatina. Results also varied
+when compared with grapes such as [Oseleta](oseleta.md) and Croatina. Results also varied
 with clone and vinification.[^4] Extraction, harvest maturity, blending, and
 maturation can all make a particular Valpolicella firmer or darker.
 

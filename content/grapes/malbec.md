@@ -42,7 +42,7 @@ Malbec was widely planted and important in Bordeaux blends before the
 nineteenth century. Its susceptibility to *coulure*—poor fruit set after
 flowering—made crops unreliable in unfavourable weather, and Bordeaux moved
 increasingly toward [Cabernet Sauvignon](cabernet-sauvignon.md) and
-[Merlot](merlot.md). Phylloxera, replanting decisions, and the destructive
+[Merlot](merlot.md). [Phylloxera](../concepts/phylloxera.md), replanting decisions, and the destructive
 frost of 1956 further reduced its place. Malbec remains permitted in red
 Bordeaux, but its historical role was much larger than its present one.[^2]
 
@@ -56,7 +56,7 @@ maturation can make either form more or less firm.[^3]
 ## From France to Argentina
 
 Argentina's standard account connects Malbec with Michel Aimé Pouget, a French
-agronomist who came to Mendoza from Chile to direct a government agricultural
+agronomist who came to [Mendoza](../regions/mendoza.md) from Chile to direct a government agricultural
 school and experimental farm. A proposal to establish the Quinta Normal and
 School of Agriculture was submitted to the Mendoza legislature on 17 April
 1853, and Pouget is credited with introducing Malbec among several French
@@ -81,7 +81,8 @@ reference conditions. [Canopy management](../concepts/canopy-management.md) and
 crop control matter because a dense canopy can shade fruit and excess crop can
 delay development. Its tendency to coulure historically made yields irregular,
 although clonal selection has reduced the problem. Young vines can be vulnerable
-to winter cold, and shoots from secondary buds after a spring frost are not very
+to winter cold, and shoots from secondary buds after a [spring
+frost](../concepts/spring-frost.md) are not very
 fruitful. These traits help explain losses in France and remain relevant even in
 a sunny climate.[^5]
 

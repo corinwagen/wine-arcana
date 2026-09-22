@@ -83,7 +83,8 @@ direct. The Delle Venezie protected designation describes its still Pinot Grigio
 as fresh and harmonious, from dry to medium-dry; it also permits sparkling,
 semi-sparkling, pink, and *ramato* versions.
 
-Friuli-Venezia Giulia and Alto Adige produce fuller examples, while skin contact
+[Friuli-Venezia Giulia](../regions/friuli.md) and [Alto Adige](../regions/alto-adige.md) produce
+fuller examples, while skin contact
 gives some wines conspicuous texture and copper colour. Producers in Oregon, New
 Zealand, and elsewhere may choose *Gris* or *Grigio* partly to signal an
 intended style, but the word on the label cannot by itself reveal harvest date,
