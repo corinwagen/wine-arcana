@@ -218,6 +218,11 @@ of pathogens to particular treatments complicate control. Varieties with
 [disease resistance](disease-resistance.md) change the level of risk, while
 still requiring observation.
 
+[Pierce's disease](pierces-disease.md) introduces a different pattern: insects
+carry a bacterium into the vine's water-conducting tissue. Management therefore
+includes attention to insect vectors and infected vines, beyond the canopy
+and fungal-disease protection described above.[^pierce]
+
 ## Véraison to harvest: decide what ripe means
 
 [Véraison](veraison.md) marks the onset of ripening. Berries soften; dark
@@ -283,6 +288,7 @@ round of decisions.
 [^disease]: UC IPM, “Powdery Mildew”; Campbell et al., downy mildew report
     (2018); Madeline Wimmer, “Black rot on grapes” (2026).
 [^botrytis]: UC IPM, “Botrytis Bunch Rot,” infection timing and cultural controls.
+[^pierce]: UC IPM, “Pierce's Disease,” vector biology and management.
 [^harvest]: Iowa State University, “Grape Sampling for Maturity Analysis”;
     James Osborne, “Preparing for harvest: Grape chemistry and prefermentation
     adjustments,” Oregon State University Extension.
@@ -290,6 +296,8 @@ round of decisions.
 
 ## Sources
 
+- UC Statewide IPM Program, [“Pierce's Disease”](https://ipm.ucanr.edu/agriculture/grape/pierces-disease/),
+  *Pest Management Guidelines: Grape*, accessed September 2026.
 - Peter Dry and Bryan Coombe, eds., [“Grapevine growth stages – The modified
   E-L system”](https://www.awri.com.au/wp-content/uploads/grapegrowth.pdf),
   *Viticulture 1: Resources*, second edition (2004), figure 7.3, p. 153.

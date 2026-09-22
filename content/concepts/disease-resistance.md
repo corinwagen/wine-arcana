@@ -12,6 +12,11 @@ breeding because protecting susceptible vines requires repeated work through
 the growing season. Resistance is specific: a vine that withstands one disease
 may remain vulnerable to another.
 
+[Pierce's disease](pierces-disease.md), caused by a bacterium, provides a
+different resistance target from the mildews commonly associated with PIWI.
+UC Davis's 2019 release of five resistant wine grapes illustrates breeding
+directed specifically at that disease.
+
 ## What PIWI means
 
 *PIWI* abbreviates the German *pilzwiderstandsfähig*, meaning resistant to
@@ -48,6 +53,8 @@ separate considerations in choosing planting material.
 
 ## Sources
 
+- Amy Quinton, [“UC Davis Releases 5 New Wine Grape Varieties”](https://agriculture.ucdavis.edu/news/uc-davis-releases-5-new-wine-grape-varieties),
+  University of California, Davis, 18 December 2019.
 - German Wine Institute, [“PIWIs – pilzwiderstandsfähige
   Reben”](https://www.deutscheweine.de/wein-probieren/387/piwi-pilzwiderstandsf%C3%A4hige-reben),
   terminology and vineyard benefits, accessed 22 September 2026.
