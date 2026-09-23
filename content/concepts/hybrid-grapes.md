@@ -31,6 +31,30 @@ European breeding has placed particular emphasis on resistance to
 The term [PIWI](disease-resistance.md) describes this resistance-oriented
 category; it does not identify a single family or wine style.
 
+Pierce's disease presents another breeding problem. Florida's
+[Blanc du Bois](../grapes/blanc-du-bois.md) and California's
+[Camminare Noir](../grapes/camminare-noir.md) offer different histories of
+resistance or tolerance to this bacterial disease. Their adaptation cannot
+be inferred from the mildew resistance of other hybrids.
+
+## Regional wines and related grapes
+
+Established hybrids also have continuing regional identities.
+[Baco Noir](../grapes/baco-noir.md) has a sustained Ontario presence, while
+[Maréchal Foch](../grapes/marechal-foch.md) and
+[Léon Millot](../grapes/leon-millot.md) remain part of Canadian red
+winemaking. The latter pair makes a useful comparison: related grapes can
+differ in both ripening time and winter survival.
+
+Among whites, [Cayuga White](../grapes/cayuga-white.md) and
+[Chardonel](../grapes/chardonel.md) share Seyval Blanc as a parent but
+provide different combinations of ripening and wine style. Cayuga's
+sparkling role in New York and Chardonel's dry Missouri wines illustrate
+how cellar practices develop those possibilities.
+[Vignoles](../grapes/vignoles.md), used for dry through sweet wines,
+adds another lesson: bunch structure and rot risk can constrain a
+winemaker's harvest choices even when the vine is regionally adapted.
+
 ## An individual variety still matters
 
 Hybrid ancestry alone predicts neither a particular flavour nor immunity to
@@ -53,3 +77,8 @@ species, but they do so in fundamentally different ways.
 - German Wine Institute, [“PIWIs – pilzwiderstandsfähige
   Reben”](https://www.deutscheweine.de/wein-probieren/387/piwi-pilzwiderstandsf%C3%A4hige-reben),
   breeding overview, accessed 22 September 2026.
+- Cornell University, [“Cornell Grape Varieties”](https://blogs.cornell.edu/grapes/production/cornell-grape-varieties/),
+  Cayuga White and Chardonel parentage, accessed September 2026.
+- University of Georgia Extension, [“Blanc du Bois”](https://fieldreport.caes.uga.edu/publications/C1274/blanc-du-bois/),
+  disease-specific tolerance, accessed September 2026. The linked grape
+  articles document the regional examples and individual breeding histories.

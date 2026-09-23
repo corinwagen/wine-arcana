@@ -15,7 +15,7 @@ and distances from the water, and those differences matter in a cold climate.
 [Riesling](../grapes/riesling.md) is the region's best-known wine grape, yet the Finger Lakes also
 produces [Chardonnay](../grapes/chardonnay.md), [Pinot Noir](../grapes/pinot-noir.md),
 [Cabernet Franc](../grapes/cabernet-franc.md), [Gewürztraminer](../grapes/gewurztraminer.md), [Grüner Veltliner](../grapes/gruner-veltliner.md),
-and [hybrid grapes](../concepts/hybrid-grapes.md) such as Cayuga White. That range reflects a
+and [hybrid grapes](../concepts/hybrid-grapes.md) such as [Cayuga White](../grapes/cayuga-white.md). That range reflects a
 central fact about the region: its lakes make vinifera possible in many sites,
 but they do not remove winter injury, [spring frost](../concepts/spring-frost.md), or the challenge of
 ripening later varieties.

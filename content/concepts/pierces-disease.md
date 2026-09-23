@@ -76,10 +76,11 @@ This differs from the protection resistant roots provide against
 [phylloxera](phylloxera.md), which attacks the root system.[^rootstock]
 
 Breeding changes the fruiting variety itself. In 2019, UC Davis released
-five wine grapes selected for strong Pierce's disease resistance: Camminare
-Noir, Paseante Noir, Errante Noir, Ambulo Blanc and Caminante Blanc. The
-programme combined resistance from *Vitis arizonica* with repeated crosses
-to *Vitis vinifera*, while evaluating fruit and wine quality.[^breeding]
+five wine grapes selected for strong Pierce's disease resistance:
+[Camminare Noir](../grapes/camminare-noir.md), Paseante Noir, Errante Noir,
+Ambulo Blanc and Caminante Blanc. The programme combined resistance from
+*Vitis arizonica* with repeated crosses to *Vitis vinifera*, while evaluating
+fruit and wine quality.[^breeding]
 These [hybrid grapes](hybrid-grapes.md) illustrate a practical response to
 a disease that can make familiar varieties difficult to maintain.
 

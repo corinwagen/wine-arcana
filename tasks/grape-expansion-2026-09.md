@@ -14,8 +14,11 @@ This is a planning count, not a verified count of distinct biological varieties.
 The first ten assignments are now written: Nerello Cappuccio, Perricone,
 Inzolia, Nocera, Corvinone, Rondinella, Molinara, Glera, Raboso Piave, and
 Raboso Veronese. The next twenty, from Recantina through Nero di Troia, are
-also written. There are now 208 grape articles and 195 assignments remaining
-from this expansion. The runner skips completed files automatically.
+also written. A focused hybrid series completes seven more assignments:
+Baco Noir, Maréchal Foch, Léon Millot, Vignoles, Cayuga White, Chardonel
+and Blanc du Bois. Camminare Noir was added alongside them, outside the
+original intake. There are now 216 grape articles and 188 assignments
+remaining from this expansion. The runner skips completed files automatically.
 
 ## Identity review notes
 
@@ -308,19 +311,19 @@ assignment.
 | 235 | Torrontés Mendocino | Queued | `content/grapes/torrontes-mendocino.md` |
 | 236 | Criolla Grande | Queued | `content/grapes/criolla-grande.md` |
 | 237 | Cereza | Queued | `content/grapes/cereza.md` |
-| 238 | Baco Noir | Queued | `content/grapes/baco-noir.md` |
-| 239 | Maréchal Foch | Queued | `content/grapes/marechal-foch.md` |
-| 240 | Léon Millot | Queued | `content/grapes/leon-millot.md` |
-| 241 | Vignoles | Queued | `content/grapes/vignoles.md` |
-| 242 | Cayuga White | Queued | `content/grapes/cayuga-white.md` |
-| 243 | Chardonel | Queued | `content/grapes/chardonel.md` |
+| 238 | Baco Noir | Written | [baco-noir.md](../content/grapes/baco-noir.md) |
+| 239 | Maréchal Foch | Written | [marechal-foch.md](../content/grapes/marechal-foch.md) |
+| 240 | Léon Millot | Written | [leon-millot.md](../content/grapes/leon-millot.md) |
+| 241 | Vignoles | Written | [vignoles.md](../content/grapes/vignoles.md) |
+| 242 | Cayuga White | Written | [cayuga-white.md](../content/grapes/cayuga-white.md) |
+| 243 | Chardonel | Written | [chardonel.md](../content/grapes/chardonel.md) |
 | 244 | Noiret | Queued | `content/grapes/noiret.md` |
 | 245 | Corot Noir | Queued | `content/grapes/corot-noir.md` |
 | 246 | Aromella | Queued | `content/grapes/aromella.md` |
 | 247 | Brianna | Queued | `content/grapes/brianna.md` |
 | 248 | Edelweiss | Queued | `content/grapes/edelweiss.md` |
 | 249 | St. Croix | Queued | `content/grapes/st-croix.md` |
-| 250 | Blanc du Bois | Queued | `content/grapes/blanc-du-bois.md` |
+| 250 | Blanc du Bois | Written | [blanc-du-bois.md](../content/grapes/blanc-du-bois.md) |
 
 ## Sources consulted for intake decisions
 

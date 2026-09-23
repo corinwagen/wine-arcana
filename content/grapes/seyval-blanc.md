@@ -25,6 +25,12 @@ different expression from a fresh, unoaked wine. The distinction involves
 both [oak flavour](../concepts/oak-maturation.md) and the handling of the
 wine during fermentation and maturation.
 
+Seyval also contributes to later breeding. Cornell used it as a parent of
+[Cayuga White](cayuga-white.md) and [Chardonel](chardonel.md), crossing it
+with Schuyler and Chardonnay respectively. The resulting grapes have
+their own growing requirements and wine identities; sharing one parent
+does not make them interchangeable with Seyval.
+
 ## England and sparkling wine
 
 Breaky Bottom in East Sussex offers a sustained example of Seyval's
@@ -46,3 +52,5 @@ the chosen grape continues to influence the starting material.
   regional wine account, accessed 22 September 2026.
 - Breaky Bottom, [“Cuvées”](https://www.breakybottom.co.uk/cuvees),
   estate history of styles and published wine range, accessed 22 September 2026.
+- Cornell University, [“Cornell Grape Varieties”](https://blogs.cornell.edu/grapes/production/cornell-grape-varieties/),
+  parentage table, accessed September 2026.
