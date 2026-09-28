@@ -4,6 +4,8 @@ aliases:
   - Garnacha
   - Cannonau
   - Garnatxa
+  - Gamay del Trasimeno
+  - Gamay perugino
 ---
 
 # Grenache
@@ -104,6 +106,22 @@ in warm regions such as Barossa Valley and McLaren Vale; current dry wines range
 from varietal bottlings to blends, often with [Shiraz](syrah.md) and
 [Mataro](mourvedre.md).
 
+## Gamay del Trasimeno
+
+Around [Lake Trasimeno](../regions/trasimeno.md) in
+[Umbria](../regions/umbria.md), Grenache is known as *Gamay del Trasimeno* or
+*Gamay perugino*. The Italian Vitis Database records the latter among
+Cannonau's documented synonyms, and the local consortium identifies its Gamay
+with Grenache.[^trasimeno] It is distinct from the
+[Gamay](gamay.md) of Beaujolais.
+
+The local name encompasses different cellar approaches. Madrevite's Opra
+matures in cement; its C'osa Riserva incorporates some whole bunches and
+matures in cement and large oak. The estate also makes a rosato, La Bisbetica,
+with short cold skin contact before pressing. These wines give a contemporary
+Umbrian context to Grenache, with local choices about picking, extraction,
+and maturation shaping the results.
+
 [^1]: Federico De Mattia et al., “Genetic relationships between Sardinian and
     Spanish viticulture: the case of ‘Cannonau’ and ‘Garnacha’,” *The Journal of
     Horticultural Science and Biotechnology* 84, no. 1 (2009), pp. 65–71,
@@ -115,6 +133,9 @@ from varietal bottlings to blends, often with [Shiraz](syrah.md) and
     Relationships between Late Bronze–Iron Age Grape Pips and Modern Cultivars,”
     *Plants* 13 (2024), article 1836,
     <https://doi.org/10.3390/plants13131836>.
+
+[^trasimeno]: Italian Vitis Database, “Cannonau,” record 1460; Consorzio
+    Tutela Vini Trasimeno, “Trasimeno Gamay,” consulted 28 September 2026.
 
 ## Sources
 
@@ -164,3 +185,11 @@ from varietal bottlings to blends, often with [Shiraz](syrah.md) and
 - Wine Australia, [“Grenache—Rebirth of an Australian
   Classic”](https://www.wineaustralia.com/market-insights/regions-and-varieties/grenache),
   accessed 1 September 2026.
+- Italian Vitis Database, [“Cannonau”](https://vitisdb.it/varieties/show/1460),
+  and Consorzio Tutela Vini Trasimeno,
+  [“Trasimeno Gamay”](https://www.trasimenodoc.it/trasimeno-gamay/), accessed
+  28 September 2026.
+- Madrevite, [“Opra”](https://www.madrevite.it/prodotto/opra/),
+  [“C'osa”](https://www.madrevite.it/prodotto/cosa/), and
+  [“La Bisbetica Rosé”](https://www.madrevite.it/prodotto/la-bisbetica-rose/),
+  producer's winemaking descriptions, accessed 28 September 2026.

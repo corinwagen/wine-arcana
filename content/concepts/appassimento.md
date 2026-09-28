@@ -35,6 +35,11 @@ Recioto. Drying raises potential alcohol; the amount of sugar left after
 [fermentation](alcoholic-fermentation.md) determines much of the difference
 in sweetness.
 
+In [Montefalco](../regions/montefalco.md),
+[Sagrantino](../grapes/sagrantino.md) passito combines sweetness with the red
+grape's substantial tannin. Scacciadiavoli dries bunches on racks into December
+before fermenting in steel and maturing the wine in barriques.
+
 White grapes offer other expressions. For Torcolato in Breganze, Maculan
 describes four months of drying selected
 [Vespaiola](../grapes/vespaiola.md) in a *fruttaio*, followed by barrel
@@ -60,3 +65,6 @@ support several distinct regional wine traditions.
   grape and production account.
 - Cantina Toblino, [“Vino Santo Trentino DOC”](https://www.toblino.it/),
   Nosiola drying and maturation account.
+- Scacciadiavoli, [“Montefalco Sagrantino Passito
+  DOCG”](https://cantinascacciadiavoli.it/i-vini/montefalco-sagrantino-passito-d-o-c-g/),
+  producer's technical description, accessed 28 September 2026.

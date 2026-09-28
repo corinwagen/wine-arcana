@@ -72,6 +72,7 @@ maturation to the grape's fresh base wine.[^3]
 
 ## Related topics
 
+- [Grechetto di Orvieto](grechetto-di-orvieto.md)
 - [Fiano](fiano.md)
 - [Acidity](../concepts/acidity.md)
 

@@ -17,8 +17,10 @@ Raboso Veronese. The next twenty, from Recantina through Nero di Troia, are
 also written. A focused hybrid series completes seven more assignments:
 Baco Noir, Maréchal Foch, Léon Millot, Vignoles, Cayuga White, Chardonel
 and Blanc du Bois. Camminare Noir was added alongside them, outside the
-original intake. There are now 216 grape articles and 188 assignments
-remaining from this expansion. The runner skips completed files automatically.
+original intake. The Umbrian series completes Sagrantino and Trebbiano
+Spoletino, with Grechetto di Orvieto added outside the intake. There are now
+219 grape articles and 186 assignments remaining from this expansion. The runner
+skips completed files automatically.
 
 ## Identity review notes
 
@@ -134,7 +136,7 @@ assignment.
 | 78 | Ancellotta | Queued | `content/grapes/ancellotta.md` |
 | 79 | Ortrugo | Queued | `content/grapes/ortrugo.md` |
 | 80 | Pignoletto | Queued | `content/grapes/pignoletto.md` |
-| 81 | Sagrantino | Queued | `content/grapes/sagrantino.md` |
+| 81 | Sagrantino | Written | [sagrantino](../content/grapes/sagrantino.md) |
 | 82 | Ciliegiolo | Queued | `content/grapes/ciliegiolo.md` |
 | 83 | Canaiolo Nero | Queued | `content/grapes/canaiolo-nero.md` |
 | 84 | Colorino | Queued | `content/grapes/colorino.md` |
@@ -142,7 +144,7 @@ assignment.
 | 86 | Aleatico | Queued | `content/grapes/aleatico.md` |
 | 87 | Pugnitello | Queued | `content/grapes/pugnitello.md` |
 | 88 | Foglia Tonda | Queued | `content/grapes/foglia-tonda.md` |
-| 89 | Trebbiano Spoletino | Queued | `content/grapes/trebbiano-spoletino.md` |
+| 89 | Trebbiano Spoletino | Written | [trebbiano-spoletino](../content/grapes/trebbiano-spoletino.md) |
 | 90 | Cesanese d’Affile | Queued | `content/grapes/cesanese-daffile.md` |
 
 ### Portugal, Spain and Atlantic islands

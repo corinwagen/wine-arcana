@@ -35,6 +35,12 @@ practice reinforced that link: wines for nearby Lyon encouraged an accessible,
 early-drinking expression, while northern districts also developed wines for
 longer transport and keeping.
 
+The Umbrian name *Gamay del Trasimeno* refers to
+[Grenache](grenache.md), locally also called Gamay perugino, rather than to
+this variety. The Italian Vitis Database records Gamay perugino among
+Cannonau's synonyms.[^trasimeno] The wines have their own regional context
+around [Lake Trasimeno](../regions/trasimeno.md).
+
 ## Viticulture and granite soils
 
 Gamay ripens early and is sensitive to heat. It has relatively low vegetative
@@ -119,6 +125,8 @@ another important home, particularly in the French-speaking west.
 [^2]: Guillaume Grillon, Jean-Pierre Garcia & Thomas Labbé, “Le « très loyal
     pinot » : itinéraire d'un cépage mythique de la Bourgogne,” *Crescentis*
     2 (2019), <https://doi.org/10.58335/crescentis.1003>.
+[^trasimeno]: Italian Vitis Database, “Cannonau,” record 1460, documented
+    synonyms, accessed 28 September 2026.
 [^3]: French Ministry of Agriculture, *Cahier des charges de l'appellation
     d'origine contrôlée « Beaujolais »*, approved 5 August 2026, section X.1.a.
 [^4]: Australian Wine Research Institute, “Winemaking treatment—carbonic
@@ -164,3 +172,5 @@ another important home, particularly in the French-speaking west.
 - Swiss Federal Office for Agriculture, [*L'année viticole
   2025*](https://www.blw.admin.ch/dam/fr/sd-web/an5PEIBQ1W3u/L%27ann%C3%A9e%20viticole_2025.pdf),
   2026.
+- Italian Vitis Database, [“Cannonau”](https://vitisdb.it/varieties/show/1460),
+  varietal record, accessed 28 September 2026.

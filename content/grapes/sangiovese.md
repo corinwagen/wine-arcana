@@ -116,10 +116,11 @@ temper the region's heat and summer drought.[^4]
 ## Beyond Tuscany
 
 Sangiovese remains important in Emilia-Romagna, especially in Romagna, and is
-grown through Marche, Umbria, Lazio, and other Italian regions. Corsica's
-Nielluccio is the same variety under a legally and culturally established local
-name, with its own certified clones and island growing conditions. Plantings in
-the Americas and Australia bring further climates and practices.
+grown through Marche, [Umbria](../regions/umbria.md), Lazio, and other Italian
+regions. Corsica's Nielluccio is the same variety under a legally and
+culturally established local name, with its own certified clones and island
+growing conditions. Plantings in the Americas and Australia bring further
+climates and practices.
 
 [^1]: Alessandra Zombardo et al., “Study of Inter- and Intra-varietal Genetic
     Variability in Grapevine Cultivars,” *Plants* 11 (2022), article 397,
