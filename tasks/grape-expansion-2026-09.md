@@ -19,8 +19,8 @@ Baco Noir, Maréchal Foch, Léon Millot, Vignoles, Cayuga White, Chardonel
 and Blanc du Bois. Camminare Noir was added alongside them, outside the
 original intake. The Umbrian series completes Sagrantino and Trebbiano
 Spoletino, with Grechetto di Orvieto added outside the intake. There are now
-219 grape articles and 186 assignments remaining from this expansion. The runner
-skips completed files automatically.
+220 grape articles and 185 assignments remaining from this expansion after the
+Ciliegiolo follow-up. The runner skips completed files automatically.
 
 ## Identity review notes
 
@@ -137,7 +137,7 @@ assignment.
 | 79 | Ortrugo | Queued | `content/grapes/ortrugo.md` |
 | 80 | Pignoletto | Queued | `content/grapes/pignoletto.md` |
 | 81 | Sagrantino | Written | [sagrantino](../content/grapes/sagrantino.md) |
-| 82 | Ciliegiolo | Queued | `content/grapes/ciliegiolo.md` |
+| 82 | Ciliegiolo | Written | [ciliegiolo](../content/grapes/ciliegiolo.md) |
 | 83 | Canaiolo Nero | Queued | `content/grapes/canaiolo-nero.md` |
 | 84 | Colorino | Queued | `content/grapes/colorino.md` |
 | 85 | Mammolo | Queued | `content/grapes/mammolo.md` |

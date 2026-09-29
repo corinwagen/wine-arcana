@@ -57,6 +57,12 @@ Local producers use it for both red wine and rosato. Earlier picking and short
 skin contact can make a very different wine from a later-picked red fermented
 with skins and matured for longer.
 
+Farther south, Narni and San Gemini give
+[Ciliegiolo](../grapes/ciliegiolo.md) a distinct varietal role. Leonardo
+Bussoletti's Brecciaro combines fruit from rocky and clay-limestone sites,
+with most of the wine matured in steel and a smaller part in large oak.
+This adds another grape and cellar approach to the region's red wines.
+
 ## White wines: several routes to texture
 
 [Grechetto di Orvieto](../grapes/grechetto-di-orvieto.md) participates in the
@@ -114,3 +120,6 @@ in the vineyard create different practical demands and flavours.
   vintage and vinification notes.
 - Palazzone, [“Muffa nobile”](https://palazzone.com/i-nostri-prodotti/muffa-nobile/),
   producer's wine description, accessed 28 September 2026.
+- Leonardo Bussoletti, [“Brecciaro Ciliegiolo
+  Narni”](https://www.leonardobussoletti.it/i-vini/i-cru/brecciaro-ciliegiolo-narni/),
+  vineyard and winemaking description, accessed 29 September 2026.
