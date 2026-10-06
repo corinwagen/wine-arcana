@@ -20,7 +20,8 @@ care in interpretation.
 The Italian Vitis Database records *Grechetto* as the registered variety and
 lists Grechetto di Orvieto and Grechetto Bianco among its documented names.
 This article uses the more specific regional name to distinguish it from
-Grechetto di Todi, or Grechetto Gentile, identified with Pignoletto in the
+[Grechetto di Todi](pignoletto.md), or Grechetto Gentile, identified with
+Pignoletto in the
 Rauscedo varietal reference.[^identity]
 
 The distinction matters in vineyards, blends, and nursery descriptions.

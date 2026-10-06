@@ -7,7 +7,8 @@ aliases:
 # Ciliegiolo
 
 Ciliegiolo is a dark-skinned *Vitis vinifera* grape associated with central
-Italy, especially Tuscany's Maremma and the Narni area of
+Italy, especially Tuscany's [Maremma](../regions/maremma.md) and the
+[Narni](../regions/narni.md) area of
 [Umbria](../regions/umbria.md). It has a long role in blends with
 [Sangiovese](sangiovese.md), contributing fruit and roundness. Varietal wines
 now give it a more visible identity, from youthful reds and rosato to wines

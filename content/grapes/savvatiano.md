@@ -25,7 +25,7 @@ for a dry white. Heat tolerance makes cultivation possible, but the intended
 wine still depends on how much fruit the vine must ripen and when it is
 picked.
 
-Attica's surviving dry-farmed vineyards are central to the grape's modern
+Attica's surviving [dry-farmed vineyards](../concepts/dry-farming.md) are central to the grape's modern
 reappraisal. Producers have increasingly bottled wines that identify the
 variety and vineyard, giving attention to fruit previously associated with
 anonymous volume. Savvatiano is also grown more widely in central Greece,

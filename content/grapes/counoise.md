@@ -95,7 +95,8 @@ fermenters and foudre aging.[^2]
 ## California's small revival
 
 California's renewed interest began with Rhône-variety plantings and the work
-of Tablas Creek in Paso Robles. Its imported material spent three years in USDA
+of Tablas Creek in [Paso Robles](../regions/paso-robles.md).
+Its imported material spent three years in USDA
 inspection before multiplication and planting. UC Davis Foundation Plant
 Services now lists both the public Counoise 01 selection, taken from a former
 UC Davis vineyard, and the French ENTAV-INRA 508 selection. The availability of

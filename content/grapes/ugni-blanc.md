@@ -62,7 +62,7 @@ choices continue to shape the resulting spirit.
 ## Italian wine expressions
 
 In Tuscany, Trebbiano Toscano can contribute a fresh, relatively neutral
-component to white blends. The Maremma consortium describes restrained fruit
+component to white blends. The [Maremma](../regions/maremma.md) consortium describes restrained fruit
 and useful acidity, and records uses ranging from white table wine to
 late-harvest and dried-grape styles.
 

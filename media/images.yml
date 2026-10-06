@@ -733,3 +733,63 @@ images:
     sha256: "a73c11ab8ded7c74e1ab2d67bfafb5aa695b32081b1a1486cf83971641618bb8"
     changes: "Unmodified."
     openverse_id: "73b8e668-8793-4ae7-b973-695a3a402629"
+
+  - path: "media/images/regions/napa-valley-vine-rows.jpg"
+    title: "Vineyards in Napa Valley, California US"
+    creator: "effi K"
+    creator_url: "https://www.flickr.com/photos/153060032@N06"
+    source: "Flickr"
+    source_url: "https://www.flickr.com/photos/153060032@N06/44808383364"
+    original_url: "https://live.staticflickr.com/1931/44808383364_5be5f0433f_b.jpg"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    openverse_id: "77bfbc8b-79a8-45ea-b7c9-67764a47c8d4"
+    width: 1024
+    height: 768
+    sha256: "5c5b66d5877061d3be7d1af9287cbd4b19926da72eeafbe71d76c38ccffdd6f3"
+    changes: "Downloaded the 1024-pixel source rendition; no further changes."
+
+  - path: "media/images/regions/sonoma-county-vineyard.jpg"
+    title: "Sonoma vineyard viewed from Highway 12, July 2025"
+    creator: "Sarah Stierch (Missvain)"
+    creator_url: "https://commons.wikimedia.org/wiki/User:Missvain"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Sonoma_vineyard_-_July_2025_-_Sarah_Stierch.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Sonoma_vineyard_-_July_2025_-_Sarah_Stierch.jpg"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    openverse_id: "70173f88-1151-48ba-8e79-b0745a9f31fe"
+    width: 1600
+    height: 1200
+    sha256: "1895fdd11602684c7d3136ee5dd1a0f9b46a7fd97abdab80029e4f7b3fad2499"
+    changes: "Resized to 1600 pixels on the long edge."
+
+  - path: "media/images/regions/paso-robles-silver-river-vines.jpg"
+    title: "Silver River Vineyard vines, San Miguel, Paso Robles"
+    creator: "Schalkv"
+    creator_url: "https://commons.wikimedia.org/wiki/User:Schalkv"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Silver_River_Vineyard_Old_Vines.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/2/27/Silver_River_Vineyard_Old_Vines.jpg"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    openverse_id: "1767244b-1aa8-4242-af5a-217281fa91a7"
+    width: 1182
+    height: 665
+    sha256: "d542eb904db4bb2bde4f918057af410d812c619c072d4f1a1b4aa0b1d6f5b013"
+    changes: "None."
+
+  - path: "media/images/regions/anderson-valley-husch-vines.jpg"
+    title: "Gewurztraminer vines at Husch Vineyards, Anderson Valley"
+    creator: "No-till-vineyard"
+    creator_url: "https://commons.wikimedia.org/wiki/User:No-till-vineyard"
+    source: "Wikimedia Commons"
+    source_url: "https://commons.wikimedia.org/wiki/File:Husch_vineyards_philo_ca.jpg"
+    original_url: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Husch_vineyards_philo_ca.jpg"
+    license: "CC0-1.0"
+    license_url: "https://creativecommons.org/publicdomain/zero/1.0/"
+    openverse_id: "8a5767b2-f491-4a2f-ba38-e79cc8eb7f2c"
+    width: 1600
+    height: 1200
+    sha256: "eb88987589ff0dec583d71565369d4fa2fb0c2fb437d1dbd245dccddc31eaf8b"
+    changes: "Resized to 1600 pixels on the long edge."

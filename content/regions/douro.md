@@ -84,7 +84,8 @@ others, can change [acidity](../concepts/acidity.md), colour,
 [tannin](../concepts/tannin.md), ripening time, or performance in a
 particular site.
 
-Older vineyards may be field blends: different varieties are interplanted, then
+Older vineyards may be [field blends](../concepts/field-blends.md): different
+varieties are interplanted, then
 often harvested and fermented together. Staggered ripening and varied responses
 to heat, drought, and disease can add resilience but also force difficult harvest
 compromises. A genetic survey of old mixed vineyards in Douro and neighbouring

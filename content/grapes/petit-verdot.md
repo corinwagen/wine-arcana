@@ -29,7 +29,8 @@ training important practical considerations.
 California observations show why yield claims need context. UC viticulturist
 Matthew Fidelibus reports substantial differences among clones and sites:
 material that was productive in the San Joaquin Valley differed from
-lower-yielding selections observed at Lodi. Yield expectations therefore need to
+lower-yielding selections observed at [Lodi](../regions/lodi.md).
+Yield expectations therefore need to
 be matched to the clone and site.
 
 The same account reports good colour development under hot conditions but

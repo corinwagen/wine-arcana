@@ -46,7 +46,8 @@ about contact time and handling. Subsequent maturation changes how that
 structure feels; a long ageing requirement cannot guarantee that every young
 wine will be supple.
 
-Torgiano offers another Sangiovese reference. Lungarotti's Rubesco62, a current
+[Torgiano](torgiano.md) offers another Sangiovese reference.
+Lungarotti's Rubesco62, a current
 Rosso di Torgiano bottling, uses Sangiovese alone, ferments in steel, and spends
 less than a year in barrel. It provides a concrete contrast with the longer
 maturation associated with dry Sagrantino.
@@ -57,7 +58,7 @@ Local producers use it for both red wine and rosato. Earlier picking and short
 skin contact can make a very different wine from a later-picked red fermented
 with skins and matured for longer.
 
-Farther south, Narni and San Gemini give
+Farther south, [Narni](narni.md) and San Gemini give
 [Ciliegiolo](../grapes/ciliegiolo.md) a distinct varietal role. Leonardo
 Bussoletti's Brecciaro combines fruit from rocky and clay-limestone sites,
 with most of the wine matured in steel and a smaller part in large oak.

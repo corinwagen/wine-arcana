@@ -49,7 +49,8 @@ more grip than a conventionally pressed white. The length of
 all matter; “Ribolla Gialla” alone does not specify the method.
 
 This Friulian practice has also travelled. Matthiasson documents grafting
-Ribolla into its Napa Valley home vineyard in 2006 and producing a skin-contact
+Ribolla into its [Napa Valley](../regions/napa-valley.md) home
+vineyard in 2006 and producing a skin-contact
 version from 2008, following work with George Vare and inspiration from Josko
 Gravner. Its current Matthiasson Vineyard bottling continues that approach.
 This is a sustained Californian interpretation of a border-region tradition,

@@ -56,7 +56,8 @@ oak influence.
 
 Experience outside France also demonstrates the importance of climate. Writing
 about Tablas Creek's California plantings in 2017, Jason Haas emphasized acid
-retention in hot, sunny Paso Robles, whereas resistance to rot was particularly
+retention in hot, sunny [Paso Robles](../regions/paso-robles.md),
+whereas resistance to rot was particularly
 useful in humid Virginia. These are different reasons to grow the same grape,
 and need not lead to the same harvest date or finished style.
 

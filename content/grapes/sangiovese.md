@@ -13,7 +13,8 @@ aliases:
 Sangiovese is a dark-skinned *Vitis vinifera* variety central to the red wines
 of Tuscany and much of central Italy. Chianti,
 [Brunello di Montalcino](../regions/brunello-di-montalcino.md), Vino Nobile di
-Montepulciano, and Morellino di Scansano each situate the grape in a
+Montepulciano, and
+[Morellino di Scansano](../regions/morellino-di-scansano.md) each situate the grape in a
 distinct geography, blending tradition, and regulatory frame.
 
 The variety commonly retains conspicuous [acidity](../concepts/acidity.md) alongside [tannin](../concepts/tannin.md) even when

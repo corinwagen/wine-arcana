@@ -102,8 +102,9 @@ vary by producer; neither old vines nor whole bunches guarantee delicacy.
 These wines make the grape's own character easier to see than its historical
 role in Cape blends or Pinotage's parentage.
 
-Chile's Itata provides another regional home. Its surviving dry-farmed
-vineyards include Cinsault alongside País and Muscat, placing the grape within
+Chile's Itata provides another regional home. Its surviving [dry-farmed
+vineyards](../concepts/dry-farming.md) include Cinsault alongside País and
+Muscat, placing the grape within
 a long-established farming culture now attracting renewed attention. Varietal
 bottlings give this heritage a distinct expression alongside the region's
 other wines.

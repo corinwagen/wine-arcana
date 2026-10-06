@@ -19,8 +19,9 @@ Baco Noir, Maréchal Foch, Léon Millot, Vignoles, Cayuga White, Chardonel
 and Blanc du Bois. Camminare Noir was added alongside them, outside the
 original intake. The Umbrian series completes Sagrantino and Trebbiano
 Spoletino, with Grechetto di Orvieto added outside the intake. There are now
-220 grape articles and 185 assignments remaining from this expansion after the
-Ciliegiolo follow-up. The runner skips completed files automatically.
+222 grape articles and 183 assignments remaining from this expansion after the
+Ciliegiolo, Pignoletto, and Graciano follow-ups. The runner skips completed
+files automatically.
 
 ## Identity review notes
 
@@ -135,7 +136,7 @@ assignment.
 | 77 | Lambrusco di Sorbara | Queued | `content/grapes/lambrusco-di-sorbara.md` |
 | 78 | Ancellotta | Queued | `content/grapes/ancellotta.md` |
 | 79 | Ortrugo | Queued | `content/grapes/ortrugo.md` |
-| 80 | Pignoletto | Queued | `content/grapes/pignoletto.md` |
+| 80 | Pignoletto | Written | [pignoletto](../content/grapes/pignoletto.md) |
 | 81 | Sagrantino | Written | [sagrantino](../content/grapes/sagrantino.md) |
 | 82 | Ciliegiolo | Written | [ciliegiolo](../content/grapes/ciliegiolo.md) |
 | 83 | Canaiolo Nero | Queued | `content/grapes/canaiolo-nero.md` |
@@ -174,7 +175,7 @@ assignment.
 | 111 | Jampal | Queued | `content/grapes/jampal.md` |
 | 112 | Terrantez do Pico | Queued | `content/grapes/terrantez-do-pico.md` |
 | 113 | Arinto dos Açores | Queued | `content/grapes/arinto-dos-acores.md` |
-| 114 | Graciano | Queued | `content/grapes/graciano.md` |
+| 114 | Graciano | Written | `content/grapes/graciano.md` |
 | 115 | Bobal | Queued | `content/grapes/bobal.md` |
 | 116 | Prieto Picudo | Queued | `content/grapes/prieto-picudo.md` |
 | 117 | Juan García | Queued | `content/grapes/juan-garcia.md` |

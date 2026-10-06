@@ -112,7 +112,8 @@ blends with Merlot and smaller amounts of Cabernet Franc and [Petit Verdot](peti
 Proportions vary with estate, site, and vintage.
 
 California demonstrates adaptation to a generally sunnier, drier growing
-season. Napa Valley and warmer parts of Sonoma are major centres, while local
+season. [Napa Valley](../regions/napa-valley.md) and warmer parts of
+[Sonoma](../regions/sonoma-county.md) are major centres, while local
 elevation, fog, afternoon wind, soil water, and heat exposure create substantial
 variation within each region. Australia offers a related contrast: the variety
 is associated especially with the moderate maritime climates of Margaret River
