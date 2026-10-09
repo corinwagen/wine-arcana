@@ -7,7 +7,7 @@ aliases:
 # Dolcetto
 
 Dolcetto is a dark-skinned *Vitis vinifera* variety from northwestern Italy,
-grown chiefly in Piedmont and, as Ormeasco, in western Liguria. Its name can
+grown chiefly in [Piedmont](../regions/piedmont.md) and, as Ormeasco, in western Liguria. Its name can
 mislead: the grape is sweet when ripe, but the familiar wines are dry. What
 distinguishes them structurally is a combination of modest [acidity](../concepts/acidity.md) and firm
 [tannin](../concepts/tannin.md), often with deep colour.

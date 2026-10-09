@@ -80,12 +80,36 @@ tannin could reflect extraction; a difference in ripeness could reflect
 harvest date. Geographical detail becomes useful alongside those production
 details.
 
+## Wines that connect site and method
+
+Benanti's Pietra Marina gives a concrete white-wine example from Milo. It
+uses Carricante from terraced, bush-trained vines in Contrada Rinazzo on
+the eastern slope. The producer describes whole-bunch pressing, fermentation
+in stainless steel, and roughly thirty months on fine lees before further
+bottle maturation. Here, [lees ageing](../concepts/lees-aging.md) and time
+develop the wine without barrel maturation.
+
+Graci's Arcurìa red supplies a different comparison: Nerello Mascalese from
+a single contrada near Passopisciaro, fermented in large wooden vats with
+extended skin contact and matured in large oak casks. This makes
+[maceration](../concepts/maceration.md) and vessel scale part of understanding
+the named origin. Comparing the two wines illustrates Etna's range across
+grape, slope, and cellar treatment; it would not isolate geography as the
+only cause of their differences.
+
 [^1]: Italian Ministry of Agriculture, Etna DOC specification, consolidated
     19 January 2022 and corrected 14 March 2022, articles 1–3, 5, and 7,
     accessed 9 September 2026.
 
 ## Sources
 
+- Benanti, [“Pietra Marina — Etna Bianco
+  Superiore”](https://www.benanti.it/prodotto/pietra-marina/), vineyard,
+  pressing, stainless-steel fermentation, and extended lees maturation,
+  accessed 6 October 2026.
+- Graci, [“Etna Rosso DOC
+  Arcurìa”](https://www.graci.eu/etna-rosso-doc-arcuria/), single-contrada
+  origin, grape, fermentation, and cask maturation, accessed 6 October 2026.
 - Italian Ministry of Agriculture, [Etna DOC production
   specification](https://www.masaf.gov.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/17936),
   consolidated 19 January 2022 and corrected 14 March 2022; linked official

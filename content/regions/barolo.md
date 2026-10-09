@@ -4,7 +4,7 @@ title: Barolo
 
 # Barolo
 
-Barolo is a red-wine appellation in the Langhe hills of Piedmont, south of
+Barolo is a red-wine appellation in the Langhe hills of [Piedmont](piedmont.md), south of
 Alba, and the name of the wine made under its rules. Current Barolo
 Denominazione di
 Origine Controllata e Garantita (DOCG) rules require vineyards planted

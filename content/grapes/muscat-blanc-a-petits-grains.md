@@ -27,7 +27,7 @@ Hamburg are separate varieties, not local names for this one.[^1]
 
 France's Plantgrape catalogue considers a Greek origin probable, while a
 genetic and historical study describes the origin as unknown and documents
-Moscato Bianco in Piedmont by the early fourteenth century.[^2] The variety's
+Moscato Bianco in [Piedmont](../regions/piedmont.md) by the early fourteenth century.[^2] The variety's
 birthplace and any connection to a named Greek or Roman grape remain unproved.
 
 Its many names record that spread. *Petits grains* refers to the relatively

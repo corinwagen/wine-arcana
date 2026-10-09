@@ -98,7 +98,7 @@ dependable regional profile.[^6]
 
 California remains central to the variety's modern identity, with traditions
 that range from pale, often off-dry White Zinfandel to dry reds and late-harvest
-wines. Coastal valleys, the Sacramento–San Joaquin Delta, the Sierra foothills,
+wines. Coastal valleys, the Sacramento–San Joaquin Delta, the [Sierra foothills](../regions/sierra-foothills.md),
 and warmer inland vineyards present different combinations of heat, night-time
 cooling, water, and harvest pressure. Older vineyards may also be
 [field blends](../concepts/field-blends.md),

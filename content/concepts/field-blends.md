@@ -62,7 +62,7 @@ combine the harvests of several mixed parcels, making both planting diversity
 and site selection important to understanding its composition.
 
 Vienna's white Gemischter Satz gives the practice a different regional form.
-The regional wine body describes Wiener Gemischter Satz DAC as a wine from
+The regional wine body describes [Wiener Gemischter Satz](../regions/wiener-gemischter-satz.md) DAC as a wine from
 at least three varieties grown in one vineyard, picked together, and
 processed together.[^vienna] Wieninger's 2025 bottling provides a current
 producer example: its description identifies 12 varieties growing together

@@ -64,7 +64,7 @@ offered by those skins is limited: sustained humidity still raises fungal
 pressure, and research on Albariño has found meaningful differences in downy
 mildew susceptibility among clones.
 
-Traditional *emparrado*, or pergola, training lifts the vine on a high
+Traditional *emparrado*, or pergola, [training](../concepts/pruning-and-training.md) lifts the vine on a high
 horizontal framework. Moving foliage and bunches away from damp ground improves
 air movement and light interception, helps growers manage vigorous canopies,
 and historically left room for vegetables or other crops below. Canopy
@@ -103,6 +103,21 @@ Many wines are designed for directness and early drinking, while sound fruit,
 lees contact, careful oxygen management, and time can support a slower
 development.
 
+## Two maturation examples
+
+Pazo Señorans and Palacio de Fefiñanes provide a useful comparison of cellar
+choices within Albariño. Pazo Señorans's technical sheet for its 2013
+Selección de Añada records more than thirty months on lees in stainless
+steel, without malolactic fermentation. The wine's extended development
+therefore does not depend on barrel flavour or the conversion of malic acid.
+
+Fefiñanes's 1583 bottling follows another route: fermentation in French oak
+barrels, brief maturation with the lees, and a final period in steel. The
+producer specifies used barrels, an important detail when considering how
+much wood character to expect. These are two documented approaches to
+texture and maturation, rather than a division between a single “traditional”
+and a single “modern” Rías Baixas style.
+
 [^1]: Ministerio de Agricultura, Pesca y Alimentación, *Pliego de condiciones
     de la DOP Rías Baixas*, in force 30 September 2024, sections 3.3 and 8.2;
     European Commission, amendment notice C/2024/7432, 13 December 2024.
@@ -118,6 +133,13 @@ development.
 
 ## Sources
 
+- Pazo Señorans, [*Selección de Añada 2013 technical
+  sheet*](https://advinoselecta.com/wp-content/uploads/2023/07/Ficha-tecnica-Seleccion-Anada-2013.pdf),
+  producer document hosted by Ad Vino Selecta, stainless-steel lees ageing and
+  absence of malolactic fermentation.
+- Bodegas del Palacio de Fefiñanes, [“1583 Albariño de
+  Fefiñanes”](https://www.fefinanes.com/es/vino/1583-albarino-de-fefinanes/),
+  barrel fermentation and subsequent maturation, accessed 6 October 2026.
 - Ministerio de Agricultura, Pesca y Alimentación, [*Pliego de condiciones de
   la DOP Rías
   Baixas*](https://www.mapa.gob.es/es/alimentacion/temas/calidad-diferenciada/rias_baixas_2024_09_30_tcm30-209986.pdf),

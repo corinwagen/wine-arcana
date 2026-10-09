@@ -137,6 +137,13 @@ New Zealand, Chile, Argentina and South Africa, among many other places.
 Maritime influence, elevation and cool nights can extend the effective
 ripening season even at relatively warm latitudes.
 
+California provides two useful regional connections.
+[Livermore Valley](../regions/livermore-valley.md) is associated with Wente's
+selection and dissemination of Chardonnay material. In the
+[Santa Lucia Highlands](../regions/santa-lucia-highlands.md), Talbott's Sleepy
+Hollow vineyard illustrates the combination of marine cooling, varied
+parcels, and clonal material behind several estate Chardonnay styles.
+
 [^1]: Jerry Lin, Mélanie Massonnet & Dario Cantu, “The genetic basis of grape
     and wine aroma,” *Horticulture Research* 6 (2019), article 81,
     <https://doi.org/10.1038/s41438-019-0163-1>; Dimitra Capone et al.,
@@ -170,6 +177,12 @@ ripening season even at relatively warm latitudes.
 
 ## Sources
 
+- Wente Vineyards, [“Morning Fog Chardonnay,” Chardonnay legacy
+  section](https://wentevineyards.com/morning-fog-chardonnay/), selection and
+  dissemination of plant material, accessed 6 October 2026.
+- Talbott Vineyards, [“Sleepy Hollow
+  Vineyard”](https://www.talbottvineyards.com/sleepy-hollow-vineyard/), regional
+  vineyard and clonal context, accessed 6 October 2026.
 - Institut français de la vigne et du vin, INRAE & Institut Agro Montpellier,
   [“Chardonnay B”](https://www.plantgrape.fr/en/varieties/fruit-varieties/60/export),
   Plantgrape varietal record, edited 1 September 2026, accessed 1 September

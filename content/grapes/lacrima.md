@@ -11,7 +11,7 @@ Its local identity is expressed most directly in
 Lacrima di Morro d'Alba, while contemporary producers also use it for rosé,
 sparkling wine and sweet styles.
 
-Morro d'Alba is in central Italy, a different place from Alba in Piedmont.
+Morro d'Alba is in central Italy, a different place from Alba in [Piedmont](../regions/piedmont.md).
 Keeping the full place name in view helps distinguish this small regional
 tradition from the better-known wines of the Langhe.
 

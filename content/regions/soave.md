@@ -74,12 +74,29 @@ This concentrates their sugar and other components. Fermentation leaves
 residual sweetness, giving a fuller wine whose balance depends on retaining
 enough acidity.
 
+## A comparison within one estate
+
+Pieropan's Calvarino and La Rocca show how both vineyard and cellar choices
+can vary within Soave Classico. Calvarino combines 70% Garganega with 30%
+Trebbiano di Soave from basaltic ground. The producer ferments it in
+glass-lined concrete and matures it on fine lees, with stirring.
+
+La Rocca uses Garganega alone from limestone-rich ground containing clay.
+Fermentation begins in concrete before the wine moves to wood, where it
+finishes fermenting and continues ageing on its lees. This comparison
+connects two wines with specific sites and methods. It does not establish
+that every difference between them comes from basalt versus limestone:
+composition, ripeness, and cellar treatment differ too.
+
 [^1]: Italian Ministry of Agriculture, Soave DOC production specification,
     consolidated 24 October 2019, articles 1–3 and 7, accessed
     9 September 2026.
 
 ## Sources
 
+- Pieropan, [“Calvarino”](https://www.pieropan.it/vini/calvarino) and
+  [“La Rocca”](https://www.pieropan.it/vini/la-rocca), vineyard geology, grape
+  proportions, fermentation, and lees maturation, accessed 6 October 2026.
 - Italian Ministry of Agriculture, [Soave DOC production
   specification](https://www.ilsoave.com/wp-content/uploads/2020/11/Soave-DOC-consolidato-definitivo.pdf),
   consolidated 24 October 2019, accessed 9 September 2026.

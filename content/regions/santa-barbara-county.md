@@ -26,8 +26,8 @@ any simple west-to-east sequence. Ripening conditions can change substantially
 within a relatively short drive.
 
 [Sta. Rita Hills](sta-rita-hills.md) occupies the western Santa Ynez Valley.
-[Ballard Canyon](ballard-canyon.md), Los Olivos District, and Happy Canyon
-of Santa Barbara are
+[Ballard Canyon](ballard-canyon.md), Los Olivos District, and
+[Happy Canyon of Santa Barbara](happy-canyon-of-santa-barbara.md) are
 other AVAs within the larger Santa Ynez Valley AVA. [Santa Maria Valley](santa-maria-valley.md) lies
 farther north, while Alisos Canyon lies near Los Alamos. These names describe
 several scales of origin: Santa Ynez Valley and its smaller AVAs overlap,

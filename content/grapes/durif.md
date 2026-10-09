@@ -56,6 +56,11 @@ Ripeness and extraction affect whether the result feels dense and cohesive or
 drying; the variety's capacity to supply tannin makes
 [maceration](../concepts/maceration.md) decisions particularly consequential.
 
+[Livermore Valley](../regions/livermore-valley.md) supplies a historical
+California reference: Concannon's 1961 varietally labelled Petite Sirah helped
+give the grape a commercial identity beyond blending. The regional connection
+is a chapter in Durif's use, rather than its biological origin.
+
 Rutherglen in northeastern Victoria is an important Australian home. Its warm
 continental climate and long, generally dry autumn give growers an opportunity
 to mature red grapes before harvest weather deteriorates. Rain during that
@@ -69,6 +74,9 @@ promise a lighter or smaller-scale version of Syrah wine.
 
 ## Sources
 
+- Concannon Vineyard, [“Founding family
+  history”](https://concannon.wine/history/), 1961 Petite Sirah bottling,
+  accessed 6 October 2026.
 - [Plantgrape,
   “Durif”](https://www.plantgrape.fr/en/varieties/fruit-varieties/141/export),
   parentage, cultivation, disease risks, and wine properties.

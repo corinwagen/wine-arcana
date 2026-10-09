@@ -31,7 +31,7 @@ contributes sweetness. [Oak maturation](../concepts/oak-maturation.md) adds
 another influence on aroma and texture.
 
 A comparison with [Nosiola](nosiola.md) in Trentino or
-[Erbaluce](erbaluce.md) in Piedmont shows a wider northern Italian pattern:
+[Erbaluce](erbaluce.md) in [Piedmont](../regions/piedmont.md) shows a wider northern Italian pattern:
 a locally important white grape can sustain a dry wine tradition alongside
 a distinct wine made from dried grapes. Each area's methods and wines
 deserve to be understood individually.

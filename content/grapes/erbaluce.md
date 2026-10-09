@@ -4,7 +4,7 @@ title: Erbaluce
 
 # Erbaluce
 
-Erbaluce is a white grape of northern Piedmont, especially the Canavese
+Erbaluce is a white grape of northern [Piedmont](../regions/piedmont.md), especially the Canavese
 around Caluso. It supports three distinct wine styles: dry still white,
 [traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md), and sweet passito made from [dried grapes](../concepts/appassimento.md).
 Pronounced freshness connects them, while the handling of the fruit and wine

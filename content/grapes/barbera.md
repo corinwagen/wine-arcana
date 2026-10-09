@@ -4,7 +4,7 @@ title: Barbera
 
 # Barbera
 
-Barbera is a dark-skinned grape associated above all with Piedmont in
+Barbera is a dark-skinned grape associated above all with [Piedmont](../regions/piedmont.md) in
 northwestern Italy. It commonly combines substantial [acidity](../concepts/acidity.md) and deep colour
 with less grape [tannin](../concepts/tannin.md) than [Nebbiolo](nebbiolo.md). That structure suits both
 fresh, early-drinking reds and more concentrated wines, depending on crop level,

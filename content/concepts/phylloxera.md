@@ -44,11 +44,19 @@ A surviving ungrafted vineyard may reflect a favourable soil environment or
 absence of the pest. Its existence alone does not establish that the planted
 variety has resistant roots.
 
+[Colares](../regions/colares.md), near Portugal's Atlantic coast, provides a
+documented example. Its official specification connects the survival of
+traditional ungrafted vineyards with sand over deeper ground. The site's
+protection should be distinguished from genetic resistance in the variety.
+
 [^1]: University of California Statewide Integrated Pest Management Program,
     “Grape Phylloxera,” cultural-control section.
 
 ## Sources
 
+- Instituto da Vinha e do Vinho, [*Caderno de especificações — DO
+  Colares*](https://www.ivv.gov.pt/wp-content/uploads/2026/02/DO_Colares.pdf),
+  section 7, sand-vineyard survival, consulted 6 October 2026.
 - University of California Statewide Integrated Pest Management Program,
   [“Grape Phylloxera”](https://ipm.ucanr.edu/agriculture/grape/grape-phylloxera/).
 - Vinehealth Australia, [“125th Anniversary
