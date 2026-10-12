@@ -121,7 +121,8 @@ lighter wines, so a change in style can reflect intention as much as location.
 The regional name alone does not determine whether a wine will be dense,
 savoury, or relatively restrained.
 
-Chile adds a useful coastal comparison. In Limarí, morning fog and maritime air
+Chile adds a useful coastal comparison. In [Limarí](../regions/limari-valley.md),
+morning fog and maritime air
 moderate conditions in an otherwise dry northern landscape; Syrah is one of the
 region's established varieties. San Antonio also supplies cooler-climate
 examples. These settings make national labels such as “warm-climate Chile”

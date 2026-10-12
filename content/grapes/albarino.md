@@ -96,6 +96,14 @@ therefore often bottled alone with more alcohol and breadth than the light,
 gently spritzy image sometimes attached to Vinho Verde, although blends,
 sparkling wines, and fresher styles also exist.
 
+## An Atlantic comparison in Uruguay
+
+[Maldonado](../regions/maldonado.md) offers a contemporary home beyond Iberia.
+Cerro del Toro's Albariño Atlántico comes from a hillside near Piriápolis.
+Its documented cold juice clarification, controlled fermentation, and absence
+of oak provide a specific example of retaining a direct aromatic expression
+in another Atlantic-influenced landscape.
+
 [^1]: Susana Boso et al., “Morphometric comparison of current, Roman-era and
     medieval *Vitis* seeds from the north-west of Spain,” *Australian Journal
     of Grape and Wine Research* 26 (2020), pp. 300–309,
@@ -108,6 +116,8 @@ sparkling wines, and fresher styles also exist.
 
 ## Sources
 
+- Cerro del Toro, [“Albariño Atlántico”](https://www.cerrodeltoro.uy/albarino-atlantico),
+  vineyard and production description, accessed 10 October 2026.
 - Institut français de la vigne et du vin, INRAE & Institut Agro Montpellier,
   [“Alvarinho B”](https://www.plantgrape.fr/en/varieties/fruit-varieties/300/export),
   Plantgrape varietal record, edited 25 August 2026, accessed 1 September 2026.

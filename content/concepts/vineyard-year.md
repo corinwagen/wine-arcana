@@ -177,7 +177,8 @@ also raise a berry's measured sugar concentration simply by removing water.
 A higher reading under those conditions does not necessarily mean that the
 vine has delivered more sugar to the berry.[^water]
 
-Irrigation, where available and permitted, is adjusted to soil moisture, vine
+[Irrigation](irrigation-and-vine-water-stress.md), where available and permitted,
+is adjusted to soil moisture, vine
 condition, and the stage of growth. Nutrition needs similar observation:
 too little nitrogen can restrict growth, while excess can encourage a dense
 canopy. Tissue analysis helps distinguish a deficiency from a problem that

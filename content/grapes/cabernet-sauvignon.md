@@ -120,7 +120,8 @@ is associated especially with the moderate maritime climates of Margaret River
 and Coonawarra, but also grows in hotter inland districts where irrigation and
 heat management become more important.
 
-Cabernet Sauvignon is also widespread in central Chile, Argentina—especially
+Cabernet Sauvignon is also widespread in central Chile, including
+[Maipo Valley](../regions/maipo-valley.md), and in Argentina—especially
 Mendoza—and South Africa, notably Stellenbosch, as well as in Italy, Spain,
 China, and eastern Europe. Some of these regions favour varietal bottlings and
 others blend it with local or international varieties.
@@ -151,6 +152,8 @@ others blend it with local or international varieties.
 
 ## Sources
 
+- Wines of Chile, [“Wine Regions Map”](https://www.winesofchile.org/wine-regions-map/),
+  Maipo entry, accessed 10 October 2026.
 - Institut français de la vigne et du vin, INRAE & Institut Agro Montpellier,
   [“Cabernet-Sauvignon
   N”](https://www.plantgrape.fr/en/varieties/fruit-varieties/43/export),

@@ -100,7 +100,8 @@ better-exposed hillside sites.[^6]
 
 ## Maule and VIGNO
 
-In Chile's Maule, old dry-farmed bush vines have become the basis of a
+In Chile's [Maule](../regions/maule-valley.md), old dry-farmed bush vines have
+become the basis of a
 producer-led Carignan revival. The VIGNO collective gives these wines a shared
 identity and has helped draw attention and better grape prices to vineyards
 previously supplying inexpensive bulk wine. The change is economic and

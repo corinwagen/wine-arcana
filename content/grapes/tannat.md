@@ -87,6 +87,13 @@ itself gives no fixed drinking window.
 [^4]: Paul Smith, Jacqui McRae & Keren Bindon, “Impacts of winemaking
     practices on tannin in red wines,” 2016.
 
+## Related topics
+
+- [Canelones](../regions/canelones.md)
+- [Maldonado](../regions/maldonado.md)
+- [Carmelo](../regions/carmelo.md)
+- [Calchaquí Valleys](../regions/calchaqui-valleys.md)
+
 ## Sources
 
 - IFV, INRAE & L'Institut Agro Montpellier,

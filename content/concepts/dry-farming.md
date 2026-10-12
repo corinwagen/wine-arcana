@@ -4,7 +4,8 @@ title: Dry farming
 
 # Dry farming
 
-Dry farming grows a crop through a dry season without irrigation, relying
+Dry farming grows a crop through a dry season without
+[irrigation](irrigation-and-vine-water-stress.md), relying
 on rainfall and water stored in the soil. In a vineyard, its feasibility
 depends on the amount of water retained within reach of the roots, the vine's
 establishment, and the demands of the growing season.

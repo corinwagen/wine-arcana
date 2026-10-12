@@ -137,6 +137,11 @@ New Zealand, Chile, Argentina and South Africa, among many other places.
 Maritime influence, elevation and cool nights can extend the effective
 ripening season even at relatively warm latitudes.
 
+In Chile, [Casablanca](../regions/casablanca-valley.md) and
+[Limarí](../regions/limari-valley.md) give Chardonnay contemporary coastal
+homes. Pacific cooling supports its role there, while vineyard position and
+cellar choices distinguish the resulting wines.
+
 California provides two useful regional connections.
 [Livermore Valley](../regions/livermore-valley.md) is associated with Wente's
 selection and dissemination of Chardonnay material. In the
@@ -177,6 +182,8 @@ parcels, and clonal material behind several estate Chardonnay styles.
 
 ## Sources
 
+- Wines of Chile, [“Wine Regions Map”](https://www.winesofchile.org/wine-regions-map/),
+  Casablanca and Limarí entries, accessed 10 October 2026.
 - Wente Vineyards, [“Morning Fog Chardonnay,” Chardonnay legacy
   section](https://wentevineyards.com/morning-fog-chardonnay/), selection and
   dissemination of plant material, accessed 6 October 2026.

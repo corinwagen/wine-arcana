@@ -98,7 +98,8 @@ profile.
 
 ### Coastal Chile and Constantia
 
-Chile's Casablanca and San Antonio, including Leyda, are important references
+Chile's [Casablanca](../regions/casablanca-valley.md) and San Antonio,
+including Leyda, are important references
 for Sauvignon Blanc beyond Marlborough and France. Pacific influence and
 morning fog moderate Casablanca's growing conditions; San Antonio's coastal
 sites likewise support wines with pronounced freshness. The comparison is

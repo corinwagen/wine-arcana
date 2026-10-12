@@ -64,7 +64,8 @@ correctly identified as Carménère.
 
 ## Where it is grown
 
-Chile is its defining modern association. Cachapoal and Colchagua, the two
+Chile is its defining modern association. Cachapoal and
+[Colchagua](../regions/colchagua-valley.md), the two
 principal subdivisions of the Rapel Valley, both have important plantings.
 Cachapoal includes cooler Andean-influenced sites and warmer areas toward Lake
 Rapel and the coastal hills. Colchagua likewise varies with coastal influence

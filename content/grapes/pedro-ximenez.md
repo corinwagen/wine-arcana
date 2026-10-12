@@ -33,7 +33,7 @@ Spelling is consequential here. **Pedro Giménez**, the Argentine white criolla
 variety, is not Pedro Ximénez. A microsatellite study found the two to be
 different cultivars and found no genetic relationship between them in the
 markers examined; it instead supported Pedro Giménez as offspring of [Muscat of
-Alexandria](moscatel-de-alejandria.md) and Criolla Chica.[^2]
+Alexandria](moscatel-de-alejandria.md) and [Criolla Chica](pais.md).[^2]
 
 On a label, Pedro Ximénez may name a naturally sweet [fortified wine](../concepts/fortification.md) under a
 regional appellation as well as the grape. Pedro Ximénez can also be made dry:

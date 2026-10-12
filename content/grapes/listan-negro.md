@@ -19,7 +19,7 @@ fresh, unforced red in settings where heat alone might suggest a heavier wine.
 
 ## Identity and the Mission question
 
-Listán Negro is sometimes confused with Listán Prieto because both grow in the
+Listán Negro is sometimes confused with [Listán Prieto](pais.md) because both grow in the
 Canaries and their names have been used inconsistently. They are different
 cultivars. Microsatellite work identifies Listán Negro as a natural cross of
 [Palomino Fino](palomino-fino.md)—called Listán Blanco in the islands—and Mollar

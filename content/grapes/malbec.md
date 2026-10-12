@@ -86,7 +86,8 @@ frost](../concepts/spring-frost.md) are not very
 fruitful. These traits help explain losses in France and remain relevant even in
 a sunny climate.[^5]
 
-Much of western Argentina is dry enough that irrigation is fundamental.
+Much of western Argentina is dry enough that
+[irrigation](../concepts/irrigation-and-vine-water-stress.md) is fundamental.
 Snowmelt, soil water holding, and irrigation decisions therefore shape the
 vine's climate response. Heat can advance sugar accumulation and lower [acidity](../concepts/acidity.md);
 severe heat can also slow photosynthesis,
@@ -139,8 +140,10 @@ extracted examples fall within the variety's range.
 ## Where it is grown
 
 Argentina accounts for Malbec's largest modern planting, concentrated in
-Mendoza and especially Luján de Cuyo and the three Uco Valley departments.
-Important smaller areas include San Juan and the high Calchaquí Valleys of
+Mendoza and especially Luján de Cuyo and the three
+[Uco Valley](../regions/uco-valley.md) departments.
+Important smaller areas include San Juan and the high
+[Calchaquí Valleys](../regions/calchaqui-valleys.md) of
 Salta, with plantings extending into Patagonia and other provinces. This broad
 range supports varietal wine as well as blends and [rosé](../styles/rose.md).
 

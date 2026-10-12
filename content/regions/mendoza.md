@@ -14,7 +14,7 @@ broad origin, not one uniform climate or wine style.
 
 ## A province of different growing areas
 
-Wines of Argentina distinguishes the Uco Valley, the traditional Luján de
+Wines of Argentina distinguishes the [Uco Valley](uco-valley.md), the traditional Luján de
 Cuyo and Maipú area, and northern, eastern, and southern oases. Vineyard
 height and proximity to the Andes vary considerably. Luján de Cuyo, Maipú,
 Tupungato, Tunuyán, and San Rafael therefore supply useful geographical
@@ -27,7 +27,8 @@ cannot predict the character or quality of the finished wine.
 
 ## Water and grape diversity
 
-Water management is fundamental to the province's vineyard economy. The
+[Water management](../concepts/irrigation-and-vine-water-stress.md) is fundamental
+to the province's vineyard economy. The
 Mendoza government identifies the wine sector as a major water user and
 documents work between the Mendoza River Water Fund and Wines of Argentina
 on water efficiency and watershed conservation. This places resource
@@ -38,7 +39,8 @@ Malbec remains a central reference point, with
 [Cabernet Sauvignon](../grapes/cabernet-sauvignon.md),
 [Cabernet Franc](../grapes/cabernet-franc.md),
 [Chardonnay](../grapes/chardonnay.md), and
-[Sémillon](../grapes/semillon.md) among the other grapes grown. Bonarda and
+[Sémillon](../grapes/semillon.md) among the other grapes grown.
+[Bonarda](../grapes/douce-noire.md) and
 pink-skinned varieties such as Cereza and Criolla Grande also form part of
 the province's vineyard base.
 

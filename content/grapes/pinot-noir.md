@@ -148,6 +148,12 @@ interpretations. Across this geography, “cool climate” covers maritime,
 continental, dry, and wet growing seasons that produce varied Pinot Noir
 styles.
 
+Argentina's [Río Negro](../regions/rio-negro.md) supplies another contemporary
+context through surviving old Pinot Noir vineyards. Alejandro Iglesias's
+August 2026 regional survey reports growers adjusting harvest dates,
+extraction, and wood use there, connecting vineyard continuity with changing
+wine styles.
+
 [^1]: Guillaume Grillon, Jean-Pierre Garcia & Thomas Labbé, “Le « très loyal
     pinot » : itinéraire d'un cépage mythique de la Bourgogne,” *Crescentis*
     (2019), <https://doi.org/10.58335/crescentis.1003>; Rémi Noraz et al.,
@@ -167,6 +173,9 @@ styles.
 
 ## Sources
 
+- Alejandro Iglesias, [“Argentine Pinot Noir: a challenging grape asserts
+  itself across a range of terroirs”](https://blog.winesofargentina.com/breaking/argentine-pinot-noir-map/),
+  Wines of Argentina, 16 August 2026, updated 24 August 2026, Río Negro section.
 - Institut français de la vigne et du vin, INRAE & Institut Agro Montpellier,
   [“Pinot noir N”](https://www.plantgrape.fr/en/varieties/fruit-varieties/218/export),
   Plantgrape varietal record, edited 28 August 2026, accessed 1 September 2026.
