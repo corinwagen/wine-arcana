@@ -110,8 +110,9 @@ bottle to supply complexity.
 
 ### Franschhoek
 
-South Africa's Franschhoek adds another reference for dry Sémillon. Surviving
-vineyards from the early twentieth century have become a focus of renewed
+South Africa's [Franschhoek](../regions/franschhoek.md) adds another reference
+for dry Sémillon. Surviving vineyards from the early twentieth century have
+become a focus of renewed
 producer interest, with efforts to retain their fruit for wines identified
 with the valley. That heritage supports a contemporary regional identity;
 it does not prescribe a single style.

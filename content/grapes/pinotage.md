@@ -16,7 +16,8 @@ of powerful or awkward examples.
 
 ## History
 
-Abraham Izak Perold made the cross at Stellenbosch. The Pinotage Association's
+Abraham Izak Perold made the cross at [Stellenbosch](../regions/stellenbosch.md).
+The Pinotage Association's
 current historical account dates the crossing to 1924 and the planting of its
 seeds to 1925. Older accounts commonly give 1925 as the year of the cross;
 the distinction between pollination and seed planting explains the chronology
@@ -41,7 +42,8 @@ association notes that virus infection can delay maturity, complicating a
 simple comparison of harvest dates between vineyards.
 
 South Africa remains the grape's principal home, with important associations
-in Stellenbosch, Paarl, and the area around Malmesbury. Small plantings
+in Stellenbosch, [Paarl](../regions/paarl.md), and the area around Malmesbury.
+Small plantings
 elsewhere, including Australia and New Zealand, have not displaced that
 regional identity.
 

@@ -171,6 +171,12 @@ wine styles.
     the U.S. West coast,” *Food Chemistry* 337 (2021), article 127720,
     <https://doi.org/10.1016/j.foodchem.2020.127720>.
 
+## Related topics
+
+- [Hemel-en-Aarde](../regions/hemel-en-aarde.md)
+- [Walker Bay](../regions/walker-bay.md)
+- [Massal and clonal selection](../concepts/massal-and-clonal-selection.md)
+
 ## Sources
 
 - Alejandro Iglesias, [“Argentine Pinot Noir: a challenging grape asserts

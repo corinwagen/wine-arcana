@@ -12,8 +12,9 @@ how much leaf area supports the crop. Growers adjust the canopy to suit the
 vine, site, season, and intended harvest.
 
 Opening a canopy admits light, may expose berries to direct solar heating,
-allows wind and spray material to enter more readily, and can shorten the time
-that leaves and bunches remain wet. In a cool, humid vineyard those changes
+allows [wind](wind-and-wine-growing.md) and spray material to enter more
+readily, and can shorten the time that leaves and bunches remain wet.
+In a cool, humid vineyard those changes
 may help fruit ripen and limit disease. In a hot, dry vineyard, retaining
 shade may instead protect berries from overheating, sunburn, and dehydration.
 

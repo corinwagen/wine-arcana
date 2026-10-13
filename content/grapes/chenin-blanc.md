@@ -116,11 +116,13 @@ distillation. Warm inland sites, cooler maritime influence, water
 availability, vine age, yields, and harvest date produce widely varying
 profiles.
 
-The Swartland's warm, dry conditions and surviving dry-farmed bush vines have
-made it particularly important to the renewed interest in Cape Chenin. Its dry
+The [Swartland](../regions/swartland.md)'s warm, dry conditions and surviving
+dry-farmed bush vines have made it particularly important to the renewed
+interest in Cape Chenin. Its dry
 wines can combine substantial fruit and texture with the grape's acid
-structure. Stellenbosch provides another useful reference, including wines
-whose brief or restrained [oak maturation](../concepts/oak-maturation.md) adds breadth while retaining a clear
+structure. [Stellenbosch](../regions/stellenbosch.md) provides another useful
+reference, including wines whose brief or restrained
+[oak maturation](../concepts/oak-maturation.md) adds breadth while retaining a clear
 fruit profile. These are approaches within each region, not fixed regional
 recipes: picking decisions and cellar work remain essential to the comparison.
 

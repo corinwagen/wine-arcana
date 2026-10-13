@@ -180,6 +180,12 @@ parcels, and clonal material behind several estate Chardonnay styles.
     2026; “Record performance for still wines at this year's WineGB Awards,”
     24 June 2025, documents both blanc de blancs and still Chardonnay entries.
 
+## Related topics
+
+- [Elgin](../regions/elgin.md)
+- [Hemel-en-Aarde](../regions/hemel-en-aarde.md)
+- [Massal and clonal selection](../concepts/massal-and-clonal-selection.md)
+
 ## Sources
 
 - Wines of Chile, [“Wine Regions Map”](https://www.winesofchile.org/wine-regions-map/),

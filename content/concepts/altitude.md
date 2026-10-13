@@ -8,8 +8,9 @@ aliases:
 
 Altitude is a vineyard's height above sea level. It influences wine chiefly
 by changing the conditions in which grapes grow: temperature, radiation,
-and the timing of the growing season. Mountain terrain also changes wind,
-rainfall, drainage, and exposure. These influences interact, so a vineyard's
+and the timing of the growing season. Mountain terrain also changes
+[wind](wind-and-wine-growing.md), rainfall, drainage, and exposure.
+These influences interact, so a vineyard's
 elevation becomes useful information when placed alongside its latitude,
 landscape, grape variety, and water supply.
 

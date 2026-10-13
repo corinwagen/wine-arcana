@@ -71,7 +71,8 @@ pathogens already inside the plant tissues. Nursery certification programmes
 use testing and inspection to reduce this risk; the scope of testing matters
 to what that certification establishes. Oregon State University's vineyard
 establishment guidance emphasizes certified sources for both cultivars and
-rootstocks and specifically identifies leafroll, red blotch, and fanleaf among
+rootstocks and specifically identifies
+[leafroll](grapevine-leafroll.md), red blotch, and fanleaf among
 the viruses of concern.[^5]
 
 A suitable rootstock can offer durable protection against a soil pest while

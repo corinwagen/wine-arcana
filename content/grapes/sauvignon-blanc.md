@@ -106,8 +106,9 @@ sites likewise support wines with pronounced freshness. The comparison is
 between particular maritime settings, rather than between uniformly warm or
 cool countries.
 
-In South Africa, Constantia's mountain slopes and summer sea winds make
-Sauvignon Blanc a regional focus. Changes in altitude and exposure across a
+In South Africa, [Constantia](../regions/constantia.md)'s mountain slopes and
+summer sea winds make Sauvignon Blanc a regional focus. Changes in altitude
+and exposure across a
 small area give growers different ripening conditions. Cellar choices widen
 the range further: tank-made wines, wooded bottlings, and blends with Sémillon
 all occur. Some producers also bottle individual vineyard blocks or release

@@ -122,8 +122,9 @@ heat management become more important.
 
 Cabernet Sauvignon is also widespread in central Chile, including
 [Maipo Valley](../regions/maipo-valley.md), and in Argentina—especially
-Mendoza—and South Africa, notably Stellenbosch, as well as in Italy, Spain,
-China, and eastern Europe. Some of these regions favour varietal bottlings and
+Mendoza—and South Africa, notably [Stellenbosch](../regions/stellenbosch.md),
+as well as in Italy, Spain, China, and eastern Europe. Some of these regions
+favour varietal bottlings and
 others blend it with local or international varieties.
 
 [^1]: John E. Bowers & Carole P. Meredith, “The Parentage of a Classic Wine

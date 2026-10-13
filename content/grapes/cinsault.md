@@ -93,9 +93,11 @@ component or more visible in the finished wine.
 
 ## Cape varietal wines and Itata
 
-South Africa's renewed interest in old vineyards has given Cinsault a more
-visible life as a named red wine. Stellenbosch and the Swartland offer useful
-examples: old bush vines supply wines in which moderate extraction, [whole
+South Africa's renewed interest in [old vineyards](../concepts/old-vines.md)
+has given Cinsault a more visible life as a named red wine.
+[Stellenbosch](../regions/stellenbosch.md) and
+[Swartland](../regions/swartland.md) offer useful examples: old bush vines
+supply wines in which moderate extraction, [whole
 bunches](../concepts/whole-cluster-fermentation.md), and older wood can preserve
 perfume and a supple texture. The choices
 vary by producer; neither old vines nor whole bunches guarantee delicacy.
