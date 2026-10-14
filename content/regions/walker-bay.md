@@ -44,7 +44,8 @@ adapts the arrangement of growth to a particular vineyard.
 ## Beyond Chardonnay and Pinot Noir
 
 Springfontein's range includes [Chenin Blanc](../grapes/chenin-blanc.md)
-and [Pinotage](../grapes/pinotage.md), alongside other wines. Its Jil's Dune
+and [Pinotage](../grapes/pinotage.md), alongside [Chenel](../grapes/chenel.md)
+and other wines. Its Jil's Dune
 Chenin and Jonathan's Ridge Pinotage identify distinct vineyard sources.
 These are useful examples when considering Walker Bay as a district rather
 than treating Hemel-en-Aarde's principal grapes as its entire identity.

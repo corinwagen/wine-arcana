@@ -308,8 +308,9 @@ transfers and filling, so a well-prepared wine still needs careful packaging.
 
 **Total package oxygen** includes oxygen dissolved in the wine and oxygen
 in the bottle's headspace. Managing only the dissolved portion misses part
-of the exposure. Inert gas, suitable filling conditions, and correct closure
-application help limit pickup. Bottle headspace also provides room for
+of the exposure. Inert gas, suitable filling conditions, and correct
+[closure](wine-closures.md) application help limit pickup. Bottle headspace
+also provides room for
 thermal expansion, so it is managed differently from topping a storage
 barrel.[^bottling]
 

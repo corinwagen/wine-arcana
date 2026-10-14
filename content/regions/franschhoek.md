@@ -52,7 +52,8 @@ carried a Western Cape origin on the technical sheet, although the winery
 is in Franschhoek. A cellar's location therefore should not be treated as
 proof that every wine it makes comes entirely from local vineyards.
 
-The regional wine association also highlights Cap Classique in its events
+The regional wine association also highlights
+[Cap Classique](../styles/cap-classique.md) in its events
 programme. Sparkling and still wines ask different questions of the same
 grapes: picking date, juice handling, and the desired acid balance change
 with the intended wine. Franschhoek is consequently useful both for studying

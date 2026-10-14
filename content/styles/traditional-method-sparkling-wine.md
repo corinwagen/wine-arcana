@@ -108,8 +108,9 @@ bottling. Their permitted grapes, vineyard boundaries, pressing rules, base-wine
 limits, and labelling categories also differ.[^3]
 
 Traditional-method wines are consequently made in many places under names such
-as Champagne, Cava, Crémant, Franciacorta, Trento DOC, Cap Classique, and English
-sparkling wine, as well as without a protected regional name.
+as Champagne, Cava, Crémant, Franciacorta, Trento DOC,
+[Cap Classique](cap-classique.md), and English sparkling wine, as well as
+without a protected regional name.
 
 [^1]: International Organisation of Vine and Wine, *International Code of
     Oenological Practices*, current online edition, sections II.4.1.8–II.4.2.6,

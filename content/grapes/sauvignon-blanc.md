@@ -87,7 +87,8 @@ about blending and maturation as climate.
 
 ### Marlborough
 
-Marlborough's cool, sunny conditions and protective winemaking have made a
+[Marlborough](../regions/marlborough.md)'s cool, sunny conditions and protective
+winemaking have made a
 pungent expression widely recognizable. Research wines from seven subregions
 contained thiols, methoxypyrazines, C6 alcohols, and esters in differing
 combinations; a sensory comparison found selected Marlborough wines more

@@ -85,7 +85,8 @@ creamy texture or oak influence. That regional commitment makes the grape's
 harvest and cellar trade-offs especially useful to compare: a perfumed dry
 white need not pursue maximum weight to express Viognier.
 
-Australia's Eden Valley offers a well-established example of deliberate
+Australia's [Eden Valley](../regions/eden-valley.md) offers a well-established
+example of deliberate
 adoption outside France. Yalumba planted Viognier there in 1980, when the
 variety was still rare internationally, and helped build an enduring regional
 association. Eden Valley is now an established reference for varietal Viognier

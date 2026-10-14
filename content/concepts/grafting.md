@@ -57,7 +57,8 @@ A root system supporting vigorous growth may be useful where the soil limits
 the vine, but require different irrigation and
 [canopy management](canopy-management.md) on a more generous site.
 
-A Coonawarra trial summarized by viticulturist Nick Dry illustrates the
+A [Coonawarra](../regions/coonawarra.md) trial summarized by viticulturist
+Nick Dry illustrates the
 interaction. The drought-tolerant rootstocks 1103 Paulsen and 140 Ruggeri
 produced vigorous vines, and the trial raised questions about managing that
 growth during wetter conditions. Applying the same management across rootstocks

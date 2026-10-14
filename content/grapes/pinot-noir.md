@@ -140,9 +140,11 @@ sparkling wine.
 
 Beyond Europe, the Willamette Valley and cool parts of coastal California have
 become major American centres. New Zealand grows Pinot Noir principally in its
-cooler southerly regions, including Marlborough, Central Otago, Wairarapa, and
+cooler southerly regions, including [Marlborough](../regions/marlborough.md),
+[Central Otago](../regions/central-otago.md), Wairarapa, and
 North Canterbury; differences within those regions can be as important as the
-national label. Tasmania, Victoria's cooler districts, coastal Chile, South
+national label. [Tasmania](../regions/tasmania.md), Victoria's cooler districts,
+coastal Chile, South
 Africa's cooler sites, Canada, and [England](../regions/england.md) add further still and sparkling
 interpretations. Across this geography, “cool climate” covers maritime,
 continental, dry, and wet growing seasons that produce varied Pinot Noir

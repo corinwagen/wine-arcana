@@ -83,6 +83,7 @@ either an early-drinking white blend or a wine awaiting the still.
 
 - [Folle Blanche](folle-blanche.md)
 - [Colombard](colombard.md)
+- [Chenel](chenel.md)
 - [Acidity](../concepts/acidity.md)
 
 ## Sources

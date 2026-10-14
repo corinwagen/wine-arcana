@@ -107,9 +107,10 @@ as well as traditional: exposed northern sites need enough warmth to complete
 ripening, while Mediterranean vineyards more often manage rapid sugar
 accumulation, water stress, and heat.
 
-Shiraz is the conventional Australian name. Warm regions such as Barossa Valley
-and McLaren Vale are prominent, but the variety is also grown in cooler or
-later-ripening districts including Yarra Valley and Canberra District. In Hunter
+Shiraz is the conventional Australian name. Warm regions such as
+[Barossa Valley](../regions/barossa-valley.md) and McLaren Vale are prominent,
+but the variety is also grown in cooler or later-ripening districts including
+[Yarra Valley](../regions/yarra-valley.md) and Canberra District. In Hunter
 Valley, humidity, rainfall timing, and the shape of the season also affect the
 fruit.
 
@@ -143,6 +144,10 @@ poor guides to the conditions experienced by a particular vineyard.
     Climate Measures That Relate to Key Sensory Attributes,” *Australian
     Journal of Grape and Wine Research* 27 (2021), pp. 458–471,
     <https://doi.org/10.1111/ajgw.12499>.
+
+## Related topics
+
+- [Hawke's Bay](../regions/hawkes-bay.md)
 
 ## Sources
 

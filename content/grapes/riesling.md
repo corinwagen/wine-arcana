@@ -121,8 +121,10 @@ Riesling must meet the legal definition of *trocken*, while Kamptal DAC limits
 residual sugar by titratable acidity.[^7] Sweet Austrian Prädikat wines also
 exist.
 
-Clare and Eden valleys are Australia's principal references, usually for dry
-wine in neutral vessels. New Zealand also spans dry, off-dry, and sweet forms.
+[Clare Valley](../regions/clare-valley.md) and
+[Eden Valley](../regions/eden-valley.md) are Australia's principal references,
+usually for dry wine in neutral vessels. New Zealand also spans dry, off-dry,
+and sweet forms.
 Autumn weather, sunlight, and local traditions create distinct balances among
 acidity, aroma, sugar, and TDN.
 

@@ -116,8 +116,10 @@ season. [Napa Valley](../regions/napa-valley.md) and warmer parts of
 [Sonoma](../regions/sonoma-county.md) are major centres, while local
 elevation, fog, afternoon wind, soil water, and heat exposure create substantial
 variation within each region. Australia offers a related contrast: the variety
-is associated especially with the moderate maritime climates of Margaret River
-and Coonawarra, but also grows in hotter inland districts where irrigation and
+is associated especially with the moderate maritime climates of
+[Margaret River](../regions/margaret-river.md) and
+[Coonawarra](../regions/coonawarra.md), but also grows in hotter inland
+districts where irrigation and
 heat management become more important.
 
 Cabernet Sauvignon is also widespread in central Chile, including

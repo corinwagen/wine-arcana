@@ -51,7 +51,8 @@ aromatic, with herbal and tropical-fruit character.[^4]
 
 Manjimup, in Western Australia, supplies another setting. Indian and Southern
 Ocean influences moderate the climate, while its elevation gives it more
-continental conditions than nearby Margaret River. Wine Australia describes
+continental conditions than nearby [Margaret River](../regions/margaret-river.md).
+Wine Australia describes
 Manjimup Verdelho as combining fresh acidity with tropical flavour and a
 rounded mouthfeel.[^5]
 

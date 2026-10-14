@@ -47,7 +47,8 @@ eight months, with stirring. That [lees contact](../concepts/lees-aging.md)
 contributes texture alongside the grape's own structure. Short skin contact
 before pressing is another part of the producer's approach.
 
-In Australia's Clare Valley, Jim Barry propagated cuttings obtained from
+In Australia's [Clare Valley](../regions/clare-valley.md), Jim Barry propagated
+cuttings obtained from
 Santorini and planted Assyrtiko at Lodge Hill in 2012. Most of its vines
 are trellised, with a small number trained as baskets. This planting places
 the grape in a different rainfall regime and vineyard design from its

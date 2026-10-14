@@ -102,7 +102,8 @@ In Sardinia, Cannonau is both a regional name and the basis of a geographically
 protected wine tradition. The Cannonau di Sardegna specification encompasses
 red, rosé, dried-grape *passito*, and fortified *liquoroso* wines. In Australia,
 Grenache was historically important in fortified wine and remains concentrated
-in warm regions such as Barossa Valley and McLaren Vale; current dry wines range
+in warm regions such as [Barossa Valley](../regions/barossa-valley.md)
+and McLaren Vale; current dry wines range
 from varietal bottlings to blends, often with [Shiraz](syrah.md) and
 [Mataro](mourvedre.md).
 

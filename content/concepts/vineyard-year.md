@@ -295,6 +295,10 @@ round of decisions.
     adjustments,” Oregon State University Extension.
 [^reserves]: Mardi Longbottom, “Post-harvest care of tired vines,” 2019.
 
+## Related topics
+
+- [Smoke taint](smoke-taint.md)
+
 ## Sources
 
 - UC Statewide IPM Program, [“Pierce's Disease”](https://ipm.ucanr.edu/agriculture/grape/pierces-disease/),
