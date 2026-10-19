@@ -17,7 +17,7 @@ Andrew Walker's breeding programme used resistance from *Vitis arizonica*
 and repeated crosses with *Vitis vinifera*. Foundation Plant Services
 records Camminare Noir as approximately 94% vinifera, with [Petite Sirah](durif.md)
 and [Cabernet Sauvignon](cabernet-sauvignon.md) contributing substantial parts of its ancestry.
-That ancestry reflects a multigeneration pedigree; they do not mean
+That ancestry reflects a multigeneration pedigree; it does not mean
 the variety is a simple Petite Sirah × Cabernet Sauvignon cross.[^breeding]
 
 Its selection number was Walker 07355-075. It should also be distinguished
@@ -55,7 +55,7 @@ variation between bottles.
 
 [Blanc du Bois](blanc-du-bois.md) offers an instructive comparison: it
 addresses the same bacterial constraint through a different breeding
-history and makes white wine. Together they show why disease resistance
+history and makes white wine. Together they show why [disease resistance](../concepts/disease-resistance.md)
 can expand a region's choices without determining a single wine style.
 
 [^breeding]: Foundation Plant Services, “Camminare noir,” ancestry,

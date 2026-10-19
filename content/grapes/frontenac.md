@@ -6,7 +6,7 @@ aliases:
 
 # Frontenac
 
-Frontenac is a dark-skinned grape that helped expand winegrowing in the
+Frontenac is a dark-skinned [hybrid grape](../concepts/hybrid-grapes.md) that helped expand winegrowing in the
 Upper Midwest of the United States. Released by the University of Minnesota
 in 1996, it combines strong [winter hardiness](../concepts/winter-hardiness.md) with deeply coloured fruit and
 substantial acidity. Those traits make it useful for several wine styles,
@@ -20,7 +20,7 @@ late harvest in Minnesota. Fruit may accumulate useful sugar before its
 Waiting can change that balance, provided the berries remain sound and the
 season permits it.
 
-Frontenac's trailing growth suits training systems that let shoots hang down.
+Frontenac's trailing growth suits [training systems](../concepts/pruning-and-training.md) that let shoots hang down.
 Its disease profile is mixed: the university identifies susceptibility to
 several rots and mildews, as well as leaf [phylloxera](../concepts/phylloxera.md). Winter hardiness does
 not eliminate those growing-season problems.
@@ -32,6 +32,12 @@ fruit can also serve sweet styles. Remaining sugar changes how the acid is
 perceived, and [fortification](../concepts/fortification.md) offers another
 route to a dessert wine.
 
+For dry reds, [malolactic fermentation](../concepts/malolactic-fermentation.md)
+offers a way to reduce malic acid. Minnesota's regional winemaking guidance
+places it among several acid-balancing tools, alongside harvest decisions and
+blending. The choice changes both acid composition and microbial management;
+leaving sugar instead changes the perceived balance without removing acid.
+
 Its contemporary geography extends into Québec. Domaine de Pontiac Village
 lists Frontenac noir among its red varieties and Frontenac gris among its
 whites, placing them in a vineyard established in 2007. That regional use
@@ -40,6 +46,9 @@ winter constraints across the border.
 
 ## Sources
 
+- Drew Horton, Madeline Wimmer, and Soon Li Teh, [“Balancing Acidity in
+  Minnesota Wines: Techniques and Strategies for Winemakers”](https://enology.umn.edu/wine-winemaking/balancing-acidity-minnesota-wines-techniques-and-strategies-winemakers),
+  University of Minnesota, 2024.
 - University of Minnesota, [“Frontenac grape cultivar”](https://mnhardy.umn.edu/frontenac),
   vineyard and wine profile, accessed 22 September 2026.
 - Domaine de Pontiac Village, [“Vignoble, terroir et cépages”](https://www.domainepontiac.com/le-vignoble),

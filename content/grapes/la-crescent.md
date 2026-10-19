@@ -4,15 +4,16 @@ title: La Crescent
 
 # La Crescent
 
-La Crescent is an aromatic white grape from the University of Minnesota's
-cold-climate breeding programme. Its apricot and citrus-like perfume and
+La Crescent is an aromatic white [hybrid grape](../concepts/hybrid-grapes.md) from
+the University of Minnesota's cold-climate breeding programme. Its apricot and
+citrus-like perfume and
 pronounced acidity often suit off-dry or sweet wines. Minnesota and the
 northern United States provide its main frame of reference, with Vermont
 offering a useful contemporary comparison.
 
 ## Fruit, foliage, and winter
 
-The breeder's account describes vigorous vines, early budbreak, and berries
+The breeder's account describes vigorous vines, early [budbreak](../concepts/spring-frost.md), and berries
 that can fall from the bunch as they ripen. Picking time therefore involves
 both wine composition and the risk of losing fruit. The berries can resist
 splitting in wet conditions, but [downy mildew](../concepts/downy-mildew.md) remains an important concern.

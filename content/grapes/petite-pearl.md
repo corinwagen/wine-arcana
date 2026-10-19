@@ -4,8 +4,9 @@ title: Petite Pearl
 
 # Petite Pearl
 
-Petite Pearl is a red grape bred by Tom Plocher in Minnesota. Its appeal
-to northern growers combines later spring budbreak with deeply coloured
+Petite Pearl is a red [hybrid grape](../concepts/hybrid-grapes.md) bred by
+Tom Plocher in Minnesota. Its appeal to northern growers combines later spring
+budbreak with deeply coloured
 fruit and useful tannin. It belongs to the wider development of wines
 adapted to continental winters, alongside [Marquette](marquette.md) and
 [Frontenac](frontenac.md).
@@ -15,7 +16,7 @@ adapted to continental winters, alongside [Marquette](marquette.md) and
 Plocher records it as a seedling from a 1996 crossing of MN 1094 and
 E.S. 4-7-26.[^1] His vineyard observations describe moderate, drooping
 growth and an ability to retain dormancy during late-winter warm spells.
-Later budbreak can reduce exposure to some spring freezes, though it
+Later budbreak can reduce exposure to some [spring freezes](../concepts/spring-frost.md), though it
 cannot guarantee that a crop will escape frost.
 
 The breeder also records winter injury at colder sites in severe years.

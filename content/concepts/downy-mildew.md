@@ -39,7 +39,7 @@ can select pathogen populations that survive it.
 
 Varietal choice, [canopy management](canopy-management.md), observation, and
 appropriate protection therefore work together. A general description such as
-“hybrid” does not by itself establish how well a vine withstands downy mildew.
+[“hybrid”](hybrid-grapes.md) does not by itself establish how well a vine withstands downy mildew.
 
 [^1]: Sarah Campbell and colleagues, University of Georgia, 2018 report on
     fungicide sensitivity in 2017 vineyard samples and associated field trials.

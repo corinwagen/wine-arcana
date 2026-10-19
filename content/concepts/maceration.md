@@ -54,6 +54,12 @@ phenolic reactions continue. The resulting texture depends on which compounds
 are available and how readily the grapes release them. The same duration can
 produce different results in different varieties or vintages.
 
+For some cold-climate [hybrids](hybrid-grapes.md), tannin retention adds a
+further constraint. Research on [Frontenac](../grapes/frontenac.md) wines discusses binding to
+proteins
+and pomace as possible limits on retained tannin. Extending contact with solids
+therefore needs evaluation for that grape and wine.[^5]
+
 Prolonged contact can increase bitterness or astringency. Exposed cap material
 also creates opportunities for spoilage, including acetic acid and ethyl
 acetate production when oxygen and suitable microorganisms are present.
@@ -82,12 +88,17 @@ berries as well as the extraction that occurs as they break down.
 
 [^1]: Geoff Cowey, “Traditional cap management techniques,” 2023.
 [^2]: Australian Wine Research Institute, “Winemaking treatment – Cold soak.”
+[^5]: Aude A. Watrelot (2021), discussion of Frontenac and earlier work on
+    tannin retention; these interactions are not uniform across hybrid grapes.
 [^3]: Australian Wine Research Institute, “Winemaking treatment – Extended
     post-fermentation maceration.”
 [^4]: Australian Wine Research Institute, “Winemaking treatment – Skin contact.”
 
 ## Sources
 
+- Aude A. Watrelot, [“Tannin Content in *Vitis* Species Red Wines Quantified
+  Using Three Analytical Methods”](https://doi.org/10.3390/molecules26164923),
+  *Molecules* 26 (2021), article 4923.
 - Institut français de la vigne et du vin, INRAE & Institut Agro Montpellier,
   [“Alicante Henri Bouschet N”](https://www.plantgrape.fr/en/varieties/fruit-varieties/6/export),
   coloured pulp and colour contribution, accessed 19 September 2026.

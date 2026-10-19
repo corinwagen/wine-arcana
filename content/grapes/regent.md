@@ -4,8 +4,9 @@ title: Regent
 
 # Regent
 
-Regent is a German-bred red grape selected for wine quality and resistance
-to important fungal diseases. Its deeply coloured wines can have substantial
+Regent is a German-bred red [hybrid grape](../concepts/hybrid-grapes.md) selected
+for wine quality and resistance to important fungal diseases. Its deeply
+coloured wines can have substantial
 body and tannin, while earlier ripening makes it useful in places where a
 longer-season red variety may struggle.
 

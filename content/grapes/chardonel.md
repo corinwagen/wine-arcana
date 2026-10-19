@@ -32,8 +32,9 @@ fruit. This separates two questions sometimes compressed into the phrase
 *suited to a cool climate*: [winter survival](../concepts/winter-hardiness.md)
 and reliable ripening.
 
-The Cornell bulletin also records susceptibility to powdery mildew, downy
-mildew and bunch rot. Its hybrid pedigree consequently does not make
+The Cornell bulletin also records susceptibility to
+[powdery mildew](../concepts/powdery-mildew.md),
+[downy mildew](../concepts/downy-mildew.md) and bunch rot. Its hybrid pedigree consequently does not make
 fungal-disease management optional. [Canopy work](../concepts/canopy-management.md)
 and local disease pressure remain part of judging a site's suitability.
 
@@ -48,7 +49,7 @@ That combination helps explain why the wine may invite comparison with
 Chardonnay. [Oak maturation](../concepts/oak-maturation.md) and
 [lees ageing](../concepts/lees-aging.md) influence aroma and texture in
 addition to the fruit's own character. The producer's creamy description
-does not, by itself, establish that malolactic fermentation occurred.
+does not, by itself, establish that [malolactic fermentation](../concepts/malolactic-fermentation.md) occurred.
 Nor should a barrel-aged bottling define the whole variety: a wine made
 without oak gives a different view of the same grape.
 

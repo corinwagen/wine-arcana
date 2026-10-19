@@ -15,7 +15,8 @@ different ways to retain and evaluate variation within it.
 
 ## A variety can contain different plant material
 
-Grapevines grown from seed acquire a new combination of their parents' genes.
+Grapevines grown from seed acquire a new combination of their parents' genes,
+as in the breeding of [hybrid grapes](hybrid-grapes.md).
 Cuttings instead preserve the source vine's identity. Over repeated growth
 and propagation, mutations can create differences among plants of the same
 variety. [Pinot Noir](../grapes/pinot-noir.md) provides a familiar example of

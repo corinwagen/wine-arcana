@@ -4,8 +4,8 @@ title: Itasca
 
 # Itasca
 
-Released in 2017 by the University of Minnesota, Itasca is a white wine
-grape combining substantial [winter hardiness](../concepts/winter-hardiness.md) with lower acidity than
+Released in 2017 by the University of Minnesota, Itasca is a white
+[hybrid grape](../concepts/hybrid-grapes.md) combining substantial [winter hardiness](../concepts/winter-hardiness.md) with lower acidity than
 some earlier cold-climate varieties. That combination broadens the options
 for dry white wine in northern vineyards.
 

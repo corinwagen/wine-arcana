@@ -5,7 +5,8 @@ title: Johanniter
 # Johanniter
 
 Johanniter is a white grape bred at Freiburg for improved resistance to
-fungal diseases. It often combines a restrained fruit aroma with lively
+fungal diseases, part of the [PIWI](../concepts/disease-resistance.md)
+breeding tradition. It often combines a restrained fruit aroma with lively
 acidity. Its use in the Netherlands shows how German breeding work has
 become part of a developing northern European wine culture.
 

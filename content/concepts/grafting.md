@@ -11,8 +11,8 @@ such as [Cabernet Sauvignon](../grapes/cabernet-sauvignon.md) while choosing a
 root system suited to vineyard pests and growing conditions.
 
 The scion retains its varietal identity while the rootstock influences its
-growth. Breeding a cross produces genetically new offspring; grafting connects
-existing plants.
+growth. [Breeding a cross](hybrid-grapes.md) produces genetically new offspring;
+grafting connects existing plants.
 
 ## Making the union
 

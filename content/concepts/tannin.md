@@ -73,6 +73,18 @@ substantial tannin. During fermentation, tannins can bind or react with
 anthocyanins, changing the amount and stability of colour. Seed and skin
 extraction can consequently affect both colour and astringency.
 
+## Cold-climate hybrids and measurement
+
+Some cold-climate [hybrid grapes](hybrid-grapes.md) produce dark wines with
+relatively little retained tannin. Watrelot's study of commercial wines found
+lower tannin in the sampled [Frontenac](../grapes/frontenac.md),
+[Marquette](../grapes/marquette.md), and
+[Petite Pearl](../grapes/petite-pearl.md) wines than
+in its Cabernet Sauvignon and Pinot Noir comparison wines. Results also varied
+with the analytical method: abundant pigments and low tannin concentrations
+complicated common precipitation tests.[^6] Comparing measurements requires
+attention to the method as well as the grape and vintage.
+
 ## What ageing changes
 
 During [bottle aging](bottle-aging.md) and other maturation, grape tannins can
@@ -100,6 +112,9 @@ them. The direction and pace vary with the starting wine and storage.
 
 ## Sources
 
+- Aude A. Watrelot, [“Tannin Content in *Vitis* Species Red Wines Quantified
+  Using Three Analytical Methods”](https://doi.org/10.3390/molecules26164923),
+  *Molecules* 26 (2021), article 4923.
 - Catherine Peyrot des Gachons & James A. Kennedy, “Direct Method for
   Determining Seed and Skin Proanthocyanidin Extraction into Red Wine,”
   *Journal of Agricultural and Food Chemistry* 51 (2003), pp. 5877–5881,
@@ -129,5 +144,8 @@ them. The direction and pace vary with the starting wine and storage.
     under specified toasting treatments and a defined storage experiment.
 [^4]: Fontoin et al. (2008). The findings came from grape-seed tannin oligomers
     in model wine solutions assessed by a 16-person sensory panel.
+[^6]: Watrelot (2021), 24 commercial wines, including considerable variation
+    within varieties; the comparison does not isolate ancestry from growing
+    conditions and winemaking.
 [^5]: Sheridan & Elias (2015). Acetaldehyde was added during fermentation; the
     result documents one reaction pathway under those conditions.

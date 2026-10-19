@@ -4,7 +4,7 @@ title: Marquette
 
 # Marquette
 
-Marquette is a red wine grape released by the University of Minnesota
+Marquette is a red [hybrid grape](../concepts/hybrid-grapes.md) released by the University of Minnesota
 in 2006. It gives cold-climate growers a route to dry reds with berry-like
 fruit and moderate body, including wines matured in oak. Its usefulness
 rests on a combination of winter survival, ripening, and wine character.

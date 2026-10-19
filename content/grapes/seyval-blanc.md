@@ -14,8 +14,9 @@ light wine can gain texture through different cellar methods.
 ## Crop and wine balance
 
 Purdue's cultivar guide describes a vine prone to carrying too much fruit,
-with bunch rot an important concern. Thinning the crop can help the remaining
-grapes ripen and keep the vine's growth in balance. The guide also describes
+with bunch rot an important concern. Balancing [crop load](../concepts/crop-load.md)
+can help the remaining grapes ripen and keep the vine's growth in balance. The
+guide also describes
 relatively light-bodied wines and the use of fermentation or maturation
 choices to develop their texture.
 

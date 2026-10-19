@@ -85,6 +85,12 @@ packaging.[^3]
 
 ## Why producers encourage, limit, or prevent it
 
+Cold-climate [hybrids](hybrid-grapes.md) provide a useful example. Minnesota's
+winemaking guidance includes malolactic fermentation among the tools for
+high-acid wines. [Frontenac](../grapes/frontenac.md) illustrates why sugar
+ripeness and acid balance need separate assessment before choosing a
+fermentation strategy.[^hybrids]
+
 A producer may encourage full conversion when the fruit retains substantial
 malic acid, when a softer acid profile suits the intended structure, or when
 removing malic acid before maturation and bottling is the safest route. This
@@ -126,6 +132,9 @@ acid, aroma, texture, microbial risk, and intended development.
     <https://doi.org/10.3389/fmicb.2020.612118>; University of California,
     Davis, “Diagnostic Key: Prevention of Post-Fermentation Off-Character
     Production.”
+[^hybrids]: Horton, Wimmer, and Teh, “Balancing Acidity in Minnesota Wines,”
+    2024; see also the University of Minnesota cultivar account linked from
+    Frontenac for its ripening behaviour.
 
 ## Related topics
 
@@ -136,6 +145,9 @@ acid, aroma, texture, microbial risk, and intended development.
 
 ## Sources
 
+- Drew Horton, Madeline Wimmer, and Soon Li Teh, [“Balancing Acidity in
+  Minnesota Wines: Techniques and Strategies for Winemakers”](https://enology.umn.edu/wine-winemaking/balancing-acidity-minnesota-wines-techniques-and-strategies-winemakers),
+  University of Minnesota, 2024.
 - International Organisation of Vine and Wine, [“Microbiological
   de-acidification by lactic acid
   bacteria”](https://www.oiv.int/standards/international-code-of-oenological-practices/part-ii-oenological-treatments-and-practices/wines/microbiological-de-acidification-by-lactic-acid-bacteria),

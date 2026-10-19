@@ -14,9 +14,10 @@ separate challenge: keeping the crop healthy in a humid climate.
 ## Vineyard traits
 
 The State Viticultural Institute in Freiburg records the pedigree as
-Merzling crossed with the breeding selection Gm 6493.[^1] Its profile describes
+Merzling crossed with the breeding selection Gm 6493.[^1] This places it
+within the wider development of [hybrid grapes](../concepts/hybrid-grapes.md). Its profile describes
 very early ripening, vigorous growth, large leaves, and a tendency toward
-a dense canopy. Early budbreak also makes the timing of spring cold relevant.
+a dense canopy. Early budbreak also makes the timing of [spring cold](../concepts/spring-frost.md) relevant.
 
 Managing that growth helps expose the crop and maintain airflow. Early
 maturity gives a grower options, but the harvest decision still has to

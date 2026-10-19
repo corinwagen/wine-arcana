@@ -38,8 +38,9 @@ The distinction is particularly important when interpreting the broad
 phrase [disease resistance](../concepts/disease-resistance.md).
 
 Keuka Lake Vineyards offers a practical illustration of managing growth:
-its account describes Guyot training with long canes to distribute vigour
-and balance fruit against vegetation. That is a documented estate practice,
+its account describes [Guyot training](../concepts/pruning-and-training.md)
+with long canes to distribute vigour and balance fruit against vegetation.
+That is a documented estate practice,
 not a universal prescription for every Millot vineyard.
 
 ## Wines in New York and Nova Scotia
