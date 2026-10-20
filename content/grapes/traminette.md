@@ -36,6 +36,13 @@ comparable styles. Both can be strongly perfumed, but grape identity,
 site, crop exposure, and [residual sugar](../concepts/residual-sugar.md)
 all contribute to what reaches the glass.
 
+## A New York blend
+
+Usonia's 2025 Good Spirit provides a contrasting
+[Finger Lakes](../regions/finger-lakes.md) use: Traminette and
+[Aromella](aromella.md) join [Chancellor](chancellor.md) in a whole-cluster
+cofermentation before blending with separately fermented Baco Noir.
+
 [^1]: Christian Butzke, Bruce Bordelon, and Jeanette Merritt,
     *Traminette Winemaking*, Purdue Extension, 2010.
 
@@ -46,3 +53,5 @@ all contribute to what reaches the glass.
 - Christian Butzke, Bruce Bordelon, and Jeanette Merritt,
   [*Traminette Winemaking*](https://www.extension.purdue.edu/extmedia/fs/fs-59-w.pdf),
   Purdue Extension FS-59-W, 2010.
+- Usonia, [“Good Spirit 2025”](https://www.usoniawine.com/goodspirit),
+  blend and cofermentation account, accessed 20 October 2026.

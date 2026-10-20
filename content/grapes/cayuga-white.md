@@ -18,6 +18,9 @@ at Geneva, Hammondsport and Fredonia before release. Schuyler itself
 combined [Zinfandel](zinfandel.md) and Ontario ancestry, so Cayuga's family tree reaches
 beyond the familiar Seyval connection.[^origin]
 
+Cayuga White also remains part of ongoing breeding: Cornell released its
+offspring [Aravelle](aravelle.md), a cross with Riesling, in 2023.[^aravelle]
+
 The original report describes vigorous, productive vines with medium
 winter hardiness. Those observations help explain why a successful New
 York hybrid should not automatically be treated as a candidate for the
@@ -38,7 +41,7 @@ retain acidity for sparkling production. That is a choice about the
 starting wine: acidity that might seem assertive in one still-wine style
 can provide structure after a second fermentation and maturation.
 
-## Sparkling Cayuga today
+## Still and sparkling Cayuga today
 
 Little Clover offers a varietal sparkling Cayuga White in its Finger Lakes
 range and identifies both lees contact and disgorgement in its wine account.
@@ -53,7 +56,14 @@ ceasing to express the variety. Compare it with
 [Seyval's English sparkling role](seyval-blanc.md): related grapes can find
 similar cellar uses in different regional traditions.
 
+Usonia's 2024 Cayuga Cayuga offers a still-wine comparison. The producer
+documents fruit from Plane's Block, whole-cluster pressing, and fermentation
+entirely in fibreglass that lasted close to a year. The account places
+attention on fermentation and vessel alongside harvest date, expanding the
+range of contemporary regional styles.
+
 [^origin]: Einset and Robinson, “Cayuga White,” 1972 release bulletin.
+[^aravelle]: Cornell University, “Cornell Grape Varieties,” Aravelle entry.
 [^clover]: Little Clover Wine Company, sparkling-wine range, accessed
     September 2026, Cayuga White bottling and lees contact.
 
@@ -66,3 +76,7 @@ similar cellar uses in different regional traditions.
   Purdue Extension HO-221-W, Cayuga White profile.
 - Little Clover Wine Company, [sparkling-wine range](https://www.littlecloverwine.com/sparkling-wine),
   Cayuga White bottling, accessed September 2026.
+- Usonia, [“Cayuga Cayuga 2024”](https://www.usoniawine.com/2024-cayuga-cayuga),
+  fruit source, pressing, and fermentation account, accessed 20 October 2026.
+- Cornell University, [“Cornell Grape Varieties”](https://blogs.cornell.edu/grapes/production/cornell-grape-varieties/),
+  Aravelle pedigree and release, accessed 20 October 2026.

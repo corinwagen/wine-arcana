@@ -135,6 +135,21 @@ and the region's hybrid tradition coexist. Their different growing needs
 and cellar uses make the Finger Lakes more varied than a single Riesling
 style, even though Riesling remains its clearest international reference.
 
+Usonia adds a current example of vineyard renewal on Cayuga Lake. Its New
+Suns account describes replacing dead or declining vines with hybrids while
+retaining healthy Riesling and Cabernet Franc. [Aravelle](../grapes/aravelle.md)
+and [Marquette](../grapes/marquette.md) are among the replacements. The
+producer expects blends to change as the new vines become productive; this
+is a documented estate strategy within the wider regional response to
+vineyard pressures.[^usonia]
+
+Its purchased-fruit wines broaden that picture further. Usonia bottles
+[Steuben](../grapes/steuben.md) as rosé, and Goode's 2026 report documents
+a [Sabrevois](../grapes/sabrevois.md) red. Its 2024 ’Member When? combines
+[Verdelet](../grapes/verdelet.md) with Geneva White #2, using different skin
+contact and maturation for each. The producer also reports a 2025 wine from
+Cornell's experimental selection NY 06.0514.06.
+
 ## The regional AVA and the lake AVAs
 
 “Finger Lakes” and “Seneca Lake” or “Cayuga Lake” are related but distinct
@@ -174,6 +189,14 @@ Seneca Lake at § 9.128 as separate approved American viticultural areas.[^5]
   comparisons, blending, and fermentation practices, accessed 20 October 2026.
 - Dr. Konstantin Frank Winery, [“Rkatsiteli 2025”](https://www.drfrankwines.com/wine/rkatsiteli/),
   vineyard locations and wine production, accessed 20 October 2026.
+- Usonia, [“New Suns”](https://www.usoniawine.com/newsuns),
+  [“Pompliano Pink 2025”](https://www.usoniawine.com/pomplianopink-25),
+  [“’Member When? 2024”](https://www.usoniawine.com/memberwhen-1), and
+  [“Something Celestial 2025”](https://www.usoniawine.com/something-celestial),
+  planting, sourcing, and cellar accounts, accessed 20 October 2026.
+- Jamie Goode, [“Usonia, a really innovative wine project from New York's
+  Finger Lakes”](https://wineanorak.com/2026/10/19/usonia-a-really-innovative-wine-project-from-new-yorks-finger-lakes/),
+  *Wine Anorak*, 19 October 2026, Sabrevois bottling.
 
 [^1]: Timothy E. Martinson, Cornell Cooperative Extension, “Second Year
     Pre-Plant: Site Selection.”
@@ -187,6 +210,8 @@ Seneca Lake at § 9.128 as separate approved American viticultural areas.[^5]
     rather than a controlled experiment isolating soil from climate.
 [^rkatsiteli]: Dr. Konstantin Frank Winery, “Rkatsiteli 2025,” vineyard and
     winemaking notes; the description concerns that bottling.
+[^usonia]: Usonia, “New Suns,” dated planting account. The expected change
+    in wine composition is the producer's stated plan.
 [^6]: Bureau of Alcohol, Tobacco and Firearms, [“Cayuga Lake Viticultural
     Area, NY”](https://www.ttb.gov/system/files/images/pdfs/Cayuga_Lake_final_rule.pdf),
     *Federal Register*, 25 March 1988, final rule.

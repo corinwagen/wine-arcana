@@ -39,7 +39,7 @@ not mean that Baco fits every short growing season.
 between leaves, light and fruit. A vigorous vine needs enough exposed leaf
 area to ripen its crop without burying the bunches in shaded growth.
 
-## Ontario and the cellar
+## Ontario and New York
 
 Henry of Pelham provides a concrete example in the
 [Niagara Peninsula](../regions/niagara-peninsula.md). Its 2025 Old Vines
@@ -57,6 +57,12 @@ further layer. The producer's dark-fruit and toasted-oak description
 therefore describes both grape and handling, rather than a flavour that
 every Baco wine must reproduce.
 
+Usonia's 2025 Good Spirit offers a
+[Finger Lakes](../regions/finger-lakes.md) contrast: Baco Noir fermented
+separately before joining a coferment of [Chancellor](chancellor.md),
+[Traminette](traminette.md), and [Aromella](aromella.md). The finished blend
+matured in stainless steel.
+
 [^identity]: Foundation Plant Services, “Baco noir,” pedigree and breeding
     history.
 [^pelham]: Henry of Pelham, 2025 Old Vines Baco Noir Reserve technical sheet.
@@ -70,3 +76,5 @@ every Baco wine must reproduce.
 - Henry of Pelham, [“2025 Old Vines Baco Noir”](https://store.henryofpelham.com/products/2025-old-vines-baco-noir)
   and linked [Reserve technical sheet](https://cdn.shopify.com/s/files/1/2200/5151/files/2025_Old_Vines_Baco_Noir_Reserve.pdf?v=1783687322),
   vineyard history and winemaking, accessed September 2026.
+- Usonia, [“Good Spirit 2025”](https://www.usoniawine.com/goodspirit),
+  separate Baco Noir fermentation and later blending, accessed 20 October 2026.

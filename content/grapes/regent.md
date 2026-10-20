@@ -38,6 +38,11 @@ to a more structured wine. Its breeding history explains agricultural
 possibilities; it does not prescribe sweetness, barrel use, or a single
 finished style.
 
+New York supplies another contemporary use. Usonia's 2025 Soon Different
+rosé combines Regent with [Aravelle](aravelle.md) and [Aromella](aromella.md)
+from Nearpass Vineyard on Keuka Lake. Regent and Aravelle were pressed and
+fermented together, then blended with separately fermented Aromella.
+
 [^1]: Julius Kühn Institute, *New Grapevine Varieties*, 2022, Regent profile.
 
 ## Sources
@@ -46,3 +51,6 @@ finished style.
   2022, Regent profile.
 - German Wine Institute, [“Regent”](https://www.deutscheweine.de/rebsorte/92/regent),
   cultivation and wine account, accessed 22 September 2026.
+- Usonia, [“Soon Different 2025”](https://www.usoniawine.com/soon-different),
+  vineyard source and separate processing of the components, accessed
+  20 October 2026.
