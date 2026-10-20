@@ -88,6 +88,15 @@ regional body describes the wines as ample, expressive, and aromatically fresh.
 The appellation permits a much wider group of grapes than the northern crus,
 so Roussanne's contribution varies substantially from one blend to another.[^6]
 
+## Texas High Plains
+
+The [High Plains of West Texas](../regions/west-texas.md) gives Roussanne
+another contemporary regional role. McPherson Cellars' technical sheet
+identifies Farmhouse and La Pradera as vineyard sources and records seven
+months in stainless steel, with no skin contact. This is a useful comparison
+with oak-matured Rhône whites: a warm-region Roussanne can develop its texture
+and perfume through a different combination of harvest and cellar choices.
+
 [^1]: Inter Rhône, [“Roussanne”](https://www.vins-rhone.com/en/roussanne-grape-variety),
     accessed 7 September 2026.
 [^2]: [Decanter, “Roussanne”](https://www.decanter.com/wine/grape-varieties/roussanne/),
@@ -116,6 +125,9 @@ so Roussanne's contribution varies substantially from one blend to another.[^6]
 
 ## Sources
 
+- McPherson Cellars, [“Roussanne”](https://www.mcphersoncellars.com/wp-content/uploads/2024/09/Roussanne-McPherson-Cellars.pdf),
+  Texas High Plains technical sheet, vineyard sources and cellar methods,
+  accessed 20 October 2026.
 - Inter Rhône, [“Roussanne”](https://www.vins-rhone.com/en/roussanne-grape-variety),
   accessed 7 September 2026.
 - Decanter, [“Roussanne”](https://www.decanter.com/wine/grape-varieties/roussanne/),

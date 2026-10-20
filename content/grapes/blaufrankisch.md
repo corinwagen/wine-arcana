@@ -56,6 +56,12 @@ to concentrated examples with substantial tannin. It also appears in
 blends with Trollinger. The different name on a German label refers to
 the same variety.
 
+Virginia's [Shenandoah Valley](../regions/shenandoah-valley.md) adds a North
+American comparison. Ox-Eye uses the name Lemberger and describes marked
+differences between its 2013 and 2014 wines from the same vineyard, attributing
+much of the contrast to a cooler versus warmer August. The estate account
+shows how vintage can change the grape's balance within one regional setting.
+
 ## Structure in the glass
 
 Cherry, blackberry, and other dark-berry impressions are common, sometimes
@@ -77,6 +83,8 @@ grape.
 
 ## Sources
 
+- Ox-Eye Vineyards, [“A Tale of Two Lembergers”](https://www.oxeyevineyards.com/post/a-tale-of-two-lembergers),
+  estate comparison of the 2013 and 2014 vintages, accessed 20 October 2026.
 - E. Maul, F. Röckel, and R. Töpfer, [“The ‘missing link’ ‘Blaue Zimmettraube’
   reveals that ‘Blauer Portugieser’ and ‘Blaufränkisch’ originated in Lower
   Styria”](https://doi.org/10.5073/vitis.2016.55.135-143), *Vitis* 55 (2016),

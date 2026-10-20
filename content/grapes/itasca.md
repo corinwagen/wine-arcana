@@ -36,6 +36,12 @@ research winery has tested cellar treatments since the grape's release.
 The emerging range of wines reflects continued practical work with a
 relatively recent variety.
 
+Interest extends into [Colorado](../regions/colorado.md). The Storm Cellar
+in the West Elks district reports planting Itasca alongside grafted Albariño.
+That establishes an example of adoption beyond the Upper Midwest; the
+vineyard's future performance and wines will provide a fuller regional
+comparison as the plantings develop.
+
 [^1]: Matthew Clark and Andrew Horton, “Itasca Wine Making: New report,”
     University of Minnesota, 11 September 2019.
 
@@ -46,3 +52,5 @@ relatively recent variety.
   22 September 2026.
 - Matthew Clark and Andrew Horton, [“Itasca Wine Making: New report”](https://enology.umn.edu/news/itasca-wine-making-new-report),
   University of Minnesota, 11 September 2019.
+- The Storm Cellar, [“About”](https://stormcellarwine.com/about), new planting
+  account, accessed 20 October 2026.
