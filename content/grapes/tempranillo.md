@@ -16,10 +16,11 @@ aliases:
 
 Tempranillo is a dark-skinned *Vitis vinifera* variety central to red wine in
 Spain and Portugal. Its regional names include Tinto Fino and Tinta del País in
-Ribera del Duero, Tinta de Toro in Toro, Cencibel in much of central Spain, Ull
-de Llebre in Catalonia, and Araúxa in Galicia. In Portugal, Tinta Roriz is usual
-in the [Douro](../regions/douro.md) and [Dão](../regions/dao.md), while Aragonez
-is especially associated with the south.
+[Ribera del Duero](../regions/ribera-del-duero.md), Tinta de Toro in Toro,
+Cencibel in much of central Spain, Ull de Llebre in Catalonia, and Araúxa in
+Galicia. In Portugal, Tinta Roriz is usual in the [Douro](../regions/douro.md)
+and [Dão](../regions/dao.md), while Aragonez is especially associated with the
+south.
 
 These names preserve regional traditions: generations of local propagation have
 produced distinct clonal lineages, and the vine meets very different climates

@@ -9,11 +9,12 @@ aliases:
 # Chenin Blanc
 
 Chenin Blanc is a white *Vitis vinifera* variety with historic roots in the
-Loire Valley and a second major home in South Africa. Its capacity to retain
-substantial natural [acidity](../concepts/acidity.md) as the grapes accumulate sugar gives growers and
-winemakers room to make markedly different choices. Growers can pick fruit for
-dry sparkling wine, allow it to ripen for dry or off-dry still wine, or leave it
-to concentrate for sweet wine.
+[Loire Valley](../regions/loire-valley.md) and a second major home in South
+Africa. Its capacity to retain substantial natural
+[acidity](../concepts/acidity.md) as the grapes accumulate sugar gives growers
+and winemakers room to make markedly different choices. Growers can pick fruit
+for dry sparkling wine, allow it to ripen for dry or off-dry still wine, or
+leave it to concentrate for sweet wine.
 
 Harvest date changes the balance among sugar, acidity, flavour development, and
 fruit health, while fermentation determines how much grape sugar remains in the

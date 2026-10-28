@@ -65,12 +65,10 @@ the eventual harvest also depends on bud survival, flowering, fruit set, and
 berry growth. Growers assess the previous season's growth and winter injury
 before deciding how much wood to retain.
 
-In **cane pruning**, selected canes are retained relatively long and positioned
-to carry the coming season's shoots. In **spur pruning**, selected canes are
-cut back to short lengths bearing a few buds, commonly distributed along a
-cordon. A spur is thus shortened young wood, even when it sits on a much older
-arm. Both approaches renew fruiting growth; their suitability depends on the
-variety's bud fruitfulness, the training system, labour, and climate.[^pruning]
+Cane pruning retains longer pieces of last season's wood; spur pruning
+retains short pieces, often along an older cordon. Bud fruitfulness, renewal,
+labour, and climate determine which arrangement suits the vineyard. The
+pruning article compares the approaches and their seasonal timing.[^pruning]
 
 ![Leafless vines trained on wires stand beside a vineyard track.](../../media/images/concepts/canopy-management-pruned-vines.jpg "Winter exposes the woody framework and trellis that will support the next canopy.")
 
@@ -236,12 +234,12 @@ and development. A handful of attractive berries from the sunny edge can give
 a misleading impression. Repeated sampling reveals the direction and pace of
 change more usefully than one isolated measurement.
 
-Degrees Brix estimates soluble solids, mostly sugars in ripe grape juice.
-It helps anticipate potential alcohol. **Titratable acidity** measures the
-quantity of acid neutralised in a standard test. **pH** reflects hydrogen-ion
-activity: a lower value means a more acidic environment. It affects microbial
-behaviour and wine stability. These two measures of [acidity](acidity.md) are
-related but not interchangeable.[^harvest]
+Growers follow soluble solids, usually expressed as Brix, alongside pH,
+titratable acidity, flavour, and fruit health. Representative sampling matters
+as much as the reading itself. [Grape ripeness and harvest
+decisions](grape-ripeness.md)
+explains how those observations guide picking for different wine
+styles.[^harvest]
 
 The intended wine supplies the endpoint. Fruit for a sparkling base may be
 picked with more acidity and less sugar than fruit for a fuller still wine.

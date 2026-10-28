@@ -50,7 +50,8 @@ stable, while malic acid is consumed in berry metabolism. Warmth hastens malic
 loss, though Riesling's tartaric-acid potential can preserve useful acidity
 after sugar has accumulated.
 
-Earlier picking generally preserves more acid and gives less potential alcohol.
+[Earlier picking](../concepts/grape-ripeness.md) generally preserves more acid
+and gives less potential alcohol.
 Waiting may bring sugar, aroma development, shrivelling, or [noble
 rot](../styles/botrytized-sweet-wine.md), together with greater risks of acid
 loss and unhealthy rot. Exposure, water status, crop, and weather alter that
@@ -100,12 +101,17 @@ often limited to retain malic acidity.
 
 ## Regional traditions
 
-Germany displays the sweetness range most explicitly. [Mosel](../regions/mosel.md),
-Rheingau, Nahe, Rheinhessen, and Pfalz all produce dry Riesling as well as wines
-with residual sugar. Prädikat terms such as Kabinett, Spätlese, and Auslese refer
+Germany displays the sweetness range most explicitly.
+[Mosel](../regions/mosel.md),
+[Rheingau](../regions/rheingau.md), Nahe, Rheinhessen, and Pfalz all produce
+dry Riesling as well as wines
+with residual sugar. Prädikat terms such as Kabinett, Spätlese, and Auslese
+refer
 primarily to grape maturity and minimum must weight, so examples can be dry or
 sweet. *Trocken* describes finished sugar, while *feinherb* is commonly used but
-not legally defined.[^5]
+not legally defined. The [label
+guide](../concepts/appellations-and-wine-labels.md)
+explains the distinction between harvest and sweetness terms.[^5]
 
 ![Pale green and golden grape bunches hang beneath leaves on a trellised vine.](../../media/images/grapes/riesling-johannisberg.jpg "Riesling grapes at Schloss Johannisberg, photographed in September 2025.")
 
@@ -159,7 +165,7 @@ represent only one part of that range.
     High-Performance Countercurrent Chromatography,” *Molecules* 27 (2022),
     article 5378, <https://doi.org/10.3390/molecules27175378>.
 [^5]: Deutsches Weininstitut, “Prädikate” and “Geschmacksrichtungen,” accessed
-    1 September 2026. The institute defines the Prädikat categories by grape
+    28 October 2026. The institute defines the Prädikat categories by grape
     must weight and gives separate finished-wine thresholds for *trocken* and
     *halbtrocken*; it describes *feinherb* as legally undefined.
 [^6]: Ministère de l'Agriculture et de la Souveraineté alimentaire, *Cahier des

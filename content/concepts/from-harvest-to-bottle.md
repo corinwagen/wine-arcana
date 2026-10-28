@@ -11,7 +11,8 @@ time. Those decisions explain why fruit from the same variety can become very
 different wines.
 
 This guide follows the cellar work from reception to bottling, continuing
-[The vineyard year](vineyard-year.md). It concentrates on still wine, with
+[The vineyard year](vineyard-year.md) and its
+[harvest decisions](grape-ripeness.md). It concentrates on still wine, with
 links to the additional routes used for sparkling, sweet, and fortified
 styles. Here, *cellaring* means making and maturing wine at the winery;
 keeping a finished bottle is covered in [bottle aging](bottle-aging.md).
@@ -92,7 +93,8 @@ of maceration. Contact still occurs as the press fills and operates, allowing
 some colour to enter the juice. **Short skin maceration** deliberately holds
 juice with the skins before separating it. Duration, temperature, variety,
 and fruit condition affect extraction, so no single contact time defines
-rosé. Provence's wine body describes both routes as established regional
+rosé. [Provence](../regions/provence.md)'s wine body describes both routes as
+established regional
 practice.[^rose]
 
 **Saignée**, meaning bleeding, draws off some liquid from a red-grape vat.
@@ -158,12 +160,10 @@ this is usually juice; in red winemaking it is commonly fermenting or fermented
 wine. Later fractions can differ in acidity, phenolics, and solids, so they
 can be kept apart for assessment and eventual blending.
 
-A **basket press** compresses grapes within a draining basket, often with a
-mechanical or hydraulic plate. A **pneumatic press** uses an inflatable
-membrane to squeeze them against a draining surface. Pressure is usually
-applied in stages, with pauses or redistribution of the grape mass to let
-more liquid escape. Equipment, loading, pressure, and the programme together
-determine extraction.[^press]
+Basket presses compress grapes in a draining basket; pneumatic presses
+use an inflatable membrane. Equipment, loading, pressure, and the programme
+together determine extraction. The [pressing article](pressing.md) explains
+the equipment and fraction choices in more detail.[^press]
 
 “Whole-bunch pressed” describes what entered the press. “Direct press”
 describes the early production route. “Basket pressed” describes equipment.
@@ -212,12 +212,9 @@ Coarse, rapidly settling **gross lees** commonly contain more grape debris;
 yeast. A wine can be separated from an undesirable coarse deposit while
 retaining sound fine lees for [lees aging](lees-aging.md).
 
-As yeast material breaks down and interacts with the wine, lees contact can
-modify texture and aroma. Stirring the deposit into suspension, or
-*bâtonnage*, increases contact. It is optional: some wines mature on
-undisturbed lees. Retaining a deposit also means monitoring it for unwanted
-sulfur aromas or microbial activity, then racking when contact has served its
-purpose.[^lees]
+Lees contact can modify texture and aroma. Stirring, or *bâtonnage*, is
+optional; some wines mature on undisturbed lees. The producer monitors the
+deposit and racks when continued contact would be undesirable.[^lees]
 
 ## Maturation: manage the vessel, air, and time
 
@@ -255,10 +252,9 @@ management, and the expected conditions after bottling.[^sulfur]
 
 ## Blending and preparation for bottling
 
-Blending can combine varieties, vineyard parcels, picking dates, vessels, or
-press fractions. Small trial blends let the producer compare proportions
-before committing the entire volume. Even a single-variety wine may be an
-assembly of lots that fermented or matured differently.
+[Blending](blending.md) can combine varieties, vineyard parcels, vintages,
+vessels, or press fractions. Small trial blends allow comparison before the
+cellar-scale decision. A single-variety wine may still combine several lots.
 
 The final blend then needs assessment. Two wines that were stable separately
 can change behaviour when mixed, and later treatments can change stability
@@ -275,11 +271,10 @@ different questions:
 - Microbial stability concerns surviving organisms and what they could still
   consume, including sugar or malic acid.
 
-[Fining](wine-fining.md) adds a material that binds or gathers selected wine
-components for removal. Bentonite, for example, can remove proteins that
-would otherwise form haze. Other agents can reduce unwanted bitterness or
-astringency. Bench trials help establish whether treatment achieves its
-purpose without taking away too much desirable character.[^fining]
+[Fining](wine-fining.md) binds or gathers selected components for removal.
+Bentonite, for example, addresses proteins that could form haze. Trials
+establish whether a treatment solves the problem without removing too much
+desirable character.[^fining]
 
 [Tartrate stabilization](tartrate-stabilization.md) addresses crystal
 formation. Chilling encourages potassium bitartrate to precipitate before

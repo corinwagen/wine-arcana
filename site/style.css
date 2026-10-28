@@ -343,6 +343,119 @@ sub {
   font-size: 0.76em;
 }
 
+.search-form {
+  margin: 1.5rem 0 2rem;
+}
+
+.search-form label {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-weight: 550;
+}
+
+.search-form > div {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.search-form input,
+.search-form button {
+  padding: 0.65rem;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  font: inherit;
+}
+
+.search-form input {
+  min-width: 0;
+  flex: 1;
+  background: white;
+}
+
+.search-form button {
+  color: white;
+  background: var(--accent);
+  cursor: pointer;
+}
+
+input:focus-visible,
+button:focus-visible,
+summary:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.reading-paths > div {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 0 1.8rem;
+}
+
+.reading-paths section {
+  border-top: 1px solid var(--border);
+}
+
+.reading-paths ol {
+  padding-left: 1.4rem;
+}
+
+.complete-index {
+  margin-top: 2.5rem;
+}
+
+.complete-index > summary {
+  padding: 0.8rem 0;
+  cursor: pointer;
+  font-weight: 550;
+}
+
+.article-contents {
+  margin: 1.8rem 0;
+  padding: 1rem 1.2rem;
+  border-left: 2px solid var(--border);
+  font-size: 0.88em;
+}
+
+.article-contents ul {
+  padding-left: 1.2rem;
+}
+
+.backlinks {
+  margin-top: 2rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.85em;
+}
+
+.backlinks ul {
+  columns: 2 15rem;
+  padding-left: 1.2rem;
+}
+
+.backlinks li {
+  break-inside: avoid;
+}
+
+.search-results {
+  padding-left: 1.5rem;
+}
+
+.search-results li {
+  margin: 1.5rem 0;
+}
+
+.search-results p {
+  margin-top: 0.3rem;
+  color: var(--muted);
+  font-size: 0.9em;
+}
+
+.result-kind {
+  margin-left: 0.7rem;
+  color: var(--muted);
+  font-size: 0.8em;
+}
+
 @media (min-width: 1200px) {
   .sidenote {
     float: right;

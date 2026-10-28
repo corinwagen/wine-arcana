@@ -38,10 +38,10 @@ movement more securely than it settles that question.
 Carignan became enormously important in France. Plantgrape's historical series
 records 211,254 hectares in 1968, followed by a long contraction to 30,993
 hectares in 2018.[^2] That former scale helps explain why the variety became
-strongly associated with the large-volume red-wine economy of Languedoc and
-Roussillon. The association was reinforced when fertile vines were allowed to
-carry large crops: the resulting wines could be angular and dilute in fruit,
-with bitter or green-edged tannin.
+strongly associated with the large-volume red-wine economy of
+[Languedoc](../regions/languedoc.md) and Roussillon. The association was
+reinforced when fertile vines were allowed to carry large crops: the resulting
+wines could be angular and dilute in fruit, with bitter or green-edged tannin.
 
 In a 2025 survey of 3,507 Languedoc-Roussillon vineyard plots, Carignan and
 [Cinsault](cinsault.md) included many of the oldest vines, but old plots could

@@ -5,7 +5,8 @@ title: Chardonnay
 # Chardonnay
 
 Chardonnay is a white *Vitis vinifera* variety historically associated with
-Burgundy and [Champagne](../regions/champagne.md) and now grown across much of
+[Burgundy](../regions/burgundy.md) and [Champagne](../regions/champagne.md)
+and now grown across much of
 the wine-producing world. Compared with strongly aromatic grapes, it has a
 relatively low concentration of free monoterpenes—the compounds that supply
 much of the overt perfume of Muscat and help distinguish
@@ -67,36 +68,27 @@ effect depends on concentration and interaction with the wine's other
 compounds.[^1] Yeast strain, fermentation temperature, juice solids, oxygen
 management and skin contact can further change fermentation-derived aroma.
 
-Malolactic fermentation is a bacterial conversion, usually after or alongside
-[alcoholic fermentation](../concepts/alcoholic-fermentation.md), in which malic acid becomes lactic acid and carbon
-dioxide. The conversion lowers titratable acidity and can make the acid profile
-seem softer. The buttery-smelling compound diacetyl can also arise as bacteria
-metabolise citric acid. Its concentration depends on bacterial strain, oxygen,
-redox conditions, timing, [sulfur dioxide](../concepts/sulfur-dioxide.md) and continued contact with active
-yeast or bacteria; it can also be reduced to less aromatic compounds.[^3]
-Malolactic fermentation can therefore produce much, little, or no perceptible
-butter. A producer may encourage, limit or prevent the conversion according to
-the base wine's acidity and the intended style.
+Malolactic conversion lowers titratable acidity and can soften the acid
+profile. It occurs after or alongside
+[alcoholic fermentation](../concepts/alcoholic-fermentation.md). Bacterial
+metabolism can also produce buttery-smelling diacetyl, whose prominence depends
+on the organisms, oxygen, timing, and subsequent handling.[^3] A producer may
+encourage, limit, or prevent the conversion according to the base wine and
+intended style; perceptible butter is a separate outcome.
 
-Lees are the yeast and other particles that settle after fermentation. Keeping
-wine on its fine lees allows yeast-cell material, including mannoproteins and
-other polysaccharides, to enter the wine over time. Chardonnay trials have
-found greater polysaccharide content with lees ageing, though the result
-varies with the retained lees, yeast, time, temperature, and whether the
-sediment is stirred.[^4] These compounds can influence texture, aroma
-interactions, and colloidal stability. Stirring, known as *bâtonnage*,
-increases contact between wine and sediment and can also change oxygen
-exposure. Lees ageing may broaden texture, but its effects are separate from
-bacterial diacetyl production.
+Keeping wine on fine lees introduces yeast-derived material, including
+polysaccharides, that can modify texture and aroma interactions. Chardonnay
+trials document changes in polysaccharide content, with results depending on
+the lees, yeast, time, and handling.[^4] Stirring, or *bâtonnage*, increases
+contact and can change oxygen exposure. These effects help explain
+[body and texture](../concepts/body-and-texture.md) separately from buttery
+aroma.
 
-Fermentation or maturation in barrel can add oak lactones, vanillin, volatile
-phenols, and compounds formed by toasting. The vessel also changes oxygen
-exposure during maturation. The effect depends on oak species, seasoning, and
-toast as well as barrel size, age, and contact time. New barrels generally
-yield more extractable aroma than barrels already used for wine.[^5] Vanilla and
-toast belong to the wood's influence. The effects of [oak maturation](../concepts/oak-maturation.md),
-lees, and malolactic fermentation can integrate, so producers often combine
-them or use one without the others.
+Barrel fermentation or [oak maturation](../concepts/oak-maturation.md)
+can supply vanilla and toast notes while changing oxygen exposure. Species,
+seasoning, toast, size, age, and contact time all matter; new wood generally
+yields more extractable aroma than used barrels.[^5] Oak, lees, and malolactic
+conversion are distinct choices that a producer can combine or use separately.
 
 ## Sparkling wine
 
@@ -132,7 +124,13 @@ cellar approaches. In Champagne, Chardonnay is especially associated with the
 Côte des Blancs, where it serves a sparkling-wine objective distinct from
 Burgundy's still-wine one.
 
-Beyond France, the variety is grown in Italy, California, Oregon, Australia,
+Oregon's [Willamette Valley](../regions/willamette-valley.md) offers a useful
+still-and-sparkling comparison with Burgundy and Champagne. Its relatively dry
+summers and marine-influenced sites provide a different seasonal setting;
+lees, malolactic conversion, and barrels remain separate producer
+choices.[^oregon]
+
+Beyond France, the variety is grown in Italy, California, Australia,
 New Zealand, Chile, Argentina and South Africa, among many other places.
 Maritime influence, elevation and cool nights can extend the effective
 ripening season even at relatively warm latitudes.
@@ -175,10 +173,10 @@ parcels, and clonal material behind several estate Chardonnay styles.
     <https://doi.org/10.1111/j.1365-2621.2004.00890.x>.
 [^6]: Comité Champagne, “Bottling and second fermentation” and “Maturation on
     lees,” accessed 1 September 2026.
-
 [^7]: WineGB, “Sparkling Wines” and “Our wine styles,” accessed 17 September
     2026; “Record performance for still wines at this year's WineGB Awards,”
     24 June 2025, documents both blanc de blancs and still Chardonnay entries.
+[^oregon]: Oregon Wine Board, “Willamette Valley,” regional climate and varieties.
 
 ## Related topics
 
@@ -191,6 +189,9 @@ parcels, and clonal material behind several estate Chardonnay styles.
 
 ## Sources
 
+- Oregon Wine Board, [“Willamette
+  Valley”](https://www.oregonwine.org/regions/willamette-valley/), accessed
+  28 October 2026.
 - Wines of Chile, [“Wine Regions Map”](https://www.winesofchile.org/wine-regions-map/),
   Casablanca and Limarí entries, accessed 10 October 2026.
 - Wente Vineyards, [“Morning Fog Chardonnay,” Chardonnay legacy

@@ -1,5 +1,40 @@
 [
   {
+    "path": "content/regions/barbaresco.md",
+    "title": "Barbaresco",
+    "brief": "Explain Barbaresco through its communes and hills, Nebbiolo ripening, cellar choices, and current production rules. Compare with the existing Barolo and Piedmont articles without turning either appellation into a fixed sensory or quality ranking."
+  },
+  {
+    "path": "content/concepts/grapevine-rootstocks.md",
+    "title": "Grapevine rootstocks",
+    "brief": "Explain what a rootstock changes: phylloxera resistance, soil adaptation, water relations, vigour, and compatibility with the scion. Distinguish these from cultivar identity and grafting technique, and qualify performance by site and trial evidence."
+  },
+  {
+    "path": "content/regions/rheinhessen.md",
+    "title": "Rheinhessen",
+    "brief": "Explain the Rhine-side districts, inland hills, soils and water availability, Riesling alongside other varieties, and differences between geographical and sweetness information. Connect Rheingau, Mosel, Riesling, and Pinot Noir where useful."
+  },
+  {
+    "path": "content/styles/ancestral-method-sparkling-wine.md",
+    "title": "Ancestral-method sparkling wine",
+    "brief": "Explain retained fermentation in bottle and its control, distinguishing it from a separate tirage fermentation, direct carbonation, and loosely used pet-nat terminology. Compare sediment, disgorgement, sweetness, and protected regional traditions without treating every cloudy wine as equivalent."
+  },
+  {
+    "path": "content/regions/rueda.md",
+    "title": "Rueda",
+    "brief": "Explain the northern Spanish plateau setting, Verdejo and other permitted grapes, harvest and oxygen management, and the range of wines under current rules. Connect the existing Verdejo article and distinguish the region from one modern fresh-white style."
+  },
+  {
+    "path": "content/concepts/organic-viticulture.md",
+    "title": "Organic viticulture",
+    "brief": "Explain certified organic vineyard practices, disease and weed control, and the distinction between organic grapes and certification of finished wine. Compare defined jurisdictions with dated official sources; keep environmental outcomes separate from label claims and avoid equating certification with one sensory style."
+  },
+  {
+    "path": "content/grapes/timorasso.md",
+    "title": "Timorasso",
+    "brief": "Research Timorasso through its documented identity, vineyard behaviour, wine styles, and specific role in Piedmont. Read the existing Piedmont article, verify its regional associations and contemporary production, and add useful links without expanding into unrelated geographical surveys."
+  },
+  {
     "path": "content/regions/douro.md",
     "title": "Douro",
     "brief": "Explain the Douro through its river-valley geography, schistous slopes, three subregions, heat and water constraints, field blends and principal grapes, and the relationship between unfortified wine and Port without reducing the region to one style."
@@ -1092,17 +1127,12 @@
   {
     "path": "content/grapes/arneis.md",
     "title": "Arneis",
-    "brief": "Research Arneis: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Italy and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Arneis through its documented identity, vineyard behaviour, wine styles, and specific role in Piedmont. Read the existing Piedmont article, verify its regional associations and contemporary production, and add useful links without expanding into unrelated geographical surveys."
   },
   {
     "path": "content/grapes/cortese.md",
     "title": "Cortese",
-    "brief": "Research Cortese: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Italy and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
-  },
-  {
-    "path": "content/grapes/timorasso.md",
-    "title": "Timorasso",
-    "brief": "Research Timorasso: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Italy and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Cortese through its documented identity, vineyard behaviour, wine styles, and specific role in Piedmont. Read the existing Piedmont article, verify its regional associations and contemporary production, and add useful links without expanding into unrelated geographical surveys."
   },
   {
     "path": "content/grapes/freisa.md",
@@ -1912,37 +1942,37 @@
   {
     "path": "content/grapes/kalecik-karasi.md",
     "title": "Kalecik Karası",
-    "brief": "Research Kalecik Karası: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Kalecik Karası: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/okuzgozu.md",
     "title": "Öküzgözü",
-    "brief": "Research Öküzgözü: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Öküzgözü: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/bogazkere.md",
     "title": "Boğazkere",
-    "brief": "Research Boğazkere: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Boğazkere: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/emir.md",
     "title": "Emir",
-    "brief": "Research Emir: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Emir: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/narince.md",
     "title": "Narince",
-    "brief": "Research Narince: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Narince: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/koshu.md",
     "title": "Koshu",
-    "brief": "Research Koshu: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Koshu: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/muscat-bailey-a.md",
     "title": "Muscat Bailey A",
-    "brief": "Research Muscat Bailey A: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Muscat Bailey A: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/torrontes-riojano.md",
@@ -1952,22 +1982,22 @@
   {
     "path": "content/grapes/torrontes-sanjuanino.md",
     "title": "Torrontés Sanjuanino",
-    "brief": "Research Torrontés Sanjuanino: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes. Keep Torrontés Riojano, Sanjuanino and Mendocino distinct; verify each cultivar’s genetic identity and distribution instead of treating Torrontés as one variety."
+    "brief": "Research Torrontés Sanjuanino: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes. Keep Torrontés Riojano, Sanjuanino and Mendocino distinct; verify each cultivar’s genetic identity and distribution instead of treating Torrontés as one variety."
   },
   {
     "path": "content/grapes/torrontes-mendocino.md",
     "title": "Torrontés Mendocino",
-    "brief": "Research Torrontés Mendocino: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes. Keep Torrontés Riojano, Sanjuanino and Mendocino distinct; verify each cultivar’s genetic identity and distribution instead of treating Torrontés as one variety."
+    "brief": "Research Torrontés Mendocino: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes. Keep Torrontés Riojano, Sanjuanino and Mendocino distinct; verify each cultivar’s genetic identity and distribution instead of treating Torrontés as one variety."
   },
   {
     "path": "content/grapes/criolla-grande.md",
     "title": "Criolla Grande",
-    "brief": "Research Criolla Grande: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Criolla Grande: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/cereza.md",
     "title": "Cereza",
-    "brief": "Research Cereza: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Cereza: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/baco-noir.md",
@@ -2002,12 +2032,12 @@
   {
     "path": "content/grapes/noiret.md",
     "title": "Noiret",
-    "brief": "Research Noiret: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Noiret: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/corot-noir.md",
     "title": "Corot Noir",
-    "brief": "Research Corot Noir: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Corot Noir: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/aromella.md",
@@ -2017,17 +2047,17 @@
   {
     "path": "content/grapes/brianna.md",
     "title": "Brianna",
-    "brief": "Research Brianna: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Brianna: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/edelweiss.md",
     "title": "Edelweiss",
-    "brief": "Research Edelweiss: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research Edelweiss: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/st-croix.md",
     "title": "St. Croix",
-    "brief": "Research St. Croix: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover historical and contemporary relevance in Turkey, Japan, South America and North American hybrids and any other well-supported regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
+    "brief": "Research St. Croix: establish biological identity and regional synonyms, explain vine behaviour and wine styles, and cover its historical home and other well-supported contemporary wine regions. Check current regional sources, qualify climate and revival claims, and add useful links to existing canonical articles. Verify identity in authoritative varietal or genetic sources before adding aliases; distinguish similarly named grapes."
   },
   {
     "path": "content/grapes/blanc-du-bois.md",

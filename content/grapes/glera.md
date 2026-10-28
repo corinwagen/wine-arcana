@@ -6,12 +6,12 @@ aliases:
 
 # Glera
 
-Glera is the white grape at the centre of Prosecco, associated especially
-with the hills of Conegliano and Valdobbiadene and the wider northeastern
-Italian production area. Its relatively delicate fruit and floral aromas,
-moderate body, and suitability for sparkling wine help explain its success.
-The grape and the geographical wine designation are nevertheless different
-things: growing Glera alone does not establish a wine's appellation.
+Glera is the white grape at the centre of [Prosecco](../styles/prosecco.md),
+associated especially with the hills of Conegliano and Valdobbiadene and the
+wider northeastern Italian production area. Its relatively delicate fruit and
+floral aromas, moderate body, and suitability for sparkling wine help explain
+its success. The grape and the geographical wine designation are nevertheless
+different things: growing Glera alone does not establish a wine's appellation.
 
 ![Vine rows on a steep hillside overlooking a village and wooded hills.](../../media/images/regions/valdobbiadene.jpg "Santo Stefano in the Valdobbiadene hills, showing the steep vineyard landscape associated with Glera.")
 

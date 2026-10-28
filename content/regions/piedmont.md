@@ -14,9 +14,9 @@ districts beneath the Alps. [Nebbiolo](../grapes/nebbiolo.md) and
 Moscato, dry whites, and sparkling wines.
 
 Piedmont is an administrative region and a broad geographical reference.
-Individual denominations define smaller places and production rules; a
-regional overview helps explain their relationships without making them
-interchangeable.
+Individual [denominations](../concepts/appellations-and-wine-labels.md)
+define smaller places and production rules. Follow the geography south to
+north, then compare the grape and production method within each district.
 
 ## Geography and climate
 
@@ -56,24 +56,26 @@ other eastern denominations. Timorasso's revival in the Tortona
 hills gives another route into dry white wine, including wines developed
 through several years of ageing. In the north,
 [Erbaluce](../grapes/erbaluce.md) connects Caluso with still, sparkling, and
-dried-grape wines. These districts deserve attention alongside the region's
-famous reds.
+dried-grape wines.
 
 ## Sparkling wine and cellar choices
 
 The local Moscato Bianco,
 [Muscat Blanc à Petits Grains](../grapes/muscat-blanc-a-petits-grains.md),
 anchors the aromatic wines associated with Asti. Its expressive grape
-aromas give a different starting point from the wines of Alta Langa, made
+aromas give a different starting point from the
+[traditional-method](../styles/traditional-method-sparkling-wine.md) wines
+of Alta Langa, made
 with [Pinot Noir](../grapes/pinot-noir.md) and
 [Chardonnay](../grapes/chardonnay.md).
 
 Gancia's documented Alta Langa Brut illustrates the latter approach: base
 wines fermented in wood and tanks are blended, then bottled with yeast and
-sugar for a second fermentation. Subsequent contact with the yeast sediment
-develops the wine before release. This is a useful connection to
-[lees aging](../concepts/lees-aging.md): Piedmont's wine diversity includes
-differences in fermentation and maturation as well as grapes and geography.
+sugar for a second fermentation. [Blending](../concepts/blending.md) and
+subsequent contact with the yeast
+sediment shape the wine before release. This [lees
+aging](../concepts/lees-aging.md)
+can modify texture and add yeast-derived aromas.
 
 ## A changing growing season
 

@@ -5,10 +5,12 @@ title: Cabernet Sauvignon
 # Cabernet Sauvignon
 
 Cabernet Sauvignon is a dark-skinned *Vitis vinifera* variety associated with
-Bordeaux and now grown across much of the wine-producing world. Its reach owes
+[Bordeaux](../regions/bordeaux.md) and now grown across much of the
+wine-producing world. Its reach owes
 something to reputation, but the vine itself helps explain where it works: it
 buds relatively late, needs a long season to ripen, and carries small berries
-whose skins and seeds can provide substantial colour and [tannin](../concepts/tannin.md).
+whose skins and seeds can provide substantial colour and
+[tannin](../concepts/tannin.md).
 
 A cool or wet finish to the
 season can leave the fruit herbaceous and the tannins especially firm; adequate
@@ -64,14 +66,16 @@ requirements are a season long enough for the fruit, enough water to sustain the
 canopy, and a root zone that does not remain waterlogged. Different soils can
 meet those needs in different climates.
 
-Warmer regions exchange Bordeaux's autumn uncertainty for other risks. More heat
-can advance sugar accumulation and reduce green character, but sugar, acids,
-pigments, and tannins do not mature in lockstep. Across a 700-kilometre Western
+In warmer regions, [harvest decisions](../concepts/grape-ripeness.md) weigh
+faster sugar accumulation and reduced green character against acid loss and
+heat exposure. Pigments and tannins develop on different schedules from sugar.
+Across a 700-kilometre Western
 Australian climate gradient, Cabernet Sauvignon berries sampled at the same
 sugar level had less titratable acidity and fewer anthocyanins in warmer regions
 than in cooler ones.[^3] Severe heat and drought can also stop photosynthesis,
 shrink or scorch berries, and force an earlier harvest. Elevation, coastal air,
-[canopy management](../concepts/canopy-management.md), irrigation, rootstock,
+[canopy management](../concepts/canopy-management.md),
+[irrigation](../concepts/irrigation-and-vine-water-stress.md), rootstock,
 and harvest timing can moderate those pressures in vineyards already within the
 variety's range.
 
@@ -97,7 +101,8 @@ ripeness, and cooler-grown wines do not invariably show it.
 Later harvest in a warm site can bring riper fruit character and more potential
 alcohol while acidity falls; in very hot conditions, colour development may lag
 behind sugar. In a cooler site or year, acidity may be more pronounced and
-tannins feel firmer. Blending, particularly with Merlot in Bordeaux, can change
+tannins feel firmer. [Blending](../concepts/blending.md), particularly with
+Merlot in Bordeaux, can change
 the balance of fruit, alcohol, acidity, and texture. [Oak
 maturation](../concepts/oak-maturation.md) and bottle age can further alter
 aroma and the perception of astringency.
@@ -124,7 +129,8 @@ heat management become more important.
 
 Cabernet Sauvignon is also widespread in central Chile, including
 [Maipo Valley](../regions/maipo-valley.md), and in Argentina—especially
-Mendoza—and South Africa, notably [Stellenbosch](../regions/stellenbosch.md),
+[Mendoza](../regions/mendoza.md)—and South Africa, notably
+[Stellenbosch](../regions/stellenbosch.md),
 as well as in Italy, Spain, China, and eastern Europe. Some of these regions
 favour varietal bottlings and
 others blend it with local or international varieties.

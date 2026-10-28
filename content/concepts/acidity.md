@@ -6,33 +6,16 @@ aliases:
 
 # Acidity
 
-Acidity is both a sensory impression and a set of chemical conditions that
-shape wine. Organic acids provide sourness, influence how the mouth responds,
-and help determine microbial, colour, tartrate, and [oxidation](oxidation.md)
-behaviour. pH, titratable acidity, the kinds of acids present, alcohol, sugar,
-phenolic compounds, and the wine’s buffering salts interact.
+Acidity gives wine its sourness and helps shape the impression of freshness.
+Its effect depends on the surrounding sugar, alcohol, tannin, and dissolved
+gas: two wines with similar acid measurements can feel different in the mouth.
+The broader interaction is described under [body and
+texture](body-and-texture.md).
 
-## The main acids
-
-Grapes accumulate chiefly tartaric and malic acids, with smaller amounts of
-citric acid. Tartaric acid is unusually characteristic of grapes and is
-relatively persistent through ripening and fermentation, although potassium
-and ethanol can later move some of it into precipitated potassium bitartrate.
-Malic acid is also formed early in berry development but is more readily
-metabolized as berries ripen, particularly under warm conditions. This is one
-reason a grape can lose titratable acidity while its sugar concentration
-rises. The review by Burbidge and colleagues describes tartaric-acid
-accumulation as largely an early developmental process and malic acid as the
-acid more susceptible to enzymatic loss during ripening.[^1]
-
-[Alcoholic fermentation](alcoholic-fermentation.md) adds to this starting
-mixture. Yeast produce succinic acid, which
-can contribute to titratable acidity, as well as small amounts of other acids.
-Lactic acid is especially important after [malolactic
-conversion](malolactic-fermentation.md), while acetic acid is a volatile acid
-associated with fermentation and, in excess, microbial spoilage. The acid
-profile therefore records both grape composition and what happened after
-harvest.
+In the cellar, acidity also affects microbial growth, colour, tartrate salts,
+and [oxidation](oxidation.md). Two measurements help describe it: pH concerns
+hydrogen-ion activity, while titratable acidity measures the acid neutralized
+in a defined test. Neither is a direct score for how fresh a wine will taste.
 
 ## pH, titratable acidity, and buffering
 
@@ -56,9 +39,32 @@ neutralize, while sugar, alcohol, [tannin](tannin.md), extract, and carbonation 
 balance of sensations. TA can help describe the acid load and likely salivary
 response; pH is especially important to the chemical and microbial environment.
 
+## The main acids
+
+Grapes accumulate chiefly tartaric and malic acids, with smaller amounts of
+citric acid. Tartaric acid is unusually characteristic of grapes and is
+relatively persistent through ripening and fermentation, although potassium
+and ethanol can later move some of it into precipitated potassium bitartrate.
+Malic acid is also formed early in berry development but is more readily
+metabolized as berries ripen, particularly under warm conditions. This is one
+reason a grape can lose titratable acidity while its sugar concentration
+rises. The review by Burbidge and colleagues describes tartaric-acid
+accumulation as largely an early developmental process and malic acid as the
+acid more susceptible to enzymatic loss during ripening.[^1]
+
+[Alcoholic fermentation](alcoholic-fermentation.md) adds to this starting
+mixture. Yeast produce succinic acid, which
+can contribute to titratable acidity, as well as small amounts of other acids.
+Lactic acid is especially important after [malolactic
+conversion](malolactic-fermentation.md), while acetic acid is a volatile acid
+associated with fermentation and, in excess, microbial spoilage. The acid
+profile therefore records both grape composition and what happened after
+harvest.
+
 ## Ripening and malolactic choices
 
-Harvest decisions often consider sugars, pH, TA, malic acid, potassium, and
+[Harvest decisions](grape-ripeness.md) often consider sugars, pH, TA, malic
+acid, potassium, and
 phenolic or aromatic maturity together. Ripening changes these variables at
 different rates. Tartaric acid is comparatively stable in the berry, whereas
 malic acid can decline rapidly with heat. Water status, cultivar, crop
@@ -100,13 +106,13 @@ In red wine, pH also affects colour and oxidative reactions.[^3]
 - [Lees aging](lees-aging.md)
 - [Traditional-method sparkling wine](../styles/traditional-method-sparkling-wine.md)
 
+[^3]: Australian Wine Research Institute, [“Acidity and
+    pH”](https://www.awri.com.au/industry_support/winemaking_resources/frequently_asked_questions/acidity_and_ph/),
+    accessed 7 September 2026.
 [^1]: Crista Ann Burbidge et al., “Biosynthesis and
     Cellular Functions of Tartaric Acid in Grapevines,” *Frontiers in Plant
     Science* 12 (2021), article 643024,
     <https://doi.org/10.3389/fpls.2021.643024>.
-[^3]: Australian Wine Research Institute, [“Acidity and
-    pH”](https://www.awri.com.au/industry_support/winemaking_resources/frequently_asked_questions/acidity_and_ph/),
-    accessed 7 September 2026.
 [^4]: University of California, Davis, Viticulture and Enology, [“Introduction
     to malolactic fermentation”](https://wine.ucdavis.edu/industry-info/enology/fermentation-management-guides/malolactic-fermenation/introduction),
     accessed 7 September 2026.

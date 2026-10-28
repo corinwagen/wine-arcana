@@ -18,7 +18,8 @@
     "test": "node --test",
     "validate": "node scripts/validate-content.js",
     "validate:images": "node scripts/validate-images.js",
-    "links:check": "node scripts/check-unlinked-mentions.js"
+    "links:check": "node scripts/check-unlinked-mentions.js",
+    "sources:check": "node scripts/check-sources.js"
   },
   "dependencies": {
     "markdown-it": "^15.0.1",

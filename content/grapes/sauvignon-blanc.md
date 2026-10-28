@@ -7,11 +7,12 @@ aliases:
 # Sauvignon Blanc
 
 Sauvignon Blanc is a white *Vitis vinifera* variety long established in the
-Loire Valley and Bordeaux and now grown widely. Its styles turn on interactions
-among berry chemistry, vineyard conditions, and fermentation: methoxypyrazines
-supply green aromas, while yeast releases fruity thiols from largely
-non-aromatic precursors. Climate, canopy, harvest date, blending, and maturation
-alter their balance.
+[Loire Valley](../regions/loire-valley.md) and
+[Bordeaux](../regions/bordeaux.md) and now grown widely. Its styles turn on
+interactions among berry chemistry, vineyard conditions, and fermentation:
+methoxypyrazines supply green aromas, while yeast releases fruity thiols from
+largely non-aromatic precursors. Climate, canopy, harvest date, blending, and
+maturation alter their balance.
 
 ## Origins and identity
 

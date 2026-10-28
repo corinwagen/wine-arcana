@@ -4,11 +4,11 @@ title: Bandol
 
 # Bandol
 
-Bandol is a coastal wine appellation in Provence, on the hills west of Toulon.
-Its terraces face the Mediterranean through an amphitheatre of wooded
-heights. [Mourvèdre](../grapes/mourvedre.md) gives the reds their firm structure
-and capacity for ageing, and also plays an important part in the rosés. White
-wine completes the appellation's range.
+Bandol is a coastal wine appellation in [Provence](provence.md), on the hills
+west of Toulon. Its terraces face the Mediterranean through an amphitheatre of
+wooded heights. [Mourvèdre](../grapes/mourvedre.md) gives the reds their firm
+structure and capacity for ageing, and also plays an important part in the
+rosés. White wine completes the appellation's range.
 
 ## Warmth, water, and terraces
 

@@ -10,9 +10,11 @@ aliases:
 # Pinot Noir
 
 Pinot Noir is a dark-skinned *Vitis vinifera* variety that ripens early and has
-an unusually long history of vegetative propagation. Burgundy is its principal
+an unusually long history of vegetative propagation.
+[Burgundy](../regions/burgundy.md) is its principal
 historical association. [Champagne](../regions/champagne.md) is a major home for
-sparkling-wine production. The fruit can yield still red or [rosé wine](../styles/rose.md), or be
+sparkling-wine production. The fruit can yield still red or [rosé
+wine](../styles/rose.md), or be
 pressed quickly for pale sparkling-wine juice.
 
 Pinot Noir's sensitivity has physical and genetic causes. Small berries with
@@ -133,19 +135,26 @@ colour. Burgundy and Champagne apply different harvest and cellar goals to the
 same early-ripening grape.
 
 In Germany, Spätburgunder is important in Baden, the Pfalz, Rheinhessen,
-Württemberg, the Rheingau, and the Ahr. The German Wine Institute distinguishes
+Württemberg, the [Rheingau](../regions/rheingau.md), and the Ahr. The German
+Wine Institute distinguishes
 an older pattern of pale, mild wines from a more recent pattern with deeper
 colour, more tannin, and small-barrel maturation. German Pinot is also used for
 sparkling wine.
 
-Beyond Europe, the Willamette Valley and cool parts of coastal California have
-become major American centres. New Zealand grows Pinot Noir principally in its
+Beyond Europe, Oregon's [Willamette Valley](../regions/willamette-valley.md)
+and cool parts of coastal California have become major American centres.
+The Willamette's relatively dry summers and variable marine influence give
+Pinot a different seasonal setting from Burgundy. Its smaller AVAs identify
+local geographical differences, while clone, harvest, and cellar decisions
+continue to vary within them.[^oregon] New Zealand grows Pinot Noir
+principally in its
 cooler southerly regions, including [Marlborough](../regions/marlborough.md),
 [Central Otago](../regions/central-otago.md), Wairarapa, and
 North Canterbury; differences within those regions can be as important as the
 national label. [Tasmania](../regions/tasmania.md), Victoria's cooler districts,
 coastal Chile, South
-Africa's cooler sites, Canada, and [England](../regions/england.md) add further still and sparkling
+Africa's cooler sites, Canada, and [England](../regions/england.md) add
+further still and sparkling
 interpretations. Across this geography, “cool climate” covers maritime,
 continental, dry, and wet growing seasons that produce varied Pinot Noir
 styles.
@@ -172,6 +181,8 @@ wine styles.
     sensorial and chemical aging characteristics of Pinot noir grown throughout
     the U.S. West coast,” *Food Chemistry* 337 (2021), article 127720,
     <https://doi.org/10.1016/j.foodchem.2020.127720>.
+[^oregon]: Oregon Wine Board, “Willamette Valley”; Willamette Valley Wineries
+    Association, AVA overview, consulted 28 October 2026.
 
 ## Related topics
 
@@ -181,6 +192,11 @@ wine styles.
 
 ## Sources
 
+- Oregon Wine Board, [“Willamette
+  Valley”](https://trade.oregonwine.org/resources/willamette-valley/), and
+  Willamette Valley Wineries Association, [AVA
+  overview](https://www.willamettewines.com/about-the-valley/ava-overviews/),
+  accessed 28 October 2026.
 - Alejandro Iglesias, [“Argentine Pinot Noir: a challenging grape asserts
   itself across a range of terroirs”](https://blog.winesofargentina.com/breaking/argentine-pinot-noir-map/),
   Wines of Argentina, 16 August 2026, updated 24 August 2026, Río Negro section.

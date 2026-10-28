@@ -114,6 +114,33 @@ relative article links to site routes, and fails if corpus validation finds an
 error. Editorial changes belong in `content/` or `site/`, never solely in the
 generated HTML.
 
+The homepage offers reading paths and a complete alphabetical index. Search
+matches titles, aliases, and article prose, with accent-insensitive matching
+and names ranked ahead of body mentions. Its index is generated from Markdown;
+source lists and footnotes are excluded. Search runs in the browser and sends
+no queries to an external service. Browsing remains available without JavaScript.
+
+Article backlinks are generated from prose links, excluding self-links,
+source lists, and footnotes. Articles with at least five second-level headings
+and roughly 800 words also receive an on-page contents list. These features
+do not require additional article metadata.
+
+## Periodic source checks
+
+Check external citation URLs separately from normal offline validation:
+
+```sh
+npm run sources:check -- --limit 20 content/styles/cava.md
+```
+
+Without paths, the command scans the corpus and checks the first 50 unique
+URLs, two at a time. It reports redirects, missing pages, and access or network
+failures requiring review. Supply paths for a focused maintenance pass and
+increase `--limit` deliberately. A successful response establishes that a URL
+responds; it does not verify the article's claims or detect every soft 404.
+Revisit changing regulations and statistics against their underlying sources
+during editorial review.
+
 The GitHub Pages workflow runs the full repository check and deploys `public/`
 on pushes to `main`. The repository's Pages source must be set to **GitHub
 Actions** before the first deployment.
@@ -130,9 +157,9 @@ for the safety and scope guarantees.
 
 ## Project status
 
-The editorial system, article queue, corpus validator, and minimal static site
-are in place. Search and backlink generation remain possible later additions;
-neither is required to read or navigate the corpus.
+The editorial system, article queue, corpus validator, and static site are in
+place, with generated search, backlinks, contents lists, and curated reading
+paths. The corpus remains readable as ordinary Markdown.
 
 ## License
 

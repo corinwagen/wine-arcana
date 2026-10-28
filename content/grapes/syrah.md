@@ -8,10 +8,10 @@ aliases:
 # Syrah
 
 Syrah is a dark-skinned *Vitis vinifera* variety whose historic centre is the
-northern Rhône and whose Australian name, Shiraz, has become equally familiar.
-The names identify the same grape. They sometimes signal a producer's stylistic
-intention, but they are not a dependable code for climate, ripeness, or
-winemaking.
+northern [Rhône](../regions/rhone-valley.md) and whose Australian name, Shiraz,
+has become equally familiar. The names identify the same grape. They sometimes
+signal a producer's stylistic intention, but they are not a dependable code for
+climate, ripeness, or winemaking.
 
 Temperature explains much of Syrah's range. Relatively cool ripening conditions
 can preserve [acidity](../concepts/acidity.md) and favor the compound responsible for a pepper aroma.

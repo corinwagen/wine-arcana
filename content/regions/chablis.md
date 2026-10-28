@@ -4,12 +4,13 @@ title: Chablis
 
 # Chablis
 
-Chablis is a wine district in the Yonne department of northern Burgundy and
-the name of its principal appellation. Its dry white wines are made exclusively
-from [Chardonnay](../grapes/chardonnay.md). A cool setting, a landscape cut
-by the Serein river, and distinct local traditions make site and season
-especially visible; pressing, fermentation, malolactic conversion, lees contact,
-and maturation can then redirect the same raw material.
+Chablis is a wine district in the Yonne department of northern
+[Burgundy](burgundy.md) and the name of its principal appellation. Its dry white
+wines are made exclusively from [Chardonnay](../grapes/chardonnay.md). A cool
+setting, a landscape cut by the Serein river, and distinct local traditions make
+site and season especially visible; pressing, fermentation, malolactic
+conversion, lees contact, and maturation can then redirect the same raw
+material.
 
 The familiar sequence—Petit Chablis, Chablis, Chablis Premier Cru, and Chablis
 Grand Cru—describes delimited origins with different production conditions.

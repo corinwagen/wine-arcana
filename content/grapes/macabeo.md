@@ -24,12 +24,12 @@ can make a much more developed wine.
 
 ## Names, history, and the vine
 
-Macabeo is the usual Spanish form and Macabeu the Catalan and French one;
-Viura is the established Rioja name. The spelling Maccabéo also occurs in
-French sources. The Cava Regulatory Board associates Macabeo with Penedès and
-cites Miquel Agustí's 1617 agricultural treatise as an early record. Other
-documentary research traces the name to the late sixteenth century, so neither
-that date nor the surviving references settle its precise geographical
+Macabeo is the usual Spanish form and Macabeu the Catalan and French one; Viura
+is the established Rioja name. The spelling Maccabéo also occurs in French
+sources. The [Cava](../styles/cava.md) Regulatory Board associates Macabeo with
+Penedès and cites Miquel Agustí's 1617 agricultural treatise as an early record.
+Other documentary research traces the name to the late sixteenth century, so
+neither that date nor the surviving references settle its precise geographical
 origin.[^3]
 
 Genetic analyses identify Hebén, also called Gibi, and Brustiano Faux as

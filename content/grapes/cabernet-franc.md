@@ -8,10 +8,11 @@ aliases:
 # Cabernet Franc
 
 Cabernet Franc is a dark-skinned *Vitis vinifera* variety long established in
-southwestern France and the Loire Valley. It is a parent of better-known grapes
-and a component of Bordeaux blends. In the central Loire, northeastern Italy,
-and several New World regions, it also makes red and [rosé](../styles/rose.md) wines under its own
-name.
+southwestern France and the [Loire Valley](../regions/loire-valley.md). It is a
+parent of better-known grapes and a component of
+[Bordeaux](../regions/bordeaux.md) blends. In the central Loire, northeastern
+Italy, and several New World regions, it also makes red and
+[rosé](../styles/rose.md) wines under its own name.
 
 It commonly combines red-fruit and floral aromas with a leafy or
 pepper-like accent, and it normally ripens before [Cabernet

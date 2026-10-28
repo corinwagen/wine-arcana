@@ -31,6 +31,7 @@ const SITE_ASSETS = [
   "favicon-32x32.png",
   "favicon.ico",
   "site.webmanifest",
+  "search.js",
 ];
 const SITE_URL = "https://winearcana.com";
 const collator = new Intl.Collator("en", { numeric: true, sensitivity: "base" });
@@ -251,6 +252,7 @@ function makeMarkdown(articleBySourcePath, imageByPath) {
 function renderMarkdown(markdown, body, environment) {
   const tokens = markdown.parse(body, environment);
   const headingCounts = new Map();
+  environment.headings = [];
 
   for (let index = 0; index < tokens.length; index += 1) {
     const token = tokens[index];
@@ -259,7 +261,13 @@ function renderMarkdown(markdown, body, environment) {
     const baseSlug = slugifyHeading(inline?.content ?? "section");
     const count = (headingCounts.get(baseSlug) ?? 0) + 1;
     headingCounts.set(baseSlug, count);
-    token.attrSet("id", count === 1 ? baseSlug : `${baseSlug}-${count}`);
+    const id = count === 1 ? baseSlug : `${baseSlug}-${count}`;
+    token.attrSet("id", id);
+    if (token.tag === "h2") {
+      const title = (inline?.children ?? []).filter((child) => child.type === "text" || child.type === "code_inline")
+        .map((child) => child.content).join("");
+      environment.headings.push({ id, title });
+    }
     if (inline?.content.trim().toLowerCase() === "sources") {
       token.attrJoin("class", "sources-heading");
     }
@@ -303,6 +311,8 @@ function navigation(outputPath, currentSection = "") {
     const current = currentSection === directory ? ' aria-current="page"' : "";
     return `<a href="${routeHref(outputPath, directory)}"${current}>${label}</a>`;
   });
+  const searchCurrent = currentSection === "search" ? ' aria-current="page"' : "";
+  links.push(`<a href="${routeHref(outputPath, "search")}"${searchCurrent}>Search</a>`);
   const aboutCurrent = currentSection === "about" ? ' aria-current="page"' : "";
   links.push(`<a href="${routeHref(outputPath, "about")}"${aboutCurrent}>About</a>`);
 
@@ -409,7 +419,13 @@ ${group
 }
 
 function renderArticlePage(article, markdown, siteUrl) {
-  let rendered = renderMarkdown(markdown, article.body, { article });
+  const environment = { article };
+  let rendered = renderMarkdown(markdown, article.body, environment);
+  if (environment.headings.length >= 5 && article.body.split(/\s+/).length >= 800) {
+    const contents = `<nav class="article-contents" aria-label="On this page"><strong>On this page</strong><ul>${environment.headings
+      .map(({ id, title }) => `<li><a href="#${id}">${escapeHtml(title)}</a></li>`).join("")}</ul></nav>\n`;
+    rendered = rendered.replace(/<h2\b/, `${contents}<h2`);
+  }
   if (article.aliases.length > 0) {
     const aliasMarkup = `<p class="aliases"><span>Also known as</span> ${escapeHtml(
       article.aliases.join(", ")
@@ -420,6 +436,7 @@ function renderArticlePage(article, markdown, siteUrl) {
   const body = `<article class="article">
   <p class="section-label"><a href="${routeHref(article.outputPath, article.entity)}">${escapeHtml(article.type.singular)}</a></p>
 ${rendered}
+${renderBacklinks(article)}
 </article>
 <footer class="article-footer">
   <a href="${routeHref(article.outputPath, article.entity)}">← All ${article.type.label.toLowerCase()}</a>
@@ -433,6 +450,74 @@ ${rendered}
     siteUrl,
     title: article.title,
   });
+}
+
+function renderBacklinks(article) {
+  if (!article.backlinks?.length) return "";
+  return `<aside class="backlinks" aria-label="Articles linking here"><h2>Articles linking here</h2><details${article.backlinks.length <= 6 ? " open" : ""}><summary>${article.backlinks.length} ${article.backlinks.length === 1 ? "article" : "articles"}</summary><ul>${article.backlinks
+    .map((source) => `<li><a href="${routeHref(article.outputPath, source.route)}">${escapeHtml(source.title)}</a> <span class="index-aliases">${source.type.singular}</span></li>`)
+    .join("")}</ul></details></aside>`;
+}
+
+function articleText(markdown, article) {
+  const tokens = markdown.parse(article.body, {});
+  const parts = [];
+  for (let i = 0; i < tokens.length; i++) {
+    const token = tokens[i];
+    if (token.type === "footnote_block_open") break;
+    if (token.type === "heading_open" && tokens[i + 1]?.content === "Sources") break;
+    if (token.type !== "inline") continue;
+    parts.push((token.children ?? []).map((child) =>
+      ["text", "code_inline"].includes(child.type) ? child.content :
+        ["softbreak", "hardbreak"].includes(child.type) ? " " : "").join(""));
+  }
+  return parts.join(" ").replace(/\s+/g, " ").trim();
+}
+
+function connectArticles(articles, markdown, articleBySourcePath) {
+  for (const article of articles) article.backlinks = [];
+  for (const article of articles) {
+    const targets = new Set();
+    const tokens = markdown.parse(article.body, {});
+    for (let i = 0; i < tokens.length; i++) {
+      const token = tokens[i];
+      if (token.type === "footnote_block_open") break;
+      if (token.type === "heading_open" && tokens[i + 1]?.content === "Sources") break;
+      for (const child of token.children ?? []) {
+        if (child.type !== "link_open") continue;
+        const href = child.attrGet("href") ?? "";
+        if (isExternalHref(href)) continue;
+        const targetPath = path.posix.normalize(path.posix.join(path.posix.dirname(article.sourcePath), decodeURI(href.split(/[?#]/)[0])));
+        const target = articleBySourcePath.get(targetPath);
+        if (target && target !== article) targets.add(target);
+      }
+    }
+    for (const target of targets) target.backlinks.push(article);
+  }
+  for (const article of articles) article.backlinks.sort((a, b) => collator.compare(a.title, b.title));
+}
+
+function searchForm(outputPath) {
+  return `<form class="search-form" action="${routeHref(outputPath, "search")}" role="search">
+  <label for="wine-search">Search Wine Arcana</label>
+  <div><input id="wine-search" name="q" type="search" placeholder="A grape, place, or question" maxlength="200"><button type="submit">Search</button></div>
+</form>`;
+}
+
+function readingPaths(articles, outputPath) {
+  const byPath = new Map(articles.map((article) => [article.sourcePath, article]));
+  const paths = [
+    ["Understand the glass", ["concepts/acidity", "concepts/tannin", "concepts/body-and-texture", "concepts/wine-aroma"]],
+    ["Follow the growing season", ["concepts/vineyard-year", "concepts/pruning-and-training", "concepts/grape-ripeness", "concepts/from-harvest-to-bottle"]],
+    ["Connect grapes and places", ["concepts/terroir", "concepts/appellations-and-wine-labels", "regions/bordeaux", "regions/burgundy", "regions/loire-valley", "regions/rhone-valley"]],
+    ["Explore sparkling wine", ["styles/traditional-method-sparkling-wine", "styles/prosecco", "styles/cava", "regions/champagne"]],
+  ];
+  const cards = paths.map(([title, sources]) => {
+    const selected = sources.map((source) => byPath.get(`content/${source}.md`)).filter(Boolean);
+    if (!selected.length) return "";
+    return `<section><h3>${title}</h3><ol>${selected.map((article) => `<li><a href="${routeHref(outputPath, article.route)}">${escapeHtml(article.title)}</a></li>`).join("")}</ol></section>`;
+  }).filter(Boolean);
+  return cards.length ? `<section class="reading-paths" aria-labelledby="reading-paths-heading"><h2 id="reading-paths-heading">Find a starting point</h2><div>${cards.join("")}</div></section>` : "";
 }
 
 function renderSitemap(siteUrl, outputPaths) {
@@ -515,6 +600,7 @@ export async function buildSite({
   const articles = await readArticles(rootDir);
   const articleBySourcePath = new Map(articles.map((article) => [article.sourcePath, article]));
   const markdown = makeMarkdown(articleBySourcePath, imageValidation.byPath);
+  connectArticles(articles, markdown, articleBySourcePath);
   const written = [];
 
   await fs.rm(outputDir, { force: true, recursive: true });
@@ -531,6 +617,18 @@ export async function buildSite({
     written.push(await writeOutput(rootDir, outputDir, record.path, contents));
   }
   written.push(await writeOutput(rootDir, outputDir, ".nojekyll", ""));
+
+  const searchOutputPath = "search/index.html";
+  const searchRecords = articles.map((article) => ({
+    title: article.title, aliases: article.aliases, type: article.type.singular,
+    route: article.route, text: articleText(markdown, article),
+  })).sort((a, b) => collator.compare(a.title, b.title));
+  written.push(await writeOutput(rootDir, outputDir, "search-index.json", JSON.stringify(searchRecords)));
+  written.push(await writeOutput(rootDir, outputDir, searchOutputPath, pageTemplate({
+    body: `<h1>Search</h1>${searchForm(searchOutputPath)}<p id="search-status" role="status" aria-live="polite">Search by name, alternative name, or words in an article.</p><ol id="search-results" class="search-results"></ol><noscript><p>Search needs JavaScript. Browse the article directories using the navigation above.</p></noscript><script type="module" src="${fileHref(searchOutputPath, "search.js")}"></script>`,
+    currentSection: "search", description: "Search Wine Arcana by title, alternative name, and article text.",
+    outputPath: searchOutputPath, siteUrl, title: "Search", robots: "noindex",
+  })));
 
   for (const article of articles) {
     const html = renderArticlePage(article, markdown, siteUrl);
@@ -570,8 +668,12 @@ ${articleIndex(matching, homepageOutputPath)}
   <h1 class="visually-hidden">Wine Arcana</h1>
   <p>A small encyclopædia of wine.</p>
 </header>
+${searchForm(homepageOutputPath)}
 ${fundamentalsIndex(articles, homepageOutputPath)}
-${homepageSections}`,
+${readingPaths(articles, homepageOutputPath)}
+<details class="complete-index"><summary>Browse all ${articles.length} articles alphabetically</summary>
+${homepageSections}
+</details>`,
     description: "Wine Arcana is a small encyclopædia of wine.",
     outputPath: homepageOutputPath,
     siteUrl,

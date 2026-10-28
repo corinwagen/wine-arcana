@@ -16,6 +16,7 @@ const SITE_ASSETS = [
   "favicon-32x32.png",
   "favicon.ico",
   "site.webmanifest",
+  "search.js",
 ];
 
 function article(title, body = "", aliases = []) {
@@ -281,4 +282,47 @@ test("refuses to build an article image without catalog metadata", async (t) => 
 test("requires output to remain below the project root", async (t) => {
   const rootDir = await makeProject(t);
   await assert.rejects(buildSite({ rootDir, outputDir: rootDir }), /must be a child/);
+});
+
+test("derives searchable prose and unique backlinks without source-list or code links", async (t) => {
+  const rootDir = await makeProject(t, {
+    "content/grapes/baga.md": article("Baga", "Baga has firm tannin.", ["Tinta Bairrada"]),
+    "content/regions/bairrada.md": article("Bairrada", "[Baga](../grapes/baga.md) grows here. [Baga again](../grapes/baga.md)."),
+    "content/concepts/tannin.md": article("Tannin", "A text example: `[Baga](../grapes/baga.md)`.\n\n### Details\n\nA tactile response.")
+      .replace("- A real source.", "- [Baga](../grapes/baga.md) is a source-list link."),
+  });
+  const outputDir = path.join(rootDir, "public");
+  await buildSite({ rootDir, outputDir });
+  const index = JSON.parse(await fs.readFile(path.join(outputDir, "search-index.json"), "utf8"));
+  const baga = index.find((row) => row.title === "Baga");
+  assert.deepEqual(baga.aliases, ["Tinta Bairrada"]);
+  assert.equal(baga.route, "grapes/baga");
+  assert.match(baga.text, /firm tannin/);
+  assert.doesNotMatch(index.find((row) => row.title === "Tannin").text, /source-list link/);
+  const html = await fs.readFile(path.join(outputDir, "grapes/baga/index.html"), "utf8");
+  const backlinks = html.match(/<aside class="backlinks"[\s\S]*?<\/aside>/)?.[0];
+  assert.ok(backlinks);
+  assert.equal([...backlinks.matchAll(/>Bairrada<\/a>/g)].length, 1);
+  assert.doesNotMatch(backlinks, />Tannin<\/a>/);
+  const search = await fs.readFile(path.join(outputDir, "search/index.html"), "utf8");
+  assert.match(search, /src="\.\.\/search\.js"/);
+  assert.match(search, /role="status"/);
+  assert.match(search, /<noscript>/);
+});
+
+test("long-article contents links resolve to unique rendered headings", async (t) => {
+  const repeated = "A vineyard changes through the growing season. ".repeat(160);
+  const rootDir = await makeProject(t, {
+    "content/concepts/vineyard-year.md": article("The vineyard year", `${repeated}\n\n## *Growth* & water\n\nA first section.\n\n## Growth & water\n\nAnother section.\n\n## Flowering\n\nFlowers.\n\n## Harvest\n\nFruit.`),
+  });
+  const outputDir = path.join(rootDir, "public");
+  await buildSite({ rootDir, outputDir });
+  const html = await fs.readFile(path.join(outputDir, "concepts/vineyard-year/index.html"), "utf8");
+  const contents = html.match(/<nav class="article-contents"[\s\S]*?<\/nav>/)?.[0];
+  assert.ok(contents);
+  assert.match(contents, /Growth &amp; water/);
+  for (const [, id] of contents.matchAll(/href="#([^"]+)"/g)) {
+    assert.equal([...html.matchAll(new RegExp(`id="${id}"`, "g"))].length, 1);
+  }
+  assert.match(contents, /href="#growth-water-2"/);
 });

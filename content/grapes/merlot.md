@@ -5,9 +5,9 @@ title: Merlot
 # Merlot
 
 Merlot is a dark-skinned *Vitis vinifera* variety historically associated with
-Bordeaux and now planted widely. It usually ripens sooner than [Cabernet
-Sauvignon](cabernet-sauvignon.md), often lends a more supple texture to a blend,
-and can make complete, structured wines on its own.
+[Bordeaux](../regions/bordeaux.md) and now planted widely. It usually ripens
+sooner than [Cabernet Sauvignon](cabernet-sauvignon.md), often lends a more
+supple texture to a blend, and can make complete, structured wines on its own.
 
 Those tendencies are shaped by water supply, crop level, weather, and harvest
 date. Merlot begins its growing season fairly early. Fermentation and maturation

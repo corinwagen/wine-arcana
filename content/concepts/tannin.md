@@ -6,15 +6,22 @@ aliases:
 
 # Tannin
 
-Tannin is a loose wine term for phenolic compounds that can make a wine feel
-drying or rough and, in some cases, taste bitter. In grape wine, the main
-tannins are condensed tannins, also called proanthocyanidins. They come
-chiefly from skins and seeds. Oak contributes a different family,
-hydrolysable tannins called ellagitannins. Their effects depend on what the
-wine extracts, what reacts or precipitates later, and how the whole wine
-changes perception.
+Tannins are compounds that can make wine feel drying, rough, or grippy in
+the mouth. That astringency is a tactile sensation, distinct from bitterness
+and from the absence of sugar. Skins, seeds, and retained stems supply grape
+tannins; oak can supply another kind during maturation.
+
+Their effect depends on extraction, the rest of the wine, and changes during
+ageing. A dark colour does not establish strong tannin, and a pale red can
+still feel drying. [Body and texture](body-and-texture.md) places these
+sensations alongside sweetness, acidity, alcohol, and dissolved gas.
 
 ## Where tannin comes from
+
+The main grape tannins are condensed tannins, or proanthocyanidins, chiefly
+from skins and seeds. Oak contributes hydrolysable tannins called
+ellagitannins. Their different structures help explain why source and
+extraction conditions matter.
 
 Seeds contain a different profile of proanthocyanidins, with more galloylated
 material and no skin-derived prodelphinidins. Tannin composition therefore

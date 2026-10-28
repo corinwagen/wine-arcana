@@ -4,12 +4,13 @@ title: Saperavi
 
 # Saperavi
 
-Saperavi is a Georgian red wine grape closely associated with Kakheti in
-the country's east. It is a [teinturier](../concepts/teinturier.md): pigment occurs in its flesh as
-well as its skin, as it does in [Alicante Bouschet](alicante-bouschet.md).
-That makes deep colour one of its most readily recognisable properties.
-Its wines can also combine marked [acidity](../concepts/acidity.md) with
-substantial [tannin](../concepts/tannin.md).
+Saperavi is a Georgian red wine grape closely associated with
+[Kakheti](../regions/kakheti.md) in the country's east. It is a
+[teinturier](../concepts/teinturier.md): pigment occurs in its flesh as well as
+its skin, as it does in [Alicante Bouschet](alicante-bouschet.md). That makes
+deep colour one of its most readily recognisable properties. Its wines can also
+combine marked [acidity](../concepts/acidity.md) with substantial
+[tannin](../concepts/tannin.md).
 
 Georgia remains its central reference point, but New York's
 [Finger Lakes](../regions/finger-lakes.md) provides an important contemporary
